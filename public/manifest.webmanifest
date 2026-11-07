@@ -1,0 +1,15 @@
+{
+  "name": "IPA Master – English From Vietnamese",
+  "short_name": "IPA Master",
+  "description": "Học phát âm tiếng Anh dành riêng cho người Việt: âm IPA, đối chiếu Việt–Anh, 500 từ cốt lõi, ghi âm và luyện tập.",
+  "lang": "vi",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f5fb",
+  "theme_color": "#4f46e5",
+  "icons": [
+    { "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

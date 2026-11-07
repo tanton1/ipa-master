@@ -1,0 +1,52 @@
+# Nhóm 01 – Đại từ, mạo từ, giới từ, từ chức năng
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+the|ðə|det|cái, con (mạo từ xác định)|The book is on the table.|Cuốn sách ở trên bàn.||Trước nguyên âm thường đọc /ði/ (the apple).
+a|ə|det|một (mạo từ không xác định)|I have a cat.|Tôi có một con mèo.||Dạng nhấn mạnh đọc /eɪ/.
+an|ən|det|một (dùng trước nguyên âm)|She eats an apple every day.|Cô ấy ăn một quả táo mỗi ngày.||Nối âm với từ sau: an apple → /ə ˈnæpəl/.
+this|ðɪs|det|này, cái này|This is my phone.|Đây là điện thoại của tôi.|these|
+that|ðæt|det|đó, cái đó|That is a good idea.|Đó là một ý hay.||Khi là liên từ trong câu thường đọc nhẹ /ðət/.
+these|ðiz|det|những cái này|These shoes are new.|Những đôi giày này mới.|this|
+those|ðoʊz|det|những cái đó|Those people are my friends.|Những người đó là bạn tôi.||
+I|aɪ|pron|tôi|I am a student.|Tôi là sinh viên.||
+you|ju|pron|bạn, các bạn|You speak English well.|Bạn nói tiếng Anh tốt.||
+he|hi|pron|anh ấy, ông ấy|He is my brother.|Anh ấy là anh trai tôi.||
+she|ʃi|pron|cô ấy, bà ấy|She likes coffee.|Cô ấy thích cà phê.|see|
+it|ɪt|pron|nó|It is cold today.|Hôm nay trời lạnh.|eat|
+we|wi|pron|chúng tôi, chúng ta|We learn English together.|Chúng tôi học tiếng Anh cùng nhau.||
+they|ðeɪ|pron|họ, chúng|They are at home.|Họ đang ở nhà.|day|
+me|mi|pron|tôi (tân ngữ)|Please help me.|Làm ơn giúp tôi.||
+him|hɪm|pron|anh ấy (tân ngữ)|I know him.|Tôi biết anh ấy.||
+her|hɝ|pron|cô ấy; của cô ấy|I like her voice.|Tôi thích giọng cô ấy.||Trong câu thường đọc nhẹ /hɚ/ hoặc /ɚ/.
+us|ʌs|pron|chúng tôi (tân ngữ)|Come with us.|Đi với chúng tôi.||
+them|ðɛm|pron|họ (tân ngữ)|I see them every day.|Tôi gặp họ mỗi ngày.||Trong câu thường đọc nhẹ /ðəm/.
+my|maɪ|det|của tôi|My name is Lan.|Tên tôi là Lan.||
+your|jɔɹ|det|của bạn|What is your name?|Tên bạn là gì?||
+his|hɪz|det|của anh ấy|His car is red.|Xe anh ấy màu đỏ.||Âm cuối /z/ hữu thanh, không đọc thành /s/.
+our|aʊɹ|det|của chúng tôi|Our teacher is kind.|Giáo viên của chúng tôi tốt bụng.||Đồng âm với "hour".
+their|ðɛɹ|det|của họ|Their house is big.|Nhà của họ to.||Đồng âm với "there".
+who|hu|pron|ai|Who is she?|Cô ấy là ai?||Chữ w không đọc.
+what|wʌt|pron|gì, cái gì|What is this?|Cái này là gì?||
+which|wɪtʃ|pron|cái nào|Which one do you like?|Bạn thích cái nào?||
+where|wɛɹ|adv|ở đâu|Where are you from?|Bạn đến từ đâu?||
+when|wɛn|adv|khi nào|When do you study?|Bạn học khi nào?||
+why|waɪ|adv|tại sao|Why are you late?|Sao bạn đến muộn?||
+how|haʊ|adv|như thế nào|How are you?|Bạn thế nào?||
+in|ɪn|prep|trong, ở trong|The cat is in the box.|Con mèo ở trong hộp.||
+on|ɑn|prep|trên|The cup is on the table.|Cái cốc ở trên bàn.||
+at|æt|prep|tại, ở|I am at school.|Tôi đang ở trường.||Trong câu thường đọc nhẹ /ət/.
+to|tu|prep|đến, tới|I go to work.|Tôi đi làm.||Trong câu thường đọc nhẹ /tə/.
+from|fɹʌm|prep|từ|I am from Vietnam.|Tôi đến từ Việt Nam.||Trong câu thường đọc nhẹ /fɹəm/.
+with|wɪθ|prep|với, cùng|I live with my family.|Tôi sống với gia đình.||Nhiều người Mỹ đọc /wɪð/.
+of|ʌv|prep|của|A cup of tea, please.|Cho tôi một tách trà.||Chữ f đọc thành /v/; trong câu thường đọc nhẹ /əv/.
+for|fɔɹ|prep|cho, để|This gift is for you.|Món quà này dành cho bạn.||Trong câu thường đọc nhẹ /fɚ/.
+by|baɪ|prep|bởi, bằng|I go to work by bus.|Tôi đi làm bằng xe buýt.||
+about|əˈbaʊt|prep|về, khoảng|Tell me about your family.|Kể cho tôi về gia đình bạn.||
+and|ænd|conj|và|You and I.|Bạn và tôi.||Trong câu thường đọc nhẹ /ənd/ hoặc /ən/.
+but|bʌt|conj|nhưng|I am tired but happy.|Tôi mệt nhưng vui.||
+or|ɔɹ|conj|hoặc|Tea or coffee?|Trà hay cà phê?||
+not|nɑt|adv|không|I am not hungry.|Tôi không đói.||
+if|ɪf|conj|nếu|Call me if you need help.|Gọi tôi nếu bạn cần giúp.||
+there|ðɛɹ|adv|ở đó|The bank is over there.|Ngân hàng ở đằng kia.||
+here|hɪɹ|adv|ở đây|Come here, please.|Làm ơn lại đây.||Đồng âm với "hear".
+some|sʌm|det|một vài, một ít|I need some water.|Tôi cần một ít nước.||
+all|ɔl|det|tất cả|All students are here.|Tất cả học sinh đều ở đây.||

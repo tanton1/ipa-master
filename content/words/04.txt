@@ -1,0 +1,51 @@
+# Nhóm 04 – Con người, gia đình, cơ thể
+man|mæn|n|người đàn ông|That man is my father.|Người đàn ông đó là bố tôi.|men;mɛn|
+woman|ˈwʊmən|n|người phụ nữ|That woman is a doctor.|Người phụ nữ đó là bác sĩ.||Số nhiều "women" đọc /ˈwɪmən/.
+child|tʃaɪld|n|đứa trẻ|The child is sleeping.|Đứa trẻ đang ngủ.||Cụm cuối /ld/.
+children|ˈtʃɪldɹən|n|trẻ em (số nhiều)|The children are playing.|Các em nhỏ đang chơi.||Nguyên âm đầu là /ɪ/, không phải /aɪ/.
+boy|bɔɪ|n|cậu bé|The boy is tall.|Cậu bé cao.||
+girl|gɝl|n|cô bé, cô gái|The girl sings well.|Cô bé hát hay.||
+baby|ˈbeɪbi|n|em bé|The baby is crying.|Em bé đang khóc.||
+mother|ˈmʌðɚ|n|mẹ|My mother is a teacher.|Mẹ tôi là giáo viên.||
+father|ˈfɑðɚ|n|bố, cha|My father likes fish.|Bố tôi thích ăn cá.||
+parents|ˈpɛɹənts|n|bố mẹ|My parents live in Hue.|Bố mẹ tôi sống ở Huế.||Cụm cuối /nts/.
+brother|ˈbɹʌðɚ|n|anh trai, em trai|I have one brother.|Tôi có một anh trai.||
+sister|ˈsɪstɚ|n|chị gái, em gái|My sister is a nurse.|Chị tôi là y tá.||
+son|sʌn|n|con trai|Their son is five.|Con trai họ năm tuổi.||Đồng âm với "sun".
+daughter|ˈdɔtɚ|n|con gái|Her daughter studies English.|Con gái cô ấy học tiếng Anh.||Chữ gh không đọc.
+husband|ˈhʌzbənd|n|chồng|Her husband is a driver.|Chồng cô ấy là tài xế.||Chữ s đọc /z/.
+wife|waɪf|n|vợ|His wife cooks well.|Vợ anh ấy nấu ăn ngon.||
+family|ˈfæməli|n|gia đình|I love my family.|Tôi yêu gia đình mình.||
+friend|fɹɛnd|n|bạn|She is my best friend.|Cô ấy là bạn thân nhất của tôi.||Chữ i không đọc; nguyên âm là /ɛ/.
+people|ˈpipəl|n|người, mọi người|Many people live here.|Nhiều người sống ở đây.||
+person|ˈpɝsən|n|một người|She is a kind person.|Cô ấy là người tốt bụng.||
+teacher|ˈtitʃɚ|n|giáo viên|My teacher is from Canada.|Giáo viên của tôi đến từ Canada.||
+student|ˈstudənt|n|học sinh, sinh viên|I am a student.|Tôi là sinh viên.||
+doctor|ˈdɑktɚ|n|bác sĩ|I need a doctor.|Tôi cần bác sĩ.||
+head|hɛd|n|đầu|My head hurts.|Tôi đau đầu.||
+face|feɪs|n|mặt|Wash your face.|Rửa mặt đi.||
+eye|aɪ|n|mắt|I have brown eyes.|Tôi có mắt màu nâu.||Đồng âm với "I".
+ear|ɪɹ|n|tai|I hear with my ears.|Tôi nghe bằng tai.|year|
+nose|noʊz|n|mũi|My nose is cold.|Mũi tôi lạnh.||Âm cuối /z/; đồng âm với "knows".
+mouth|maʊθ|n|miệng|Open your mouth.|Mở miệng ra.|mouse|
+tooth|tuθ|n|răng (một cái)|My tooth hurts.|Răng tôi đau.||
+teeth|tiθ|n|răng (số nhiều)|Brush your teeth.|Đánh răng đi.||
+hair|hɛɹ|n|tóc|She has long hair.|Cô ấy có tóc dài.||
+hand|hænd|n|bàn tay|Raise your hand.|Giơ tay lên.||
+arm|ɑɹm|n|cánh tay|My arm is strong.|Cánh tay tôi khỏe.||
+leg|lɛg|n|chân (cẳng chân)|My leg hurts.|Chân tôi đau.||Âm cuối /g/ hữu thanh, không đọc thành /k/.
+foot|fʊt|n|bàn chân|My foot is small.|Bàn chân tôi nhỏ.||
+feet|fit|n|bàn chân (số nhiều)|My feet are cold.|Chân tôi lạnh.||
+finger|ˈfɪŋgɚ|n|ngón tay|I cut my finger.|Tôi bị đứt ngón tay.||Có âm /g/ sau /ŋ/.
+heart|hɑɹt|n|trái tim|My heart beats fast.|Tim tôi đập nhanh.||Chữ ea đọc /ɑ/.
+body|ˈbɑdi|n|cơ thể|Exercise is good for the body.|Tập thể dục tốt cho cơ thể.||
+neck|nɛk|n|cổ|My neck is stiff.|Cổ tôi bị cứng.||
+shoulder|ˈʃoʊldɚ|n|vai|My shoulder hurts.|Vai tôi đau.||
+back|bæk|n|lưng; phía sau|My back hurts.|Lưng tôi đau.||
+knee|ni|n|đầu gối|I hurt my knee.|Tôi bị đau đầu gối.||Chữ k không đọc.
+skin|skɪn|n|da|Her skin is soft.|Da cô ấy mềm.||
+voice|vɔɪs|n|giọng nói|She has a beautiful voice.|Cô ấy có giọng nói đẹp.||
+name|neɪm|n|tên|My name is Minh.|Tên tôi là Minh.||
+age|eɪdʒ|n|tuổi|What is your age?|Bạn bao nhiêu tuổi?||
+life|laɪf|n|cuộc sống|Life is beautiful.|Cuộc sống thật đẹp.||
+neighbor|ˈneɪbɚ|n|người hàng xóm|My neighbor is friendly.|Hàng xóm của tôi thân thiện.||Chữ gh không đọc.

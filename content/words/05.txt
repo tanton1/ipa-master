@@ -1,0 +1,51 @@
+# Nhóm 05 – Nhà cửa, đồ vật
+house|haʊs|n|ngôi nhà|This is my house.|Đây là nhà tôi.||Danh từ kết thúc bằng /s/.
+home|hoʊm|n|nhà, tổ ấm|I go home at five.|Tôi về nhà lúc năm giờ.||
+room|ɹum|n|phòng|My room is small.|Phòng tôi nhỏ.||
+door|dɔɹ|n|cửa|Open the door.|Mở cửa ra.||
+window|ˈwɪndoʊ|n|cửa sổ|Close the window.|Đóng cửa sổ.||
+wall|wɔl|n|bức tường|The wall is white.|Bức tường màu trắng.||
+floor|flɔɹ|n|sàn nhà; tầng|The floor is clean.|Sàn nhà sạch.||
+table|ˈteɪbəl|n|cái bàn|The book is on the table.|Cuốn sách ở trên bàn.||
+chair|tʃɛɹ|n|cái ghế|Sit on the chair.|Ngồi lên ghế.||
+bed|bɛd|n|cái giường|I go to bed at ten.|Tôi đi ngủ lúc mười giờ.|bad|
+kitchen|ˈkɪtʃən|n|nhà bếp|Mom is in the kitchen.|Mẹ đang ở trong bếp.||
+bathroom|ˈbæθɹum|n|phòng tắm|Where is the bathroom?|Phòng tắm ở đâu?||
+light|laɪt|n|ánh sáng, đèn|Turn on the light.|Bật đèn lên.|right|Chữ gh không đọc.
+key|ki|n|chìa khóa|Where is my key?|Chìa khóa của tôi ở đâu?||
+book|bʊk|n|sách|I read a book.|Tôi đọc một cuốn sách.||
+pen|pɛn|n|bút|Can I borrow your pen?|Tôi mượn bút được không?||
+paper|ˈpeɪpɚ|n|giấy|I need some paper.|Tôi cần một ít giấy.||
+bag|bæg|n|túi, cặp|My bag is heavy.|Túi của tôi nặng.||Âm cuối /g/ hữu thanh, không đọc thành /k/.
+box|bɑks|n|cái hộp|The box is empty.|Cái hộp trống.||Âm cuối là cụm /ks/.
+clock|klɑk|n|đồng hồ treo|The clock is on the wall.|Đồng hồ ở trên tường.||
+picture|ˈpɪktʃɚ|n|bức tranh, bức ảnh|This is a picture of my family.|Đây là ảnh gia đình tôi.||Chữ t đọc /tʃ/.
+television|ˈtɛləˌvɪʒən|n|tivi|I watch television at night.|Tôi xem tivi buổi tối.||Chữ s đọc /ʒ/.
+computer|kəmˈpjutɚ|n|máy tính|I use a computer at work.|Tôi dùng máy tính ở chỗ làm.||
+phone|foʊn|n|điện thoại|My phone is new.|Điện thoại tôi mới.||Chữ ph đọc /f/.
+water|ˈwɔtɚ|n|nước|I drink water every day.|Tôi uống nước mỗi ngày.||Trong lời nói Mỹ, /t/ giữa hai nguyên âm thành âm vỗ /ɾ/.
+cup|kʌp|n|cái cốc, tách|A cup of tea, please.|Cho một tách trà.|cap|
+glass|glæs|n|cái ly; thủy tinh|A glass of water, please.|Cho một ly nước.||
+plate|pleɪt|n|cái đĩa|Put the food on the plate.|Để thức ăn lên đĩa.||
+bottle|ˈbɑtəl|n|cái chai|A bottle of water, please.|Cho một chai nước.||Âm /t/ giữa từ thành âm vỗ /ɾ/ trong giọng Mỹ.
+knife|naɪf|n|con dao|Be careful with the knife.|Cẩn thận với con dao.||Chữ k không đọc.
+spoon|spun|n|cái thìa|I eat soup with a spoon.|Tôi ăn súp bằng thìa.||
+fork|fɔɹk|n|cái nĩa|I eat with a fork.|Tôi ăn bằng nĩa.||
+clothes|kloʊz|n|quần áo|I wash my clothes.|Tôi giặt quần áo.||Thường đọc giống "close" /kloʊz/.
+shirt|ʃɝt|n|áo sơ mi|I like your shirt.|Tôi thích áo sơ mi của bạn.||
+shoes|ʃuz|n|giày|My shoes are new.|Giày tôi mới.||Âm cuối /z/ hữu thanh.
+money|ˈmʌni|n|tiền|I need more money.|Tôi cần thêm tiền.||
+card|kɑɹd|n|thẻ, thiệp|I pay by card.|Tôi trả bằng thẻ.||
+gift|gɪft|n|món quà|Thank you for the gift.|Cảm ơn vì món quà.||Cụm cuối /ft/.
+toy|tɔɪ|n|đồ chơi|The child has a new toy.|Đứa trẻ có đồ chơi mới.||
+mirror|ˈmɪɹɚ|n|cái gương|Look in the mirror.|Nhìn vào gương.||
+towel|ˈtaʊəl|n|khăn tắm|I need a clean towel.|Tôi cần một chiếc khăn sạch.||
+soap|soʊp|n|xà phòng|Wash your hands with soap.|Rửa tay bằng xà phòng.||
+garden|ˈgɑɹdən|n|khu vườn|We have a small garden.|Chúng tôi có một khu vườn nhỏ.||
+roof|ɹuf|n|mái nhà|The roof is red.|Mái nhà màu đỏ.||
+stairs|stɛɹz|n|cầu thang|Go up the stairs.|Đi lên cầu thang.||
+lamp|læmp|n|đèn bàn|Turn off the lamp.|Tắt đèn bàn.||Cụm cuối /mp/.
+sofa|ˈsoʊfə|n|ghế sofa|Sit on the sofa.|Ngồi lên sofa.||
+pillow|ˈpɪloʊ|n|cái gối|I need a soft pillow.|Tôi cần một cái gối mềm.||
+blanket|ˈblæŋkɪt|n|cái chăn|It is cold; take a blanket.|Lạnh rồi, lấy chăn đi.||
+basket|ˈbæskɪt|n|cái giỏ|Put the fruit in the basket.|Để trái cây vào giỏ.||

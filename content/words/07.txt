@@ -1,0 +1,51 @@
+# Nhóm 07 – Ăn uống, sinh hoạt, sức khỏe
+eat|it|v|ăn|I eat rice every day.|Tôi ăn cơm mỗi ngày.|it|
+drink|dɹɪŋk|v|uống|Drink more water.|Uống nhiều nước hơn.||
+cook|kʊk|v|nấu ăn|I cook dinner for my family.|Tôi nấu bữa tối cho gia đình.||
+breakfast|ˈbɹɛkfəst|n|bữa sáng|I eat breakfast at seven.|Tôi ăn sáng lúc bảy giờ.||
+lunch|lʌntʃ|n|bữa trưa|Let's have lunch.|Đi ăn trưa thôi.||
+dinner|ˈdɪnɚ|n|bữa tối|Dinner is ready.|Bữa tối xong rồi.||
+food|fud|n|thức ăn|Vietnamese food is delicious.|Món ăn Việt Nam rất ngon.||
+rice|ɹaɪs|n|cơm, gạo|I eat rice every day.|Tôi ăn cơm mỗi ngày.|rise|
+bread|bɹɛd|n|bánh mì|I buy bread in the morning.|Tôi mua bánh mì buổi sáng.||Chữ ea đọc /ɛ/.
+meat|mit|n|thịt|I don't eat meat.|Tôi không ăn thịt.||
+fish|fɪʃ|n|cá|Fish is healthy.|Cá tốt cho sức khỏe.||
+chicken|ˈtʃɪkɪn|n|thịt gà, con gà|I like fried chicken.|Tôi thích gà rán.||
+egg|ɛg|n|trứng|I eat an egg for breakfast.|Tôi ăn một quả trứng vào bữa sáng.||Âm cuối /g/ hữu thanh.
+fruit|fɹut|n|trái cây|Eat more fruit.|Ăn nhiều trái cây hơn.||Chữ i không đọc.
+apple|ˈæpəl|n|quả táo|An apple a day.|Mỗi ngày một quả táo.||
+banana|bəˈnænə|n|quả chuối|I eat a banana every morning.|Tôi ăn một quả chuối mỗi sáng.||Trọng âm ở âm tiết thứ hai.
+orange|ˈɔɹɪndʒ|n|quả cam; màu cam|I drink orange juice.|Tôi uống nước cam.||
+vegetable|ˈvɛdʒtəbəl|n|rau|Eat your vegetables.|Ăn rau đi.||Thường đọc 3 âm tiết: vej-tə-bəl.
+soup|sup|n|súp, canh|The soup is hot.|Súp nóng.||
+salt|sɔlt|n|muối|Pass the salt, please.|Làm ơn đưa muối.||Cụm cuối /lt/.
+sugar|ˈʃʊgɚ|n|đường|No sugar, please.|Không đường, cảm ơn.||Chữ s đọc /ʃ/.
+milk|mɪlk|n|sữa|I drink milk at night.|Tôi uống sữa buổi tối.||Cụm cuối /lk/: không bỏ /l/.
+tea|ti|n|trà|I like green tea.|Tôi thích trà xanh.||
+coffee|ˈkɔfi|n|cà phê|Vietnamese coffee is strong.|Cà phê Việt Nam đậm.||
+juice|dʒus|n|nước ép|A glass of orange juice.|Một ly nước cam.||
+hungry|ˈhʌŋgɹi|adj|đói|I am hungry.|Tôi đói.||
+thirsty|ˈθɝsti|adj|khát|I am thirsty.|Tôi khát.||
+sleep|slip|v|ngủ|I sleep eight hours.|Tôi ngủ tám tiếng.||
+wake|weɪk|v|thức dậy|I wake up at six.|Tôi thức dậy lúc sáu giờ.||
+wash|wɑʃ|v|rửa, giặt|Wash your hands.|Rửa tay đi.||
+shower|ˈʃaʊɚ|n|tắm vòi sen|I take a shower every morning.|Tôi tắm mỗi sáng.||
+exercise|ˈɛksɚˌsaɪz|n|tập thể dục|Exercise is good for you.|Tập thể dục tốt cho bạn.||
+healthy|ˈhɛlθi|adj|khỏe mạnh, lành mạnh|Eat healthy food.|Ăn thức ăn lành mạnh.||Cụm /lθ/ giữa từ: lưỡi chuyển từ /l/ sang /θ/.
+sick|sɪk|adj|ốm, bệnh|I feel sick.|Tôi thấy ốm.||
+medicine|ˈmɛdəsən|n|thuốc|Take this medicine.|Uống thuốc này.||
+pain|peɪn|n|cơn đau|I have a pain in my back.|Tôi bị đau lưng.||
+headache|ˈhɛdeɪk|n|đau đầu|I have a headache.|Tôi bị đau đầu.||Chữ ch đọc /k/.
+fever|ˈfivɚ|n|sốt|She has a fever.|Cô ấy bị sốt.||
+tired|ˈtaɪɚd|adj|mệt|I am tired today.|Hôm nay tôi mệt.||
+rest|ɹɛst|v|nghỉ ngơi|You should rest.|Bạn nên nghỉ ngơi.||Cụm cuối /st/.
+health|hɛlθ|n|sức khỏe|Health is important.|Sức khỏe rất quan trọng.||Âm cuối /lθ/: giữ cả /l/ và /θ/.
+clean|klin|adj|sạch|The room is clean.|Căn phòng sạch.||
+dirty|ˈdɝti|adj|bẩn|My shoes are dirty.|Giày tôi bẩn.||
+delicious|dɪˈlɪʃəs|adj|ngon|The food is delicious.|Thức ăn rất ngon.||
+sweet|swit|adj|ngọt|This cake is sweet.|Bánh này ngọt.||
+cake|keɪk|n|bánh ngọt|I like chocolate cake.|Tôi thích bánh sô-cô-la.||
+noodles|ˈnudəlz|n|mì, phở|I eat noodles for breakfast.|Tôi ăn phở buổi sáng.||
+dish|dɪʃ|n|món ăn; cái đĩa|Pho is a Vietnamese dish.|Phở là món ăn Việt Nam.||
+taste|teɪst|v|nếm; có vị|It tastes good.|Nó có vị ngon.||Cụm cuối /st/.
+breathe|bɹið|v|hít thở|Breathe slowly.|Hít thở chậm.|breath|Động từ có /ð/ và /i/; danh từ "breath" là /bɹɛθ/.

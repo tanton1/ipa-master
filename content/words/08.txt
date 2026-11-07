@@ -1,0 +1,51 @@
+# Nhóm 08 – Tính từ, cảm xúc
+happy|ˈhæpi|adj|vui, hạnh phúc|I am happy today.|Hôm nay tôi vui.||
+sad|sæd|adj|buồn|Why are you sad?|Sao bạn buồn?||
+angry|ˈæŋgɹi|adj|tức giận|Don't be angry.|Đừng tức giận.||
+afraid|əˈfɹeɪd|adj|sợ|I am afraid of dogs.|Tôi sợ chó.||
+surprised|sɚˈpɹaɪzd|adj|ngạc nhiên|I was surprised.|Tôi đã ngạc nhiên.||Cụm cuối /zd/.
+excited|ɪkˈsaɪtɪd|adj|hào hứng|I am excited about the trip.|Tôi hào hứng về chuyến đi.||
+bored|bɔɹd|adj|chán|I am bored.|Tôi chán.||
+good|gʊd|adj|tốt|This is a good book.|Đây là một cuốn sách hay.||
+bad|bæd|adj|xấu, tệ|The weather is bad.|Thời tiết xấu.|bed|
+big|bɪg|adj|to, lớn|My house is big.|Nhà tôi to.||Âm cuối /g/ hữu thanh, không đọc thành /k/.
+small|smɔl|adj|nhỏ|My room is small.|Phòng tôi nhỏ.||Cụm đầu /sm/.
+long|lɔŋ|adj|dài|Her hair is long.|Tóc cô ấy dài.||
+short|ʃɔɹt|adj|ngắn, thấp|He is short.|Anh ấy thấp.||
+tall|tɔl|adj|cao|My brother is tall.|Anh tôi cao.||
+new|nu|adj|mới|I have a new phone.|Tôi có điện thoại mới.||
+old|oʊld|adj|cũ, già|My car is old.|Xe tôi cũ.||Cụm cuối /ld/.
+young|jʌŋ|adj|trẻ|She is young.|Cô ấy trẻ.||
+hot|hɑt|adj|nóng|The tea is hot.|Trà nóng.|hat;hæt|
+cold|koʊld|adj|lạnh|The water is cold.|Nước lạnh.||Cụm cuối /ld/.
+warm|wɔɹm|adj|ấm|The room is warm.|Căn phòng ấm.||
+fast|fæst|adj|nhanh|The car is fast.|Chiếc xe nhanh.||
+slow|sloʊ|adj|chậm|The bus is slow.|Xe buýt chậm.||
+easy|ˈizi|adj|dễ|English is easy.|Tiếng Anh dễ.||Chữ s đọc /z/.
+hard|hɑɹd|adj|khó; cứng|This test is hard.|Bài kiểm tra này khó.||
+difficult|ˈdɪfɪkəlt|adj|khó|Pronunciation is difficult.|Phát âm thì khó.||
+beautiful|ˈbjutəfəl|adj|đẹp|Ha Long Bay is beautiful.|Vịnh Hạ Long rất đẹp.||
+ugly|ˈʌgli|adj|xấu (ngoại hình)|The building is ugly.|Tòa nhà xấu.||
+rich|ɹɪtʃ|adj|giàu|He is rich.|Anh ấy giàu.||
+poor|pʊɹ|adj|nghèo|They are poor.|Họ nghèo.||Nhiều người Mỹ đọc /pɔɹ/.
+cheap|tʃip|adj|rẻ|The food is cheap.|Thức ăn rẻ.||
+expensive|ɪkˈspɛnsɪv|adj|đắt|The hotel is expensive.|Khách sạn đắt.||
+important|ɪmˈpɔɹtənt|adj|quan trọng|Health is important.|Sức khỏe quan trọng.||
+interesting|ˈɪntɹəstɪŋ|adj|thú vị|The book is interesting.|Cuốn sách thú vị.||Trọng âm ở âm tiết đầu.
+busy|ˈbɪzi|adj|bận|I am busy today.|Hôm nay tôi bận.||Chữ u đọc /ɪ/, s đọc /z/.
+free|fɹi|adj|rảnh; miễn phí|Are you free tonight?|Tối nay bạn rảnh không?||
+full|fʊl|adj|đầy, no|I am full.|Tôi no rồi.|fool;ful|
+empty|ˈɛmpti|adj|trống, rỗng|The glass is empty.|Cái ly trống.||
+wrong|ɹɔŋ|adj|sai|That answer is wrong.|Câu trả lời đó sai.||Chữ w không đọc.
+same|seɪm|adj|giống nhau|We have the same bag.|Chúng ta có túi giống nhau.||
+different|ˈdɪfɹənt|adj|khác nhau|We are different.|Chúng ta khác nhau.||
+kind|kaɪnd|adj|tốt bụng|She is very kind.|Cô ấy rất tốt bụng.||
+quiet|ˈkwaɪət|adj|yên tĩnh|The library is quiet.|Thư viện yên tĩnh.||
+loud|laʊd|adj|to, ồn|The music is loud.|Nhạc to quá.||
+dark|dɑɹk|adj|tối|It is dark outside.|Bên ngoài tối.||
+bright|bɹaɪt|adj|sáng|The sun is bright.|Mặt trời sáng.||
+heavy|ˈhɛvi|adj|nặng|The bag is heavy.|Cái túi nặng.||
+strong|stɹɔŋ|adj|mạnh, khỏe|He is strong.|Anh ấy khỏe.||Cụm đầu /stɹ/.
+weak|wik|adj|yếu|I feel weak.|Tôi thấy yếu.||Đồng âm với "week".
+nice|naɪs|adj|dễ chịu, tốt|Have a nice day!|Chúc một ngày tốt lành!||
+funny|ˈfʌni|adj|hài hước|He is funny.|Anh ấy hài hước.||

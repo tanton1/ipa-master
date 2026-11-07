@@ -1,0 +1,51 @@
+# Nhóm 03 – Số đếm, thời gian
+one|wʌn|num|một|I have one brother.|Tôi có một anh trai.||Bắt đầu bằng /w/, đọc như "won".
+two|tu|num|hai|Two cups of coffee, please.|Cho hai cốc cà phê.||Chữ w không đọc; đồng âm với "to".
+three|θɹi|num|ba|I have three books.|Tôi có ba cuốn sách.|tree|
+four|fɔɹ|num|bốn|There are four chairs.|Có bốn cái ghế.||Đồng âm với "for".
+five|faɪv|num|năm|Five students are absent.|Năm học sinh nghỉ.||Âm cuối /v/ hữu thanh.
+six|sɪks|num|sáu|It is six o'clock.|Bây giờ là sáu giờ.||Âm cuối là cụm /ks/.
+seven|ˈsɛvən|num|bảy|I wake up at seven.|Tôi thức dậy lúc bảy giờ.||
+eight|eɪt|num|tám|She is eight years old.|Cô bé tám tuổi.||Chữ gh không đọc.
+nine|naɪn|num|chín|The shop opens at nine.|Cửa hàng mở lúc chín giờ.||
+ten|tɛn|num|mười|I have ten fingers.|Tôi có mười ngón tay.||
+eleven|ɪˈlɛvən|num|mười một|The train leaves at eleven.|Tàu rời bến lúc mười một giờ.||
+twelve|twɛlv|num|mười hai|There are twelve months.|Có mười hai tháng.||Cụm cuối /lv/: đọc đủ cả hai âm.
+twenty|ˈtwɛnti|num|hai mươi|I am twenty years old.|Tôi hai mươi tuổi.||Người Mỹ thường đọc gần như "twen-ny".
+thirty|ˈθɝti|num|ba mươi|The class has thirty students.|Lớp có ba mươi học sinh.||
+hundred|ˈhʌndɹəd|num|một trăm|One hundred people came.|Một trăm người đã đến.||
+thousand|ˈθaʊzənd|num|một nghìn|It costs two thousand dong.|Nó giá hai nghìn đồng.||
+first|fɝst|adj|thứ nhất, đầu tiên|This is my first lesson.|Đây là bài học đầu tiên của tôi.||
+second|ˈsɛkənd|adj|thứ hai; giây|Wait a second.|Đợi một giây.||
+third|θɝd|adj|thứ ba|It is the third day.|Đây là ngày thứ ba.||
+last|læst|adj|cuối cùng; trước|Last week was busy.|Tuần trước bận rộn.||
+today|təˈdeɪ|adv|hôm nay|Today is Monday.|Hôm nay là thứ Hai.||
+tomorrow|təˈmɑɹoʊ|adv|ngày mai|See you tomorrow.|Mai gặp lại.||
+yesterday|ˈjɛstɚdeɪ|adv|hôm qua|I was at home yesterday.|Hôm qua tôi ở nhà.||
+now|naʊ|adv|bây giờ|I am busy now.|Bây giờ tôi đang bận.||
+morning|ˈmɔɹnɪŋ|n|buổi sáng|Good morning!|Chào buổi sáng!||
+afternoon|ˌæftɚˈnun|n|buổi chiều|Good afternoon!|Chào buổi chiều!||
+evening|ˈivnɪŋ|n|buổi tối|Good evening!|Chào buổi tối!||
+night|naɪt|n|đêm, ban đêm|Good night!|Chúc ngủ ngon!||Chữ gh không đọc.
+day|deɪ|n|ngày|Have a nice day!|Chúc một ngày tốt lành!|they|
+week|wik|n|tuần|See you next week.|Hẹn gặp tuần sau.||Đồng âm với "weak".
+month|mʌnθ|n|tháng|I study every month.|Tôi học mỗi tháng.||Kết thúc bằng /nθ/: đừng bỏ /θ/.
+year|jɪɹ|n|năm|Happy New Year!|Chúc mừng năm mới!|ear|
+hour|aʊɹ|n|giờ, tiếng|I wait for one hour.|Tôi đợi một tiếng.||Chữ h không đọc; đồng âm với "our".
+minute|ˈmɪnɪt|n|phút|Wait five minutes.|Đợi năm phút.||
+time|taɪm|n|thời gian|What time is it?|Mấy giờ rồi?||
+early|ˈɝli|adv|sớm|I get up early.|Tôi thức dậy sớm.||
+late|leɪt|adj|muộn, trễ|Don't be late.|Đừng đến muộn.||
+Monday|ˈmʌndeɪ|n|thứ Hai|I work on Monday.|Tôi làm việc vào thứ Hai.||
+Friday|ˈfɹaɪdeɪ|n|thứ Sáu|Friday is my favorite day.|Thứ Sáu là ngày tôi thích nhất.||
+Sunday|ˈsʌndeɪ|n|Chủ nhật|We rest on Sunday.|Chúng tôi nghỉ vào Chủ nhật.||
+January|ˈdʒænjuˌɛɹi|n|tháng Một|It is cold in January.|Tháng Một trời lạnh.||
+summer|ˈsʌmɚ|n|mùa hè|Summer is hot.|Mùa hè nóng.||
+winter|ˈwɪntɚ|n|mùa đông|Winter is cold.|Mùa đông lạnh.||
+always|ˈɔlweɪz|adv|luôn luôn|I always drink coffee.|Tôi luôn uống cà phê.||
+often|ˈɔfən|adv|thường|I often read.|Tôi thường đọc sách.||Chữ t thường không đọc.
+sometimes|ˈsʌmtaɪmz|adv|thỉnh thoảng|Sometimes I cook.|Thỉnh thoảng tôi nấu ăn.||
+never|ˈnɛvɚ|adv|không bao giờ|I never smoke.|Tôi không bao giờ hút thuốc.||
+again|əˈgɛn|adv|lại, lần nữa|Say it again, please.|Làm ơn nói lại.||
+before|bɪˈfɔɹ|prep|trước|Wash your hands before eating.|Rửa tay trước khi ăn.||
+after|ˈæftɚ|prep|sau|After lunch, I rest.|Sau bữa trưa, tôi nghỉ.||

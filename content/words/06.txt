@@ -1,0 +1,51 @@
+# Nhóm 06 – Địa điểm, giao thông
+city|ˈsɪti|n|thành phố|I live in a big city.|Tôi sống ở một thành phố lớn.||
+town|taʊn|n|thị trấn|My town is quiet.|Thị trấn của tôi yên tĩnh.||
+village|ˈvɪlɪdʒ|n|làng|My grandmother lives in a village.|Bà tôi sống ở làng.||
+country|ˈkʌntɹi|n|đất nước; nông thôn|Vietnam is a beautiful country.|Việt Nam là một đất nước đẹp.||
+street|stɹit|n|đường phố|I live on this street.|Tôi sống trên con phố này.||Cụm đầu /stɹ/: không chèn nguyên âm.
+road|ɹoʊd|n|con đường|The road is long.|Con đường dài.||
+bridge|bɹɪdʒ|n|cái cầu|Cross the bridge.|Băng qua cầu.||
+river|ˈɹɪvɚ|n|dòng sông|The river is wide.|Dòng sông rộng.||
+mountain|ˈmaʊntən|n|núi|We climb the mountain.|Chúng tôi leo núi.||
+sea|si|n|biển|I love the sea.|Tôi yêu biển.||Đồng âm với "see".
+beach|bitʃ|n|bãi biển|We go to the beach in summer.|Chúng tôi đi biển vào mùa hè.||
+park|pɑɹk|n|công viên|Let's walk in the park.|Đi dạo công viên nào.||
+school|skul|n|trường học|I go to school by bike.|Tôi đi học bằng xe đạp.||Chữ ch đọc /k/.
+hospital|ˈhɑspɪtəl|n|bệnh viện|The hospital is near here.|Bệnh viện ở gần đây.||
+market|ˈmɑɹkɪt|n|chợ|Mom goes to the market every day.|Mẹ đi chợ mỗi ngày.||
+shop|ʃɑp|n|cửa hàng|The shop is closed.|Cửa hàng đóng cửa rồi.||
+store|stɔɹ|n|cửa hàng, tiệm|I buy milk at the store.|Tôi mua sữa ở tiệm.||
+bank|bæŋk|n|ngân hàng|The bank opens at eight.|Ngân hàng mở lúc tám giờ.||
+office|ˈɔfɪs|n|văn phòng|I work in an office.|Tôi làm việc ở văn phòng.||
+hotel|hoʊˈtɛl|n|khách sạn|We stay at a hotel.|Chúng tôi ở khách sạn.||Trọng âm ở âm tiết thứ hai.
+restaurant|ˈɹɛstɹɑnt|n|nhà hàng|This restaurant is good.|Nhà hàng này ngon.||
+church|tʃɝtʃ|n|nhà thờ|The church is old.|Nhà thờ này cổ.||
+station|ˈsteɪʃən|n|nhà ga, trạm|The station is far.|Nhà ga ở xa.||Chữ t đọc /ʃ/.
+airport|ˈɛɹpɔɹt|n|sân bay|We go to the airport by taxi.|Chúng tôi đi sân bay bằng taxi.||
+bus|bʌs|n|xe buýt|I take the bus to work.|Tôi đi làm bằng xe buýt.|buzz;bʌz|
+train|tɹeɪn|n|tàu hỏa|The train is late.|Tàu đến muộn.||
+car|kɑɹ|n|xe ô tô|My car is old.|Xe tôi cũ.||
+taxi|ˈtæksi|n|xe taxi|Let's take a taxi.|Đi taxi thôi.||
+bicycle|ˈbaɪsɪkəl|n|xe đạp|I ride a bicycle.|Tôi đi xe đạp.||
+plane|pleɪn|n|máy bay|The plane is landing.|Máy bay đang hạ cánh.||
+boat|boʊt|n|thuyền|We go by boat.|Chúng tôi đi bằng thuyền.||
+ticket|ˈtɪkɪt|n|vé|I need two tickets.|Tôi cần hai vé.||
+map|mæp|n|bản đồ|Look at the map.|Nhìn vào bản đồ.||
+travel|ˈtɹævəl|v|đi du lịch|I love to travel.|Tôi thích đi du lịch.||
+trip|tɹɪp|n|chuyến đi|Have a nice trip!|Chúc chuyến đi vui vẻ!||
+left|lɛft|n|bên trái|Turn left.|Rẽ trái.||Cụm cuối /ft/.
+right|ɹaɪt|n|bên phải; đúng|Turn right.|Rẽ phải.|light|Đồng âm với "write".
+straight|stɹeɪt|adv|thẳng|Go straight ahead.|Đi thẳng.||Cụm đầu /stɹ/; chữ gh không đọc.
+north|nɔɹθ|n|phía bắc|Hanoi is in the north.|Hà Nội ở miền Bắc.||
+south|saʊθ|n|phía nam|Can Tho is in the south.|Cần Thơ ở miền Nam.||
+east|ist|n|phía đông|The sun rises in the east.|Mặt trời mọc ở phía đông.||Cụm cuối /st/.
+west|wɛst|n|phía tây|The sun sets in the west.|Mặt trời lặn ở phía tây.|vest|
+near|nɪɹ|prep|gần|The bank is near the school.|Ngân hàng ở gần trường.||
+far|fɑɹ|adj|xa|The airport is far.|Sân bay ở xa.||
+drive|dɹaɪv|v|lái xe|I drive to work.|Tôi lái xe đi làm.||
+fly|flaɪ|v|bay|Birds fly.|Chim bay.||
+ride|ɹaɪd|v|đi (xe, ngựa)|I ride a bike.|Tôi đi xe đạp.||
+arrive|əˈɹaɪv|v|đến, tới|We arrive at nine.|Chúng tôi đến lúc chín giờ.||
+corner|ˈkɔɹnɚ|n|góc đường|The shop is on the corner.|Cửa hàng ở góc đường.||
+world|wɝld|n|thế giới|English is spoken around the world.|Tiếng Anh được nói khắp thế giới.||Cụm cuối /ɹld/ rất khó: đọc đủ /l/ và /d/.
