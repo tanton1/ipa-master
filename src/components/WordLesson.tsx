@@ -13,9 +13,10 @@ import { analyzeIpa, syllableText } from '@/lib/ipa';
 import { articulationSteps, wordIssues, riskyPhonemes } from '@/lib/errors';
 import { buildFeedback, selfAssessments, codeForPhoneme, type CoachFeedback } from '@/lib/coach';
 import { DIFFICULTY_LABEL } from '@/lib/classify';
+import { formatDay } from '@/lib/format-day';
 import type { AudioQuality } from '@/lib/audio-quality';
 import { useTts } from '@/lib/tts';
-import { rateWord, markLearned, recordListen, recordSentence, mastery, useAppState, STATUS_LABEL, MASTERY_WEIGHTS, MASTERY_THRESHOLD, type Rating } from '@/lib/store';
+import { rateWord, markLearned, recordListen, recordSentence, mastery, useAppState, todayKey, STATUS_LABEL, MASTERY_WEIGHTS, MASTERY_THRESHOLD, type Rating } from '@/lib/store';
 import { PlayButton } from './PlayButton';
 import { Recorder } from './Recorder';
 import { IpaChips } from './IpaChips';
@@ -156,8 +157,8 @@ export function WordLesson({ w, groupSlug, next, prev }: Props) {
       <section className="card p-5 text-center">
         <div className="mb-2 flex flex-wrap items-center justify-center gap-1.5 text-[11px] font-semibold">
           <span className="rounded-full bg-surface-2 px-2 py-0.5">{DIFFICULTY_LABEL[w.difficulty - 1]}</span>
-          {gold ? <span className="inline-flex items-center gap-1 rounded-full bg-warn-soft px-2 py-0.5 text-warn"><IconStar size={11} /> Gold Set • {GOLD_TYPE_LABEL[gold.type]}</span> : null}
-          <span className="rounded-full bg-surface-2 px-2 py-0.5 text-muted">Nháp</span>
+          {gold ? <span className="inline-flex items-center gap-1 rounded-full bg-warn-soft px-2 py-0.5 text-warn"><IconStar size={11} /> Bài chuẩn • {GOLD_TYPE_LABEL[gold.type]}</span> : null}
+          <span className="rounded-full bg-surface-2 px-2 py-0.5 text-muted" title="Nội dung chưa qua kiểm duyệt ngữ âm">Chưa duyệt</span>
         </div>
         <h2 className="text-4xl font-bold tracking-tight">{w.word}</h2>
         <p className="ipa mt-1 text-2xl text-primary">
@@ -512,10 +513,10 @@ export function WordLesson({ w, groupSlug, next, prev }: Props) {
       {progress && progress.status !== 'new' ? (
         <section className="card p-4">
           <div className="flex items-baseline justify-between">
-            <h3 className="font-semibold">Word Mastery</h3>
+            <h3 className="font-semibold">Mức thành thạo</h3>
             <p className="text-2xl font-bold tabular-nums">{m.total}<span className="text-sm font-medium text-muted">/100</span></p>
           </div>
-          <p className="text-xs text-muted">{STATUS_LABEL[progress.status]} • ôn lại {progress.due} • {progress.goodDays.length}/3 ngày ôn đạt</p>
+          <p className="text-xs text-muted">{STATUS_LABEL[progress.status]} • ôn lại {formatDay(progress.due, todayKey())} • {progress.goodDays.length}/3 ngày ôn đạt</p>
           <div className="mt-3 grid gap-2">
             <Meter label="Nghe phân biệt" value={m.listen} weight={MASTERY_WEIGHTS.listen} />
             <Meter label="Phát âm từ" value={m.pron} weight={MASTERY_WEIGHTS.pron} />

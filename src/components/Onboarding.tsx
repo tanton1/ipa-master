@@ -89,6 +89,11 @@ export function Onboarding() {
       >
         Lưu lộ trình
       </button>
+      {!goal || !region ? (
+        <p className="-mt-4 text-center text-xs text-muted" aria-live="polite">
+          Còn thiếu: {[!goal && 'mục tiêu học', !region && 'giọng vùng miền'].filter(Boolean).join(' và ')}.
+        </p>
+      ) : null}
     </div>
   );
 }

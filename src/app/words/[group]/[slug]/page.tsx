@@ -25,7 +25,7 @@ export default async function WordPage({ params }: { params: Promise<{ group: st
 
   return (
     <>
-      <TopBar back={`/words/${g.slug}`} eyebrow={`Word detail • ${String(w.id).padStart(3, '0')} / ${WORDS.length}`} title={w.word} subtitle={g.title} />
+      <TopBar back={`/words/${g.slug}`} eyebrow={`Từ ${w.id} / ${WORDS.length} • Tuần ${w.week}`} title={w.word} subtitle={g.title} />
       <WordLesson
         w={w}
         groupSlug={g.slug}

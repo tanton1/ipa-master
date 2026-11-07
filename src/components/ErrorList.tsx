@@ -1,5 +1,6 @@
 'use client';
 
+import { IpaText } from './IpaText';
 import Link from 'next/link';
 import { VEI } from '@/data/vei';
 import { WORDS } from '@/lib/curriculum';
@@ -24,7 +25,7 @@ export function ErrorList() {
               <Link href={`/errors/${e.code}`} className="card tap flex items-center gap-3 px-4 py-3">
                 <span className="flex size-11 shrink-0 items-center justify-center rounded-xl bg-primary-soft text-sm font-bold text-primary">{e.code}</span>
                 <span className="min-w-0 flex-1">
-                  <span className="block font-semibold">{e.title}</span>
+                  <span className="block font-semibold"><IpaText text={e.title} /></span>
                   <span className="block truncate text-xs text-muted">{e.examples.join(', ')} • {count} từ trong 500 từ</span>
                   {retest ? <span className="mt-0.5 block text-[11px] text-warn">Đang theo dõi duy trì: {retest.results.d3 ? 'đã xong' : retest.results.d1 ? 'chờ ngày 3' : 'chờ ngày 1'}</span> : null}
                 </span>

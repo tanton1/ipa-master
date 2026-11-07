@@ -7,12 +7,11 @@ import { PlayButton } from './PlayButton';
 import { Ipa } from './Ipa';
 import { IconChevronRight, IconStar } from './icons';
 
-const STATUS_DOT: Record<string, string> = {
-  new: 'bg-line',
-  learning: 'bg-warn',
-  review: 'bg-primary',
-  'needs-practice': 'bg-danger',
-  mastered: 'bg-accent',
+const STATUS_PILL: Record<string, string> = {
+  learning: 'bg-warn-soft text-warn',
+  review: 'bg-primary-soft text-primary',
+  'needs-practice': 'bg-danger-soft text-danger',
+  mastered: 'bg-accent-soft text-accent',
 };
 
 export function WordRow({ w, index, showMeta = false }: { w: WordEntry; index?: number; showMeta?: boolean }) {
@@ -28,14 +27,16 @@ export function WordRow({ w, index, showMeta = false }: { w: WordEntry; index?: 
             {index !== undefined ? <span className="text-[11px] tabular-nums text-muted">{String(index).padStart(3, '0')}</span> : null}
             <span className="truncate font-semibold">{w.word}</span>
             <Ipa value={w.ipa} className="truncate text-sm text-muted" />
-            {w.gold ? <IconStar size={12} className="shrink-0 text-warn" aria-label="Gold Set" /> : null}
+            {w.gold ? <IconStar size={12} className="shrink-0 text-warn" aria-label="Bài chuẩn" /> : null}
           </div>
           <p className="truncate text-xs text-muted">
             {showMeta ? <span className="font-semibold text-ink">L{w.difficulty} • {w.errorCodes.join(' ')} • </span> : null}
             {w.meaning}
           </p>
         </div>
-        <span className={`size-2 shrink-0 rounded-full ${STATUS_DOT[st]}`} aria-label={`Trạng thái: ${STATUS_LABEL[st as keyof typeof STATUS_LABEL]}`} title={STATUS_LABEL[st as keyof typeof STATUS_LABEL]} />
+        {st !== 'new' ? (
+          <span className={`shrink-0 whitespace-nowrap rounded-full px-2 py-0.5 text-[10px] font-semibold ${STATUS_PILL[st]}`}>{STATUS_LABEL[st as keyof typeof STATUS_LABEL]}</span>
+        ) : null}
         <IconChevronRight size={18} className="shrink-0 text-muted" />
       </Link>
     </li>

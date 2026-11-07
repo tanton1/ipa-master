@@ -24,7 +24,7 @@ export const CONTRAST_LESSONS: ContrastLesson[] = [
     id: 'th', label: '/θ/', sample: 'think', sounds: ['th'], columns: ['/θ/', '/t/ hoặc /s/'],
     subtitle: 'Âm vô thanh đặt lưỡi gần răng',
     summary: 'Đầu lưỡi chạm nhẹ mép răng trên hoặc đặt giữa hai hàm răng, để hơi đi qua khe hẹp. Không thay bằng /t/ hoặc /s/ chỉ vì nghe gần giống.',
-    whyHard: 'Tiếng Việt không có âm xát răng. Chữ "th" trong tiếng Việt là âm /t/ bật hơi (thơ, thi), nên khi thấy "th" người Việt tự động dùng âm quen đó. Kết quả: think → "tink", three → "tree", mouth → "mao".',
+    whyHard: 'Tiếng Việt không có âm xát răng. Chữ "th" trong tiếng Việt là âm /t/ bật hơi (thơ, thi), nên khi thấy "th" người Việt tự động dùng âm quen đó. Kết quả: think thành /tɪŋk/, three thành /tɹi/, mouth thành /maʊt/ hoặc /maʊ/.',
     steps: [
       'Mở miệng hé, đưa đầu lưỡi ra chạm nhẹ mép dưới của răng cửa trên (hoặc kẹp nhẹ giữa hai hàm răng).',
       'Thổi hơi liên tục qua khe giữa lưỡi và răng. Không được chặn hơi rồi bật như /t/.',
@@ -48,7 +48,7 @@ export const CONTRAST_LESSONS: ContrastLesson[] = [
     id: 'dh', label: '/ð/', sample: 'this', sounds: ['dh'], columns: ['/ð/', '/d/ hoặc /z/'],
     subtitle: 'Âm hữu thanh đặt lưỡi gần răng',
     summary: 'Khẩu hình tương tự /θ/ nhưng dây thanh rung. Đặt tay lên cổ để cảm nhận rung và đối chiếu hai âm.',
-    whyHard: 'Người Việt thay /ð/ bằng "đ" (this → "đis") hoặc "d/gi" miền Bắc (/z/). Âm này xuất hiện trong những từ dùng nhiều nhất của tiếng Anh: the, this, that, they, there, mother.',
+    whyHard: 'Người Việt thay /ð/ bằng âm "đ" tiếng Việt (this thành /dɪs/) hoặc bằng /z/ như "d/gi" miền Bắc (this thành /zɪs/). Âm này xuất hiện trong những từ dùng nhiều nhất của tiếng Anh: the, this, that, they, there, mother.',
     steps: [
       'Đặt lưỡi đúng vị trí /θ/: đầu lưỡi chạm mép răng cửa trên.',
       'Bật dây thanh: tạo tiếng "ừ" liên tục trong khi hơi vẫn đi qua khe lưỡi-răng.',
@@ -119,7 +119,7 @@ export const CONTRAST_LESSONS: ContrastLesson[] = [
     id: 's-z', label: '/s/ – /z/', sample: 'rice / rise', sounds: ['s', 'z'], columns: ['/s/', '/z/'],
     subtitle: 'Phân biệt rung thanh và âm cuối',
     summary: '/s/ không rung thanh, /z/ có rung thanh. Phải luyện cả vị trí cuối từ vì bỏ âm này có thể khiến người nghe hiểu nhầm.',
-    whyHard: 'Tiếng Việt không có /s/ hay /z/ ở cuối âm tiết, nên người Việt hay bỏ hẳn (rice → "rai") hoặc đọc tất cả thành /s/ (rise → rice, his → hiss). Âm cuối /s/–/z/ mang nghĩa ngữ pháp: số nhiều, sở hữu, ngôi thứ ba.',
+    whyHard: 'Tiếng Việt không có /s/ hay /z/ ở cuối âm tiết, nên người Việt hay bỏ hẳn (rice thành /ɹaɪ/) hoặc đọc tất cả thành /s/ (rise → rice, his → hiss). Âm cuối /s/–/z/ mang nghĩa ngữ pháp: số nhiều, sở hữu, ngôi thứ ba.',
     steps: [
       'Nói "xxx" kéo dài như tiếng xì hơi: đây là /s/, cổ không rung.',
       'Giữ nguyên lưỡi, bật dây thanh thành "zzz" như tiếng ong: đây là /z/, cổ rung.',

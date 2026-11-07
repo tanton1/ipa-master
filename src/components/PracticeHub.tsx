@@ -1,13 +1,15 @@
 'use client';
 
+import { IpaText } from './IpaText';
 import Link from 'next/link';
 import { useState } from 'react';
-import { useAppState, useHydrated, dueSlugs, needsPracticeSlugs, dueRetests } from '@/lib/store';
+import { useAppState, useHydrated, dueSlugs, needsPracticeSlugs, dueRetests, todayKey } from '@/lib/store';
 import { priorityCodes } from '@/lib/planner';
 import { getVei } from '@/data/vei';
 import { CONTRAST_LESSONS } from '@/data/contrast';
 import { GOLD } from '@/data/gold';
 import { getWord } from '@/lib/curriculum';
+import { formatDay } from '@/lib/format-day';
 import { Recorder } from './Recorder';
 import { IconRepeat, IconWrench, IconClipboard, IconChevronRight, IconStar } from './icons';
 
@@ -53,7 +55,7 @@ export function PracticeHub() {
               <li key={c.code}>
                 <Link href={`/errors/${c.code}`} className="card tap flex items-center gap-3 px-4 py-3">
                   <span className="flex size-10 items-center justify-center rounded-xl bg-danger-soft text-xs font-bold text-danger">{c.code}</span>
-                  <span className="min-w-0 flex-1"><span className="block font-semibold">{getVei(c.code)?.title}</span><span className="block text-xs text-muted">{c.reason}</span></span>
+                  <span className="min-w-0 flex-1"><span className="block font-semibold"><IpaText text={getVei(c.code)?.title ?? c.code} /></span><span className="block text-xs text-muted">{c.reason}</span></span>
                   <IconChevronRight size={18} className="text-muted" />
                 </Link>
               </li>
@@ -71,12 +73,12 @@ export function PracticeHub() {
         <Link href="/diagnostic" className="card tap flex flex-col gap-2 p-4">
           <IconClipboard size={20} className="text-accent" />
           <span className="font-semibold">Kiểm tra đầu vào</span>
-          <span className="text-xs text-muted">{s.profile.diagnosticAt ? `Lần gần nhất ${s.profile.diagnosticAt}` : 'Chưa làm'}</span>
+          <span className="text-xs text-muted">{s.profile.diagnosticAt ? `Lần gần nhất: ${formatDay(s.profile.diagnosticAt, todayKey())}` : 'Chưa làm'}</span>
         </Link>
       </section>
 
       <section className="card p-4">
-        <h2 className="font-semibold">Speaking Studio</h2>
+        <h2 className="font-semibold">Phòng luyện nói</h2>
         <p className="mt-1 text-xs text-muted">Chọn một câu, nghe mẫu, ghi âm, kiểm tra chất lượng bản ghi và nghe A/B.</p>
         <div className="no-scrollbar mt-3 flex gap-2 overflow-x-auto pb-1">
           {FREE_TEXTS.map((t) => (
@@ -102,7 +104,7 @@ export function PracticeHub() {
       </section>
 
       <section>
-        <h2 className="mb-2 flex items-center gap-1.5 font-semibold"><IconStar size={16} className="text-warn" /> Gold Set – 30 bài chuẩn</h2>
+        <h2 className="mb-2 flex items-center gap-1.5 font-semibold"><IconStar size={16} className="text-warn" /> 30 bài chuẩn</h2>
         <ul className="flex flex-wrap gap-1.5">
           {GOLD.map((g) => {
             const w = getWord(g.slug);

@@ -85,7 +85,7 @@ export function GroupsClient() {
                       <span className="text-[9px] font-semibold opacity-80">TUẦN</span><span className="text-lg leading-none">{g.id}</span>
                     </span>
                     <span className="min-w-0 flex-1">
-                      <span className="block truncate font-semibold">G{g.slug} · {g.title}</span>
+                      <span className="block font-semibold leading-snug">{g.title}</span>
                       <span className="block truncate text-xs text-muted">{g.examples.join(', ')} • 5 cụm × 10 từ</span>
                       <span className="mt-2 flex items-center gap-2">
                         <ProgressBar value={learned} max={words.length} className="h-1.5" label={`Tiến độ ${g.title}`} />
@@ -111,7 +111,7 @@ export function GroupsClient() {
           </label>
           <div className="grid grid-cols-2 gap-2">
             <label className="text-xs text-muted">Chủ đề
-              <select value={group} onChange={(e) => setGroup(e.target.value)} className={SELECT}><option value="">Tất cả</option>{GROUPS.map((g) => <option key={g.id} value={g.id}>G{g.slug} {g.short}</option>)}</select>
+              <select value={group} onChange={(e) => setGroup(e.target.value)} className={SELECT}><option value="">Tất cả</option>{GROUPS.map((g) => <option key={g.id} value={g.id}>Tuần {g.id}: {g.short}</option>)}</select>
             </label>
             <label className="text-xs text-muted">Độ khó
               <select value={level} onChange={(e) => setLevel(e.target.value)} className={SELECT}><option value="">Tất cả</option>{DIFFICULTY_LABEL.map((l, i) => <option key={l} value={i + 1}>{l}</option>)}</select>
@@ -126,7 +126,7 @@ export function GroupsClient() {
               <select value={status} onChange={(e) => setStatus(e.target.value)} className={SELECT}><option value="">Tất cả</option>{(Object.keys(STATUS_LABEL) as WordStatus[]).map((k) => <option key={k} value={k}>{STATUS_LABEL[k]}</option>)}</select>
             </label>
             <label className="flex items-end gap-2 pb-2 text-sm">
-              <input type="checkbox" checked={gold} onChange={(e) => setGold(e.target.checked)} className="size-5 accent-[var(--c-primary)]" /> Chỉ Gold Set
+              <input type="checkbox" checked={gold} onChange={(e) => setGold(e.target.checked)} className="size-5 accent-[var(--c-primary)]" /> Chỉ 30 bài chuẩn
             </label>
           </div>
           <div className="flex items-center justify-between text-sm">

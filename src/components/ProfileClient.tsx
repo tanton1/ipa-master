@@ -30,11 +30,11 @@ export function ProfileClient() {
       <section className="grid grid-cols-3 gap-2">
         <div className="card p-3 text-center"><p className="text-2xl font-bold tabular-nums">{hydrated ? learned : '–'}</p><p className="text-[11px] text-muted">Từ đã học</p></div>
         <div className="card p-3 text-center"><p className="inline-flex items-center gap-1 text-2xl font-bold tabular-nums text-warn"><IconFlame size={18} />{hydrated ? streakDays(s) : '–'}</p><p className="text-[11px] text-muted">Ngày liên tiếp</p></div>
-        <div className="card p-3 text-center"><p className="text-2xl font-bold tabular-nums text-primary">{hydrated ? avgMastery : '–'}</p><p className="text-[11px] text-muted">Mastery TB</p></div>
+        <div className="card p-3 text-center"><p className="text-2xl font-bold tabular-nums text-primary">{hydrated ? avgMastery : '–'}</p><p className="text-[11px] text-muted">Điểm thành thạo TB</p></div>
       </section>
 
       <section className="card p-4" aria-labelledby="map-title">
-        <p className="text-[11px] font-semibold uppercase tracking-wide text-muted">Phoneme Mastery Map</p>
+        <p className="text-[11px] font-semibold uppercase tracking-wide text-muted">Theo từng âm</p>
         <h2 id="map-title" className="font-semibold">Bản đồ luyện âm</h2>
         <p className="mt-1 text-xs text-muted">Điểm gộp từ bài nghe phân biệt và các lần tự đánh giá, làm mượt để một lần ghi âm (có thể bị ồn) không quyết định tất cả. Ô xám là chưa có dữ liệu.</p>
         <ul className="mt-3 grid grid-cols-5 gap-1.5">
@@ -91,8 +91,8 @@ export function ProfileClient() {
           ))}
         </ul>
         <details className="mt-3 text-xs text-muted">
-          <summary className="cursor-pointer font-semibold text-ink">Cách tính Word Mastery</summary>
-          <p className="mt-2">Mastery = Nghe phân biệt × {MASTERY_WEIGHTS.listen * 100}% + Phát âm từ × {MASTERY_WEIGHTS.pron * 100}% + Ghi nhớ sau ôn tập × {MASTERY_WEIGHTS.retention * 100}% + Dùng trong câu × {MASTERY_WEIGHTS.sentence * 100}%. Thành phần chưa có dữ liệu tính là 0.</p>
+          <summary className="cursor-pointer font-semibold text-ink">Cách tính điểm thành thạo</summary>
+          <p className="mt-2">Điểm = Nghe phân biệt × {MASTERY_WEIGHTS.listen * 100}% + Phát âm từ × {MASTERY_WEIGHTS.pron * 100}% + Ghi nhớ sau ôn tập × {MASTERY_WEIGHTS.retention * 100}% + Dùng trong câu × {MASTERY_WEIGHTS.sentence * 100}%. Thành phần chưa có dữ liệu tính là 0.</p>
           <p className="mt-1">Một từ chỉ chuyển sang Thành thạo khi đạt {MASTERY_THRESHOLD}/100, đã qua bước ôn {INTERVALS[3]} ngày và ôn đạt ở ít nhất 3 ngày khác nhau. Lịch ôn: {INTERVALS.join(' → ')} ngày. Đây là công thức đề xuất cho tiến độ học, cần kiểm nghiệm với người học thật.</p>
         </details>
       </section>
@@ -153,7 +153,7 @@ export function ProfileClient() {
         <button type="button" onClick={() => { if (window.confirm('Xoá toàn bộ tiến độ học trên thiết bị này? Không thể khôi phục.')) resetProgress(); }} className="tap mt-3 text-sm font-semibold text-danger">Xoá toàn bộ tiến độ</button>
       </section>
 
-      <p className="text-center text-[11px] text-muted">{WORDS.length} từ • 50 cụm học • {PHONEMES.length} âm • 10 nhóm lỗi • Gold Set 30 bài • {getPhoneme('th') ? 'nội dung nháp' : ''}</p>
+      <p className="text-center text-[11px] text-muted">{WORDS.length} từ • 50 cụm học • {PHONEMES.length} âm • 10 nhóm lỗi • 30 bài chuẩn • {getPhoneme('th') ? 'nội dung nháp' : ''}</p>
     </div>
   );
 }

@@ -34,8 +34,8 @@ how|haʊ|adv|như thế nào|How are you?|Bạn thế nào?||
 in|ɪn|prep|trong, ở trong|The cat is in the box.|Con mèo ở trong hộp.||
 on|ɑn|prep|trên|The cup is on the table.|Cái cốc ở trên bàn.||
 at|æt|prep|tại, ở|I am at school.|Tôi đang ở trường.||Trong câu thường đọc nhẹ /ət/.
-to|tu|prep|đến, tới|I go to work.|Tôi đi làm.||Trong câu thường đọc nhẹ /tə/.
-from|fɹʌm|prep|từ|I am from Vietnam.|Tôi đến từ Việt Nam.||Trong câu thường đọc nhẹ /fɹəm/.
+to|tu|prep|đến, tới (chỉ hướng); để|I go to work.|Tôi đi làm.||Trong câu thường đọc nhẹ /tə/.
+from|fɹʌm|prep|từ (nơi, thời điểm)|I am from Vietnam.|Tôi đến từ Việt Nam.||Trong câu thường đọc nhẹ /fɹəm/.
 with|wɪθ|prep|với, cùng|I live with my family.|Tôi sống với gia đình.||Nhiều người Mỹ đọc /wɪð/.
 of|ʌv|prep|của|A cup of tea, please.|Cho tôi một tách trà.||Chữ f đọc thành /v/; trong câu thường đọc nhẹ /əv/.
 for|fɔɹ|prep|cho, để|This gift is for you.|Món quà này dành cho bạn.||Trong câu thường đọc nhẹ /fɚ/.
@@ -44,7 +44,7 @@ about|əˈbaʊt|prep|về, khoảng|Tell me about your family.|Kể cho tôi v�
 and|ænd|conj|và|You and I.|Bạn và tôi.||Trong câu thường đọc nhẹ /ənd/ hoặc /ən/.
 but|bʌt|conj|nhưng|I am tired but happy.|Tôi mệt nhưng vui.||
 or|ɔɹ|conj|hoặc|Tea or coffee?|Trà hay cà phê?||
-not|nɑt|adv|không|I am not hungry.|Tôi không đói.||
+not|nɑt|adv|không (phủ định động từ)|I am not hungry.|Tôi không đói.||
 if|ɪf|conj|nếu|Call me if you need help.|Gọi tôi nếu bạn cần giúp.||
 there|ðɛɹ|adv|ở đó|The bank is over there.|Ngân hàng ở đằng kia.||
 here|hɪɹ|adv|ở đây|Come here, please.|Làm ơn lại đây.||Đồng âm với "hear".

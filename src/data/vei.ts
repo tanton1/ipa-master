@@ -99,7 +99,7 @@ export const VEI: VeiError[] = [
   {
     code: 'E05', title: 'Chèn nguyên âm vào cụm phụ âm', short: 'Cụm phụ âm', examples: ['street', 'school', 'three', 'asked'],
     phonemes: ['s', 't', 'r', 'k', 'l', 'p'],
-    why: 'Âm tiết tiếng Việt không có cụm phụ âm, nên người học chèn "ơ" để tách: street thành "sơ-trít", school thành "sơ-cun".',
+    why: 'Âm tiết tiếng Việt không có cụm phụ âm, nên người học chèn "ơ" để tách: street thành /sə.tɹit/, school thành /sə.kul/.',
     fix: 'Luyện ngược từ cuối cụm: /ɹit/ → /tɹit/ → /stɹit/. Nối liền các phụ âm, không có nguyên âm xen giữa.',
     identify: [
       { a: 'sport', aIpa: 'spɔɹt', b: 'support', bIpa: 'səˈpɔɹt' },

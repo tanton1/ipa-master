@@ -1,5 +1,6 @@
 'use client';
 
+import { IpaText } from './IpaText';
 import Link from 'next/link';
 import { useAppState, useHydrated, learnedSlugs, weakPhonemeIds, streakDays, todayKey } from '@/lib/store';
 import { lessonIndexFor, weekDay, WORDS, WORDS_PER_DAY } from '@/lib/curriculum';
@@ -33,7 +34,7 @@ function ActionCard({ a }: { a: PlanAction }) {
       <Link href={href} className="card tap flex items-center gap-3 px-4 py-3">
         <span className={`inline-flex size-10 shrink-0 items-center justify-center rounded-xl ${tone}`}><Icon size={20} /></span>
         <span className="min-w-0 flex-1">
-          <span className="block font-semibold leading-snug">{title}</span>
+          <span className="block font-semibold leading-snug"><IpaText text={title} /></span>
           <span className="block text-xs text-muted">{desc}</span>
         </span>
         <IconChevronRight size={18} className="shrink-0 text-muted" />
@@ -143,17 +144,17 @@ export function HomeClient() {
         </div>
         {weak.length ? (
           <ul className="flex flex-col gap-2">
-            {weak.map((x, i) => {
+            {weak.map((x) => {
               const p = getPhoneme(x.id);
               if (!p) return null;
-              const tag = i === 0 ? ['Ưu tiên cao', 'bg-danger-soft text-danger'] : i === 1 ? ['Đang luyện', 'bg-warn-soft text-warn'] : ['Cần ôn', 'bg-primary-soft text-primary'];
+              const tag = x.score < 55 ? ['Ưu tiên cao', 'bg-danger-soft text-danger'] : x.score < 75 ? ['Đang luyện', 'bg-warn-soft text-warn'] : ['Cần ôn', 'bg-primary-soft text-primary'];
               return (
                 <li key={x.id}>
                   <Link href={p.contrastId ? `/contrast/${p.contrastId}` : `/ipa/${p.id}`} className="card tap flex items-center gap-3 px-4 py-3">
                     <span className="ipa w-14 text-2xl font-semibold text-primary">/{p.symbol}/</span>
                     <span className="min-w-0 flex-1">
-                      <span className="block truncate font-medium">{p.examples[0]}</span>
-                      <span className="block truncate text-xs text-muted">{x.score}/100 • {x.n} lượt</span>
+                      <span className="block text-sm font-medium leading-snug">{p.name}</span>
+                      <span className="mt-0.5 block text-xs text-muted">như trong <span className="font-medium text-ink">{p.examples[0]}</span> • {x.score}/100 sau {x.n} lượt</span>
                     </span>
                     <span className={`rounded-full px-2.5 py-1 text-[11px] font-semibold ${tag[1]}`}>{tag[0]}</span>
                   </Link>

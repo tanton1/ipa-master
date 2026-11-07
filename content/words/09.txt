@@ -1,6 +1,6 @@
 # Nhóm 09 – Học tập, công nghệ
 English|ˈɪŋglɪʃ|n|tiếng Anh|I study English.|Tôi học tiếng Anh.||
-word|wɝd|n|từ|Learn ten words a day.|Học mười từ mỗi ngày.||
+word|wɝd|n|từ, từ ngữ|Learn ten words a day.|Học mười từ mỗi ngày.||
 sentence|ˈsɛntəns|n|câu|Write a sentence.|Viết một câu.||
 letter|ˈlɛtɚ|n|chữ cái; thư|The letter A.|Chữ A.||
 language|ˈlæŋgwɪdʒ|n|ngôn ngữ|English is a global language.|Tiếng Anh là ngôn ngữ toàn cầu.||

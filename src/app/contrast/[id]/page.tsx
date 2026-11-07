@@ -20,7 +20,7 @@ export default async function ContrastDetailPage({ params }: { params: Promise<{
   if (!lesson) notFound();
   return (
     <>
-      <TopBar back="/contrast" eyebrow="Việt – Anh Contrast" title={`${lesson.label} · ${lesson.sample}`} subtitle={lesson.subtitle} />
+      <TopBar back="/contrast" eyebrow="Đối chiếu Việt – Anh" title={`${lesson.label} · ${lesson.sample}`} subtitle={lesson.subtitle} />
       <ContrastLesson lesson={lesson} />
     </>
   );

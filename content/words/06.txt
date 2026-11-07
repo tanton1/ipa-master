@@ -46,6 +46,6 @@ far|fɑɹ|adj|xa|The airport is far.|Sân bay ở xa.||
 drive|dɹaɪv|v|lái xe|I drive to work.|Tôi lái xe đi làm.||
 fly|flaɪ|v|bay|Birds fly.|Chim bay.||
 ride|ɹaɪd|v|đi (xe, ngựa)|I ride a bike.|Tôi đi xe đạp.||
-arrive|əˈɹaɪv|v|đến, tới|We arrive at nine.|Chúng tôi đến lúc chín giờ.||
+arrive|əˈɹaɪv|v|đến nơi, tới nơi|We arrive at nine.|Chúng tôi đến lúc chín giờ.||
 corner|ˈkɔɹnɚ|n|góc đường|The shop is on the corner.|Cửa hàng ở góc đường.||
 world|wɝld|n|thế giới|English is spoken around the world.|Tiếng Anh được nói khắp thế giới.||Cụm cuối /ɹld/ rất khó: đọc đủ /l/ và /d/.

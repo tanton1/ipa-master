@@ -56,11 +56,11 @@ Quy trình chữa lỗi: nghe nhận diện → luyện âm riêng → ghép t�
 
 ### G01 · Đại từ, mạo từ, giới từ (Tuần 1)
 
-**G01-U1 · Thứ 2 · Mạo từ và từ chỉ định** — Âm /ð/ và dạng yếu của the, a, an
+**G01-U1 · Thứ 2 · Mạo từ, từ chỉ định và I, you, he** — Âm /ð/ và dạng yếu của the, a, an
 
 the /ðə/ (L2, Gold) · a /ə/ (L1) · an /ən/ (L1) · this /ðɪs/ (L3, Gold) · that /ðæt/ (L2) · these /ðiz/ (L3) · those /ðoʊz/ (L3) · I /aɪ/ (L1) · you /ju/ (L1) · he /hi/ (L1)
 
-**G01-U2 · Thứ 3 · Đại từ nhân xưng** — /ʃ/ trong she, /ð/ trong they, them
+**G01-U2 · Thứ 3 · Đại từ nhân xưng và my** — /ʃ/ trong she, /ð/ trong they, them
 
 she /ʃi/ (L1, Gold) · it /ɪt/ (L2) · we /wi/ (L1) · they /ðeɪ/ (L1) · me /mi/ (L1) · him /hɪm/ (L1) · her /hɝ/ (L1) · us /ʌs/ (L2) · them /ðɛm/ (L1) · my /maɪ/ (L1)
 
@@ -68,7 +68,7 @@ she /ʃi/ (L1, Gold) · it /ɪt/ (L2) · we /wi/ (L1) · they /ðeɪ/ (L1) · me
 
 your /jɔɹ/ (L2) · his /hɪz/ (L3) · our /aʊɹ/ (L1) · their /ðɛɹ/ (L2) · who /hu/ (L1) · what /wʌt/ (L1) · which /wɪtʃ/ (L2) · where /wɛɹ/ (L2) · when /wɛn/ (L1) · why /waɪ/ (L1)
 
-**G01-U4 · Thứ 5 · Giới từ** — Dạng yếu của to, of, for, from; /θ/ trong with
+**G01-U4 · Thứ 5 · How và giới từ** — Dạng yếu của to, of, for, from; /θ/ trong with
 
 how /haʊ/ (L1) · in /ɪn/ (L1) · on /ɑn/ (L1) · at /æt/ (L2) · to /tu/ (L1) · from /fɹʌm/ (L2) · with /wɪθ/ (L3) · of /ʌv/ (L3) · for /fɔɹ/ (L2) · by /baɪ/ (L1)
 
@@ -174,7 +174,7 @@ city /ˈsɪti/ (L3) · town /taʊn/ (L1) · village /ˈvɪlɪdʒ/ (L4) · countr
 
 beach /bitʃ/ (L1) · park /pɑɹk/ (L3) · school /skul/ (L4, Gold) · hospital /ˈhɑspɪtəl/ (L5) · market /ˈmɑɹkɪt/ (L4) · shop /ʃɑp/ (L1) · store /stɔɹ/ (L3) · bank /bæŋk/ (L2) · office /ˈɔfɪs/ (L3) · hotel /hoʊˈtɛl/ (L3)
 
-**G06-U3 · Thứ 4 · Phương tiện giao thông** — /tʃ/ trong church; /ʃ/ trong station
+**G06-U3 · Thứ 4 · Công trình và phương tiện** — /tʃ/ trong church; /ʃ/ trong station
 
 restaurant /ˈɹɛstɹɑnt/ (L4) · church /tʃɝtʃ/ (L2, Gold) · station /ˈsteɪʃən/ (L5) · airport /ˈɛɹpɔɹt/ (L4) · bus /bʌs/ (L2) · train /tɹeɪn/ (L2) · car /kɑɹ/ (L2) · taxi /ˈtæksi/ (L3) · bicycle /ˈbaɪsɪkəl/ (L5) · plane /pleɪn/ (L2)
 
@@ -266,7 +266,7 @@ sure /ʃʊɹ/ (L3) · okay /oʊˈkeɪ/ (L1) · really /ˈɹili/ (L3) · very /ˈ
 
 enough /ɪˈnʌf/ (L4) · would /wʊd/ (L3, Gold) · could /kʊd/ (L3) · should /ʃʊd/ (L3) · ship /ʃɪp/ (L2, Gold) · sheep /ʃip/ (L1, Gold) · sink /sɪŋk/ (L3) · tree /tɹi/ (L2) · seat /sit/ (L2, Gold) · leave /liv/ (L3)
 
-**G10-U4 · Thứ 5 · Phụ âm dễ nhầm** — /s/–/z/, /θ/–/ð/, /v/–/f/–/w/
+**G10-U4 · Thứ 5 · Phụ âm dễ nhầm** — /s/–/z/ (price–prize), /θ/ cuối (bath, path), /f/–/v/ (fan–van)
 
 rise /ɹaɪz/ (L3, Gold) · price /pɹaɪs/ (L3) · prize /pɹaɪz/ (L4) · bath /bæθ/ (L2) · path /pæθ/ (L3) · breath /bɹɛθ/ (L3) · vest /vɛst/ (L4) · fan /fæn/ (L2) · van /væn/ (L2) · pull /pʊl/ (L3)
 
@@ -280,7 +280,7 @@ pool /pul/ (L2) · fill /fɪl/ (L3) · feel /fil/ (L2) · cap /kæp/ (L2) · cut
 
 - Mã lỗi: E01, E09
 - Giải mã: /ð/ Âm răng (Lưỡi chạm mép răng, có rung); /ə/ Schwa (Rất ngắn, thả lỏng)
-- So với tiếng Việt: Người Việt thường đọc thành "đờ" hoặc "dơ" với /d/ hoặc /z/ và nguyên âm quá rõ. "the" gần như không bao giờ được nhấn trong câu.
+- So với tiếng Việt: Người Việt thường đọc thành /dɤ/ hoặc /zɤ/: âm đầu là /d/ hoặc /z/ và nguyên âm quá rõ như "ơ" tiếng Việt. "the" gần như không bao giờ được nhấn trong câu.
 - Lỗi cần tránh: Thay /ð/ bằng /d/ hoặc /z/. Đọc nguyên âm rõ và dài như một từ được nhấn. Dùng /ðə/ cả trước nguyên âm thay vì /ði/ (the apple).
 - Bài ghép âm: Đặt lưỡi ở mép răng, tạo /ð/ có rung trong 2 giây. → Thêm /ə/ thật ngắn: /ðə/. → Đọc cụm "the book" với "the" nhỏ và nhanh hơn "book". → Đọc "the apple" với /ði/ trước nguyên âm.
 - Câu: The book is on the table. (Cuốn sách ở trên bàn.) / I ate the apple. (Tôi đã ăn quả táo.)
@@ -290,7 +290,7 @@ pool /pul/ (L2) · fill /fɪl/ (L3) · feel /fil/ (L2) · cap /kæp/ (L2) · cut
 
 - Mã lỗi: E01, E02, E03
 - Giải mã: /ð/ Âm răng (Có rung thanh); /ɪ/ Nguyên âm (Ngắn, lỏng); /s/ Âm cuối (Xì rõ, không rung)
-- So với tiếng Việt: "this" hay bị đọc thành "đít" hoặc "dít": sai âm đầu và mất /s/ cuối.
+- So với tiếng Việt: this hay bị đọc thành /dɪt/ hoặc /zɪt/: sai âm đầu và mất /s/ cuối.
 - Lỗi cần tránh: Đọc /ð/ thành /d/. Kéo dài /ɪ/ thành /i/ (giống these). Bỏ /s/ cuối.
 - Bài ghép âm: /ð/ kéo dài có rung. → Trượt sang /ɪ/ ngắn. → Kết thúc bằng /s/ xì rõ 1 giây. → So sánh this với these.
 - Câu: This is my phone. (Đây là điện thoại của tôi.) / Is this your bag? (Đây có phải túi của bạn không?)
@@ -300,7 +300,7 @@ pool /pul/ (L2) · fill /fɪl/ (L3) · feel /fil/ (L2) · cap /kæp/ (L2) · cut
 
 - Mã lỗi: E01, E02, E03
 - Giải mã: /θ/ Lưỡi – răng (Thổi hơi, không rung); /ɪ/ Nguyên âm (Ngắn, lỏng); /ŋ/ Âm mũi (Gốc lưỡi chạm vòm mềm); /k/ Âm cuối (Chặn rồi thả nhẹ)
-- So với tiếng Việt: Chữ "th" tiếng Việt là /t/ bật hơi, nên think dễ thành "tinh" hoặc "sinh". Người nghe có thể hiểu thành sink (chìm).
+- So với tiếng Việt: Chữ "th" tiếng Việt là /t/ bật hơi, nên think dễ thành /tɪŋ/ hoặc /sɪŋ/. Người nghe có thể hiểu thành sink (chìm).
 - Lỗi cần tránh: Đọc /θ/ thành /t/ hoặc /s/. Bỏ /k/ cuối nên chỉ còn "thing". Kéo dài /ɪ/.
 - Bài ghép âm: Luyện /θ/ riêng 3 giây. → Ghép /θɪ/ không ngắt hơi. → Thêm /ŋk/: gốc lưỡi chạm vòm mềm, chặn và thả. → Đọc I think so.
 - Câu: I think so. (Tôi nghĩ vậy.) / What do you think? (Bạn nghĩ sao?)
@@ -320,7 +320,7 @@ pool /pul/ (L2) · fill /fɪl/ (L3) · feel /fil/ (L2) · cap /kæp/ (L2) · cut
 
 - Mã lỗi: E01, E02, E03
 - Giải mã: /θ/ Âm răng (Thổi hơi); /æ/ Nguyên âm mở (Hàm hạ rộng); /ŋ/ Âm mũi (Gốc lưỡi); /k/ Âm cuối (Chặn nhẹ)
-- So với tiếng Việt: Thank you là câu dùng nhiều nhất, nhưng thường bị đọc với /t/ ("tanh-kiu"). /æ/ cũng hay bị đọc hẹp thành "e".
+- So với tiếng Việt: Thank you là câu dùng nhiều nhất, nhưng thường bị đọc với /t/ thành /tæŋ.kju/. /æ/ cũng hay bị đọc hẹp thành /ɛ/.
 - Lỗi cần tránh: Đọc /θ/ thành /t/ (thank → tank). Đọc /æ/ thành /ɛ/. Nuốt /k/ trước you.
 - Bài ghép âm: /θ/ kéo dài. → Hạ hàm cho /æ/. → Thêm /ŋk/. → Nối thank you: /k/ nối sang /j/.
 - Câu: Thank you very much. (Cảm ơn bạn rất nhiều.) / Thanks for the gift. (Cảm ơn vì món quà.)
@@ -400,7 +400,7 @@ pool /pul/ (L2) · fill /fɪl/ (L3) · feel /fil/ (L2) · cap /kæp/ (L2) · cut
 
 - Mã lỗi: E03, E04, E06
 - Giải mã: /ɹ/ Âm tiếp cận (Lưỡi cong, không chạm); /aɪ/ Nguyên âm đôi (Ngắn hơn trước /z/); /s/ Âm cuối (Không rung)
-- So với tiếng Việt: Người Việt hay bỏ /s/ cuối nên rice thành "rai". /ɹ/ đầu từ không được rung hoặc đọc thành /z/.
+- So với tiếng Việt: Người Việt hay bỏ /s/ cuối nên rice thành /ɹaɪ/. /ɹ/ đầu từ không được rung hoặc đọc thành /z/.
 - Lỗi cần tránh: Bỏ /s/ cuối. Đọc /ɹ/ thành /z/ hoặc rung lưỡi. Lẫn với rise.
 - Bài ghép âm: Luyện /ɹ/ riêng. → Ghép /ɹaɪ/. → Thêm /s/ xì rõ. → Đọc rice – rise.
 - Câu: I eat rice every day. (Tôi ăn cơm mỗi ngày.) / Rice is cheap here. (Gạo ở đây rẻ.)
@@ -420,7 +420,7 @@ pool /pul/ (L2) · fill /fɪl/ (L3) · feel /fil/ (L2) · cap /kæp/ (L2) · cut
 
 - Mã lỗi: E03, E04
 - Giải mã: /f/ Âm xát (Răng chạm môi dưới, không rung); /aɪ/ Nguyên âm đôi (Mở rồi lướt); /v/ Âm cuối (Răng chạm môi, có rung)
-- So với tiếng Việt: Tiếng Việt không có /v/ cuối, nên five thường thành "phai". Đọc /v/ thành /f/ cũng là lỗi.
+- So với tiếng Việt: Tiếng Việt không có /v/ cuối, nên five thường thành /faɪ/. Đọc /v/ thành /f/ cũng là lỗi.
 - Lỗi cần tránh: Bỏ /v/ cuối. Đọc /v/ thành /f/. Thêm "ờ" sau /v/.
 - Bài ghép âm: Răng chạm môi dưới, rung /v/ 2 giây. → Nói /faɪ/. → Đặt răng lên môi và rung /v/. → Đọc five books.
 - Câu: I have five friends. (Tôi có năm người bạn.) / Five plus five is ten. (Năm cộng năm là mười.)
@@ -430,7 +430,7 @@ pool /pul/ (L2) · fill /fɪl/ (L3) · feel /fil/ (L2) · cap /kæp/ (L2) · cut
 
 - Mã lỗi: E02, E03, E04
 - Giải mã: /h/ Âm họng (Thở nhẹ); /æ/ Nguyên âm mở (Hàm hạ rộng); /v/ Âm cuối (Răng chạm môi, rung)
-- So với tiếng Việt: have là động từ dùng nhiều nhất sau be. Người Việt thường đọc thành "hét" hoặc "he": sai nguyên âm và mất /v/.
+- So với tiếng Việt: have là động từ dùng nhiều nhất sau be. Người Việt thường đọc thành /hɛt/ hoặc /hɛ/: sai nguyên âm và mất /v/.
 - Lỗi cần tránh: Bỏ /v/ cuối. Đọc /æ/ thành /ɛ/. Đọc /v/ thành /f/.
 - Bài ghép âm: Hạ hàm cho /æ/. → Thêm /h/ nhẹ. → Răng chạm môi dưới, rung /v/. → Đọc I have a book: /v/ nối sang /ə/.
 - Câu: I have two sisters. (Tôi có hai em gái.) / Have a nice day. (Chúc một ngày tốt lành.)
@@ -460,7 +460,7 @@ pool /pul/ (L2) · fill /fɪl/ (L3) · feel /fil/ (L2) · cap /kæp/ (L2) · cut
 
 - Mã lỗi: E03, E05, E06
 - Giải mã: /w/ Bán nguyên âm (Tròn môi); /ɝ/ Nguyên âm r (Lưỡi cong, không chạm); /l/ Âm bên (Đầu lưỡi lên lợi); /d/ Âm cuối (Chặn nhẹ, rung)
-- So với tiếng Việt: Một trong những từ khó nhất cho người Việt: /ɝ/ không có trong tiếng Việt, và cụm /ld/ cuối thường bị bỏ hết còn "wơ".
+- So với tiếng Việt: Một trong những từ khó nhất cho người Việt: /ɝ/ không có trong tiếng Việt, và cụm /ld/ cuối thường bị bỏ hết, chỉ còn /wɤ/ với nguyên âm "ơ" tiếng Việt.
 - Lỗi cần tránh: Bỏ /l/ và /d/ cuối. Đọc /ɝ/ thành "ơ" thuần. Chèn nguyên âm giữa /l/ và /d/.
 - Bài ghép âm: Tròn môi /w/ rồi chuyển sang /ɝ/. → Từ /ɝ/, đưa đầu lưỡi lên lợi cho /l/. → Giữ lưỡi ở lợi và chặn /d/. → Đọc the world chậm rồi nhanh.
 - Câu: English is spoken around the world. (Tiếng Anh được nói khắp thế giới.) / It is a small world. (Thế giới thật nhỏ.)
@@ -470,7 +470,7 @@ pool /pul/ (L2) · fill /fɪl/ (L3) · feel /fil/ (L2) · cap /kæp/ (L2) · cut
 
 - Mã lỗi: E05, E06, E03
 - Giải mã: /s/ Âm xát (Kéo dài nhẹ); /t/ Âm bật (Không bật hơi sau /s/); /ɹ/ Âm tiếp cận (Lưỡi cong); /i/ Nguyên âm (Căng); /t/ Âm cuối (Chặn nhẹ)
-- So với tiếng Việt: Tiếng Việt không có cụm phụ âm, nên street thường bị tách thành "sơ-trít" có thêm âm tiết.
+- So với tiếng Việt: Tiếng Việt không có cụm phụ âm, nên street thường bị tách thành /sə.tɹit/, thừa một âm tiết.
 - Lỗi cần tránh: Chèn "ơ" sau /s/. Bỏ /t/ cuối. Rung lưỡi cho /ɹ/.
 - Bài ghép âm: Nói /ɹit/. → Thêm /t/: /tɹit/. → Thêm /s/ kéo dài: /s-tɹit/. → Rút ngắn /s/ và nói liền: street (một âm tiết).
 - Câu: I live on this street. (Tôi sống trên con phố này.) / Street food is cheap. (Đồ ăn đường phố rẻ.)
@@ -491,7 +491,7 @@ pool /pul/ (L2) · fill /fɪl/ (L3) · feel /fil/ (L2) · cap /kæp/ (L2) · cut
 - Mã lỗi: E08, E09, E06
 - Giải mã: /w/ Bán nguyên âm (Tròn môi); /ɔ/ Nguyên âm nhấn (Mở, hơi tròn); /t/ Âm vỗ /ɾ/ (Lưỡi chạm nhanh, gần "đ" nhẹ); /ɚ/ Âm tiết yếu (Màu r, không nhấn)
 - So với tiếng Việt: Trong giọng Mỹ, /t/ giữa hai nguyên âm, sau âm tiết nhấn, thường thành âm vỗ /ɾ/. Đọc /t/ bật mạnh nghe kiểu Anh-Anh; đọc đều hai âm tiết nghe cứng.
-- Lỗi cần tránh: Đọc đều hai âm tiết. Bỏ màu r ở cuối, đọc thành "tơ". Đọc /w/ thành /v/.
+- Lỗi cần tránh: Đọc đều hai âm tiết. Bỏ màu r ở cuối, đọc thành /tɤ/. Đọc /w/ thành /v/.
 - Bài ghép âm: Nhấn âm tiết đầu: WA-ter. → Cho đầu lưỡi chạm lợi thật nhanh ở giữa từ. → Âm tiết cuối nhẹ, lưỡi cong /ɚ/. → Đọc a glass of water.
 - Câu: I drink water every day. (Tôi uống nước mỗi ngày.) / Can I have some water? (Cho tôi xin ít nước được không?)
 - Tiêu chí đạt: Âm tiết đầu nổi bật; âm tiết cuối có màu r.
@@ -500,7 +500,7 @@ pool /pul/ (L2) · fill /fɪl/ (L3) · feel /fil/ (L2) · cap /kæp/ (L2) · cut
 
 - Mã lỗi: E08, E09
 - Giải mã: /ə/ Âm tiết 1 (Nhẹ, không nhấn); /b/ Âm bật (Mở đầu âm tiết nhấn); /aʊ/ Âm tiết 2 (Trọng âm chính); /t/ Âm cuối (Chặn nhẹ)
-- So với tiếng Việt: Tiếng Anh giảm nguyên âm ở âm tiết không nhấn. Người học thường đọc chữ a quá rõ ("a-bao") hoặc nhấn sai âm tiết đầu.
+- So với tiếng Việt: Tiếng Anh giảm nguyên âm ở âm tiết không nhấn. Người học thường đọc chữ a quá rõ thành /a.baʊ/ hoặc nhấn sai âm tiết đầu.
 - Lỗi cần tránh: Đọc /ə/ rõ như "a". Nhấn âm tiết đầu. Bỏ /t/ cuối.
 - Bài ghép âm: Nghe và xác định âm tiết mạnh. → Đọc /ə/ với hàm, môi, lưỡi thả lỏng. → Luyện chuyển động /aʊ/. → Ghép theo nhịp yếu–MẠNH: about.
 - Câu: Tell me about your day. (Kể tôi nghe về ngày của bạn.) / It is about ten o'clock. (Khoảng mười giờ.)
@@ -510,7 +510,7 @@ pool /pul/ (L2) · fill /fɪl/ (L3) · feel /fil/ (L2) · cap /kæp/ (L2) · cut
 
 - Mã lỗi: E08, E09
 - Giải mã: /ə/ Âm tiết 1 (Schwa); /æ/ Âm tiết 2 (Nhấn, /æ/ mở); /ə/ Âm tiết 3 (Schwa)
-- So với tiếng Việt: Người Việt đọc "ba-na-na" với ba âm tiết đều nhau và ba chữ a giống nhau. Tiếng Anh chỉ có âm tiết giữa là /æ/, hai bên là /ə/.
+- So với tiếng Việt: Người Việt đọc /ba.na.na/ với ba âm tiết đều nhau và ba chữ a giống nhau. Tiếng Anh chỉ có âm tiết giữa là /æ/, hai bên là /ə/.
 - Lỗi cần tránh: Đọc ba âm tiết đều nhau. Đọc cả ba chữ a như nhau. Nhấn âm tiết đầu.
 - Bài ghép âm: Vỗ tay: nhẹ – MẠNH – nhẹ. → Đọc /nǽ/ mở và dài. → Thu nhỏ hai âm tiết hai bên thành /ə/. → Đọc a banana a day.
 - Câu: I eat a banana every morning. (Tôi ăn một quả chuối mỗi sáng.) / Bananas are yellow. (Chuối màu vàng.)
@@ -550,7 +550,7 @@ pool /pul/ (L2) · fill /fɪl/ (L3) · feel /fil/ (L2) · cap /kæp/ (L2) · cut
 
 - Mã lỗi: E07, E08, E09
 - Giải mã: /t/ Âm bật (Bật hơi); /i/ Âm tiết nhấn (Căng); /tʃ/ Tắc xát (Chặn rồi xả); /ɚ/ Âm tiết yếu (Màu r)
-- So với tiếng Việt: Người học hay đọc "ti-chơ" với hai âm tiết nặng ngang nhau và âm cuối là "ơ" thuần.
+- So với tiếng Việt: Người học hay đọc /ti.tʃɤ/ với hai âm tiết nặng ngang nhau và âm cuối là "ơ" thuần.
 - Lỗi cần tránh: Đọc đều hai âm tiết. Bỏ màu r ở cuối. Không bật hơi /t/ đầu.
 - Bài ghép âm: Nhấn TEA. → Thêm /tʃ/. → Âm tiết cuối nhẹ, lưỡi cong. → Đọc my English teacher.
 - Câu: My teacher is from Canada. (Giáo viên của tôi đến từ Canada.) / She is a good teacher. (Cô ấy là giáo viên giỏi.)

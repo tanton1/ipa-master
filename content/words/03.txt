@@ -3,7 +3,7 @@ one|wʌn|num|một|I have one brother.|Tôi có một anh trai.||Bắt đầu b�
 two|tu|num|hai|Two cups of coffee, please.|Cho hai cốc cà phê.||Chữ w không đọc; đồng âm với "to".
 three|θɹi|num|ba|I have three books.|Tôi có ba cuốn sách.|tree|
 four|fɔɹ|num|bốn|There are four chairs.|Có bốn cái ghế.||Đồng âm với "for".
-five|faɪv|num|năm|Five students are absent.|Năm học sinh nghỉ.||Âm cuối /v/ hữu thanh.
+five|faɪv|num|năm (số 5)|Five students are absent.|Năm học sinh nghỉ.||Âm cuối /v/ hữu thanh.
 six|sɪks|num|sáu|It is six o'clock.|Bây giờ là sáu giờ.||Âm cuối là cụm /ks/.
 seven|ˈsɛvən|num|bảy|I wake up at seven.|Tôi thức dậy lúc bảy giờ.||
 eight|eɪt|num|tám|She is eight years old.|Cô bé tám tuổi.||Chữ gh không đọc.
@@ -30,7 +30,7 @@ night|naɪt|n|đêm, ban đêm|Good night!|Chúc ngủ ngon!||Chữ gh không đ
 day|deɪ|n|ngày|Have a nice day!|Chúc một ngày tốt lành!|they|
 week|wik|n|tuần|See you next week.|Hẹn gặp tuần sau.||Đồng âm với "weak".
 month|mʌnθ|n|tháng|I study every month.|Tôi học mỗi tháng.||Kết thúc bằng /nθ/: đừng bỏ /θ/.
-year|jɪɹ|n|năm|Happy New Year!|Chúc mừng năm mới!|ear|
+year|jɪɹ|n|năm (thời gian)|Happy New Year!|Chúc mừng năm mới!|ear|
 hour|aʊɹ|n|giờ, tiếng|I wait for one hour.|Tôi đợi một tiếng.||Chữ h không đọc; đồng âm với "our".
 minute|ˈmɪnɪt|n|phút|Wait five minutes.|Đợi năm phút.||
 time|taɪm|n|thời gian|What time is it?|Mấy giờ rồi?||

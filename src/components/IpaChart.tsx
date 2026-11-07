@@ -39,7 +39,7 @@ export function IpaChart() {
       <div className="grid grid-cols-2 gap-2">
         <Link href="/levels" className="card tap flex items-center gap-2 p-3">
           <IconLayers size={18} className="text-primary" />
-          <span className="min-w-0 flex-1 text-sm font-semibold">Lộ trình 6 cấp độ</span>
+          <span className="min-w-0 flex-1 text-sm font-semibold">6 cấp độ</span>
           <IconChevronRight size={16} className="text-muted" />
         </Link>
         <Link href="/contrast" className="card tap flex items-center gap-2 p-3">
@@ -53,7 +53,7 @@ export function IpaChart() {
         {([
           ['all', 'Tất cả'],
           ['hard', 'Khó với người Việt'],
-          ['voiced', 'Phụ âm hữu thanh'],
+          ['voiced', 'Hữu thanh'],
         ] as [Filter, string][]).map(([k, label]) => (
           <button
             key={k}

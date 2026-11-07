@@ -171,7 +171,7 @@ export function MouthDiagram({ phonemeId, className = '', showLabels = true }: P
             <text x="110" y="56">Vòm miệng</text>
             <text x="30" y={lowerLipY + 36}>Răng · Môi</text>
             <text x="120" y={150 + dy * 0.6}>Lưỡi</text>
-            <text x="256" y="204" textAnchor="end">{pose.voiced ? 'Dây thanh rung' : 'Không rung'}</text>
+            <text x="194" y="189" textAnchor="end">{pose.voiced ? 'Dây thanh rung' : 'Không rung'}</text>
           </g>
         ) : null}
       </svg>

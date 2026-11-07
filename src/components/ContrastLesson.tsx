@@ -217,7 +217,7 @@ export function ContrastLesson({ lesson }: { lesson: Lesson }) {
       </section>
 
       <p className="text-xs leading-relaxed text-muted">
-        Ở giai đoạn này app chưa chấm điểm tự động. Audio không đủ để xác nhận vị trí lưỡi, nên phản hồi ở đây là hướng dẫn để bạn tự đối chiếu; AI Pronunciation Coach sẽ bổ sung ở giai đoạn 2 với mức độ tin cậy đi kèm.
+        App chưa chấm điểm phát âm tự động. Âm thanh ghi lại không đủ để biết chính xác vị trí lưỡi, nên phần này hướng dẫn bạn tự đối chiếu. Tính năng chấm bằng AI sẽ có ở giai đoạn sau, kèm mức độ tin cậy cho từng kết quả.
       </p>
     </main>
   );

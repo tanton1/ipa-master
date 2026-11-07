@@ -5,7 +5,7 @@ import { CONTRAST_TOPICS } from '@/data/contrast-topics';
 import { CONTRAST_LESSONS } from '@/data/contrast';
 import { IconChevronRight } from '@/components/icons';
 
-export const metadata: Metadata = { title: 'Việt – Anh Contrast' };
+export const metadata: Metadata = { title: 'Đối chiếu Việt – Anh' };
 
 export default function ContrastPage() {
   return (

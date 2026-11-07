@@ -27,14 +27,14 @@ export const CONTRAST_TOPICS: ContrastTopic[] = [
     id: 'final', topic: 'Âm cuối',
     vietnamese: 'Tập hợp phụ âm cuối bị giới hạn (p, t, c, ch, m, n, ng, nh) và không bật ra.',
     english: 'Có nhiều âm cuối như /s/, /z/, /v/, /θ/, /dʒ/, /l/ và các cụm cuối (/st/, /ld/).',
-    error: 'Nuốt hoặc bỏ hẳn âm cuối (five → "fai", feel → "phiu").',
+    error: 'Nuốt hoặc bỏ hẳn âm cuối (five thành /faɪ/, feel thành /fiu/).',
     fix: 'Kết thúc mỗi từ bằng tư thế miệng của âm cuối và nghe lại bản ghi của mình.',
   },
   {
     id: 'cluster', topic: 'Cụm phụ âm',
     vietnamese: 'Không có cụm phụ âm đầu kiểu /str/, /spl/, /skɹ/.',
     english: 'Có thể xuất hiện hai, ba phụ âm liên tiếp ở đầu và cuối từ.',
-    error: 'Chèn thêm nguyên âm (street → "sờ-trít", school → "sờ-cun").',
+    error: 'Chèn thêm nguyên âm (street thành /sə.tɹit/, school thành /sə.kul/).',
     fix: 'Luyện từ phụ âm cuối cụm lùi dần về trước: /t/ → /st/ → /stɹ/ → street, không thêm "ờ".',
   },
   {

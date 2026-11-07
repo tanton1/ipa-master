@@ -12,10 +12,10 @@ export interface Unit {
 
 const RAW: [number, string, string][][] = [
   [
-    [1, 'Mạo từ và từ chỉ định', 'Âm /ð/ và dạng yếu của the, a, an'],
-    [2, 'Đại từ nhân xưng', '/ʃ/ trong she, /ð/ trong they, them'],
+    [1, 'Mạo từ, từ chỉ định và I, you, he', 'Âm /ð/ và dạng yếu của the, a, an'],
+    [2, 'Đại từ nhân xưng và my', '/ʃ/ trong she, /ð/ trong they, them'],
     [3, 'Từ sở hữu và từ để hỏi', 'Âm cuối /z/ trong his, /ɹ/ trong your, their'],
-    [4, 'Giới từ', 'Dạng yếu của to, of, for, from; /θ/ trong with'],
+    [4, 'How và giới từ', 'Dạng yếu của to, of, for, from; /θ/ trong with'],
     [5, 'Từ nối và lượng từ', 'Schwa trong about; âm cuối /l/ trong all'],
   ],
   [
@@ -49,7 +49,7 @@ const RAW: [number, string, string][][] = [
   [
     [1, 'Nơi chốn và tự nhiên', 'Cụm /stɹ/ trong street; /dʒ/ cuối'],
     [2, 'Địa điểm trong thành phố', 'Cụm /sk/ trong school; trọng âm hotel'],
-    [3, 'Phương tiện giao thông', '/tʃ/ trong church; /ʃ/ trong station'],
+    [3, 'Công trình và phương tiện', '/tʃ/ trong church; /ʃ/ trong station'],
     [4, 'Du lịch và phương hướng', '/ɹ/–/l/ trong right; /θ/ cuối trong north'],
     [5, 'Hướng và di chuyển', '/v/–/w/ trong west; cụm /ɹld/ trong world'],
   ],
@@ -78,7 +78,7 @@ const RAW: [number, string, string][][] = [
     [1, 'Lời nói thường dùng', 'Trọng âm hello; /θ/ trong thank; ngữ điệu'],
     [2, 'Từ nối và từ đọc bất quy tắc', 'though, through, thought, tough'],
     [3, 'Chữ câm và nguyên âm dễ nhầm', 'l câm trong would; /ɪ/–/i/ ship–sheep'],
-    [4, 'Phụ âm dễ nhầm', '/s/–/z/, /θ/–/ð/, /v/–/f/–/w/'],
+    [4, 'Phụ âm dễ nhầm', '/s/–/z/ (price–prize), /θ/ cuối (bath, path), /f/–/v/ (fan–van)'],
     [5, 'Tổng ôn cặp từ tối thiểu', '/ʊ/–/u/, /ɪ/–/i/, /æ/–/ʌ/, /ð/–/d/'],
   ],
 ];

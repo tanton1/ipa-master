@@ -20,7 +20,7 @@ export default async function ErrorPage({ params }: { params: Promise<{ code: st
   if (!e) notFound();
   return (
     <>
-      <TopBar back="/errors" eyebrow={`Lesson • VEI-${e.code}`} title={e.title} subtitle={e.examples.join(', ')} />
+      <TopBar back="/errors" eyebrow={`Chữa lỗi • ${e.code}`} title={e.title} subtitle={e.examples.join(', ')} />
       <ErrorLesson code={e.code} />
     </>
   );
