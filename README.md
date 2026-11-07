@@ -1,49 +1,48 @@
 # IPA MASTER – English From Vietnamese
 
-Ứng dụng học phát âm tiếng Anh dành riêng cho người Việt. Bản MVP Giai đoạn 1 (IPA Foundation): hệ âm, đối chiếu Việt – Anh, khẩu hình, bộ 500 từ cốt lõi, ghi âm tự so sánh và ôn tập ngắt quãng. Chưa có AI chấm điểm (Giai đoạn 2).
+Hệ thống huấn luyện phát âm tiếng Anh dành cho người Việt. Bản hiện tại triển khai phần chạy được trên thiết bị của đặc tả 2.0: IPA Foundation 6 cấp độ, thư viện lỗi Việt – Anh (VEI E01–E10), giáo trình 500 từ có phân loại 5 chiều, Gold Set 30 bài chuẩn, bài kiểm tra đầu vào, bản đồ phát âm cá nhân, Word Mastery và ôn tập 1 → 3 → 7 → 14 → 30 ngày. Chưa có AI chấm âm vị, đăng nhập đa thiết bị và CMS (cần backend, xem `docs/architecture.md`).
 
-## Chạy thử
+Bản đang chạy: https://ipa-master-vn.vercel.app
+
+## Lệnh
 
 ```bash
 npm install
-npm run dev
+npm run dev        # máy chủ phát triển
+npm run words      # kiểm tra content/words/*.txt và sinh src/data/words.json
+npm run build      # build tĩnh vào out/ (gồm /data/curriculum.v2.json và /data/word.schema.json)
+npm run docs       # sau build: sinh docs/ (Excel 13 sheet, Markdown blueprint, JSON v2, schema)
+npm test           # kiểm thử engine chất lượng bản ghi
 ```
 
-Mở `http://localhost:3000` (hoặc cổng được in ra). Giao diện tối ưu cho điện thoại; trên máy tính hãy thu hẹp cửa sổ hoặc dùng chế độ mobile của DevTools.
+## Cấu trúc chính
 
-Bản production (xuất tĩnh vào thư mục `out/`, deploy được lên Firebase Hosting, Vercel, Netlify, GitHub Pages…):
-
-```bash
-npm run build
-```
-
-## Cấu trúc
-
-| Thư mục | Nội dung |
+| Đường dẫn | Nội dung |
 | --- | --- |
-| `content/words/01.txt … 10.txt` | **Nguồn dữ liệu 500 từ** (10 nhóm × 50 từ). Mỗi dòng: `word\|ipa\|pos\|nghĩa\|câu EN\|câu VI\|cặp từ\|ghi chú`. Sửa ở đây rồi chạy `npm run words`. |
-| `scripts/build-words.mts` | Đọc nguồn, phân tích IPA, kiểm tra (đủ 50 từ/nhóm, không trùng, ký hiệu hợp lệ, có trọng âm), tự tìm đồng âm và cặp tối thiểu, sinh `src/data/words.json`. |
-| `src/data/phonemes/` | Thư viện 40 âm Anh-Mỹ: cách tạo âm, so với tiếng Việt, lỗi thường gặp, mẹo cảm nhận, chữ viết. |
-| `src/data/contrast.ts` | 6 bài đối chiếu Việt – Anh (/θ/, /ð/, /ɪ/–/i/, /æ/–/ɛ/, /s/–/z/, /ɹ/–/l/) với cặp từ, bước sửa, cảm nhận. |
-| `src/data/contrast-topics.ts` | 7 khác biệt hệ thống (thanh điệu, nguyên âm, âm cuối, cụm phụ âm, trọng âm, giảm âm, chính tả). |
-| `src/lib/ipa.ts` | Bộ tách IPA → âm vị, đếm âm tiết, xác định trọng âm, chia âm tiết. |
-| `src/lib/errors.ts` | **Vietnamese Pronunciation Error Library**: quy tắc theo âm vị + vị trí → sinh hướng dẫn từng bước và lỗi điển hình cho từng từ. |
-| `src/lib/store.ts` | Tiến độ trên `localStorage`: trạng thái từ, ôn tập ngắt quãng (SM-2 rút gọn), âm hay sai, nhật ký ngày. |
-| `src/lib/curriculum.ts` | Lộ trình 10 tuần (10 từ/ngày), bài hôm nay, từ theo nhóm/âm. |
-| `src/components/MouthDiagram.tsx` | Sơ đồ mặt cắt khoang miệng (SVG) theo từng âm; thay thế tạm cho video khẩu hình 3D. |
-| `src/app/` | Trang: `/` (hôm nay), `/ipa`, `/ipa/[id]`, `/contrast`, `/contrast/[id]`, `/words`, `/words/[group]`, `/words/[group]/[slug]`, `/review`. |
+| `content/words/01.txt … 10.txt` | Nguồn 500 từ (10 chủ đề × 50). Mỗi dòng: `word\|ipa\|pos\|nghĩa\|câu EN\|câu VI\|cặp từ\|ghi chú`. |
+| `scripts/build-words.mts` | Kiểm tra dữ liệu, gắn cụm học, tuần/ngày, mã lỗi E01–E10, độ khó L1–L5 theo hạn ngạch 100/125/125/100/50, cặp tối thiểu. |
+| `src/data/units.ts` | 50 cụm học × 10 từ, tuần = chủ đề, ngày = cụm. |
+| `src/data/vei.ts` | Thư viện lỗi E01–E10 và quy trình chữa 6 bước. |
+| `src/data/gold/` | Gold Set 30 bài chuẩn theo 3 khuôn mẫu: âm khó, trọng âm/giảm âm, cặp từ dễ nhầm. |
+| `src/lib/classify.ts` | Phân loại ngữ âm, mã lỗi, điểm độ khó. |
+| `src/lib/store.ts` | Tiến độ trên thiết bị: Word Mastery, lịch ôn, thống kê theo âm và nhóm lỗi, hồ sơ. |
+| `src/lib/audio-quality.ts` | Engine 1: kiểm tra bản ghi (im lặng, quá nhỏ, ồn, rè, bị cắt). |
+| `src/lib/coach.ts` | Engine 3–4: ghép lỗi vào E01–E10 và phản hồi tiếng Việt theo quy tắc 17.4. |
+| `src/lib/planner.ts` | Engine 5: chọn việc tiếp theo trong ngày. |
+| `src/lib/export.ts` | Dữ liệu giáo trình v2 (46 trường/từ) và JSON Schema. |
+| `docs/` | Tài liệu bàn giao cho đội biên soạn và backend. |
 
-## Bài học 5 bước cho mỗi từ
+## Màn hình
 
-Listen → Understand → Articulate → Record → Apply. Giọng mẫu hiện dùng Web Speech API của trình duyệt (en-US); ghi âm dùng MediaRecorder và chỉ lưu tạm trong phiên, không gửi đi đâu.
+5 tab: Hôm nay, IPA, 500 từ, Luyện nói, Cá nhân. Các màn hình khác nằm trong luồng: Onboarding, Kiểm tra đầu vào, Chi tiết âm, Việt – Anh, Lộ trình 6 cấp độ, Thư viện từ có bộ lọc, Bài học từ 5 bước, Chữa lỗi E01–E10, Trung tâm ôn tập, Speaking Studio có nghe A/B, Bản đồ phát âm.
 
 ## Quy ước phiên âm
 
-General American, ký hiệu: nguyên âm `i ɪ ɛ æ ɑ ɔ ʊ u ʌ ə ɝ ɚ`, nguyên âm đôi `eɪ aɪ oʊ aʊ ɔɪ`, phụ âm `p b t d k g f v θ ð s z ʃ ʒ h tʃ dʒ m n ŋ l ɹ w j`. Trọng âm chính `ˈ`, phụ `ˌ`. Âm vỗ /ɾ/ được ghi chú là biến thể của /t/.
+Hệ nội bộ là âm vị Anh-Mỹ phổ thông: `i ɪ ɛ æ ɑ ɔ ʊ u ʌ ə ɝ ɚ`, `eɪ aɪ oʊ aʊ ɔɪ`, `p b t d k g f v θ ð s z ʃ ʒ h tʃ dʒ m n ŋ l ɹ w j`. Người học có thể chuyển sang kiểu từ điển (`/ʃiːp/`, `/θriː/`); hai kiểu chỉ khác ký hiệu.
 
-## Việc cần làm trước khi phát hành
+## Trước khi phát hành
 
-- Giáo viên ngữ âm đối soát toàn bộ IPA, cách đọc thay thế và trọng âm với Cambridge/Oxford.
-- Thay giọng tổng hợp bằng audio người bản ngữ; thêm video khẩu hình 3 góc nhìn.
-- Thử bài học trên người Việt thật và cập nhật thư viện lỗi.
-- Giai đoạn 2: AI Pronunciation Coach (STT + đánh giá âm vị + phản hồi tiếng Việt có mức độ tin cậy).
+- Toàn bộ nội dung đang ở trạng thái `draft`: cần giáo viên ngữ âm duyệt IPA, trọng âm, biến thể và hướng dẫn khẩu hình.
+- Thay giọng tổng hợp bằng audio bản ngữ có giấy phép; thêm minh hoạ khẩu hình đã kiểm duyệt.
+- Gắn tần suất NGSL-Spoken (CC BY-SA 4.0) nếu cần phân biệt "500 từ tuyển chọn" với "500 từ phổ biến nhất".
+- Kiểm thử với người học Việt thật; đo Human Agreement trước khi dùng điểm AI để xếp cấp độ.

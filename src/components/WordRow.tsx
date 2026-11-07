@@ -2,18 +2,20 @@
 
 import Link from 'next/link';
 import type { WordEntry } from '@/data/types';
-import { useAppState } from '@/lib/store';
+import { useAppState, STATUS_LABEL } from '@/lib/store';
 import { PlayButton } from './PlayButton';
-import { IconChevronRight } from './icons';
+import { Ipa } from './Ipa';
+import { IconChevronRight, IconStar } from './icons';
 
 const STATUS_DOT: Record<string, string> = {
   new: 'bg-line',
   learning: 'bg-warn',
   review: 'bg-primary',
+  'needs-practice': 'bg-danger',
   mastered: 'bg-accent',
 };
 
-export function WordRow({ w, index }: { w: WordEntry; index?: number }) {
+export function WordRow({ w, index, showMeta = false }: { w: WordEntry; index?: number; showMeta?: boolean }) {
   const { words } = useAppState();
   const st = words[w.slug]?.status ?? 'new';
   const group = String(w.group).padStart(2, '0');
@@ -25,11 +27,15 @@ export function WordRow({ w, index }: { w: WordEntry; index?: number }) {
           <div className="flex items-baseline gap-2">
             {index !== undefined ? <span className="text-[11px] tabular-nums text-muted">{String(index).padStart(3, '0')}</span> : null}
             <span className="truncate font-semibold">{w.word}</span>
-            <span className="ipa truncate text-sm text-muted">/{w.ipa}/</span>
+            <Ipa value={w.ipa} className="truncate text-sm text-muted" />
+            {w.gold ? <IconStar size={12} className="shrink-0 text-warn" aria-label="Gold Set" /> : null}
           </div>
-          <p className="truncate text-xs text-muted">{w.meaning}</p>
+          <p className="truncate text-xs text-muted">
+            {showMeta ? <span className="font-semibold text-ink">L{w.difficulty} • {w.errorCodes.join(' ')} • </span> : null}
+            {w.meaning}
+          </p>
         </div>
-        <span className={`size-2 shrink-0 rounded-full ${STATUS_DOT[st]}`} aria-label={`Trạng thái: ${st}`} />
+        <span className={`size-2 shrink-0 rounded-full ${STATUS_DOT[st]}`} aria-label={`Trạng thái: ${STATUS_LABEL[st as keyof typeof STATUS_LABEL]}`} title={STATUS_LABEL[st as keyof typeof STATUS_LABEL]} />
         <IconChevronRight size={18} className="shrink-0 text-muted" />
       </Link>
     </li>

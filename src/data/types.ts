@@ -53,6 +53,25 @@ export interface WordEntry {
   homophones: string[];
   minimalPairs: MinimalPair[];
   note?: string;
+  /** Cụm học G01-U1 … G10-U5 */
+  unit: string;
+  /** Tuần 1–10, ngày 1–5 (Thứ 2 → Thứ 6) */
+  week: number;
+  day: number;
+  /** L1–L5 theo hạn ngạch 100/125/125/100/50 */
+  difficulty: number;
+  difficultyScore: number;
+  /** Mã lỗi VEI có thể gặp (E01–E10) */
+  errorCodes: string[];
+  initial: string[];
+  nucleus: string;
+  final: string[];
+  /** Thuộc Gold Set 30 bài chuẩn */
+  gold: boolean;
+  /** Mọi nội dung hiện là bản nháp chưa qua kiểm duyệt ngữ âm */
+  status: 'draft' | 'phonetics_review' | 'audio_review' | 'pedagogy_review' | 'published';
+  /** Tần suất NGSL-Spoken: chưa có nguồn nên để null */
+  frequencyRank: number | null;
 }
 
 export interface WordGroup {

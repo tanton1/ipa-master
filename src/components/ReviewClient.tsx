@@ -2,42 +2,49 @@
 
 import Link from 'next/link';
 import { useMemo, useState } from 'react';
-import { useAppState, useHydrated, learnedSlugs, dueSlugs, weakPhonemeIds, streakDays, rateWord, setRate, resetProgress, type Rating } from '@/lib/store';
-import { WORDS, getWord, ROADMAP, wordsOfGroup } from '@/lib/curriculum';
+import { useAppState, useHydrated, dueSlugs, needsPracticeSlugs, rateWord, type Rating } from '@/lib/store';
+import { getWord } from '@/lib/curriculum';
 import { getPhoneme } from '@/data/phonemes';
 import { riskyPhonemes } from '@/lib/errors';
+import { buildFeedback, selfAssessments, codeForPhoneme, type CoachFeedback } from '@/lib/coach';
+import type { AudioQuality } from '@/lib/audio-quality';
 import { ProgressBar } from './ProgressBar';
 import { PlayButton } from './PlayButton';
 import { Recorder } from './Recorder';
-import { IconFlame, IconRepeat, IconCheck, IconChevronRight, IconTarget } from './icons';
+import { Ipa } from './Ipa';
+import { WordRow } from './WordRow';
+import { IconRepeat, IconCheck } from './icons';
 
 export function ReviewClient() {
   const s = useAppState();
   const hydrated = useHydrated();
-  const learned = learnedSlugs(s).length;
-  const due = useMemo(() => dueSlugs(s).map((slug) => getWord(slug)).filter(Boolean), [s]);
-  const weak = weakPhonemeIds(s, 3);
-  const streak = streakDays(s);
+  const due = useMemo(() => dueSlugs(s).map((slug) => getWord(slug)).filter((w): w is NonNullable<typeof w> => !!w), [s]);
+  const needs = needsPracticeSlugs(s).map((slug) => getWord(slug)).filter((w): w is NonNullable<typeof w> => !!w);
 
-  // Phiên ôn tập
   const [session, setSession] = useState<string[] | null>(null);
   const [i, setI] = useState(0);
   const [reveal, setReveal] = useState(false);
+  const [quality, setQuality] = useState<AudioQuality | null>(null);
   const [recorded, setRecorded] = useState(false);
+  const [ab, setAb] = useState(false);
   const [weakSel, setWeakSel] = useState<Set<string>>(new Set());
   const [results, setResults] = useState<Rating[]>([]);
+  const [lastFeedback, setLastFeedback] = useState<{ word: string; fb: CoachFeedback } | null>(null);
   const cur = session ? getWord(session[i] ?? '') : undefined;
   const sessionDone = session !== null && i >= session.length;
 
   function start() {
-    setSession(due.map((w) => w!.slug));
-    setI(0); setReveal(false); setRecorded(false); setWeakSel(new Set()); setResults([]);
+    setSession(due.map((w) => w.slug));
+    setI(0); setReveal(false); setRecorded(false); setAb(false); setQuality(null); setWeakSel(new Set()); setResults([]); setLastFeedback(null);
   }
   function answer(r: Rating) {
     if (!cur) return;
-    rateWord(cur.slug, r, r === 3 ? [] : Array.from(weakSel));
+    const risky = riskyPhonemes(cur);
+    const weak = r === 3 ? [] : Array.from(weakSel);
+    rateWord({ slug: cur.slug, rating: r, checked: risky, weak, weakCodes: weak.map((id) => codeForPhoneme(id, cur)).filter((c): c is NonNullable<typeof c> => !!c), kind: 'review' });
+    setLastFeedback({ word: cur.word, fb: buildFeedback(cur, selfAssessments(risky, weak, ab), recorded ? quality : null) });
     setResults((x) => [...x, r]);
-    setI((n) => n + 1); setReveal(false); setRecorded(false); setWeakSel(new Set());
+    setI((n) => n + 1); setReveal(false); setRecorded(false); setAb(false); setQuality(null); setWeakSel(new Set());
     window.scrollTo({ top: 0, behavior: 'smooth' });
   }
 
@@ -50,13 +57,16 @@ export function ReviewClient() {
           <button type="button" onClick={() => setSession(null)} className="font-semibold text-primary">Thoát</button>
         </div>
         <ProgressBar value={i} max={session.length} label="Tiến độ phiên ôn" />
+        {lastFeedback && lastFeedback.fb.kind === 'fix' ? (
+          <p className="rounded-xl bg-danger-soft/60 p-3 text-xs"><span className="font-semibold">{lastFeedback.word}: </span>{lastFeedback.fb.title}. {lastFeedback.fb.focus[0]?.code ? <Link href={`/errors/${lastFeedback.fb.focus[0].code}`} className="font-semibold text-primary underline">Mở bài sửa {lastFeedback.fb.focus[0].code}</Link> : null}</p>
+        ) : null}
         <section className="card p-5 text-center">
-          <p className="text-xs font-semibold uppercase tracking-wide text-muted">Nhớ cách đọc không?</p>
+          <p className="text-xs font-semibold uppercase tracking-wide text-muted">Nói từ này trước khi xem đáp án</p>
           <h2 className="mt-1 text-4xl font-bold">{cur.word}</h2>
           <p className="mt-1 text-sm text-muted">{cur.meaning}</p>
           {reveal ? (
             <>
-              <p className="ipa mt-3 text-2xl text-primary">/{cur.ipa}/</p>
+              <Ipa value={cur.ipa} className="mt-3 block text-2xl text-primary" />
               <div className="mt-3 flex items-start justify-center gap-8">
                 <PlayButton text={cur.word} size="lg" variant="primary" label="Nghe" />
                 <PlayButton text={cur.exampleEn} size="lg" variant="soft" label="Trong câu" />
@@ -70,8 +80,8 @@ export function ReviewClient() {
         {reveal ? (
           <>
             <section className="card p-4">
-              <h3 className="font-semibold">Ghi âm và so sánh</h3>
-              <div className="mt-2"><Recorder modelText={cur.word} onRecorded={() => setRecorded(true)} compact /></div>
+              <h3 className="font-semibold">Ghi âm và nghe A/B</h3>
+              <div className="mt-2"><Recorder modelText={cur.word} onRecorded={(_, q) => { setRecorded(true); setQuality(q); }} onListenedAB={() => setAb(true)} compact /></div>
             </section>
             <section className="card p-4">
               <p className="text-sm font-medium">Âm nào chưa ổn?</p>
@@ -81,7 +91,7 @@ export function ReviewClient() {
                   return p ? <li key={id}><button type="button" onClick={() => setWeakSel((x) => { const n = new Set(x); if (n.has(id)) n.delete(id); else n.add(id); return n; })} aria-pressed={on} className={`tap ipa rounded-xl border px-3 py-2 text-lg font-semibold ${on ? 'border-danger bg-danger-soft text-danger' : 'border-line bg-surface'}`}>/{p.symbol}/</button></li> : null;
                 })}
               </ul>
-              <p className="mt-4 text-sm font-medium">Bạn đọc từ này thế nào?{!recorded ? <span className="text-muted"> (nên ghi âm trước)</span> : null}</p>
+              <p className="mt-4 text-sm font-medium">Bạn đọc từ này thế nào?</p>
               <div className="mt-2 grid grid-cols-3 gap-2">
                 <button type="button" onClick={() => answer(1)} className="tap rounded-xl border-2 border-danger bg-danger-soft py-3 text-sm font-semibold text-danger">Chưa ổn</button>
                 <button type="button" onClick={() => answer(2)} className="tap rounded-xl border-2 border-warn bg-warn-soft py-3 text-sm font-semibold text-warn">Tạm được</button>
@@ -99,36 +109,28 @@ export function ReviewClient() {
     const good = results.filter((r) => r === 3).length;
     const bad = results.filter((r) => r === 1).length;
     return (
-      <div className="flex flex-col gap-4">
-        <section className="card p-5 text-center">
-          <p className="inline-flex items-center gap-2 text-lg font-bold text-accent"><IconCheck size={22} /> Xong phiên ôn tập</p>
-          <p className="mt-2 text-3xl font-bold tabular-nums">{results.length} từ</p>
-          <p className="mt-1 text-sm text-muted">{good} tốt • {results.length - good - bad} tạm được • {bad} cần luyện lại</p>
-          <p className="mt-3 text-xs text-muted">Từ "chưa ổn" sẽ quay lại ngày mai; từ "tốt" được giãn khoảng cách ôn.</p>
-          <button type="button" onClick={() => setSession(null)} className="tap mt-4 rounded-2xl bg-primary px-6 py-3 font-semibold text-primary-ink">Quay lại</button>
-        </section>
-      </div>
+      <section className="card p-5 text-center">
+        <p className="inline-flex items-center gap-2 text-lg font-bold text-accent"><IconCheck size={22} /> Xong phiên ôn tập</p>
+        <p className="mt-2 text-3xl font-bold tabular-nums">{results.length} từ</p>
+        <p className="mt-1 text-sm text-muted">{good} tốt • {results.length - good - bad} tạm được • {bad} cần luyện lại</p>
+        <p className="mt-3 text-xs text-muted">Từ "chưa ổn" chuyển sang Cần luyện lại và quay lại ngày mai; từ "tốt" được giãn lịch theo chu kỳ 1 → 3 → 7 → 14 → 30 ngày.</p>
+        <button type="button" onClick={() => setSession(null)} className="tap mt-4 rounded-2xl bg-primary px-6 py-3 font-semibold text-primary-ink">Quay lại</button>
+      </section>
     );
   }
 
   return (
     <div className="flex flex-col gap-5">
-      <section className="grid grid-cols-3 gap-2">
-        <div className="card p-3 text-center"><p className="text-2xl font-bold tabular-nums">{hydrated ? learned : '–'}</p><p className="text-[11px] text-muted">Từ đã học</p></div>
-        <div className="card p-3 text-center"><p className="inline-flex items-center gap-1 text-2xl font-bold tabular-nums text-warn"><IconFlame size={18} />{hydrated ? streak : '–'}</p><p className="text-[11px] text-muted">Ngày liên tiếp</p></div>
-        <div className="card p-3 text-center"><p className="text-2xl font-bold tabular-nums text-primary">{hydrated ? due.length : '–'}</p><p className="text-[11px] text-muted">Đến hạn ôn</p></div>
-      </section>
-
       <section className="card p-4">
         <h2 className="flex items-center gap-1.5 font-semibold"><IconRepeat size={18} className="text-primary" /> Ôn tập ngắt quãng</h2>
         <p className="mt-1 text-sm text-muted">
-          {due.length ? `${due.length} từ đến hạn hôm nay. Từ nào bạn nghe nhầm hoặc phát âm chưa ổn sẽ được đưa trở lại sớm hơn.` : learned ? 'Hôm nay không có từ nào đến hạn. Học từ mới hoặc luyện bài Việt – Anh.' : 'Chưa có từ nào trong lịch ôn. Hãy học vài từ trước.'}
+          {!hydrated ? 'Đang tải…' : due.length ? `${due.length} từ đến hạn hôm nay. Từ cần luyện lại được xếp lên trước.` : 'Hôm nay không có từ nào đến hạn.'}
         </p>
         {due.length ? (
           <>
             <ul className="mt-3 flex flex-wrap gap-1.5">
-              {due.slice(0, 12).map((w) => <li key={w!.slug} className="rounded-full bg-surface-2 px-2.5 py-1 text-xs">{w!.word}</li>)}
-              {due.length > 12 ? <li className="rounded-full px-2 py-1 text-xs text-muted">+{due.length - 12}</li> : null}
+              {due.slice(0, 14).map((w) => <li key={w.slug} className={`rounded-full px-2.5 py-1 text-xs ${s.words[w.slug]?.status === 'needs-practice' ? 'bg-danger-soft text-danger' : 'bg-surface-2'}`}>{w.word}</li>)}
+              {due.length > 14 ? <li className="rounded-full px-2 py-1 text-xs text-muted">+{due.length - 14}</li> : null}
             </ul>
             <button type="button" onClick={start} className="tap mt-4 w-full rounded-2xl bg-primary py-3 font-semibold text-primary-ink">Bắt đầu ôn ({due.length} từ)</button>
           </>
@@ -137,66 +139,12 @@ export function ReviewClient() {
         )}
       </section>
 
-      <section>
-        <h2 className="mb-2 flex items-center gap-1.5 font-semibold"><IconTarget size={18} className="text-danger" /> Âm cần luyện thêm</h2>
-        {weak.length ? (
-          <ul className="flex flex-col gap-2">
-            {weak.map((x) => {
-              const p = getPhoneme(x.id);
-              return p ? (
-                <li key={x.id}>
-                  <Link href={p.contrastId ? `/contrast/${p.contrastId}` : `/ipa/${p.id}`} className="card tap flex items-center gap-3 px-4 py-3">
-                    <span className="ipa w-14 text-2xl font-semibold text-primary">/{p.symbol}/</span>
-                    <span className="min-w-0 flex-1"><span className="block font-medium">{p.name}</span><span className="block text-xs text-muted">{x.count} lần đánh dấu chưa ổn • {p.contrastId ? 'mở bài đối chiếu' : 'xem khẩu hình'}</span></span>
-                    <IconChevronRight size={18} className="text-muted" />
-                  </Link>
-                </li>
-              ) : null;
-            })}
-          </ul>
-        ) : (
-          <p className="card p-4 text-sm text-muted">Khi ghi âm, hãy đánh dấu âm bạn thấy chưa ổn. Danh sách sẽ xuất hiện ở đây và trên trang chủ.</p>
-        )}
-      </section>
-
-      <section>
-        <h2 className="mb-2 font-semibold">Lộ trình 10 tuần</h2>
-        <p className="mb-3 text-xs text-muted">Mỗi tuần 5 ngày học từ mới (10 từ/ngày), ngày thứ sáu ôn tập, ngày thứ bảy tự đánh giá. Đây là lộ trình nội dung đề xuất, không phải cam kết thành thạo sau 10 tuần.</p>
-        <ol className="flex flex-col gap-2">
-          {ROADMAP.map((st) => {
-            const total = st.groups.reduce((n, g) => n + wordsOfGroup(g).length, 0);
-            const got = st.groups.reduce((n, g) => n + wordsOfGroup(g).filter((w) => s.words[w.slug] && s.words[w.slug].status !== 'new').length, 0);
-            return (
-              <li key={st.weeks} className="card p-4">
-                <div className="flex items-baseline justify-between">
-                  <p className="font-semibold">{st.weeks} <span className="text-sm font-normal text-muted">• {st.words} từ • {st.pct}%</span></p>
-                  <span className="text-xs tabular-nums text-muted">{hydrated ? got : '–'}/{total}</span>
-                </div>
-                <p className="mt-0.5 text-sm text-muted">{st.focus}</p>
-                <ProgressBar value={got} max={total} className="mt-2 h-1.5" color="accent" label={st.weeks} />
-              </li>
-            );
-          })}
-        </ol>
-      </section>
-
-      <section className="card p-4">
-        <h2 className="font-semibold">Cài đặt</h2>
-        <label className="mt-3 block text-sm">
-          <span className="flex justify-between"><span>Tốc độ giọng mẫu</span><span className="tabular-nums text-muted">{s.settings.rate.toFixed(2)}x</span></span>
-          <input type="range" min={0.7} max={1.2} step={0.05} value={s.settings.rate} onChange={(e) => setRate(Number(e.target.value))} className="mt-2 w-full accent-[var(--c-primary)]" aria-label="Tốc độ giọng mẫu" />
-        </label>
-        <p className="mt-3 text-xs text-muted">Tiến độ và bản ghi tạm chỉ lưu trên thiết bị này. Bản ghi âm không được gửi lên máy chủ.</p>
-        <button
-          type="button"
-          onClick={() => { if (window.confirm('Xoá toàn bộ tiến độ học trên thiết bị này? Không thể khôi phục.')) resetProgress(); }}
-          className="tap mt-3 text-sm font-semibold text-danger"
-        >
-          Xoá tiến độ
-        </button>
-      </section>
-
-      <p className="text-center text-[11px] text-muted">{WORDS.length} từ • 40 âm • 6 bài đối chiếu • 7 khác biệt hệ thống</p>
+      {needs.length ? (
+        <section>
+          <h2 className="mb-2 font-semibold">Cần luyện lại <span className="text-sm font-normal text-muted">({needs.length})</span></h2>
+          <ul className="flex flex-col gap-2">{needs.slice(0, 10).map((w) => <WordRow key={w.slug} w={w} showMeta />)}</ul>
+        </section>
+      ) : null}
     </div>
   );
 }

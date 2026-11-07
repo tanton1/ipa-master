@@ -1,24 +1,31 @@
 'use client';
 
 import { useCallback, useEffect, useRef, useState } from 'react';
-import { IconMic, IconPlay, IconStop, IconRefresh } from './icons';
+import { IconMic, IconPlay, IconStop, IconRefresh, IconAlert, IconCheck } from './icons';
 import { PlayButton } from './PlayButton';
+import { analyzeBlob, QUALITY_MESSAGE, type AudioQuality } from '@/lib/audio-quality';
+import { speak } from '@/lib/tts';
+import { useAppState } from '@/lib/store';
 
 interface Props {
-  /** Văn bản mẫu để so sánh (nút "Nghe mẫu"). */
+  /** Văn bản mẫu để so sánh (nút "Nghe mẫu" và A/B). */
   modelText?: string;
-  onRecorded?: (url: string) => void;
+  onRecorded?: (url: string, quality: AudioQuality | null) => void;
+  /** Gọi khi người học đã nghe A/B ít nhất một lần */
+  onListenedAB?: () => void;
   compact?: boolean;
 }
 
-type Status = 'idle' | 'recording' | 'recorded' | 'denied' | 'unsupported';
+type Status = 'idle' | 'recording' | 'analyzing' | 'recorded' | 'denied' | 'unsupported';
 
-export function Recorder({ modelText, onRecorded, compact = false }: Props) {
+export function Recorder({ modelText, onRecorded, onListenedAB, compact = false }: Props) {
   const [status, setStatus] = useState<Status>('idle');
   const [url, setUrl] = useState<string | null>(null);
   const [levels, setLevels] = useState<number[]>(() => Array(16).fill(0));
   const [seconds, setSeconds] = useState(0);
-  const [playing, setPlaying] = useState(false);
+  const [playing, setPlaying] = useState<'none' | 'own' | 'ab-model' | 'ab-own'>('none');
+  const [quality, setQuality] = useState<AudioQuality | null>(null);
+  const { settings } = useAppState();
 
   const recRef = useRef<MediaRecorder | null>(null);
   const chunksRef = useRef<Blob[]>([]);
@@ -27,6 +34,7 @@ export function Recorder({ modelText, onRecorded, compact = false }: Props) {
   const rafRef = useRef<number | null>(null);
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const tickRef = useRef<number | null>(null);
+  const urlRef = useRef<string | null>(null);
 
   useEffect(() => {
     if (typeof navigator === 'undefined' || !navigator.mediaDevices?.getUserMedia || typeof MediaRecorder === 'undefined') {
@@ -34,9 +42,8 @@ export function Recorder({ modelText, onRecorded, compact = false }: Props) {
     }
     return () => {
       cleanup();
-      if (url) URL.revokeObjectURL(url);
+      if (urlRef.current) URL.revokeObjectURL(urlRef.current);
     };
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   function cleanup() {
@@ -56,16 +63,20 @@ export function Recorder({ modelText, onRecorded, compact = false }: Props) {
       const rec = new MediaRecorder(stream);
       recRef.current = rec;
       rec.ondataavailable = (e) => { if (e.data.size > 0) chunksRef.current.push(e.data); };
-      rec.onstop = () => {
-        const blob = new Blob(chunksRef.current, { type: rec.mimeType || 'audio/webm' });
-        const u = URL.createObjectURL(blob);
-        setUrl((old) => { if (old) URL.revokeObjectURL(old); return u; });
-        setStatus('recorded');
-        onRecorded?.(u);
+      rec.onstop = async () => {
         cleanup();
         setLevels(Array(16).fill(0));
+        setStatus('analyzing');
+        const blob = new Blob(chunksRef.current, { type: rec.mimeType || 'audio/webm' });
+        const u = URL.createObjectURL(blob);
+        if (urlRef.current) URL.revokeObjectURL(urlRef.current);
+        urlRef.current = u;
+        setUrl(u);
+        const q = await analyzeBlob(blob);
+        setQuality(q);
+        setStatus('recorded');
+        onRecorded?.(u, q);
       };
-      // Mức âm lượng trực quan
       const Ctx = window.AudioContext || (window as unknown as { webkitAudioContext: typeof AudioContext }).webkitAudioContext;
       const ctx = new Ctx();
       ctxRef.current = ctx;
@@ -83,10 +94,10 @@ export function Recorder({ modelText, onRecorded, compact = false }: Props) {
       };
       loop();
       setSeconds(0);
+      setQuality(null);
       tickRef.current = window.setInterval(() => setSeconds((s) => s + 1), 1000);
       rec.start();
       setStatus('recording');
-      // Tự dừng sau 15 giây
       window.setTimeout(() => { if (recRef.current?.state === 'recording') recRef.current.stop(); }, 15000);
     } catch {
       setStatus('denied');
@@ -98,21 +109,38 @@ export function Recorder({ modelText, onRecorded, compact = false }: Props) {
     if (recRef.current && recRef.current.state === 'recording') recRef.current.stop();
   }, []);
 
-  const play = useCallback(() => {
+  const playOwn = useCallback((then?: () => void) => {
     if (!url) return;
     if (!audioRef.current) audioRef.current = new Audio();
     const a = audioRef.current;
     a.src = url;
-    a.onended = () => setPlaying(false);
-    a.play().then(() => setPlaying(true)).catch(() => setPlaying(false));
+    a.onended = () => { setPlaying('none'); then?.(); };
+    a.play().catch(() => setPlaying('none'));
   }, [url]);
 
+  const playAB = useCallback(() => {
+    if (!modelText || !url) return;
+    setPlaying('ab-model');
+    speak(modelText, {
+      rate: settings.rate,
+      voiceURI: settings.voiceURI,
+      onEnd: () => {
+        window.setTimeout(() => {
+          setPlaying('ab-own');
+          playOwn(() => onListenedAB?.());
+        }, 350);
+      },
+    });
+  }, [modelText, url, playOwn, settings.rate, settings.voiceURI, onListenedAB]);
+
   const reset = useCallback(() => {
-    if (url) URL.revokeObjectURL(url);
+    if (urlRef.current) URL.revokeObjectURL(urlRef.current);
+    urlRef.current = null;
     setUrl(null);
+    setQuality(null);
     setStatus('idle');
     setSeconds(0);
-  }, [url]);
+  }, []);
 
   if (status === 'unsupported') {
     return <p className="rounded-xl bg-warn-soft p-3 text-sm text-warn">Trình duyệt này không hỗ trợ ghi âm. Hãy mở bằng Chrome, Edge hoặc Safari mới.</p>;
@@ -126,19 +154,17 @@ export function Recorder({ modelText, onRecorded, compact = false }: Props) {
     );
   }
 
+  const recorded = status === 'recorded' && url;
+
   return (
     <div className={`flex flex-col items-center gap-3 ${compact ? '' : 'py-2'}`}>
       <div className="flex h-10 items-end gap-1" aria-hidden>
         {levels.map((v, i) => (
-          <span
-            key={i}
-            className={`w-1.5 rounded-full transition-[height] duration-75 ${status === 'recording' ? 'bg-danger' : 'bg-line'}`}
-            style={{ height: `${Math.max(6, v * 40)}px` }}
-          />
+          <span key={i} className={`w-1.5 rounded-full transition-[height] duration-75 ${status === 'recording' ? 'bg-danger' : 'bg-line'}`} style={{ height: `${Math.max(6, v * 40)}px` }} />
         ))}
       </div>
 
-      <div className="flex items-center gap-4">
+      <div className="flex items-start gap-4">
         {modelText ? <PlayButton text={modelText} size="md" variant="soft" label="Nghe mẫu" /> : null}
 
         {status === 'recording' ? (
@@ -150,24 +176,46 @@ export function Recorder({ modelText, onRecorded, compact = false }: Props) {
           </div>
         ) : (
           <div className="flex flex-col items-center gap-1">
-            <button type="button" onClick={start} aria-label={status === 'recorded' ? 'Ghi âm lại' : 'Bắt đầu ghi âm'} className="tap flex size-16 items-center justify-center rounded-full bg-primary text-primary-ink shadow-md">
-              {status === 'recorded' ? <IconRefresh size={26} /> : <IconMic size={28} />}
+            <button type="button" onClick={start} disabled={status === 'analyzing'} aria-label={recorded ? 'Ghi âm lại' : 'Bắt đầu ghi âm'} className="tap flex size-16 items-center justify-center rounded-full bg-primary text-primary-ink shadow-md disabled:opacity-60">
+              {recorded ? <IconRefresh size={26} /> : <IconMic size={28} />}
             </button>
-            <span className="text-xs text-muted">{status === 'recorded' ? 'Ghi lại' : 'Ghi âm'}</span>
+            <span className="text-xs text-muted">{status === 'analyzing' ? 'Đang kiểm tra…' : recorded ? 'Ghi lại' : 'Ghi âm'}</span>
           </div>
         )}
 
-        {status === 'recorded' && url ? (
+        {recorded ? (
           <div className="flex flex-col items-center gap-1">
-            <button type="button" onClick={play} aria-label="Nghe lại bản ghi của bạn" className="tap flex size-12 items-center justify-center rounded-full bg-accent-soft text-accent">
-              {playing ? <IconStop size={20} /> : <IconPlay size={20} />}
+            <button type="button" onClick={() => { setPlaying('own'); playOwn(); }} aria-label="Nghe lại bản ghi của bạn" className="tap flex size-12 items-center justify-center rounded-full bg-accent-soft text-accent">
+              {playing === 'own' ? <IconStop size={20} /> : <IconPlay size={20} />}
             </button>
             <span className="text-xs text-muted">Của bạn</span>
           </div>
         ) : null}
       </div>
 
-      {status === 'recorded' ? <button type="button" onClick={reset} className="text-xs text-muted underline">Xoá bản ghi</button> : null}
+      {recorded && modelText ? (
+        <button type="button" onClick={playAB} disabled={playing !== 'none'} className="tap inline-flex items-center gap-2 rounded-full border border-line bg-surface px-4 py-2 text-sm font-semibold disabled:opacity-70">
+          <span className={`rounded px-1.5 text-xs ${playing === 'ab-model' ? 'bg-primary text-primary-ink' : 'bg-surface-2'}`}>A</span>
+          Nghe A/B: mẫu rồi bạn
+          <span className={`rounded px-1.5 text-xs ${playing === 'ab-own' ? 'bg-accent text-white' : 'bg-surface-2'}`}>B</span>
+        </button>
+      ) : null}
+
+      {recorded && quality ? (
+        quality.ok ? (
+          <p className="flex items-start gap-1.5 text-xs text-accent">
+            <IconCheck size={14} className="mt-0.5 shrink-0" />
+            <span>Bản ghi đủ rõ để đánh giá{quality.warnings.length ? `. Lưu ý: ${quality.warnings.map((w) => QUALITY_MESSAGE[w]).join(' ')}` : '.'}</span>
+          </p>
+        ) : (
+          <p className="flex items-start gap-1.5 rounded-xl bg-warn-soft p-2.5 text-xs text-warn">
+            <IconAlert size={14} className="mt-0.5 shrink-0" />
+            <span>{quality.blocking.map((w) => QUALITY_MESSAGE[w]).join(' ')}</span>
+          </p>
+        )
+      ) : null}
+
+      {recorded ? <button type="button" onClick={reset} className="text-xs text-muted underline">Xoá bản ghi</button> : null}
       {status === 'idle' ? <p className="text-center text-xs text-muted">Bản ghi chỉ lưu tạm trong phiên này và không được gửi đi đâu.</p> : null}
     </div>
   );

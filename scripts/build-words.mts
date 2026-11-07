@@ -5,8 +5,16 @@
 import { readFileSync, readdirSync, writeFileSync, mkdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { analyzeIpa, normalizeIpa } from '../src/lib/ipa.ts';
+import { analyzeIpa, normalizeIpa, type IpaToken } from '../src/lib/ipa.ts';
+import { errorCodes, difficultyScore, assignLevels, positions, DIFFICULTY_QUOTA, type ClassifyInput } from '../src/lib/classify.ts';
 import type { WordEntry, MinimalPair } from '../src/data/types.ts';
+import { GOLD_A } from '../src/data/gold/set-a.ts';
+import { GOLD_B } from '../src/data/gold/set-b.ts';
+
+const VOICING: [string, string][] = [['s', 'z'], ['f', 'v'], ['t', 'd'], ['k', 'g'], ['p', 'b'], ['th', 'dh'], ['ch', 'jh'], ['sh', 'zh']];
+const CONFUSABLE_VOWELS: [string, string][] = [['ih', 'i'], ['ae', 'eh'], ['uh', 'u'], ['ae', 'ah'], ['ah', 'aa'], ['aa', 'ao'], ['ao', 'ow'], ['eh', 'ey'], ['ih', 'eh']];
+const isVowelPair = (a: string, b: string) => CONFUSABLE_VOWELS.some(([x, y]) => (a === x && b === y) || (a === y && b === x));
+const isVoicingPair = (a: string, b: string) => VOICING.some(([x, y]) => (a === x && b === y) || (a === y && b === x));
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const SRC_DIR = join(ROOT, 'content', 'words');
@@ -47,6 +55,7 @@ for (const r of raws) {
 }
 
 const entries: WordEntry[] = [];
+const tokensById = new Map<number, IpaToken[]>();
 raws.forEach((r, idx) => {
   try {
     const a = analyzeIpa(r.ipa);
@@ -68,7 +77,10 @@ raws.forEach((r, idx) => {
       homophones: [],
       minimalPairs: [],
       note: r.note,
+      unit: '', week: 0, day: 0, difficulty: 0, difficultyScore: 0, errorCodes: [],
+      initial: [], nucleus: '', final: [], gold: false, status: 'draft', frequencyRank: null,
     });
+    tokensById.set(idx + 1, a.tokens);
   } catch (e) {
     errors.push(`${r.file}:${r.line} ${(e as Error).message}`);
   }
@@ -108,6 +120,47 @@ for (const e of entries) {
   e.minimalPairs.sort((x, y) => x.word.localeCompare(y.word));
 }
 
+// Cụm học, tuần/ngày, phân loại ngữ âm, độ khó, Gold Set
+const GOLD = new Map([...GOLD_A, ...GOLD_B].map((g) => [g.slug, g]));
+for (const g of GOLD.keys()) if (!bySlug.has(g)) errors.push(`Gold Set: "${g}" không có trong 500 từ`);
+const perGroup = new Map<number, number>();
+const scores: { id: number; score: number }[] = [];
+for (const e of entries) {
+  const k = perGroup.get(e.group) ?? 0;
+  perGroup.set(e.group, k + 1);
+  const unitIndex = Math.floor(k / 10) + 1;
+  e.unit = `G${String(e.group).padStart(2, '0')}-U${unitIndex}`;
+  e.week = e.group;
+  e.day = unitIndex;
+  const tokens = tokensById.get(e.id) ?? [];
+  const pairs = [...e.minimalPairs.map((m) => m.diff)];
+  if (e.pair) {
+    try {
+      const other = analyzeIpa(e.pair.ipa).phonemeIds;
+      if (other.length === e.phonemes.length) {
+        const d = e.phonemes.map((p, i) => [p, other[i]] as [string, string]).filter(([a, b]) => a !== b);
+        if (d.length === 1) pairs.push(d[0]);
+      }
+    } catch { /* đã kiểm ở trên */ }
+  }
+  const input: ClassifyInput = {
+    word: e.word, pos: e.pos, tokens, syllables: e.syllables, stress: e.stress, note: e.note,
+    vowelPair: pairs.some(([a, b]) => isVowelPair(a, b)),
+    voicingPair: pairs.some(([a, b]) => isVoicingPair(a, b)),
+  };
+  const gold = GOLD.get(e.slug);
+  e.errorCodes = gold ? [...gold.codes].sort() : errorCodes(input);
+  e.difficultyScore = difficultyScore(input);
+  scores.push({ id: e.id, score: e.difficultyScore });
+  const p = positions(tokens, e.stress);
+  e.initial = p.initial; e.nucleus = p.nucleus; e.final = p.final;
+  e.gold = !!gold;
+}
+const levels = assignLevels(scores);
+for (const e of entries) e.difficulty = levels.get(e.id) ?? 3;
+const levelCount = [1, 2, 3, 4, 5].map((l) => entries.filter((e) => e.difficulty === l).length);
+if (levelCount.join() !== DIFFICULTY_QUOTA.join()) errors.push(`Phân bổ độ khó ${levelCount.join('/')} khác hạn ngạch ${DIFFICULTY_QUOTA.join('/')}`);
+
 if (errors.length) {
   console.error(`\n✗ ${errors.length} lỗi dữ liệu:`);
   for (const er of errors) console.error('  - ' + er);
@@ -121,4 +174,8 @@ const phonemeCount: Record<string, number> = {};
 for (const e of entries) for (const p of e.phonemes) phonemeCount[p] = (phonemeCount[p] ?? 0) + 1;
 const pairs = entries.reduce((n, e) => n + e.minimalPairs.length, 0) / 2;
 console.log(`✓ ${entries.length} từ, ${Object.keys(phonemeCount).length} âm vị dùng, ${pairs} cặp tối thiểu tự động, ${entries.filter((e) => e.homophones.length).length} từ có đồng âm`);
+const codeCount: Record<string, number> = {};
+for (const e of entries) for (const c of e.errorCodes) codeCount[c] = (codeCount[c] ?? 0) + 1;
+console.log(`  Độ khó L1–L5: ${levelCount.join('/')} • Gold Set: ${entries.filter((e) => e.gold).length} từ`);
+console.log('  Mã lỗi:', Object.entries(codeCount).sort().map(([k, v]) => `${k}:${v}`).join(' '));
 console.log('  Âm vị theo số lần xuất hiện:', Object.entries(phonemeCount).sort((a, b) => b[1] - a[1]).map(([k, v]) => `${k}:${v}`).join(' '));

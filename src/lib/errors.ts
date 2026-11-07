@@ -7,6 +7,7 @@
 import type { WordEntry } from '@/data/types';
 import { getPhoneme } from '@/data/phonemes';
 import { VOWEL_IDS } from '@/lib/ipa';
+import { codeForPhoneme } from '@/lib/coach';
 
 export type Severity = 'high' | 'medium' | 'low';
 
@@ -16,6 +17,7 @@ export interface Issue {
   detail: string;
   phoneme?: string;
   severity: Severity;
+  code?: string;
 }
 
 export interface Step {
@@ -63,7 +65,7 @@ const DIFFICULT: Record<string, { title: string; detail: string }> = {
   y: { title: 'Đọc /j/ thành /z/', detail: 'Bắt đầu từ "i" rồi lướt sang nguyên âm; người miền Bắc hay đọc thành "d/z".' },
   w: { title: 'Nhầm /w/ với /v/', detail: 'Môi tròn chặt như huýt sáo rồi mở nhanh; răng không chạm môi.' },
   schwa: { title: 'Đọc rõ nguyên âm ở âm tiết không nhấn', detail: 'Âm tiết không nhấn phải ngắn, nhẹ, thành /ə/ ("ơ" rất ngắn).' },
-  ow: { title: 'Đọc /oʊ/ thành "o/ô" đơn', detail: 'Phải lướt từ /o/ sang /ʊ/, kết thúc bằng môi tròn (no → "nâu", không phải "nó").' },
+  ow: { title: 'Đọc /oʊ/ thành "o/ô" đơn', detail: 'Phải lướt từ /o/ sang /ʊ/, kết thúc bằng môi tròn; không dừng ở một nguyên âm đơn.' },
   aa: { title: 'Thấy chữ o đọc thành "ô"', detail: 'Chữ o trong hot, not, box là /ɑ/: miệng mở rộng, lưỡi lùi, không tròn môi.' },
   ah: { title: 'Thấy chữ u đọc thành "u"', detail: 'Chữ u trong cup, bus là /ʌ/, gần "ă" tiếng Việt.' },
 };
@@ -130,6 +132,7 @@ export function wordIssues(w: WordEntry): Issue[] {
         detail,
         phoneme: last,
         severity: VOICED_FINALS.has(last) || ['s', 'th', 'l'].includes(last) ? 'high' : 'medium',
+        code: VOICED_FINALS.has(last) && w.errorCodes.includes('E04') ? 'E04' : 'E03',
       });
     }
   }
@@ -139,7 +142,7 @@ export function wordIssues(w: WordEntry): Issue[] {
   for (let i = ids.length - 1; i >= 0 && !isVowel(ids[i]); i--) tail++;
   if (tail >= 2) {
     const cluster = ids.slice(ids.length - tail).map((id) => getPhoneme(id)?.symbol ?? id).join('');
-    push({ id: 'final-cluster', title: `Bỏ âm trong cụm cuối /${cluster}/`, detail: 'Đọc đủ từng phụ âm trong cụm, âm cuối cùng nhẹ nhưng phải có. Tiếng Việt không có cụm phụ âm cuối nên người Việt thường chỉ giữ một âm.', severity: 'high' });
+    push({ id: 'final-cluster', title: `Bỏ âm trong cụm cuối /${cluster}/`, detail: 'Đọc đủ từng phụ âm trong cụm, âm cuối cùng nhẹ nhưng phải có. Tiếng Việt không có cụm phụ âm cuối nên người Việt thường chỉ giữ một âm.', severity: 'high', code: 'E05' });
   }
 
   // Cụm phụ âm đầu
@@ -147,7 +150,7 @@ export function wordIssues(w: WordEntry): Issue[] {
   for (let i = 0; i < ids.length && !isVowel(ids[i]); i++) head++;
   if (head >= 2) {
     const cluster = ids.slice(0, head).map((id) => getPhoneme(id)?.symbol ?? id).join('');
-    push({ id: 'initial-cluster', title: `Chèn nguyên âm vào cụm đầu /${cluster}/`, detail: 'Không đọc "sờ", "tờ" giữa các phụ âm. Luyện từ âm cuối cụm lùi dần về đầu rồi nối liền.', severity: 'high' });
+    push({ id: 'initial-cluster', title: `Chèn nguyên âm vào cụm đầu /${cluster}/`, detail: 'Không đọc "sờ", "tờ" giữa các phụ âm. Luyện từ âm cuối cụm lùi dần về đầu rồi nối liền.', severity: 'high', code: 'E05' });
   }
 
   // Âm khó theo vị trí bất kỳ
@@ -156,12 +159,12 @@ export function wordIssues(w: WordEntry): Issue[] {
     if (!d) continue;
     if (id === 'schwa' && w.syllables === 1) continue;
     const p = getPhoneme(id);
-    push({ id: 'sound-' + id, title: d.title, detail: d.detail, phoneme: id, severity: p?.priority === 1 ? 'high' : 'medium' });
+    push({ id: 'sound-' + id, title: d.title, detail: d.detail, phoneme: id, severity: p?.priority === 1 ? 'high' : 'medium', code: codeForPhoneme(id, w) });
   }
 
   // Trọng âm
   if (w.syllables >= 2) {
-    push({ id: 'stress', title: `Đọc đều các âm tiết, không nhấn âm tiết ${w.stress + 1}`, detail: `Từ có ${w.syllables} âm tiết, trọng âm rơi vào âm tiết thứ ${w.stress + 1}. Âm tiết đó to, dài, cao hơn; các âm tiết khác thu nhỏ.`, severity: w.syllables >= 3 ? 'high' : 'medium' });
+    push({ id: 'stress', title: `Đọc đều các âm tiết, không nhấn âm tiết ${w.stress + 1}`, detail: `Từ có ${w.syllables} âm tiết, trọng âm rơi vào âm tiết thứ ${w.stress + 1}. Âm tiết đó to, dài, cao hơn; các âm tiết khác thu nhỏ.`, severity: w.syllables >= 3 ? 'high' : 'medium', code: 'E08' });
   }
 
   // Cặp từ dễ nhầm

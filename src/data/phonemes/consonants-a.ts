@@ -26,7 +26,7 @@ export const CONSONANTS_A: Phoneme[] = [
     step: 'đầu lưỡi chạm lợi trên, bật hơi mạnh, âm /t/',
     vnCompare: '"t" tiếng Việt không bật hơi. /t/ đầu từ tiếng Anh gần với "th" tiếng Việt (bật hơi) hơn là "t".',
     errors: ['Không bật hơi (ten nghe như đen)', 'Bỏ /t/ cuối (it, that, what)'],
-    tip: 'Thử đọc "ten" bằng "th" tiếng Việt: "then".',
+    tip: 'Đặt tờ giấy trước miệng: giấy phải bay khi nói ten, time.',
   },
   {
     id: 'd', symbol: 'd', type: 'consonant', name: 'Âm bật lợi, hữu thanh', priority: 2, voiced: true, place: 'Đầu lưỡi – lợi trên', manner: 'Âm bật (tắc)',

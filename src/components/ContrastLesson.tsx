@@ -8,7 +8,8 @@ import { MouthDiagram } from './MouthDiagram';
 import { PlayButton } from './PlayButton';
 import { Recorder } from './Recorder';
 import { useTts } from '@/lib/tts';
-import { setState } from '@/lib/store';
+import { recordListen, recordSpeak } from '@/lib/store';
+import { VEI } from '@/data/vei';
 import { IconCheck, IconAlert, IconSparkle, IconEar } from './icons';
 
 const SUBSTITUTES: Record<string, string[]> = { th: ['t', 's'], dh: ['d', 'z'] };
@@ -46,6 +47,7 @@ export function ContrastLesson({ lesson }: { lesson: Lesson }) {
     if (!current || answer) return;
     setAnswer(side);
     if (side === current.side) setScore((s) => s + 1);
+    recordListen({ correct: side === current.side, phonemes: lesson.sounds, codes });
   }
   function next() {
     if (!quiz) return;
@@ -61,15 +63,11 @@ export function ContrastLesson({ lesson }: { lesson: Lesson }) {
   const practicePair = lesson.pairs[pairIdx];
   const modelText = useMemo(() => `${practicePair.a.word}. ${practicePair.b.word}.`, [practicePair]);
 
+  const codes = VEI.filter((e) => e.contrastId === lesson.id || lesson.sounds.some((id) => e.phonemes.includes(id))).map((e) => e.code).slice(0, 1);
+
   function rate(ok: boolean) {
     setSelfRated(ok ? 'ok' : 'bad');
-    if (!ok) {
-      setState((s) => {
-        const issues = { ...s.phonemeIssues };
-        for (const id of lesson.sounds) issues[id] = (issues[id] ?? 0) + 1;
-        return { ...s, phonemeIssues: issues };
-      });
-    }
+    recordSpeak(lesson.sounds, ok, codes);
   }
 
   return (
@@ -212,7 +210,7 @@ export function ContrastLesson({ lesson }: { lesson: Lesson }) {
               <button type="button" onClick={() => rate(false)} className={`tap rounded-xl border-2 px-3 py-2 text-sm font-semibold ${selfRated === 'bad' ? 'border-danger bg-danger-soft text-danger' : 'border-line bg-surface'}`}>Chưa rõ, cần luyện</button>
               <button type="button" onClick={() => rate(true)} className={`tap rounded-xl border-2 px-3 py-2 text-sm font-semibold ${selfRated === 'ok' ? 'border-accent bg-accent-soft text-accent' : 'border-line bg-surface'}`}>Đã phân biệt được</button>
             </div>
-            {selfRated === 'bad' ? <p className="mt-2 text-xs text-muted">Đã ghi nhận. Âm này sẽ xuất hiện trong "Ba âm cần luyện thêm" ở trang chủ.</p> : null}
+            {selfRated === 'bad' ? <p className="mt-2 text-xs text-muted">Đã ghi nhận vào bản đồ âm. Âm này sẽ được ưu tiên trong kế hoạch hôm nay.</p> : null}
             {selfRated === 'ok' ? <p className="mt-2 text-xs text-muted">Tốt. Thử cặp khác hoặc đọc các từ này trong câu ở mục 500 từ.</p> : null}
           </div>
         ) : null}
