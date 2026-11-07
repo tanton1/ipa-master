@@ -10,14 +10,14 @@ export const metadata: Metadata = { title: 'Đối chiếu Việt – Anh' };
 export default function ContrastPage() {
   return (
     <>
-      <TopBar title="Việt – Anh" subtitle="Vì sao người Việt đọc sai và sửa thế nào" />
+      <TopBar eyebrow="Gốc rễ lỗi sai" title="Việt – Anh" subtitle="Vì sao người Việt đọc sai và sửa thế nào" />
       <main className="flex flex-col gap-6 px-4 pt-4">
         <p className="text-sm leading-relaxed text-muted">
           Thay vì học vẹt cách đọc, bạn sẽ hiểu hai ngôn ngữ khác nhau ở đâu: thanh điệu, nguyên âm, âm cuối, cụm phụ âm, trọng âm, giảm âm và chính tả. Mỗi khác biệt đi kèm lỗi điển hình và cách sửa.
         </p>
 
         <section aria-labelledby="topics-title">
-          <h2 id="topics-title" className="mb-2 font-semibold">Bảy khác biệt cần biết trước</h2>
+          <h2 id="topics-title" className="mb-2 text-lg font-extrabold">Bảy khác biệt cần biết trước</h2>
           <ul className="flex flex-col gap-2">
             {CONTRAST_TOPICS.map((t, i) => (
               <li key={t.id}>
@@ -31,10 +31,10 @@ export default function ContrastPage() {
                     <IconChevronRight size={18} className="shrink-0 text-muted transition-transform group-open:rotate-90" />
                   </summary>
                   <dl className="mt-3 grid gap-2 text-sm">
-                    <div className="rounded-xl bg-surface-2 p-3"><dt className="text-[11px] font-semibold uppercase tracking-wide text-muted">Tiếng Việt</dt><dd>{t.vietnamese}</dd></div>
-                    <div className="rounded-xl bg-surface-2 p-3"><dt className="text-[11px] font-semibold uppercase tracking-wide text-muted">Tiếng Anh</dt><dd>{t.english}</dd></div>
-                    <div className="rounded-xl bg-danger-soft p-3"><dt className="text-[11px] font-semibold uppercase tracking-wide text-danger">Lỗi cần khắc phục</dt><dd>{t.error}</dd></div>
-                    <div className="rounded-xl bg-accent-soft p-3"><dt className="text-[11px] font-semibold uppercase tracking-wide text-accent">Cách sửa</dt><dd>{t.fix}</dd></div>
+                    <div className="rounded-xl bg-surface-2 p-3"><dt className="eyebrow text-muted">Tiếng Việt</dt><dd>{t.vietnamese}</dd></div>
+                    <div className="rounded-xl bg-surface-2 p-3"><dt className="eyebrow text-muted">Tiếng Anh</dt><dd>{t.english}</dd></div>
+                    <div className="rounded-xl bg-danger-soft p-3"><dt className="eyebrow text-danger">Lỗi cần khắc phục</dt><dd>{t.error}</dd></div>
+                    <div className="rounded-xl bg-accent-soft p-3"><dt className="eyebrow text-accent">Cách sửa</dt><dd>{t.fix}</dd></div>
                   </dl>
                 </details>
               </li>
@@ -43,7 +43,7 @@ export default function ContrastPage() {
         </section>
 
         <section aria-labelledby="sounds-title">
-          <h2 id="sounds-title" className="mb-1 font-semibold">Các nhóm âm cần ưu tiên</h2>
+          <h2 id="sounds-title" className="mb-1 text-lg font-extrabold">Các nhóm âm cần ưu tiên</h2>
           <p className="mb-3 text-xs text-muted">Mỗi bài có sơ đồ khẩu hình, hướng dẫn cảm nhận rung thanh hoặc luồng hơi, bài nghe phân biệt và tối thiểu 5 cặp từ dễ nhầm.</p>
           <ul className="grid grid-cols-1 gap-3">
             {CONTRAST_LESSONS.map((c) => (

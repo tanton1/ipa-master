@@ -23,7 +23,7 @@ export function ErrorList() {
           return (
             <li key={e.code}>
               <Link href={`/errors/${e.code}`} className="card tap flex items-center gap-3 px-4 py-3">
-                <span className="flex size-11 shrink-0 items-center justify-center rounded-xl bg-primary-soft text-sm font-bold text-primary">{e.code}</span>
+                <span className="flex size-11 shrink-0 items-center justify-center rounded-2xl bg-primary-soft text-sm font-bold text-primary">{e.code}</span>
                 <span className="min-w-0 flex-1">
                   <span className="block font-semibold"><IpaText text={e.title} /></span>
                   <span className="block truncate text-xs text-muted">{e.examples.join(', ')} • {count} từ trong 500 từ</span>

@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from 'next';
-import { Be_Vietnam_Pro, Noto_Sans } from 'next/font/google';
+import { Be_Vietnam_Pro, Noto_Sans, Plus_Jakarta_Sans } from 'next/font/google';
 import './globals.css';
 import { BottomNav } from '@/components/BottomNav';
 import { SwRegister } from '@/components/SwRegister';
@@ -8,6 +8,13 @@ const beVietnam = Be_Vietnam_Pro({
   subsets: ['latin', 'vietnamese'],
   weight: ['400', '500', '600', '700'],
   variable: '--font-be-vietnam',
+  display: 'swap',
+});
+
+const jakarta = Plus_Jakarta_Sans({
+  subsets: ['latin', 'vietnamese'],
+  weight: ['600', '700', '800'],
+  variable: '--font-jakarta',
   display: 'swap',
 });
 
@@ -33,14 +40,14 @@ export const viewport: Viewport = {
   initialScale: 1,
   viewportFit: 'cover',
   themeColor: [
-    { media: '(prefers-color-scheme: light)', color: '#f4f5fb' },
-    { media: '(prefers-color-scheme: dark)', color: '#0e0f1d' },
+    { media: '(prefers-color-scheme: light)', color: '#fffdfa' },
+    { media: '(prefers-color-scheme: dark)', color: '#12110f' },
   ],
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="vi" className={`${beVietnam.variable} ${noto.variable}`}>
+    <html lang="vi" className={`${beVietnam.variable} ${jakarta.variable} ${noto.variable}`}>
       <body className="antialiased">
         <div className="mx-auto w-full max-w-md min-h-dvh safe-bottom">{children}</div>
         <BottomNav />

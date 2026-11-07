@@ -42,7 +42,7 @@ export default function LevelsPage() {
           {LEVELS.map((l) => (
             <li key={l.n} className="card p-4">
               <div className="flex items-baseline gap-3">
-                <span className="text-2xl font-bold tabular-nums text-primary">{l.n}</span>
+                <span className="font-display text-2xl font-extrabold tabular-nums text-primary">{l.n}</span>
                 <div className="min-w-0">
                   <p className="font-semibold">{l.title}</p>
                   <p className="text-xs text-muted">{l.vi}</p>

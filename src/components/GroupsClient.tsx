@@ -8,7 +8,6 @@ import { PHONEMES } from '@/data/phonemes';
 import { useAppState, useHydrated, learnedSlugs, STATUS_LABEL, type WordStatus } from '@/lib/store';
 import { WORDS, wordsOfGroup } from '@/lib/curriculum';
 import { DIFFICULTY_LABEL } from '@/lib/classify';
-import { tone } from '@/lib/tones';
 import { ProgressBar } from './ProgressBar';
 import { WordRow } from './WordRow';
 import { IconChevronRight, IconSearch } from './icons';
@@ -60,7 +59,7 @@ export function GroupsClient() {
       <section className="card p-4">
         <div className="flex items-end justify-between">
           <p className="text-sm text-muted">Đã học</p>
-          <p className="text-2xl font-bold tabular-nums">{hydrated ? learnedTotal : '–'}<span className="text-base font-medium text-muted">/{WORDS.length}</span></p>
+          <p className="font-display text-2xl font-extrabold tabular-nums">{hydrated ? learnedTotal : '–'}<span className="text-base font-medium text-muted">/{WORDS.length}</span></p>
         </div>
         <ProgressBar value={learnedTotal} max={WORDS.length} className="mt-2" label="Tổng tiến độ 500 từ" />
       </section>
@@ -77,15 +76,14 @@ export function GroupsClient() {
             {GROUPS.map((g) => {
               const words = wordsOfGroup(g.id);
               const learned = words.filter((w) => s.words[w.slug] && s.words[w.slug].status !== 'new').length;
-              const t = tone(g.tone);
               return (
                 <li key={g.id}>
                   <Link href={`/words/${g.slug}`} className="card tap flex items-center gap-3 p-4">
-                    <span className={`flex size-12 shrink-0 flex-col items-center justify-center rounded-2xl font-bold ${t.soft} ${t.text}`}>
-                      <span className="text-[9px] font-semibold opacity-80">TUẦN</span><span className="text-lg leading-none">{g.id}</span>
+                    <span className="flex size-13 shrink-0 flex-col items-center justify-center rounded-2xl border border-line bg-surface">
+                      <span className="eyebrow text-[9px] text-primary">Tuần</span><span className="font-display text-xl font-extrabold leading-none tabular-nums">{g.id}</span>
                     </span>
                     <span className="min-w-0 flex-1">
-                      <span className="block font-semibold leading-snug">{g.title}</span>
+                      <span className="block font-display font-bold leading-snug">{g.title}</span>
                       <span className="block truncate text-xs text-muted">{g.examples.join(', ')} • 5 cụm × 10 từ</span>
                       <span className="mt-2 flex items-center gap-2">
                         <ProgressBar value={learned} max={words.length} className="h-1.5" label={`Tiến độ ${g.title}`} />

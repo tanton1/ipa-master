@@ -7,7 +7,7 @@ export const metadata: Metadata = { title: 'Cá nhân và tiến bộ' };
 export default function MePage() {
   return (
     <>
-      <TopBar title="Cá nhân" subtitle="Bản đồ phát âm • tiến độ • cài đặt" />
+      <TopBar eyebrow="Hồ sơ của bạn" title="Cá nhân" subtitle="Bản đồ phát âm • tiến độ • cài đặt" />
       <main className="px-4 pt-4">
         <ProfileClient />
       </main>

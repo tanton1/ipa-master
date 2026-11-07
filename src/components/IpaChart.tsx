@@ -81,7 +81,7 @@ export function IpaChart() {
             if (!items.length) return null;
             return (
               <section key={sec.title} aria-labelledby={`sec-${sec.title}`}>
-                <h3 id={`sec-${sec.title}`} className="font-semibold">{sec.title}</h3>
+                <h3 id={`sec-${sec.title}`} className="font-bold">{sec.title}</h3>
                 <p className="mb-3 text-xs text-muted">{sec.hint}</p>
                 <ul className="grid grid-cols-4 gap-2">
                   {items.map((p) => (

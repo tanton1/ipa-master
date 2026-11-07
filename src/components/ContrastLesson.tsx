@@ -74,12 +74,12 @@ export function ContrastLesson({ lesson }: { lesson: Lesson }) {
     <main className="flex flex-col gap-6 px-4 pt-4">
       <section className="card p-4">
         <p className="text-sm leading-relaxed">{lesson.summary}</p>
-        <h2 className="mt-4 flex items-center gap-1.5 font-semibold"><IconAlert size={16} className="text-danger" /> Vì sao người Việt hay sai</h2>
+        <h2 className="mt-4 flex items-center gap-1.5 text-lg font-extrabold"><IconAlert size={16} className="text-danger" /> Vì sao người Việt hay sai</h2>
         <p className="mt-1 text-sm leading-relaxed">{lesson.whyHard}</p>
       </section>
 
       <section aria-labelledby="diagram-title">
-        <h2 id="diagram-title" className="mb-2 font-semibold">Khẩu hình</h2>
+        <h2 id="diagram-title" className="mb-2 text-lg font-extrabold">Khẩu hình</h2>
         <div className={`grid gap-3 ${sounds.length + subs.length > 1 ? 'grid-cols-1 sm:grid-cols-2' : ''}`}>
           {sounds.map((p) => p && (
             <div key={p.id}>
@@ -100,7 +100,7 @@ export function ContrastLesson({ lesson }: { lesson: Lesson }) {
       </section>
 
       <section className="card p-4">
-        <h2 className="font-semibold">Cách sửa từng bước</h2>
+        <h2 className="text-lg font-extrabold">Cách sửa từng bước</h2>
         <ol className="mt-2 space-y-3">
           {lesson.steps.map((st, i) => (
             <li key={i} className="flex gap-3 text-sm leading-relaxed">
@@ -116,7 +116,7 @@ export function ContrastLesson({ lesson }: { lesson: Lesson }) {
       </section>
 
       <section aria-labelledby="pairs-title">
-        <h2 id="pairs-title" className="mb-2 font-semibold">Cặp từ dễ nhầm</h2>
+        <h2 id="pairs-title" className="mb-2 text-lg font-extrabold">Cặp từ dễ nhầm</h2>
         <ul className="card divide-y divide-line">
           {lesson.pairs.map((pr, i) => (
             <li key={i} className="grid grid-cols-2 gap-2 px-3 py-2">
@@ -135,7 +135,7 @@ export function ContrastLesson({ lesson }: { lesson: Lesson }) {
       </section>
 
       <section className="card p-4" aria-labelledby="quiz-title">
-        <h2 id="quiz-title" className="flex items-center gap-1.5 font-semibold"><IconEar size={18} className="text-primary" /> Bài nghe phân biệt</h2>
+        <h2 id="quiz-title" className="flex items-center gap-1.5 font-bold"><IconEar size={18} className="text-primary" /> Bài nghe phân biệt</h2>
         <p className="mt-1 text-xs text-muted">Nghe một từ rồi chọn bạn nghe thấy từ nào. 8 câu, có thể nghe lại.</p>
         {!quiz ? (
           <button type="button" onClick={startQuiz} className="tap mt-3 w-full rounded-2xl bg-primary py-3 font-semibold text-primary-ink">Bắt đầu</button>
@@ -185,7 +185,7 @@ export function ContrastLesson({ lesson }: { lesson: Lesson }) {
       </section>
 
       <section className="card p-4" aria-labelledby="speak-title">
-        <h2 id="speak-title" className="font-semibold">Luyện nói và tự kiểm tra</h2>
+        <h2 id="speak-title" className="font-bold">Luyện nói và tự kiểm tra</h2>
         <p className="mt-1 text-xs text-muted">Chọn một cặp từ, nghe mẫu, ghi âm cả hai từ rồi nghe lại. Để tay lên cổ để kiểm tra rung thanh.</p>
         <div className="no-scrollbar mt-3 flex gap-2 overflow-x-auto pb-1">
           {lesson.pairs.map((pr, i) => (
@@ -194,7 +194,7 @@ export function ContrastLesson({ lesson }: { lesson: Lesson }) {
               type="button"
               onClick={() => { setPairIdx(i); setRecorded(false); setSelfRated(null); }}
               aria-pressed={pairIdx === i}
-              className={`tap shrink-0 rounded-full border px-3 py-1.5 text-sm ${pairIdx === i ? 'border-primary bg-primary-soft text-primary' : 'border-line bg-surface'}`}
+              className={`tap shrink-0 rounded-full border px-3 py-1.5 text-sm ${pairIdx === i ? 'border-ink bg-ink font-semibold text-bg' : 'border-line bg-surface'}`}
             >
               {pr.a.word} – {pr.b.word}
             </button>

@@ -198,7 +198,7 @@ export function WordLesson({ w, groupSlug, next, prev }: Props) {
         })}
       </nav>
 
-      <p className="-mt-2 flex items-center gap-1.5 text-xs font-semibold uppercase tracking-wide text-primary"><StepIcon size={14} /> Bước {step + 1}/5 · {STEPS[step].label}</p>
+      <p className="-mt-2 flex items-center gap-1.5 eyebrow text-primary"><StepIcon size={14} /> Bước {step + 1}/5 · {STEPS[step].label}</p>
 
       {/* BƯỚC 1: NGHE (Native Audio + Contrast Practice) */}
       {step === 0 ? (
@@ -217,7 +217,7 @@ export function WordLesson({ w, groupSlug, next, prev }: Props) {
           {distractor ? (
             <section className="card p-4" aria-labelledby="quiz-title">
               <div className="flex items-baseline justify-between">
-                <h3 id="quiz-title" className="font-semibold">Bạn nghe thấy từ nào?</h3>
+                <h3 id="quiz-title" className="font-bold">Bạn nghe thấy từ nào?</h3>
                 <span className="text-xs tabular-nums text-muted">{Math.min(quizRound, QUIZ_N)}/{QUIZ_N} • đúng {quizScore}</span>
               </div>
               {quizRound >= QUIZ_N ? (
@@ -253,7 +253,7 @@ export function WordLesson({ w, groupSlug, next, prev }: Props) {
 
           {compare.length ? (
             <section>
-              <h3 className="mb-2 font-semibold">Phân biệt với từ dễ nhầm</h3>
+              <h3 className="mb-2 text-lg font-extrabold">Phân biệt với từ dễ nhầm</h3>
               <ul className="card divide-y divide-line">
                 {compare.map((c) => (
                   <li key={c.word} className="grid grid-cols-[1fr_auto_1fr] items-center gap-2 px-3 py-2">
@@ -282,7 +282,7 @@ export function WordLesson({ w, groupSlug, next, prev }: Props) {
       {step === 1 ? (
         <>
           <section className="card p-4">
-            <h3 className="font-semibold">Âm tiết và trọng âm</h3>
+            <h3 className="font-bold">Âm tiết và trọng âm</h3>
             <div className="mt-3 flex flex-wrap gap-2">
               {analysis.syllableGroups.map((g, i) => {
                 const stressed = g.find((t) => t.isVowel)?.stress === 1 && w.syllables > 1;
@@ -300,7 +300,7 @@ export function WordLesson({ w, groupSlug, next, prev }: Props) {
           </section>
           {gold ? (
             <section className="card p-4">
-              <h3 className="font-semibold">Giải mã phát âm</h3>
+              <h3 className="font-bold">Giải mã phát âm</h3>
               <ul className="mt-3 grid grid-cols-2 gap-2 sm:grid-cols-3">
                 {gold.breakdown.map((b, i) => (
                   <li key={i} className="rounded-xl bg-surface-2 p-3">
@@ -313,7 +313,7 @@ export function WordLesson({ w, groupSlug, next, prev }: Props) {
             </section>
           ) : (
             <section>
-              <h3 className="mb-2 font-semibold">Phân tích từng âm <span className="text-xs font-normal text-muted">(chạm để xem chi tiết)</span></h3>
+              <h3 className="mb-2 text-lg font-extrabold">Phân tích từng âm <span className="text-xs font-normal text-muted">(chạm để xem chi tiết)</span></h3>
               <IpaChips ids={w.phonemes} size="lg" withLabel />
             </section>
           )}
@@ -340,7 +340,7 @@ export function WordLesson({ w, groupSlug, next, prev }: Props) {
       {step === 2 ? (
         <>
           <section>
-            <h3 className="mb-2 font-semibold">Khẩu hình <span className="text-xs font-normal text-muted">(chọn âm để xem)</span></h3>
+            <h3 className="mb-2 text-lg font-extrabold">Khẩu hình <span className="text-xs font-normal text-muted">(chọn âm để xem)</span></h3>
             <IpaChips ids={uniquePhonemes} selected={selected} onSelect={setSelected} />
             <div className="mt-3"><MouthDiagram phonemeId={selected} /></div>
             {(() => {
@@ -356,9 +356,9 @@ export function WordLesson({ w, groupSlug, next, prev }: Props) {
           </section>
           {gold ? (
             <section className="card p-4">
-              <h3 className="font-semibold">So sánh với tiếng Việt</h3>
+              <h3 className="font-bold">So sánh với tiếng Việt</h3>
               <p className="mt-1 text-sm leading-relaxed">{gold.vnContrast}</p>
-              <h3 className="mt-4 font-semibold">Bài tập ghép âm</h3>
+              <h3 className="mt-4 font-bold">Bài tập ghép âm</h3>
               <ol className="mt-2 space-y-2">
                 {gold.drill.map((d, i) => (
                   <li key={i} className="flex gap-3 text-sm leading-relaxed"><span className="flex size-6 shrink-0 items-center justify-center rounded-full bg-primary text-xs font-bold text-primary-ink">{i + 1}</span><span>{d}</span></li>
@@ -367,7 +367,7 @@ export function WordLesson({ w, groupSlug, next, prev }: Props) {
             </section>
           ) : (
             <section className="card p-4">
-              <h3 className="font-semibold">Hướng dẫn cách đọc</h3>
+              <h3 className="font-bold">Hướng dẫn cách đọc</h3>
               <ol className="mt-2 space-y-3">
                 {steps.map((st) => (
                   <li key={st.n} className={`flex gap-3 rounded-xl p-2 text-sm leading-relaxed ${st.phonemeId === selected ? 'bg-primary-soft' : ''}`}>
@@ -379,7 +379,7 @@ export function WordLesson({ w, groupSlug, next, prev }: Props) {
             </section>
           )}
           <section className="card p-4">
-            <h3 className="flex items-center gap-1.5 font-semibold"><IconAlert size={16} className="text-danger" /> {gold ? `${gold.errors.length} lỗi học viên cần tránh` : 'Lỗi điển hình cần phát hiện'}</h3>
+            <h3 className="flex items-center gap-1.5 font-bold"><IconAlert size={16} className="text-danger" /> {gold ? `${gold.errors.length} lỗi học viên cần tránh` : 'Lỗi điển hình cần phát hiện'}</h3>
             <ul className="mt-2 space-y-2">
               {gold
                 ? gold.errors.map((e, i) => <li key={i} className="rounded-xl bg-surface-2 p-3 text-sm">{e}</li>)
@@ -415,12 +415,12 @@ export function WordLesson({ w, groupSlug, next, prev }: Props) {
       {step === 3 ? (
         <>
           <section className="card p-4">
-            <h3 className="font-semibold">Nghe mẫu, nói theo, ghi âm</h3>
+            <h3 className="font-bold">Nghe mẫu, nói theo, ghi âm</h3>
             <p className="mt-1 text-xs text-muted">Nói từ 2–3 lần trong một lần ghi. App kiểm tra bản ghi có đủ rõ không; sau đó bấm Nghe A/B để so với mẫu.</p>
             <div className="mt-3"><Recorder modelText={w.word} onRecorded={(_, q) => { setRecorded(true); setQuality(q); setFeedback(null); setRated(null); }} onListenedAB={() => setAbDone(true)} /></div>
           </section>
           <section className="card p-4">
-            <h3 className="font-semibold">Tự đánh giá</h3>
+            <h3 className="font-bold">Tự đánh giá</h3>
             <p className="mt-1 text-xs text-muted">{recorded ? (abDone ? 'Âm nào nghe khác mẫu? Chạm để đánh dấu (có thể bỏ trống).' : 'Nên nghe A/B trước khi đánh dấu.') : 'Nên ghi âm và nghe lại trước. Nếu không có micro, hãy nói to và tự đối chiếu với mẫu.'}</p>
             <ul className="mt-2 flex flex-wrap gap-2">
               {risky.map((id) => {
@@ -442,8 +442,8 @@ export function WordLesson({ w, groupSlug, next, prev }: Props) {
           </section>
           {feedback ? (
             <section className={`rounded-2xl border p-4 ${FEEDBACK_TONE[feedback.kind]}`} aria-live="polite">
-              <p className="text-[11px] font-semibold uppercase tracking-wide text-muted">Phản hồi • dựa trên tự đánh giá{recorded && quality ? ' và kiểm tra bản ghi' : ''}</p>
-              <h3 className="mt-1 font-semibold">{feedback.title}</h3>
+              <p className="eyebrow text-muted">Phản hồi • dựa trên tự đánh giá{recorded && quality ? ' và kiểm tra bản ghi' : ''}</p>
+              <h3 className="mt-1 font-bold">{feedback.title}</h3>
               <p className="mt-1 text-sm leading-relaxed">{feedback.message}</p>
               {feedback.focus.length ? (
                 <ul className="mt-3 flex flex-col gap-2">
@@ -470,7 +470,7 @@ export function WordLesson({ w, groupSlug, next, prev }: Props) {
         <>
           {sentences.map((st, i) => (
             <section key={st.en} className="card p-5 text-center">
-              <p className="text-xs font-semibold uppercase tracking-wide text-muted">Apply in context {sentences.length > 1 ? i + 1 : ''}</p>
+              <p className="eyebrow text-muted">Áp dụng vào câu {sentences.length > 1 ? i + 1 : ''}</p>
               <p className="mt-2 text-2xl font-semibold leading-snug">{st.en}</p>
               <p className="mt-1 text-sm text-muted">{st.vi}</p>
               <div className="mt-4 flex items-start justify-center gap-8">
@@ -480,13 +480,13 @@ export function WordLesson({ w, groupSlug, next, prev }: Props) {
             </section>
           ))}
           <section className="card p-4">
-            <h3 className="font-semibold">Nói cả câu và ghi âm</h3>
+            <h3 className="font-bold">Nói cả câu và ghi âm</h3>
             <p className="mt-1 text-xs text-muted">Giữ đúng âm đã luyện khi nói liền. Từ mang nghĩa nói rõ, từ chức năng (a, the, to, of) nói nhẹ.</p>
             <div className="mt-3"><Recorder modelText={sentences[0].en} compact /></div>
             <p className="mt-3 text-sm font-medium">Trong câu, "{w.word}" có còn đúng không?</p>
             <div className="mt-2 grid grid-cols-3 gap-2">
               {([[1, 'Bị mất'], [2, 'Tạm được'], [3, 'Giữ tốt']] as [Rating, string][]).map(([r, label]) => (
-                <button key={r} type="button" disabled={!progress || progress.status === 'new'} onClick={() => { recordSentence(w.slug, r); setSentenceRated(r); }} className={`tap rounded-xl border-2 px-2 py-2.5 text-sm font-semibold disabled:opacity-50 ${sentenceRated === r ? 'border-primary bg-primary-soft text-primary' : 'border-line bg-surface'}`}>{label}</button>
+                <button key={r} type="button" disabled={!progress || progress.status === 'new'} onClick={() => { recordSentence(w.slug, r); setSentenceRated(r); }} className={`tap rounded-xl border-2 px-2 py-2.5 text-sm font-semibold disabled:opacity-50 ${sentenceRated === r ? 'border-accent bg-accent-soft text-accent' : 'border-line bg-surface'}`}>{label}</button>
               ))}
             </div>
             {!progress || progress.status === 'new' ? <p className="mt-2 text-xs text-muted">Tự đánh giá ở bước Ghi âm trước để lưu điểm câu.</p> : null}
@@ -513,8 +513,8 @@ export function WordLesson({ w, groupSlug, next, prev }: Props) {
       {progress && progress.status !== 'new' ? (
         <section className="card p-4">
           <div className="flex items-baseline justify-between">
-            <h3 className="font-semibold">Mức thành thạo</h3>
-            <p className="text-2xl font-bold tabular-nums">{m.total}<span className="text-sm font-medium text-muted">/100</span></p>
+            <h3 className="font-bold">Mức thành thạo</h3>
+            <p className="font-display text-2xl font-extrabold tabular-nums">{m.total}<span className="text-sm font-medium text-muted">/100</span></p>
           </div>
           <p className="text-xs text-muted">{STATUS_LABEL[progress.status]} • ôn lại {formatDay(progress.due, todayKey())} • {progress.goodDays.length}/3 ngày ôn đạt</p>
           <div className="mt-3 grid gap-2">

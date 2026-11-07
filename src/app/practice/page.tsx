@@ -7,7 +7,7 @@ export const metadata: Metadata = { title: 'Luyện nói' };
 export default function PracticePage() {
   return (
     <>
-      <TopBar title="Luyện nói" subtitle="Luyện câu • chữa lỗi • ôn tập" />
+      <TopBar eyebrow="Phòng tập" title="Luyện nói" subtitle="Luyện câu • chữa lỗi • ôn tập" />
       <main className="px-4 pt-4">
         <PracticeHub />
       </main>

@@ -18,7 +18,7 @@ export function BottomNav() {
   return (
     <nav
       aria-label="Điều hướng chính"
-      className="fixed inset-x-0 bottom-0 z-40 border-t border-line bg-surface/95 backdrop-blur supports-[backdrop-filter]:bg-surface/80"
+      className="fixed inset-x-0 bottom-0 z-40 border-t border-black/5 bg-surface/95 backdrop-blur supports-[backdrop-filter]:bg-surface/85 dark:border-white/5"
       style={{ paddingBottom: 'env(safe-area-inset-bottom)' }}
     >
       <ul className="mx-auto flex max-w-md items-stretch justify-between px-2">
@@ -30,11 +30,11 @@ export function BottomNav() {
               <Link
                 href={it.href}
                 aria-current={active ? 'page' : undefined}
-                className={`tap flex min-h-14 flex-col items-center justify-center gap-0.5 rounded-xl py-2 text-[11px] font-medium ${
-                  active ? 'text-primary' : 'text-muted hover:text-ink'
+                className={`tap flex min-h-15 flex-col items-center justify-center gap-1 rounded-xl py-2 text-[11px] ${
+                  active ? 'font-bold text-ink' : 'font-medium text-muted hover:text-ink'
                 }`}
               >
-                <span className={`rounded-full px-3 py-0.5 ${active ? 'bg-primary-soft' : ''}`}>
+                <span className={`rounded-full px-4 py-1 transition-colors ${active ? 'bg-accent-soft text-accent' : ''}`}>
                   <Icon size={22} />
                 </span>
                 {it.label}

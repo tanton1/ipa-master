@@ -148,8 +148,8 @@ export function Diagnostic() {
 
       {part === 'listen' ? (
         <section className="card p-4">
-          <p className="text-xs font-semibold uppercase tracking-wide text-muted">Phần 1 • Nghe phân biệt • {i + 1}/{LISTEN.length}</p>
-          <h2 className="mt-1 font-semibold">Bạn nghe thấy từ nào?</h2>
+          <p className="eyebrow text-muted">Phần 1 • Nghe phân biệt • {i + 1}/{LISTEN.length}</p>
+          <h2 className="mt-1 font-bold">Bạn nghe thấy từ nào?</h2>
           <div className="my-4 flex justify-center"><PlayButton text={order[i] === 'a' ? LISTEN[i].a : LISTEN[i].b} size="lg" variant="primary" ariaLabel="Nghe lại" /></div>
           <div className="grid grid-cols-2 gap-2">
             {(['a', 'b'] as const).map((side) => {
@@ -173,7 +173,7 @@ export function Diagnostic() {
         const w = getWord(it.slug);
         return (
           <section className="card p-4">
-            <p className="text-xs font-semibold uppercase tracking-wide text-muted">Phần 2 • Đọc từ • {i + 1}/{READ.length}</p>
+            <p className="eyebrow text-muted">Phần 2 • Đọc từ • {i + 1}/{READ.length}</p>
             <p className="mt-2 text-center text-4xl font-bold">{w?.word ?? it.slug}</p>
             {w ? <p className="text-center text-sm text-muted">{w.meaning}</p> : null}
             <p className="mt-3 text-xs text-muted">Đọc to trước, rồi mới nghe mẫu. Ghi âm và nghe A/B để tự đối chiếu.</p>
@@ -197,7 +197,7 @@ export function Diagnostic() {
         const st = SENTENCES[i];
         return (
           <section className="card p-4">
-            <p className="text-xs font-semibold uppercase tracking-wide text-muted">Phần 3 • Đọc câu • {i + 1}/{SENTENCES.length}</p>
+            <p className="eyebrow text-muted">Phần 3 • Đọc câu • {i + 1}/{SENTENCES.length}</p>
             <p className="mt-2 text-center text-2xl font-semibold">{st.en}</p>
             <p className="text-center text-sm text-muted">{st.vi} • Chú ý: {st.focus}</p>
             <div className="mt-2"><Recorder key={st.en} modelText={st.en} compact /></div>
@@ -213,12 +213,12 @@ export function Diagnostic() {
 
       {part === 'self' ? (
         <section className="card flex flex-col gap-4 p-4">
-          <p className="text-xs font-semibold uppercase tracking-wide text-muted">Phần 4 • Tự đánh giá</p>
+          <p className="eyebrow text-muted">Phần 4 • Tự đánh giá</p>
           <fieldset>
             <legend className="text-sm font-medium">Giọng vùng miền của bạn</legend>
             <div className="mt-2 grid grid-cols-2 gap-2">
               {([['bac', 'Miền Bắc'], ['trung', 'Miền Trung'], ['nam', 'Miền Nam'], ['khac', 'Khác']] as [Region, string][]).map(([k, l]) => (
-                <button key={k} type="button" aria-pressed={region === k} onClick={() => setRegion(k)} className={`tap rounded-xl border-2 py-2 text-sm font-semibold ${region === k ? 'border-primary bg-primary-soft text-primary' : 'border-line bg-surface'}`}>{l}</button>
+                <button key={k} type="button" aria-pressed={region === k} onClick={() => setRegion(k)} className={`tap rounded-xl border-2 py-2 text-sm font-semibold ${region === k ? 'border-accent bg-accent-soft text-accent' : 'border-line bg-surface'}`}>{l}</button>
               ))}
             </div>
           </fieldset>
@@ -261,11 +261,11 @@ function DiagnosticResult({ res, region }: { res: Result; region?: Region }) {
         {regionHint ? <p className="mt-3 rounded-xl bg-surface-2 p-3 text-xs">{regionHint}</p> : null}
       </section>
       <section>
-        <h2 className="mb-2 font-semibold">Nên luyện trước</h2>
+        <h2 className="mb-2 text-lg font-extrabold">Nên luyện trước</h2>
         {priority.length ? (
           <ul className="flex flex-col gap-2">
             {priority.map((c) => (
-              <li key={c}><Link href={`/errors/${c}`} className="card tap flex items-center gap-3 px-4 py-3"><span className="flex size-10 items-center justify-center rounded-xl bg-danger-soft text-xs font-bold text-danger">{c}</span><span className="flex-1"><span className="block font-semibold">{getVei(c)?.title}</span><span className="block text-xs text-muted">Bài chữa lỗi 6 bước</span></span></Link></li>
+              <li key={c}><Link href={`/errors/${c}`} className="card tap flex items-center gap-3 px-4 py-3"><span className="flex size-10 items-center justify-center rounded-2xl bg-danger-soft text-xs font-bold text-danger">{c}</span><span className="flex-1"><span className="block font-semibold">{getVei(c)?.title}</span><span className="block text-xs text-muted">Bài chữa lỗi 6 bước</span></span></Link></li>
             ))}
           </ul>
         ) : <p className="card p-4 text-sm text-muted">Chưa thấy nhóm lỗi nổi bật. Bắt đầu lộ trình 500 từ; hệ thống sẽ tiếp tục cập nhật theo kết quả luyện.</p>}

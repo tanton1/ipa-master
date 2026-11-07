@@ -101,7 +101,7 @@ export function ErrorLesson({ code }: { code: ErrorCode }) {
 
       {step === 0 ? (
         <section className="card p-4">
-          <h2 className="flex items-center gap-1.5 font-semibold"><IconEar size={18} className="text-primary" /> Nghe và nhận diện</h2>
+          <h2 className="flex items-center gap-1.5 text-lg font-extrabold"><IconEar size={18} className="text-primary" /> Nghe và nhận diện</h2>
           {quizMode ? (
             !quiz ? (
               <>
@@ -167,7 +167,7 @@ export function ErrorLesson({ code }: { code: ErrorCode }) {
       {step === 1 ? (
         <>
           <section className="card p-4">
-            <h2 className="font-semibold">Luyện {e.isolate.focus}</h2>
+            <h2 className="text-lg font-extrabold">Luyện {e.isolate.focus}</h2>
             <p className="mt-1 text-sm leading-relaxed">{e.isolate.howTo}</p>
             <ul className="mt-3 flex flex-wrap gap-2">
               {e.isolate.words.map((w) => <li key={w} className="flex items-center gap-2 rounded-full border border-line bg-surface py-1 pl-1 pr-3 text-sm"><PlayButton text={w} size="sm" />{w}</li>)}
@@ -189,7 +189,7 @@ export function ErrorLesson({ code }: { code: ErrorCode }) {
 
       {step === 2 ? (
         <section className="card p-4">
-          <h2 className="font-semibold">Ghép vào từ: {e.blend.word}</h2>
+          <h2 className="text-lg font-extrabold">Ghép vào từ: {e.blend.word}</h2>
           <ol className="mt-2 space-y-2">
             {e.blend.steps.map((st, i) => (
               <li key={i} className="flex gap-3 text-sm leading-relaxed">
@@ -207,7 +207,7 @@ export function ErrorLesson({ code }: { code: ErrorCode }) {
 
       {step === 3 ? (
         <section className="card p-4">
-          <h2 className="font-semibold">Ghi âm và nghe A/B</h2>
+          <h2 className="text-lg font-extrabold">Ghi âm và nghe A/B</h2>
           <p className="mt-1 text-xs text-muted">Nói "{e.blend.word}" 2–3 lần, rồi bấm Nghe A/B để nghe mẫu và bản ghi của bạn liên tiếp.</p>
           <div className="mt-3"><Recorder modelText={e.blend.word} onListenedAB={() => setAbDone(true)} /></div>
           <div className="mt-3 rounded-xl bg-surface-2 p-3">
@@ -225,7 +225,7 @@ export function ErrorLesson({ code }: { code: ErrorCode }) {
       {step === 4 ? (
         <>
           <section className="card p-4">
-            <h2 className="font-semibold">Cụm từ</h2>
+            <h2 className="text-lg font-extrabold">Cụm từ</h2>
             <ul className="mt-2 flex flex-wrap gap-2">
               {e.phrases.map((p) => <li key={p} className="flex items-center gap-2 rounded-full border border-line bg-surface py-1 pl-1 pr-3 text-sm"><PlayButton text={p} size="sm" />{p}</li>)}
             </ul>
@@ -242,7 +242,7 @@ export function ErrorLesson({ code }: { code: ErrorCode }) {
 
       {step === 5 ? (
         <section className="card p-4">
-          <h2 className="font-semibold">Kiểm tra duy trì sau 1 và 3 ngày</h2>
+          <h2 className="text-lg font-extrabold">Kiểm tra duy trì sau 1 và 3 ngày</h2>
           {retestWhich && retest ? (
             <>
               <p className="mt-1 text-sm">Lượt kiểm tra {retestWhich === 'd1' ? 'ngày 1' : 'ngày 3'}: nói "{testWord}" mà không nghe mẫu trước, rồi nghe A/B để tự chấm.</p>
@@ -277,7 +277,7 @@ export function ErrorLesson({ code }: { code: ErrorCode }) {
       </div>
 
       <section>
-        <h2 className="mb-2 font-semibold">Từ trong 500 từ có nguy cơ {code} <span className="text-sm font-normal text-muted">({words.length})</span></h2>
+        <h2 className="mb-2 text-lg font-extrabold">Từ trong 500 từ có nguy cơ {code} <span className="text-sm font-normal text-muted">({words.length})</span></h2>
         <ul className="flex flex-col gap-2">{words.slice(0, 8).map((w) => <WordRow key={w.slug} w={w} />)}</ul>
         <Link href={`/words?code=${code}`} className="mt-2 block text-center text-sm font-semibold text-primary">Xem tất cả {words.length} từ</Link>
       </section>

@@ -61,7 +61,7 @@ export function ReviewClient() {
           <p className="rounded-xl bg-danger-soft/60 p-3 text-xs"><span className="font-semibold">{lastFeedback.word}: </span>{lastFeedback.fb.title}. {lastFeedback.fb.focus[0]?.code ? <Link href={`/errors/${lastFeedback.fb.focus[0].code}`} className="font-semibold text-primary underline">Mở bài sửa {lastFeedback.fb.focus[0].code}</Link> : null}</p>
         ) : null}
         <section className="card p-5 text-center">
-          <p className="text-xs font-semibold uppercase tracking-wide text-muted">Nói từ này trước khi xem đáp án</p>
+          <p className="eyebrow text-muted">Nói từ này trước khi xem đáp án</p>
           <h2 className="mt-1 text-4xl font-bold">{cur.word}</h2>
           <p className="mt-1 text-sm text-muted">{cur.meaning}</p>
           {reveal ? (
@@ -80,7 +80,7 @@ export function ReviewClient() {
         {reveal ? (
           <>
             <section className="card p-4">
-              <h3 className="font-semibold">Ghi âm và nghe A/B</h3>
+              <h3 className="font-bold">Ghi âm và nghe A/B</h3>
               <div className="mt-2"><Recorder modelText={cur.word} onRecorded={(_, q) => { setRecorded(true); setQuality(q); }} onListenedAB={() => setAb(true)} compact /></div>
             </section>
             <section className="card p-4">
@@ -122,7 +122,7 @@ export function ReviewClient() {
   return (
     <div className="flex flex-col gap-5">
       <section className="card p-4">
-        <h2 className="flex items-center gap-1.5 font-semibold"><IconRepeat size={18} className="text-primary" /> Ôn tập ngắt quãng</h2>
+        <h2 className="flex items-center gap-1.5 text-lg font-extrabold"><IconRepeat size={18} className="text-primary" /> Ôn tập ngắt quãng</h2>
         <p className="mt-1 text-sm text-muted">
           {!hydrated ? 'Đang tải…' : due.length ? `${due.length} từ đến hạn hôm nay. Từ cần luyện lại được xếp lên trước.` : 'Hôm nay không có từ nào đến hạn.'}
         </p>
@@ -141,7 +141,7 @@ export function ReviewClient() {
 
       {needs.length ? (
         <section>
-          <h2 className="mb-2 font-semibold">Cần luyện lại <span className="text-sm font-normal text-muted">({needs.length})</span></h2>
+          <h2 className="mb-2 text-lg font-extrabold">Cần luyện lại <span className="text-sm font-normal text-muted">({needs.length})</span></h2>
           <ul className="flex flex-col gap-2">{needs.slice(0, 10).map((w) => <WordRow key={w.slug} w={w} showMeta />)}</ul>
         </section>
       ) : null}

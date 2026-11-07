@@ -28,13 +28,13 @@ const REGIONS: Opt<NonNullable<Profile['region']>>[] = [
 function Choice<T extends string>({ title, opts, value, onChange }: { title: string; opts: Opt<T>[]; value?: T; onChange: (v: T) => void }) {
   return (
     <fieldset>
-      <legend className="mb-2 font-semibold">{title}</legend>
+      <legend className="mb-3 font-display text-lg font-extrabold">{title}</legend>
       <div className="grid grid-cols-1 gap-2">
         {opts.map((o) => (
-          <label key={o.v} className={`tap flex cursor-pointer items-center gap-3 rounded-2xl border-2 p-3 ${value === o.v ? 'border-primary bg-primary-soft' : 'border-line bg-surface'}`}>
+          <label key={o.v} className={`tap flex cursor-pointer items-center gap-3 rounded-2xl border-2 p-3 ${value === o.v ? 'border-accent bg-accent-soft' : 'border-line bg-surface'}`}>
             <input type="radio" className="sr-only" checked={value === o.v} onChange={() => onChange(o.v)} />
             <span className="min-w-0 flex-1"><span className="block font-semibold">{o.label}</span><span className="block text-xs text-muted">{o.desc}</span></span>
-            {value === o.v ? <IconCheck size={18} className="text-primary" /> : null}
+            {value === o.v ? <IconCheck size={18} className="text-accent" /> : null}
           </label>
         ))}
       </div>
@@ -70,10 +70,10 @@ export function Onboarding() {
       <Choice title="Bạn nói tiếng Việt giọng vùng nào?" opts={REGIONS} value={region} onChange={setRegion} />
       <p className="-mt-4 text-xs text-muted">Vùng miền chỉ dùng để gợi ý lỗi có thể gặp; bài kiểm tra mới quyết định lộ trình.</p>
       <fieldset>
-        <legend className="mb-2 font-semibold">Kiểu phiên âm</legend>
+        <legend className="mb-3 font-display text-lg font-extrabold">Kiểu phiên âm</legend>
         <div className="grid grid-cols-2 gap-2">
           {([['phonemic', 'Âm vị Anh-Mỹ', '/ʃip/'], ['dictionary', 'Kiểu từ điển', '/ʃiːp/']] as const).map(([k, label, ex]) => (
-            <label key={k} className={`tap cursor-pointer rounded-2xl border-2 p-3 ${ipaStyle === k ? 'border-primary bg-primary-soft' : 'border-line bg-surface'}`}>
+            <label key={k} className={`tap cursor-pointer rounded-2xl border-2 p-3 ${ipaStyle === k ? 'border-accent bg-accent-soft' : 'border-line bg-surface'}`}>
               <input type="radio" className="sr-only" checked={ipaStyle === k} onChange={() => setIpaStyle(k)} />
               <span className="block font-semibold">{label}</span><span className="ipa block text-sm text-muted">{ex}</span>
             </label>
@@ -85,7 +85,7 @@ export function Onboarding() {
         type="button"
         disabled={!goal || !region}
         onClick={() => { updateProfile({ goal, level, region, ipaStyle, onboarded: true }); setSaved(true); window.scrollTo({ top: 0 }); }}
-        className="tap rounded-2xl bg-primary py-3.5 font-semibold text-primary-ink disabled:opacity-50"
+        className="tap rounded-2xl bg-ink py-4 font-display font-bold text-bg disabled:opacity-40"
       >
         Lưu lộ trình
       </button>

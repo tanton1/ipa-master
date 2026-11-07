@@ -38,7 +38,7 @@ export function IpaChips({ ids, size = 'sm', selected, onSelect, withLabel = fal
           </>
         );
         const cls = `tap relative flex flex-col items-center justify-center rounded-xl border px-3 ${size === 'lg' ? 'min-w-16 py-3' : 'min-w-11 py-2'} ${
-          active ? 'border-primary bg-primary-soft text-primary' : 'border-line bg-surface text-ink'
+          active ? 'border-ink bg-ink text-bg' : 'border-line bg-surface text-ink'
         }`;
         return (
           <li key={`${id}-${i}`}>

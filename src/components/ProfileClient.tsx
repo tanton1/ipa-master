@@ -28,14 +28,14 @@ export function ProfileClient() {
   return (
     <div className="flex flex-col gap-5">
       <section className="grid grid-cols-3 gap-2">
-        <div className="card p-3 text-center"><p className="text-2xl font-bold tabular-nums">{hydrated ? learned : '–'}</p><p className="text-[11px] text-muted">Từ đã học</p></div>
-        <div className="card p-3 text-center"><p className="inline-flex items-center gap-1 text-2xl font-bold tabular-nums text-warn"><IconFlame size={18} />{hydrated ? streakDays(s) : '–'}</p><p className="text-[11px] text-muted">Ngày liên tiếp</p></div>
-        <div className="card p-3 text-center"><p className="text-2xl font-bold tabular-nums text-primary">{hydrated ? avgMastery : '–'}</p><p className="text-[11px] text-muted">Điểm thành thạo TB</p></div>
+        <div className="card p-3 text-center"><p className="font-display text-2xl font-extrabold tabular-nums">{hydrated ? learned : '–'}</p><p className="text-[11px] text-muted">Từ đã học</p></div>
+        <div className="card p-3 text-center"><p className="inline-flex items-center gap-1 font-display text-2xl font-extrabold tabular-nums text-warn"><IconFlame size={18} />{hydrated ? streakDays(s) : '–'}</p><p className="text-[11px] text-muted">Ngày liên tiếp</p></div>
+        <div className="card p-3 text-center"><p className="font-display text-2xl font-extrabold tabular-nums text-primary">{hydrated ? avgMastery : '–'}</p><p className="text-[11px] text-muted">Điểm thành thạo TB</p></div>
       </section>
 
       <section className="card p-4" aria-labelledby="map-title">
-        <p className="text-[11px] font-semibold uppercase tracking-wide text-muted">Theo từng âm</p>
-        <h2 id="map-title" className="font-semibold">Bản đồ luyện âm</h2>
+        <p className="eyebrow text-muted">Theo từng âm</p>
+        <h2 id="map-title" className="font-bold">Bản đồ luyện âm</h2>
         <p className="mt-1 text-xs text-muted">Điểm gộp từ bài nghe phân biệt và các lần tự đánh giá, làm mượt để một lần ghi âm (có thể bị ồn) không quyết định tất cả. Ô xám là chưa có dữ liệu.</p>
         <ul className="mt-3 grid grid-cols-5 gap-1.5">
           {scored.map(({ p, sc }) => (
@@ -65,7 +65,7 @@ export function ProfileClient() {
       </section>
 
       <section className="card p-4">
-        <h2 className="font-semibold">Bản đồ nhóm lỗi</h2>
+        <h2 className="text-lg font-extrabold">Bản đồ nhóm lỗi</h2>
         <ul className="mt-3 flex flex-col gap-2">
           {VEI.map((e) => {
             const sc = errorScore(s.errorStats[e.code]);
@@ -84,7 +84,7 @@ export function ProfileClient() {
       </section>
 
       <section className="card p-4">
-        <h2 className="font-semibold">Trạng thái 500 từ</h2>
+        <h2 className="text-lg font-extrabold">Trạng thái 500 từ</h2>
         <ul className="mt-2 grid grid-cols-2 gap-2 text-sm">
           {counts.map(({ k, n }) => (
             <li key={k}><Link href={`/words?status=${k}`} className="flex justify-between rounded-xl bg-surface-2 px-3 py-2"><span>{STATUS_LABEL[k]}</span><span className="font-semibold tabular-nums">{hydrated ? n : '–'}</span></Link></li>
@@ -98,7 +98,7 @@ export function ProfileClient() {
       </section>
 
       <section>
-        <h2 className="mb-2 font-semibold">Lộ trình 10 tuần</h2>
+        <h2 className="mb-2 text-lg font-extrabold">Lộ trình 10 tuần</h2>
         <p className="mb-3 text-xs text-muted">Mỗi tuần 5 ngày học mới (10 từ/ngày), thứ 7 kiểm tra 50 từ, Chủ nhật ôn cá nhân hoá hoặc nghỉ. Học hết danh sách chưa có nghĩa là đã thành thạo.</p>
         <ol className="flex flex-col gap-2">
           {ROADMAP.map((st) => {
@@ -119,7 +119,7 @@ export function ProfileClient() {
       </section>
 
       <section className="card p-4">
-        <h2 className="font-semibold">Hồ sơ và cài đặt</h2>
+        <h2 className="text-lg font-extrabold">Hồ sơ và cài đặt</h2>
         <dl className="mt-2 grid grid-cols-[auto_1fr] gap-x-4 gap-y-1 text-sm">
           <dt className="text-muted">Mục tiêu</dt><dd>{s.profile.goal ? GOALS[s.profile.goal] : '—'}</dd>
           <dt className="text-muted">Vùng miền</dt><dd>{s.profile.region ? REGIONS[s.profile.region] : '—'}</dd>
@@ -131,7 +131,7 @@ export function ProfileClient() {
           <legend className="text-sm font-medium">Kiểu hiển thị phiên âm</legend>
           <div className="mt-2 grid grid-cols-2 gap-2">
             {([['phonemic', 'Âm vị Anh-Mỹ', '/ʃip/, /θɹi/'], ['dictionary', 'Kiểu từ điển', '/ʃiːp/, /θriː/']] as const).map(([k, label, ex]) => (
-              <label key={k} className={`tap cursor-pointer rounded-xl border-2 p-3 text-sm ${s.profile.ipaStyle === k ? 'border-primary bg-primary-soft' : 'border-line bg-surface'}`}>
+              <label key={k} className={`tap cursor-pointer rounded-xl border-2 p-3 text-sm ${s.profile.ipaStyle === k ? 'border-accent bg-accent-soft' : 'border-line bg-surface'}`}>
                 <input type="radio" name="ipaStyle" className="sr-only" checked={s.profile.ipaStyle === k} onChange={() => updateProfile({ ipaStyle: k })} />
                 <span className="block font-semibold">{label}</span>
                 <span className="ipa block text-xs text-muted">{ex}</span>
