@@ -10,7 +10,7 @@ Phạm vi: 500 từ trong `content/words`, nội dung bài học (Gold Set, VEI,
 | Câu ví dụ | 500/500 câu chứa từ đích hoặc dạng chia của nó, không câu nào quá 12 từ. | Giữ nguyên |
 | Nghĩa tiếng Việt | 4 cặp trùng nghĩa: to/arrive, from/word, not/no, five/year. Người học không phân biệt được trong bài nghe chọn nghĩa. | Thêm phần làm rõ, ví dụ "năm (số 5)" và "năm (thời gian)" |
 | Tên cụm học | 4 tên không khớp từ bên trong: cụm có I/you/he nhưng tên là "Mạo từ", cụm có how nhưng tên là "Giới từ", cụm 10-4 ghi /θ/–/ð/ nhưng không có từ nào chứa /ð/. | Đổi tên và trọng tâm theo đúng 10 từ |
-| Cách mô tả lỗi | 22 chỗ phiên cả từ tiếng Anh bằng chữ Việt ("sơ-trít", "ti-chơ", "a-bao", "phai"). Đặc tả cấm cách này. | Đổi sang IPA của dạng đọc sai, ví dụ street thành /sə.tɹit/. Giữ "ơ" khi nói về nguyên âm chèn thêm vì đó là đối chiếu âm Việt – Anh. |
+| Cách mô tả lỗi | 19 chỗ phiên cả từ tiếng Anh bằng chữ Việt ("sơ-trít", "ti-chơ", "a-bao", "phai"). Đặc tả cấm cách này. | Đổi sang IPA của dạng đọc sai, ví dụ street thành /sə.tɹit/. Giữ "ơ" khi nói về nguyên âm chèn thêm vì đó là đối chiếu âm Việt – Anh. |
 
 ## 2. Giao diện
 
