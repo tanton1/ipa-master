@@ -80,15 +80,24 @@ export function difficultyScore(x: ClassifyInput): number {
   return Math.round(s * 100) / 100;
 }
 
+/** Hạn ngạch L1–L5 của giai đoạn 1 (500 từ). Các giai đoạn sau dùng cùng tỉ lệ. */
 export const DIFFICULTY_QUOTA = [100, 125, 125, 100, 50];
+export const DIFFICULTY_RATIO = [0.2, 0.25, 0.25, 0.2, 0.1];
 export const DIFFICULTY_LABEL = ['L1 – Cơ bản', 'L2 – Dễ', 'L3 – Trung bình', 'L4 – Khó', 'L5 – Rất khó'];
 
+/** Hạn ngạch cho n từ theo DIFFICULTY_RATIO; phần dư dồn vào L3. */
+export function levelQuota(n: number): number[] {
+  const q = DIFFICULTY_RATIO.map((r) => Math.floor(n * r));
+  q[2] += n - q.reduce((a, b) => a + b, 0);
+  return q;
+}
+
 /** Gán L1..L5 theo thứ hạng điểm (ổn định theo id khi bằng điểm). */
-export function assignLevels(scores: { id: number; score: number }[]): Map<number, number> {
+export function assignLevels(scores: { id: number; score: number }[], quota: number[] = DIFFICULTY_QUOTA): Map<number, number> {
   const sorted = [...scores].sort((a, b) => a.score - b.score || a.id - b.id);
   const out = new Map<number, number>();
   let i = 0;
-  DIFFICULTY_QUOTA.forEach((q, lvl) => {
+  quota.forEach((q, lvl) => {
     for (let k = 0; k < q && i < sorted.length; k++, i++) out.set(sorted[i].id, lvl + 1);
   });
   while (i < sorted.length) { out.set(sorted[i].id, 5); i++; }

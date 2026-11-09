@@ -1,0 +1,52 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+responsibility|take responsibility|chịu trách nhiệm|You must take responsibility for your actions.|Bạn phải chịu trách nhiệm về hành động của mình.
+possibility|a possibility of|khả năng|There is a possibility of rain.|Có khả năng mưa.
+creativity|encourage creativity|khuyến khích sự sáng tạo|Art classes encourage creativity.|Giờ mỹ thuật khuyến khích sự sáng tạo.
+curiosity|out of curiosity|vì tò mò|I asked out of curiosity.|Tôi hỏi vì tò mò thôi.
+reality|in reality|trên thực tế|In reality, it was very hard.|Trên thực tế, việc đó rất khó.
+reality|reality show|chương trình thực tế|She was on a reality show.|Cô ấy từng tham gia một chương trình thực tế.
+scientific|scientific research|nghiên cứu khoa học|He does scientific research on rice.|Ông ấy nghiên cứu khoa học về lúa.
+democratic|democratic country|quốc gia dân chủ|It is a democratic country.|Đó là một quốc gia dân chủ.
+dramatic|dramatic change|thay đổi đột ngột|There was a dramatic change in the weather.|Thời tiết thay đổi đột ngột.
+realistic|realistic goal|mục tiêu thực tế|Set a realistic goal.|Hãy đặt mục tiêu thực tế.
+romantic|romantic dinner|bữa tối lãng mạn|Let's have a romantic dinner by the river.|Mình ăn tối lãng mạn bên sông nhé.
+automatic|automatic door|cửa tự động|The shop has an automatic door.|Cửa hàng có cửa tự động.
+academic|academic year|năm học|The academic year starts in September.|Năm học bắt đầu vào tháng Chín.
+artistic|artistic talent|năng khiếu nghệ thuật|She has artistic talent.|Cô ấy có năng khiếu nghệ thuật.
+historical|historical site|di tích lịch sử|Hue has many historical sites.|Huế có nhiều di tích lịch sử.
+photographer|wedding photographer|thợ chụp ảnh cưới|We hired a wedding photographer.|Chúng tôi thuê thợ chụp ảnh cưới.
+politician|honest politician|chính trị gia trung thực|We need an honest politician.|Chúng ta cần một chính trị gia trung thực.
+musician|street musician|nghệ sĩ đường phố|A street musician played the guitar.|Một nghệ sĩ đường phố chơi ghi-ta.
+technician|lab technician|kỹ thuật viên phòng thí nghiệm|She works as a lab technician.|Cô ấy làm kỹ thuật viên phòng thí nghiệm.
+magician|hire a magician|thuê ảo thuật gia|Let's hire a magician for the party.|Mình thuê ảo thuật gia cho bữa tiệc nhé.
+librarian|school librarian|thủ thư của trường|Ask the school librarian.|Hỏi cô thủ thư của trường.
+comedian|stand-up comedian|diễn viên hài độc thoại|He is a stand-up comedian.|Anh ấy là diễn viên hài độc thoại.
+refugee|refugee camp|trại tị nạn|They lived in a refugee camp.|Họ sống trong trại tị nạn.
+guarantee|money-back guarantee|cam kết hoàn tiền|The product has a money-back guarantee.|Sản phẩm có cam kết hoàn tiền.
+technique|cooking technique|kỹ thuật nấu ăn|The chef showed us a new cooking technique.|Đầu bếp chỉ cho chúng tôi một kỹ thuật nấu ăn mới.
+antique|antique shop|cửa hàng đồ cổ|There is an antique shop in the old town.|Trong phố cổ có một cửa hàng đồ cổ.
+commercial|commercial break|giờ quảng cáo|Let's get snacks during the commercial break.|Lấy đồ ăn vặt trong giờ quảng cáo đi.
+industrial|industrial zone|khu công nghiệp|Many factories are in the industrial zone.|Nhiều nhà máy nằm trong khu công nghiệp.
+suspicious|suspicious person|người khả nghi|Call the police if you see a suspicious person.|Gọi cảnh sát nếu thấy người khả nghi.
+conduct|code of conduct|quy tắc ứng xử|Every employee must follow the code of conduct.|Mọi nhân viên phải tuân theo quy tắc ứng xử.
+conflict|avoid conflict|tránh xung đột|She always tries to avoid conflict.|Cô ấy luôn cố tránh xung đột.
+contrast|in contrast|ngược lại|In contrast, the south is hot all year.|Ngược lại, miền Nam nóng quanh năm.
+insult|personal insult|sự xúc phạm cá nhân|Don't take it as a personal insult.|Đừng coi đó là sự xúc phạm cá nhân.
+rebel|teenage rebel|kẻ nổi loạn tuổi teen|He was a teenage rebel.|Hồi tuổi teen anh ấy là một kẻ nổi loạn.
+suspect|main suspect|nghi phạm chính|The police found the main suspect.|Cảnh sát đã tìm ra nghi phạm chính.
+convert|convert money|đổi tiền|Where can I convert money?|Tôi có thể đổi tiền ở đâu?
+content|online content|nội dung trực tuyến|She creates online content for kids.|Cô ấy sản xuất nội dung trực tuyến cho trẻ em.
+estimate|rough estimate|ước tính sơ bộ|Give me a rough estimate.|Cho tôi một con số ước tính sơ bộ.
+upgrade|free upgrade|nâng cấp miễn phí|We got a free upgrade to a bigger room.|Chúng tôi được nâng cấp miễn phí lên phòng rộng hơn.
+economics|study economics|học kinh tế|She wants to study economics.|Cô ấy muốn học kinh tế.
+mathematics|applied mathematics|toán ứng dụng|He teaches applied mathematics.|Ông ấy dạy toán ứng dụng.
+emphasis|put emphasis on|chú trọng vào|Good teachers put emphasis on speaking.|Giáo viên giỏi chú trọng kỹ năng nói.
+category|in the category of|ở hạng mục|She won in the category of best singer.|Cô ấy chiến thắng ở hạng mục ca sĩ xuất sắc nhất.
+necessity|basic necessity|nhu yếu phẩm cơ bản|Water is a basic necessity.|Nước là nhu yếu phẩm cơ bản.
+popularity|growing popularity|sự phổ biến ngày càng tăng|E-bikes have growing popularity.|Xe điện ngày càng phổ biến.
+electrical|electrical engineer|kỹ sư điện|My brother is an electrical engineer.|Anh tôi là kỹ sư điện.
+psychology|child psychology|tâm lý trẻ em|She studies child psychology.|Cô ấy nghiên cứu tâm lý trẻ em.
+philosophy|life philosophy|triết lý sống|What is your life philosophy?|Triết lý sống của bạn là gì?
+immediate|immediate family|gia đình ruột thịt|Only immediate family came to the wedding.|Chỉ gia đình ruột thịt đến dự đám cưới.
+deliberate|deliberate mistake|lỗi cố ý|It was a deliberate mistake.|Đó là một lỗi cố ý.
+sophisticated|sophisticated system|hệ thống tinh vi|The bank uses a sophisticated system.|Ngân hàng dùng một hệ thống tinh vi.

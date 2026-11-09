@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+eat|eat healthy|ăn uống lành mạnh|Try to eat healthy every day.|Hãy cố ăn uống lành mạnh mỗi ngày.
+drink|drink water|uống nước|Drink water before you exercise.|Uống nước trước khi tập.
+cook|cook dinner|nấu bữa tối|I cook dinner for my family.|Tôi nấu bữa tối cho gia đình.
+breakfast|breakfast time|giờ ăn sáng|Breakfast time is seven o'clock.|Giờ ăn sáng là bảy giờ.
+lunch|lunch break|giờ nghỉ trưa|I take a walk during my lunch break.|Tôi đi dạo trong giờ nghỉ trưa.
+dinner|have dinner|ăn tối|Let's have dinner together.|Mình ăn tối cùng nhau nhé.
+food|fast food|đồ ăn nhanh|Fast food is not healthy.|Đồ ăn nhanh không tốt cho sức khỏe.
+rice|fried rice|cơm rang|I'd like fried rice with egg.|Cho tôi cơm rang trứng.
+bread|a loaf of bread|một ổ bánh mì|Buy a loaf of bread, please.|Mua giúp một ổ bánh mì nhé.
+meat|red meat|thịt đỏ|Don't eat too much red meat.|Đừng ăn quá nhiều thịt đỏ.
+fish|fried fish|cá rán|I love fried fish with rice.|Tôi thích cá rán ăn với cơm.
+chicken|chicken soup|súp gà|Chicken soup is good when you are sick.|Súp gà tốt khi bạn ốm.
+egg|boiled egg|trứng luộc|I eat a boiled egg every morning.|Sáng nào tôi cũng ăn một quả trứng luộc.
+fruit|fresh fruit|trái cây tươi|Eat more fresh fruit.|Hãy ăn nhiều trái cây tươi hơn.
+apple|apple juice|nước táo|A glass of apple juice, please.|Cho một ly nước táo.
+banana|banana cake|bánh chuối|My grandmother makes banana cake.|Bà tôi làm bánh chuối.
+orange|orange juice|nước cam|I drink orange juice every morning.|Sáng nào tôi cũng uống nước cam.
+vegetable|vegetable soup|canh rau|Vegetable soup is healthy.|Canh rau tốt cho sức khỏe.
+soup|bowl of soup|bát canh|Have a bowl of soup.|Ăn một bát canh đi.
+salt|a pinch of salt|một nhúm muối|Add a pinch of salt.|Thêm một nhúm muối.
+sugar|no sugar|không đường|Black coffee, no sugar, please.|Cho cà phê đen không đường.
+milk|milk tea|trà sữa|Teenagers love milk tea.|Thanh thiếu niên mê trà sữa.
+tea|iced tea|trà đá|A glass of iced tea, please.|Cho một ly trà đá.
+coffee|iced coffee|cà phê đá|Vietnamese iced coffee is strong.|Cà phê đá Việt Nam rất đậm.
+juice|fruit juice|nước ép trái cây|Fruit juice is full of vitamins.|Nước ép trái cây giàu vitamin.
+hungry|feel hungry|thấy đói|I always feel hungry at night.|Tối nào tôi cũng thấy đói.
+thirsty|very thirsty|rất khát|I'm very thirsty after running.|Chạy xong tôi rất khát.
+sleep|go to sleep|đi ngủ|It's late, go to sleep.|Muộn rồi, đi ngủ đi.
+wake|wake me up|đánh thức tôi|Please wake me up at six.|Sáu giờ đánh thức tôi nhé.
+wash|wash your hands|rửa tay|Wash your hands before eating.|Rửa tay trước khi ăn.
+shower|take a shower|tắm vòi sen|I take a shower every morning.|Sáng nào tôi cũng tắm.
+exercise|do exercise|tập thể dục|I do exercise in the morning.|Tôi tập thể dục vào buổi sáng.
+healthy|healthy food|đồ ăn lành mạnh|Healthy food keeps you strong.|Đồ ăn lành mạnh giúp bạn khỏe mạnh.
+sick|feel sick|thấy buồn nôn|I feel sick on the bus.|Tôi thấy say xe khi đi xe buýt.
+medicine|take medicine|uống thuốc|Take medicine after meals.|Uống thuốc sau bữa ăn.
+pain|in pain|đang đau|He is in pain.|Anh ấy đang bị đau.
+headache|terrible headache|đau đầu dữ dội|I have a terrible headache.|Tôi bị đau đầu dữ dội.
+fever|high fever|sốt cao|The baby has a high fever.|Em bé bị sốt cao.
+tired|tired of|chán vì|I'm tired of waiting.|Tôi chán phải chờ rồi.
+rest|take a rest|nghỉ ngơi|You should take a rest.|Bạn nên nghỉ ngơi.
+health|good health|sức khỏe tốt|I wish you good health.|Chúc bạn sức khỏe.
+clean|clean up|dọn sạch|Let's clean up the kitchen.|Mình dọn sạch bếp đi.
+dirty|dirty clothes|quần áo bẩn|Put your dirty clothes in the basket.|Bỏ quần áo bẩn vào giỏ.
+delicious|delicious food|đồ ăn ngon|Thank you for the delicious food.|Cảm ơn bữa ăn ngon.
+sweet|sweet dreams|mơ đẹp nhé|Good night, sweet dreams.|Chúc ngủ ngon, mơ đẹp nhé.
+cake|birthday cake|bánh sinh nhật|We bought a birthday cake.|Chúng tôi mua bánh sinh nhật.
+noodles|fried noodles|mì xào|I'd like fried noodles with seafood.|Cho tôi mì xào hải sản.
+dish|side dish|món ăn kèm|What side dish do you want?|Bạn muốn món ăn kèm gì?
+taste|taste good|ngon|Does it taste good?|Có ngon không?
+breathe|breathe in|hít vào|Breathe in slowly.|Hít vào thật chậm.

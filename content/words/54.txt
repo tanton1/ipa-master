@@ -1,0 +1,58 @@
+# Nhóm 54 – Tính từ học thuật
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Tính từ học thuật|Tính từ 6|Hậu tố -al, -ible, -able, -ent đọc nhẹ, trọng âm ở âm tiết trước|Tính từ thường gặp trong bài đọc học thuật, công việc và thi cử: chính xác, hiệu quả, cụ thể, đáng tin cậy. Hậu tố -al, -able, -ible luôn đọc nhẹ /əl/, /əbəl/.|appropriate,efficient,particular,responsible
+= Chính xác và hiệu quả|Trọng âm âm tiết đầu: accurate, actual; -tion trong additional
+accurate|ˈækjɚət|adj|chính xác|The map is accurate.|Bản đồ chính xác.||
+actual|ˈæktʃuəl|adj|thực tế|What is the actual cost?|Chi phí thực tế là bao nhiêu?||
+additional|əˈdɪʃənəl|adj|thêm, bổ sung|Do you need additional help?|Bạn có cần giúp thêm không?||
+appropriate|əˈpɹoʊpɹiət|adj|phù hợp|Is this dress appropriate?|Chiếc váy này có phù hợp không?||
+basic|ˈbeɪsɪk|adj|cơ bản|I know basic English.|Tôi biết tiếng Anh cơ bản.||
+brief|bɹif|adj|ngắn gọn|Please be brief.|Vui lòng nói ngắn gọn.||
+capable|ˈkeɪpəbəl|adj|có năng lực|She is a capable manager.|Cô ấy là một quản lý có năng lực.||
+constant|ˈkɑnstənt|adj|liên tục|He is in constant pain.|Anh ấy đau liên tục.||
+current|ˈkɝənt|adj|hiện tại|What is your current job?|Công việc hiện tại của bạn là gì?||Đồng âm với currant.
+effective|ɪˈfɛktɪv|adj|hiệu quả|This medicine is effective.|Thuốc này hiệu quả.||
+= Thiết yếu và cá nhân|ci, ti đọc /ʃ/ trong efficient, essential, initial
+efficient|ɪˈfɪʃənt|adj|hiệu suất cao|The new system is efficient.|Hệ thống mới hoạt động hiệu quả.||Chữ ci đọc /ʃ/.
+essential|ɪˈsɛnʃəl|adj|thiết yếu|Water is essential for life.|Nước thiết yếu cho sự sống.||
+general|ˈdʒɛnɚəl|adj|chung, tổng quát|I have a general idea.|Tôi có ý tưởng chung chung.||
+independent|ˌɪndɪˈpɛndənt|adj|độc lập|She is very independent.|Cô ấy rất độc lập.||Trọng âm âm tiết ba.
+individual|ˌɪndɪˈvɪdʒuəl|adj|riêng lẻ, cá nhân|Each student gets individual help.|Mỗi học sinh được giúp riêng.||
+initial|ɪˈnɪʃəl|adj|ban đầu|My initial reaction was surprise.|Phản ứng ban đầu của tôi là ngạc nhiên.||
+logical|ˈlɑdʒɪkəl|adj|hợp lý, logic|It's a logical choice.|Đó là một lựa chọn hợp lý.||
+major|ˈmeɪdʒɚ|adj|chính, lớn|It's a major city.|Đó là một thành phố lớn.||
+minor|ˈmaɪnɚ|adj|nhỏ, thứ yếu|It's a minor problem.|Đó là vấn đề nhỏ.||Đồng âm với miner.
+obvious|ˈɑbviəs|adj|hiển nhiên|The answer is obvious.|Câu trả lời quá rõ.||
+= Ban đầu và chuyên nghiệp|ph đọc /f/ trong physical; trọng âm particular ở âm tiết hai
+original|əˈɹɪdʒənəl|adj|nguyên bản; độc đáo|This is the original version.|Đây là phiên bản gốc.||
+particular|pɚˈtɪkjəlɚ|adj|cụ thể, riêng biệt|Is there a particular reason?|Có lý do cụ thể nào không?||
+physical|ˈfɪzɪkəl|adj|thuộc thể chất|Physical health is important.|Sức khỏe thể chất rất quan trọng.||
+potential|pəˈtɛnʃəl|adj|tiềm năng|He is a potential leader.|Anh ấy là một nhà lãnh đạo tiềm năng.||
+practical|ˈpɹæktɪkəl|adj|thực tế, thiết thực|We need a practical solution.|Chúng ta cần một giải pháp thiết thực.||
+previous|ˈpɹiviəs|adj|trước đó|Read the previous page.|Đọc trang trước.||
+primary|ˈpɹaɪˌmɛɹi|adj|chính; tiểu học|The primary goal is safety.|Mục tiêu chính là an toàn.||
+professional|pɹəˈfɛʃənəl|adj|chuyên nghiệp|He is a professional singer.|Anh ấy là ca sĩ chuyên nghiệp.||
+proper|ˈpɹɑpɚ|adj|đúng đắn, phù hợp|Eat a proper meal.|Ăn một bữa đàng hoàng.||
+reasonable|ˈɹizənəbəl|adj|hợp lý, phải chăng|The price is reasonable.|Giá phải chăng.||
+= Liên quan và trách nhiệm|Trọng âm âm tiết hai: reliable, responsible, significant, specific
+relevant|ˈɹɛləvənt|adj|liên quan|That's not relevant.|Điều đó không liên quan.||
+reliable|ɹɪˈlaɪəbəl|adj|đáng tin cậy|My car is reliable.|Xe tôi chạy rất ổn định.||
+responsible|ɹɪˈspɑnsəbəl|adj|có trách nhiệm|She is a responsible student.|Cô ấy là học sinh có trách nhiệm.||
+significant|sɪgˈnɪfɪkənt|adj|đáng kể, quan trọng|It's a significant change.|Đó là một thay đổi đáng kể.||
+similar|ˈsɪməlɚ|adj|tương tự|We have similar ideas.|Chúng tôi có ý tưởng giống nhau.||
+specific|spəˈsɪfɪk|adj|cụ thể|Can you be more specific?|Bạn nói cụ thể hơn được không?||
+standard|ˈstændɚd|adj|tiêu chuẩn|This is the standard size.|Đây là kích cỡ tiêu chuẩn.||
+strict|stɹɪkt|adj|nghiêm khắc|My teacher is strict.|Thầy giáo tôi nghiêm khắc.||Cụm đầu /stɹ/, cụm cuối /kt/.
+successful|səkˈsɛsfəl|adj|thành công|She is a successful businesswoman.|Bà ấy là một nữ doanh nhân thành đạt.||
+suitable|ˈsutəbəl|adj|phù hợp|This job is suitable for students.|Công việc này phù hợp với sinh viên.||
+= Chuyên môn và mức độ|ch đọc /k/ trong technical; cụm /kstɹ/ trong extreme
+valuable|ˈvæljəbəl|adj|có giá trị|Your time is valuable.|Thời gian của bạn quý giá.||
+legal|ˈligəl|adj|hợp pháp|Is it legal?|Có hợp pháp không?||
+medical|ˈmɛdɪkəl|adj|thuộc y tế|She is a medical student.|Cô ấy là sinh viên y khoa.||
+mental|ˈmɛntəl|adj|thuộc tinh thần|Mental health matters.|Sức khỏe tinh thần rất quan trọng.||
+personal|ˈpɝsənəl|adj|cá nhân, riêng tư|That's a personal question.|Đó là câu hỏi riêng tư.||
+technical|ˈtɛknɪkəl|adj|kỹ thuật|We had a technical problem.|Chúng tôi gặp sự cố kỹ thuật.||Chữ ch đọc /k/.
+critical|ˈkɹɪtɪkəl|adj|chỉ trích; quan trọng|He is very critical of others.|Anh ta hay chỉ trích người khác.||
+flexible|ˈflɛksəbəl|adj|linh hoạt|My schedule is flexible.|Lịch của tôi linh hoạt.||
+complex|kəmˈplɛks|adj|phức tạp|The problem is complex.|Vấn đề phức tạp.||Cũng đọc /ˈkɑmplɛks/.
+extreme|ɪkˈstɹim|adj|cực độ|The heat is extreme today.|Hôm nay nắng nóng gay gắt.||

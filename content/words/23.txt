@@ -1,0 +1,58 @@
+# Nhóm 23 – Con người và các mối quan hệ
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Con người và các mối quan hệ|Con người 2|/θ/ cuối trong birth, death, youth; cụm phụ âm trong grandmother, stranger|Họ hàng, bạn bè, đồng nghiệp và các mối quan hệ xã hội. Chú ý âm /θ/ cuối từ và các chữ câm (guest, grandmother).|cousin,colleague,relationship,youth
+= Gia đình mở rộng|aunt đọc /ænt/; ou đọc /ʌ/ trong cousin
+adult|əˈdʌlt|n|người lớn|Tickets are for adults only.|Vé chỉ dành cho người lớn.||Cũng đọc /ˈædʌlt/.
+teenager|ˈtinˌeɪdʒɚ|n|thiếu niên|My son is a teenager now.|Con trai tôi giờ đã là thiếu niên.||
+kid|kɪd|n|đứa trẻ|The kids are playing.|Bọn trẻ đang chơi.||
+grandmother|ˈgɹænˌmʌðɚ|n|bà|My grandmother cooks well.|Bà tôi nấu ăn ngon.||Chữ d thường không đọc.
+grandfather|ˈgɹænˌfɑðɚ|n|ông|My grandfather was a teacher.|Ông tôi từng là giáo viên.||
+aunt|ænt|n|cô, dì, bác gái|My aunt lives in Hue.|Cô tôi sống ở Huế.||Giọng Mỹ đọc /ænt/, đồng âm với ant.
+uncle|ˈʌŋkəl|n|chú, bác, cậu|My uncle has a farm.|Chú tôi có một trang trại.||
+cousin|ˈkʌzən|n|anh chị em họ|My cousin is my best friend.|Em họ là bạn thân nhất của tôi.||Chữ ou đọc /ʌ/, chữ s đọc /z/.
+nephew|ˈnɛfju|n|cháu trai|My nephew is three.|Cháu trai tôi ba tuổi.||Chữ ph đọc /f/.
+niece|nis|n|cháu gái|My niece loves dolls.|Cháu gái tôi thích búp bê.||
+= Bạn bè và khách|u câm trong guest; cụm cuối /st/ trong guest, host
+relative|ˈɹɛlətɪv|n|họ hàng|All my relatives came for Tet.|Họ hàng tôi đều đến dịp Tết.||
+partner|ˈpɑɹtnɚ|n|bạn đời, đối tác|This is my partner, Minh.|Đây là bạn đời của tôi, Minh.||
+boyfriend|ˈbɔɪˌfɹɛnd|n|bạn trai|Her boyfriend is tall.|Bạn trai cô ấy cao.||
+girlfriend|ˈgɝlˌfɹɛnd|n|bạn gái|His girlfriend is a singer.|Bạn gái anh ấy là ca sĩ.||
+guest|gɛst|n|khách|We have guests tonight.|Tối nay nhà có khách.||Chữ u không đọc.
+host|hoʊst|n|chủ nhà, người dẫn chương trình|Thank the host for dinner.|Cảm ơn chủ nhà vì bữa tối.||
+stranger|ˈstɹeɪndʒɚ|n|người lạ|Don't talk to strangers.|Đừng nói chuyện với người lạ.||
+member|ˈmɛmbɚ|n|thành viên|I'm a member of the club.|Tôi là thành viên câu lạc bộ.||
+owner|ˈoʊnɚ|n|chủ sở hữu|Who is the owner of this car?|Ai là chủ chiếc xe này?||Chữ w không đọc.
+visitor|ˈvɪzɪtɚ|n|khách tham quan|The museum has many visitors.|Bảo tàng có nhiều khách tham quan.||
+= Quan hệ xã hội|/θ/ cuối trong birth; đuôi -ship, -age
+citizen|ˈsɪtəzən|n|công dân|I'm a Vietnamese citizen.|Tôi là công dân Việt Nam.||
+twin|twɪn|n|sinh đôi|They are twins.|Họ là anh em sinh đôi.||
+gentleman|ˈdʒɛntəlmən|n|quý ông|He is a real gentleman.|Anh ấy là một quý ông thực thụ.||
+lady|ˈleɪdi|n|quý bà, phụ nữ|Who is that lady?|Người phụ nữ kia là ai?||
+guy|gaɪ|n|anh chàng, gã|He's a nice guy.|Anh ấy là người tốt.||Chữ u không đọc.
+crowd|kɹaʊd|n|đám đông|There was a big crowd.|Có một đám đông lớn.||
+relationship|ɹɪˈleɪʃənˌʃɪp|n|mối quan hệ|They have a good relationship.|Họ có mối quan hệ tốt.||
+marriage|ˈmɛɹɪdʒ|n|hôn nhân|Their marriage is happy.|Cuộc hôn nhân của họ hạnh phúc.||Đuôi -iage đọc /ɪdʒ/.
+wedding|ˈwɛdɪŋ|n|đám cưới|The wedding is on Sunday.|Đám cưới vào Chủ nhật.||
+birth|bɝθ|n|sự ra đời|What is your date of birth?|Ngày sinh của bạn là gì?||Âm cuối /θ/.
+= Đời người và công việc|/θ/ cuối trong death; colleague đọc /ˈkɑlig/
+death|dɛθ|n|cái chết|His death was a shock.|Cái chết của ông ấy là một cú sốc.||Chữ ea đọc /ɛ/, âm cuối /θ/.
+childhood|ˈtʃaɪldˌhʊd|n|tuổi thơ|I had a happy childhood.|Tôi có tuổi thơ hạnh phúc.||
+generation|ˌdʒɛnəˈɹeɪʃən|n|thế hệ|Three generations live in this house.|Ba thế hệ sống trong ngôi nhà này.||
+boss|bɔs|n|sếp|My boss is strict.|Sếp tôi nghiêm khắc.||
+colleague|ˈkɑlig|n|đồng nghiệp|She is my colleague.|Cô ấy là đồng nghiệp của tôi.||Đuôi -league đọc /lig/, chữ ue không đọc.
+classmate|ˈklæsˌmeɪt|n|bạn cùng lớp|He is my classmate.|Cậu ấy là bạn cùng lớp tôi.||
+roommate|ˈɹumˌmeɪt|n|bạn cùng phòng|My roommate is from Hue.|Bạn cùng phòng tôi đến từ Huế.||
+enemy|ˈɛnəmi|n|kẻ thù|They are not enemies.|Họ không phải kẻ thù.||
+hero|ˈhɪɹoʊ|n|anh hùng|You are my hero!|Bạn là người hùng của tôi!||
+king|kɪŋ|n|vua|The king lived in a palace.|Nhà vua sống trong cung điện.||
+= Vai trò và giới tính|qu đọc /kw/; male đồng âm mail
+queen|kwin|n|nữ hoàng|The queen waved to the crowd.|Nữ hoàng vẫy tay chào đám đông.||
+prince|pɹɪns|n|hoàng tử|The prince married a farmer's daughter.|Hoàng tử cưới con gái một nông dân.||Đồng âm với prints.
+princess|ˈpɹɪnsɛs|n|công chúa|She looks like a princess.|Cô bé trông như công chúa.||
+leader|ˈlidɚ|n|người lãnh đạo|She is a born leader.|Cô ấy là người lãnh đạo bẩm sinh.||
+human|ˈhjumən|n|con người|Humans need water.|Con người cần nước.||
+male|meɪl|adj|nam, đực|Is the cat male or female?|Con mèo đực hay cái?||Đồng âm với mail.
+female|ˈfimeɪl|adj|nữ, cái|Most nurses are female.|Phần lớn y tá là nữ.||
+bride|bɹaɪd|n|cô dâu|The bride looks beautiful.|Cô dâu trông thật đẹp.||
+grandchild|ˈgɹænˌtʃaɪld|n|cháu (của ông bà)|They have five grandchildren.|Họ có năm đứa cháu.||Số nhiều grandchildren.
+youth|juθ|n|tuổi trẻ, thanh niên|Enjoy your youth.|Hãy tận hưởng tuổi trẻ.||Âm cuối /θ/.

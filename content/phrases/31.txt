@@ -1,0 +1,56 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+meal|heavy meal|bữa ăn no nê|Don't eat a heavy meal before bed.|Đừng ăn quá no trước khi ngủ.
+meal|home-cooked meal|bữa cơm nhà nấu|Nothing beats a home-cooked meal.|Không gì bằng bữa cơm nhà nấu.
+menu|set menu|thực đơn cố định|The restaurant has a set menu for lunch.|Nhà hàng có thực đơn trưa cố định.
+recipe|family recipe|công thức gia truyền|This soup is a family recipe.|Món canh này là công thức gia truyền.
+beer|draft beer|bia hơi|Hanoi is famous for draft beer.|Hà Nội nổi tiếng với bia hơi.
+wine|red wine|rượu vang đỏ|A glass of red wine, please.|Cho một ly rượu vang đỏ.
+soda|soda water|nước có ga|I'd like a soda water with lemon.|Cho tôi nước có ga với chanh.
+bowl|a bowl of pho|một bát phở|I eat a bowl of pho every morning.|Sáng nào tôi cũng ăn một bát phở.
+pot|hot pot|lẩu|Let's have hot pot tonight.|Tối nay ăn lẩu đi.
+pan|frying pan|chảo rán|Heat the oil in a frying pan.|Làm nóng dầu trong chảo.
+kettle|put the kettle on|đun nước|I'll put the kettle on for tea.|Để tôi đun nước pha trà.
+chopsticks|a pair of chopsticks|một đôi đũa|Can I have a pair of chopsticks?|Cho tôi xin một đôi đũa.
+tray|tea tray|khay trà|She brought a tea tray to the guests.|Cô ấy bưng khay trà ra mời khách.
+napkin|paper napkin|khăn giấy|Can I have a paper napkin?|Cho tôi xin tờ khăn giấy.
+jar|cookie jar|hũ bánh quy|The cookie jar is empty.|Hũ bánh quy hết rồi.
+bake|bake a cake|nướng bánh|Let's bake a cake for Mom.|Mình nướng bánh tặng mẹ nhé.
+boil|boil water|đun sôi nước|Boil water before you drink it.|Đun sôi nước trước khi uống.
+fry|fry an egg|rán trứng|Can you fry an egg for me?|Bạn rán giúp tôi quả trứng được không?
+grill|grill fish|nướng cá|We grill fish on the beach.|Chúng tôi nướng cá trên bãi biển.
+roast|roast chicken|gà quay|Roast chicken is my favorite.|Gà quay là món tôi thích nhất.
+slice|a slice of bread|một lát bánh mì|I had a slice of bread with jam.|Tôi ăn một lát bánh mì với mứt.
+chop|chop the onion|thái hành|Chop the onion into small pieces.|Thái hành thành miếng nhỏ.
+peel|peel an orange|bóc cam|Can you peel an orange for me?|Bạn bóc giúp tôi quả cam được không?
+stir|stir well|khuấy đều|Add milk and stir well.|Thêm sữa và khuấy đều.
+heat|heat wave|đợt nắng nóng|There is a heat wave this week.|Tuần này có một đợt nắng nóng.
+melt|melt in your mouth|tan trong miệng|This cake will melt in your mouth.|Chiếc bánh này tan ngay trong miệng.
+freeze|freeze to death|chết cóng|Wear a coat or you'll freeze to death!|Mặc áo khoác vào kẻo chết cóng!
+serve|serve dinner|phục vụ bữa tối|We serve dinner from six to ten.|Chúng tôi phục vụ bữa tối từ sáu đến mười giờ.
+smell|smell good|có mùi thơm|Does it smell good?|Có thơm không?
+bite|a bite to eat|chút gì để ăn|Let's grab a bite to eat.|Đi ăn chút gì đi.
+chew|chew gum|nhai kẹo cao su|Don't chew gum in class.|Đừng nhai kẹo cao su trong lớp.
+swallow|swallow a pill|nuốt viên thuốc|I can't swallow a pill without water.|Tôi không nuốt được thuốc nếu không có nước.
+waiter|ask the waiter|hỏi người phục vụ|Ask the waiter for the menu.|Hỏi người phục vụ xin thực đơn.
+chef|head chef|bếp trưởng|The head chef is from Hue.|Bếp trưởng người Huế.
+customer|customer service|chăm sóc khách hàng|Call customer service for help.|Gọi bộ phận chăm sóc khách hàng để được giúp.
+customer|regular customer|khách quen|He is a regular customer here.|Anh ấy là khách quen ở đây.
+bill|pay the bill|thanh toán|Let me pay the bill.|Để tôi thanh toán.
+bill|electricity bill|hóa đơn tiền điện|The electricity bill is high in summer.|Mùa hè hóa đơn tiền điện cao.
+tip|leave a tip|để lại tiền boa|Do people leave a tip in Vietnam?|Ở Việt Nam người ta có để tiền boa không?
+receipt|keep the receipt|giữ hóa đơn|Keep the receipt in case you need a refund.|Giữ hóa đơn phòng khi cần hoàn tiền.
+cafe|internet cafe|quán net|There is an internet cafe near the school.|Gần trường có một quán net.
+cafe|street cafe|quán cà phê vỉa hè|We sat at a street cafe and watched people.|Chúng tôi ngồi quán cà phê vỉa hè ngắm người qua lại.
+bakery|French bakery|tiệm bánh Pháp|There is a good French bakery downtown.|Ở trung tâm có một tiệm bánh Pháp ngon.
+picnic|go on a picnic|đi dã ngoại|Let's go on a picnic this Sunday.|Chủ nhật này đi dã ngoại nhé.
+party|throw a party|tổ chức tiệc|We will throw a party for her birthday.|Chúng tôi sẽ tổ chức tiệc sinh nhật cho cô ấy.
+party|political party|đảng chính trị|He joined a political party.|Ông ấy gia nhập một đảng chính trị.
+flavor|ice cream flavor|vị kem|What is your favorite ice cream flavor?|Bạn thích kem vị gì nhất?
+sour|sweet and sour|chua ngọt|I love sweet and sour fish soup.|Tôi thích canh cá chua ngọt.
+bitter|bitter melon|khổ qua, mướp đắng|Bitter melon soup is good for health.|Canh khổ qua tốt cho sức khỏe.
+salty|too salty|mặn quá|The soup is too salty.|Canh mặn quá.
+spicy|spicy food|đồ ăn cay|Can you eat spicy food?|Bạn ăn cay được không?
+raw|raw fish|cá sống|I don't eat raw fish.|Tôi không ăn cá sống.
+ripe|ripe mango|xoài chín|This ripe mango is so sweet.|Quả xoài chín này ngọt quá.
+crispy|crispy pork|thịt heo quay giòn|Rice with crispy pork is delicious.|Cơm với thịt heo quay giòn rất ngon.
+vegetarian|vegetarian food|đồ chay|We eat vegetarian food on the first day of the lunar month.|Chúng tôi ăn chay vào ngày mùng một âm lịch.

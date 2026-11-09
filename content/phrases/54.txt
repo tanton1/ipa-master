@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+accurate|accurate information|thông tin chính xác|We need accurate information.|Chúng ta cần thông tin chính xác.
+actual|actual price|giá thực tế|The actual price is higher.|Giá thực tế cao hơn.
+additional|additional cost|chi phí phát sinh|There is no additional cost.|Không có chi phí phát sinh.
+appropriate|appropriate clothes|trang phục phù hợp|Wear appropriate clothes to the interview.|Mặc trang phục phù hợp khi đi phỏng vấn.
+basic|basic needs|nhu cầu cơ bản|Food and water are basic needs.|Thức ăn và nước là nhu cầu cơ bản.
+brief|in brief|nói ngắn gọn|In brief, the trip was great.|Nói ngắn gọn, chuyến đi rất tuyệt.
+capable|capable of|có khả năng|She is capable of doing the job.|Cô ấy có khả năng làm việc đó.
+constant|constant noise|tiếng ồn liên tục|I can't sleep with the constant noise.|Tôi không ngủ được vì tiếng ồn liên tục.
+current|current events|thời sự|We discuss current events in class.|Chúng tôi thảo luận thời sự trong lớp.
+effective|effective way|cách hiệu quả|Reading is an effective way to learn words.|Đọc là cách học từ hiệu quả.
+efficient|energy efficient|tiết kiệm năng lượng|This fridge is energy efficient.|Tủ lạnh này tiết kiệm điện.
+essential|essential oil|tinh dầu|I use lemongrass essential oil.|Tôi dùng tinh dầu sả.
+general|in general|nói chung|In general, people here are friendly.|Nói chung người ở đây thân thiện.
+independent|financially independent|độc lập tài chính|She wants to be financially independent.|Cô ấy muốn độc lập về tài chính.
+individual|individual needs|nhu cầu riêng|Teachers should think about individual needs.|Giáo viên nên quan tâm đến nhu cầu riêng của từng em.
+initial|initial plan|kế hoạch ban đầu|Our initial plan was to go by bus.|Kế hoạch ban đầu của chúng tôi là đi xe buýt.
+logical|logical answer|câu trả lời hợp lý|That's a logical answer.|Đó là một câu trả lời hợp lý.
+major|major problem|vấn đề lớn|Traffic is a major problem.|Giao thông là một vấn đề lớn.
+minor|minor injury|vết thương nhẹ|He only had a minor injury.|Anh ấy chỉ bị thương nhẹ.
+obvious|obvious reason|lý do hiển nhiên|For obvious reasons, we stayed home.|Vì những lý do hiển nhiên, chúng tôi ở nhà.
+original|original idea|ý tưởng độc đáo|That's an original idea.|Đó là một ý tưởng độc đáo.
+particular|in particular|đặc biệt là|I love fruit, mango in particular.|Tôi thích trái cây, đặc biệt là xoài.
+physical|physical exercise|vận động thể chất|Physical exercise is good for you.|Vận động thể chất tốt cho bạn.
+potential|potential customer|khách hàng tiềm năng|Every visitor is a potential customer.|Mỗi khách ghé thăm là một khách hàng tiềm năng.
+practical|practical advice|lời khuyên thiết thực|She gave me practical advice.|Cô ấy cho tôi lời khuyên thiết thực.
+previous|previous job|công việc trước|Why did you leave your previous job?|Tại sao bạn nghỉ công việc trước?
+primary|primary school|trường tiểu học|My son is in primary school.|Con trai tôi học tiểu học.
+professional|professional photographer|nhiếp ảnh gia chuyên nghiệp|We hired a professional photographer.|Chúng tôi thuê một nhiếp ảnh gia chuyên nghiệp.
+proper|proper way|cách đúng|What is the proper way to say this?|Cách nói đúng là gì?
+reasonable|reasonable price|giá phải chăng|The hotel has a reasonable price.|Khách sạn có giá phải chăng.
+relevant|relevant experience|kinh nghiệm liên quan|Do you have relevant experience?|Bạn có kinh nghiệm liên quan không?
+reliable|reliable source|nguồn đáng tin cậy|Get news from a reliable source.|Lấy tin từ nguồn đáng tin cậy.
+responsible|responsible for|chịu trách nhiệm về|Who is responsible for this?|Ai chịu trách nhiệm việc này?
+significant|significant change|thay đổi đáng kể|There was a significant change in prices.|Giá cả có thay đổi đáng kể.
+similar|similar to|giống với|Your bag is similar to mine.|Túi của bạn giống túi của tôi.
+specific|specific time|thời gian cụ thể|Please give me a specific time.|Vui lòng cho tôi thời gian cụ thể.
+standard|standard room|phòng tiêu chuẩn|A standard room costs forty dollars.|Phòng tiêu chuẩn giá bốn mươi đô.
+strict|strict parents|bố mẹ nghiêm khắc|My friend has strict parents.|Bạn tôi có bố mẹ rất nghiêm khắc.
+successful|successful business|doanh nghiệp thành công|They run a successful business.|Họ điều hành một doanh nghiệp thành công.
+suitable|suitable for|phù hợp với|This movie is not suitable for children.|Bộ phim này không phù hợp với trẻ em.
+valuable|valuable lesson|bài học quý giá|It was a valuable lesson.|Đó là một bài học quý giá.
+legal|legal age|độ tuổi hợp pháp|What is the legal age to drive?|Bao nhiêu tuổi thì được lái xe?
+medical|medical check-up|khám sức khỏe tổng quát|I have a medical check-up every year.|Năm nào tôi cũng khám sức khỏe tổng quát.
+mental|mental health|sức khỏe tinh thần|Mental health is as important as physical health.|Sức khỏe tinh thần quan trọng không kém sức khỏe thể chất.
+personal|personal information|thông tin cá nhân|Don't share personal information online.|Đừng chia sẻ thông tin cá nhân trên mạng.
+technical|technical problem|sự cố kỹ thuật|There is a technical problem.|Có sự cố kỹ thuật.
+critical|critical thinking|tư duy phản biện|Schools should teach critical thinking.|Trường học nên dạy tư duy phản biện.
+flexible|flexible hours|giờ làm linh hoạt|I like a job with flexible hours.|Tôi thích công việc có giờ làm linh hoạt.
+complex|complex problem|vấn đề phức tạp|It's a complex problem.|Đó là một vấn đề phức tạp.
+extreme|extreme weather|thời tiết cực đoan|Extreme weather is more common now.|Thời tiết cực đoan giờ phổ biến hơn.

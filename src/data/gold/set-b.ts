@@ -24,7 +24,7 @@ export const GOLD_B: GoldLesson[] = [
     ],
     vnContrast: 'Với /l/, đầu lưỡi tiếp xúc lợi sau răng trên. Với /ɹ/, lưỡi thu hoặc cong về sau mà không tạo tiếp xúc. "r" tiếng Việt thì rung hoặc thành /z/.',
     errors: ['Đọc /ɹ/ thành /l/ nên thành light.', 'Rung lưỡi hoặc đọc thành /z/.', 'Bỏ /t/ cuối.'],
-    drill: ['Nói "ơ" rồi cuộn lưỡi lên: /ɹ/.', 'Ghép /ɹaɪ/, môi hơi tròn ở đầu.', 'Chặn /t/.', 'Đọc turn right.'],
+    drill: ['Nói "ơ" rồi cong nhẹ đầu lưỡi lên hoặc gồ thân lưỡi về sau, không chạm vòm: /ɹ/.', 'Ghép /ɹaɪ/, môi hơi tròn ở đầu.', 'Chặn /t/.', 'Đọc turn right.'],
     listen: { word: 'light', ipa: 'laɪt', meaning: 'ánh sáng' },
     sentences: [{ en: 'Turn right.', vi: 'Rẽ phải.' }, { en: 'You are right.', vi: 'Bạn đúng.' }],
     criteria: 'Lưỡi không chạm vòm ở âm đầu; phân biệt right/light.',

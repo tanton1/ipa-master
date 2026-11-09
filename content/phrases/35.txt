@@ -1,0 +1,53 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+job|job interview|phỏng vấn xin việc|I have a job interview tomorrow.|Mai tôi có buổi phỏng vấn xin việc.
+job|good job|làm tốt lắm|Good job, everyone!|Mọi người làm tốt lắm!
+career|career path|con đường sự nghiệp|Teaching is a good career path.|Dạy học là một con đường sự nghiệp tốt.
+company|company car|xe công ty|He drives a company car.|Anh ấy lái xe của công ty.
+business|run a business|điều hành doanh nghiệp|My parents run a business.|Bố mẹ tôi tự kinh doanh.
+business|business trip|chuyến công tác|I'm going on a business trip to Singapore.|Tôi sắp đi công tác Singapore.
+manager|sales manager|quản lý bán hàng|She is the sales manager.|Cô ấy là quản lý bán hàng.
+employee|new employee|nhân viên mới|We have a new employee this month.|Tháng này chúng tôi có một nhân viên mới.
+employer|good employer|nhà tuyển dụng tốt|A good employer takes care of workers.|Nhà tuyển dụng tốt quan tâm đến người lao động.
+worker|hard worker|người làm việc chăm chỉ|She is a hard worker.|Cô ấy làm việc rất chăm chỉ.
+staff|staff meeting|họp nhân viên|We have a staff meeting on Monday.|Thứ Hai chúng tôi họp nhân viên.
+team|team spirit|tinh thần đồng đội|Our class has great team spirit.|Lớp tôi có tinh thần đồng đội tuyệt vời.
+meeting|have a meeting|có cuộc họp|We have a meeting at nine.|Chín giờ chúng tôi họp.
+interview|interview question|câu hỏi phỏng vấn|Practice common interview questions.|Hãy luyện các câu hỏi phỏng vấn thường gặp.
+project|school project|dự án ở trường|I'm working on a school project.|Tôi đang làm một dự án ở trường.
+task|daily task|việc hằng ngày|Cooking is a daily task.|Nấu ăn là việc hằng ngày.
+document|sign a document|ký giấy tờ|You need to sign a document.|Bạn cần ký một văn bản.
+contract|sign a contract|ký hợp đồng|We will sign a contract next week.|Tuần sau chúng tôi sẽ ký hợp đồng.
+client|meet a client|gặp khách hàng|I have to meet a client at three.|Ba giờ tôi phải gặp khách hàng.
+service|room service|dịch vụ phòng|Call room service for breakfast.|Gọi dịch vụ phòng để đặt bữa sáng.
+product|new product|sản phẩm mới|The company launched a new product.|Công ty ra mắt một sản phẩm mới.
+profit|make a profit|có lãi|It's hard to make a profit in the first year.|Năm đầu khó mà có lãi.
+engineer|software engineer|kỹ sư phần mềm|My brother is a software engineer.|Anh tôi là kỹ sư phần mềm.
+lawyer|good lawyer|luật sư giỏi|You need a good lawyer.|Bạn cần một luật sư giỏi.
+farmer|rice farmer|nông dân trồng lúa|My grandfather was a rice farmer.|Ông tôi từng là nông dân trồng lúa.
+officer|police officer|cảnh sát viên|Ask a police officer for help.|Hãy nhờ cảnh sát giúp đỡ.
+soldier|young soldier|người lính trẻ|The young soldier wrote to his mother.|Người lính trẻ viết thư cho mẹ.
+artist|street artist|họa sĩ đường phố|A street artist drew my picture.|Một họa sĩ đường phố vẽ chân dung tôi.
+singer|lead singer|ca sĩ chính|She is the lead singer of the band.|Cô ấy là ca sĩ chính của ban nhạc.
+actor|famous actor|diễn viên nổi tiếng|He is a famous actor in Korea.|Anh ấy là diễn viên nổi tiếng ở Hàn Quốc.
+writer|best-selling writer|nhà văn có sách bán chạy|Nguyen Nhat Anh is a best-selling writer.|Nguyễn Nhật Ánh là nhà văn có sách bán chạy.
+journalist|sports journalist|nhà báo thể thao|He works as a sports journalist.|Anh ấy làm nhà báo thể thao.
+designer|fashion designer|nhà thiết kế thời trang|She wants to be a fashion designer.|Cô ấy muốn trở thành nhà thiết kế thời trang.
+programmer|computer programmer|lập trình viên|Computer programmers are in high demand.|Lập trình viên đang được săn đón.
+secretary|personal secretary|thư ký riêng|She is the director's personal secretary.|Cô ấy là thư ký riêng của giám đốc.
+mechanic|car mechanic|thợ sửa ô tô|Take your car to a car mechanic.|Mang xe đến thợ sửa ô tô đi.
+captain|team captain|đội trưởng|He is the team captain.|Anh ấy là đội trưởng.
+firefighter|brave firefighter|lính cứu hỏa dũng cảm|A brave firefighter saved the child.|Một lính cứu hỏa dũng cảm đã cứu đứa trẻ.
+scientist|computer scientist|nhà khoa học máy tính|She is a computer scientist.|Cô ấy là nhà khoa học máy tính.
+accountant|chief accountant|kế toán trưởng|My mother is a chief accountant.|Mẹ tôi là kế toán trưởng.
+assistant|shop assistant|nhân viên bán hàng|Ask the shop assistant for help.|Nhờ nhân viên bán hàng giúp.
+director|film director|đạo diễn phim|He is a famous film director.|Ông ấy là đạo diễn phim nổi tiếng.
+hire|hire a car|thuê xe|We want to hire a car for the trip.|Chúng tôi muốn thuê xe cho chuyến đi.
+retire|retire early|nghỉ hưu sớm|He wants to retire early.|Anh ấy muốn nghỉ hưu sớm.
+earn|earn a living|kiếm sống|He sells fruit to earn a living.|Ông ấy bán trái cây để kiếm sống.
+apply|apply for a job|nộp đơn xin việc|I want to apply for a job at this company.|Tôi muốn nộp đơn xin việc ở công ty này.
+experience|work experience|kinh nghiệm làm việc|Do you have any work experience?|Bạn có kinh nghiệm làm việc không?
+skill|soft skills|kỹ năng mềm|Soft skills are important at work.|Kỹ năng mềm quan trọng trong công việc.
+position|apply for the position|ứng tuyển vị trí|Why do you want to apply for the position?|Tại sao bạn muốn ứng tuyển vị trí này?
+shift|night shift|ca đêm|Nurses often work the night shift.|Y tá thường làm ca đêm.
+profession|medical profession|ngành y|She is proud of the medical profession.|Cô ấy tự hào về ngành y.
+workplace|safe workplace|nơi làm việc an toàn|Everyone deserves a safe workplace.|Ai cũng xứng đáng có một nơi làm việc an toàn.

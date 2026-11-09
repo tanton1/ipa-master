@@ -94,11 +94,11 @@ export const VOWELS: Phoneme[] = [
   {
     id: 'er', symbol: 'ɝ', alt: 'ɚ', type: 'vowel', name: 'Nguyên âm có màu r', priority: 1,
     examples: ['bird', 'work', 'teacher', 'first'], spellings: ['ir (bird)', 'or (work)', 'er (her)', 'ur (nurse)', 'ear (learn)'],
-    how: 'Lưỡi hơi cong lên hoặc thu về sau mà không chạm vòm; môi hơi tròn; âm /ɹ/ hoà vào nguyên âm. /ɝ/ dùng khi có nhấn (work), /ɚ/ khi không nhấn (teacher).',
+    how: 'Có hai cách tạo âm đều đúng: cong nhẹ đầu lưỡi lên (kiểu cuộn lưỡi) hoặc giữ đầu lưỡi thấp và gồ thân lưỡi về phía sau (kiểu bó lưỡi). Cả hai đều không chạm vòm; môi hơi tròn; âm /ɹ/ hoà vào nguyên âm. /ɝ/ dùng khi có nhấn (work), /ɚ/ khi không nhấn (teacher).',
     step: 'lưỡi cong nhẹ về sau không chạm vòm, môi hơi tròn, âm /ɝ/',
     vnCompare: 'Tiếng Việt không có. Gần "ơ" nhưng lưỡi cong như chuẩn bị đọc "r". Người Việt thường đọc thành "ơ" thuần (work → wơk).',
     errors: ['Bỏ màu r, đọc như "ơ"', 'Đọc r rung kiểu Việt'],
-    tip: 'Nói "ơ" rồi cuộn đầu lưỡi lên và giữ nguyên.',
+    tip: 'Nói "ơ" rồi cong nhẹ đầu lưỡi lên hoặc kéo thân lưỡi về sau, giữ nguyên; chọn cách nào nghe giống mẫu hơn.',
   },
   {
     id: 'ey', symbol: 'eɪ', type: 'diphthong', name: 'Nguyên âm đôi', priority: 3,

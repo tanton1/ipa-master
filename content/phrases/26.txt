@@ -1,0 +1,58 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+beef|beef noodle soup|bún bò, phở bò|Hue is famous for beef noodle soup.|Huế nổi tiếng với bún bò.
+pork|grilled pork|thịt heo nướng|I'd like rice with grilled pork.|Cho tôi cơm thịt heo nướng.
+shrimp|fried shrimp|tôm chiên|The kids love fried shrimp.|Bọn trẻ thích tôm chiên.
+crab|crab soup|súp cua|Crab soup is a popular breakfast in Saigon.|Súp cua là món sáng phổ biến ở Sài Gòn.
+duck|roast duck|vịt quay|We ordered roast duck for dinner.|Chúng tôi gọi vịt quay cho bữa tối.
+sausage|pork sausage|xúc xích heo|I had eggs and pork sausage for breakfast.|Sáng tôi ăn trứng và xúc xích heo.
+ham|ham sandwich|bánh mì kẹp giăm bông|Can I have a ham sandwich?|Cho tôi một bánh mì kẹp giăm bông.
+cheese|grilled cheese|bánh mì nướng phô mai|My son wants a grilled cheese sandwich.|Con trai tôi muốn bánh mì nướng phô mai.
+butter|bread and butter|bánh mì phết bơ|I eat bread and butter every morning.|Sáng nào tôi cũng ăn bánh mì phết bơ.
+cream|ice cream|kem|Let's get some ice cream.|Mình đi ăn kem đi.
+cream|sun cream|kem chống nắng|Put on sun cream before you go out.|Thoa kem chống nắng trước khi ra ngoài.
+yogurt|plain yogurt|sữa chua không đường|Plain yogurt is good for you.|Sữa chua không đường tốt cho sức khỏe.
+honey|honey and lemon|mật ong chanh|Drink warm honey and lemon for a sore throat.|Uống mật ong chanh ấm khi bị đau họng.
+jam|traffic jam|kẹt xe|I was stuck in a traffic jam.|Tôi bị kẹt xe.
+jam|strawberry jam|mứt dâu|Put some strawberry jam on the bread.|Phết ít mứt dâu lên bánh mì.
+oil|cooking oil|dầu ăn|We need a bottle of cooking oil.|Chúng ta cần một chai dầu ăn.
+pepper|salt and pepper|muối tiêu|Add salt and pepper to taste.|Nêm muối tiêu vừa ăn.
+sauce|fish sauce|nước mắm|Fish sauce is in almost every Vietnamese dish.|Hầu như món Việt nào cũng có nước mắm.
+sauce|soy sauce|nước tương|Dip the spring roll in soy sauce.|Chấm chả giò vào nước tương.
+garlic|fried garlic|tỏi phi|Add fried garlic on top.|Rắc tỏi phi lên trên.
+onion|green onion|hành lá|Put some green onion in the soup.|Cho ít hành lá vào súp.
+potato|sweet potato|khoai lang|Grilled sweet potato is a winter snack.|Khoai lang nướng là món ăn vặt mùa đông.
+tomato|tomato sauce|sốt cà chua|Do you want tomato sauce on your fries?|Bạn có muốn sốt cà chua với khoai chiên không?
+carrot|carrot juice|nước ép cà rốt|Carrot juice is good for your eyes.|Nước ép cà rốt tốt cho mắt.
+cabbage|cabbage soup|canh bắp cải|My mother makes cabbage soup.|Mẹ tôi nấu canh bắp cải.
+corn|grilled corn|ngô nướng|We bought grilled corn by the lake.|Chúng tôi mua ngô nướng bên hồ.
+bean|green beans|đậu cô ve|Stir-fry the green beans with garlic.|Xào đậu cô ve với tỏi.
+mushroom|mushroom soup|súp nấm|I'd like a bowl of mushroom soup.|Cho tôi một bát súp nấm.
+lemon|lemon tea|trà chanh|Iced lemon tea is popular in Hanoi.|Trà chanh đá rất phổ biến ở Hà Nội.
+grape|grape juice|nước nho|Would you like some grape juice?|Bạn uống nước nho không?
+mango|mango smoothie|sinh tố xoài|A mango smoothie, please.|Cho một ly sinh tố xoài.
+pineapple|pineapple juice|nước ép dứa|Pineapple juice is sweet and sour.|Nước ép dứa chua ngọt.
+watermelon|a slice of watermelon|một miếng dưa hấu|Have a slice of watermelon.|Ăn một miếng dưa hấu đi.
+strawberry|strawberry milk|sữa dâu|My daughter only drinks strawberry milk.|Con gái tôi chỉ uống sữa dâu.
+peach|peach tea|trà đào|I'll have a peach tea, please.|Cho tôi một ly trà đào.
+pear|ripe pear|quả lê chín|This ripe pear is very sweet.|Quả lê chín này rất ngọt.
+coconut|coconut water|nước dừa|Fresh coconut water is the best drink in summer.|Nước dừa tươi là thức uống tuyệt nhất mùa hè.
+coconut|coconut milk|nước cốt dừa|Add some coconut milk to the curry.|Cho ít nước cốt dừa vào món cà ri.
+nut|nut allergy|dị ứng các loại hạt|He has a nut allergy.|Anh ấy dị ứng các loại hạt.
+cookie|chocolate chip cookie|bánh quy sô-cô-la chip|She baked chocolate chip cookies for us.|Cô ấy nướng bánh quy sô-cô-la chip cho chúng tôi.
+candy|cotton candy|kẹo bông|Kids love cotton candy.|Trẻ con thích kẹo bông.
+chocolate|hot chocolate|sô-cô-la nóng|A cup of hot chocolate, please.|Cho một tách sô-cô-la nóng.
+chocolate|chocolate cake|bánh sô-cô-la|We had chocolate cake for his birthday.|Chúng tôi ăn bánh sô-cô-la mừng sinh nhật anh ấy.
+pizza|a slice of pizza|một miếng pizza|Do you want a slice of pizza?|Bạn muốn một miếng pizza không?
+sandwich|chicken sandwich|bánh mì kẹp gà|I'll take a chicken sandwich.|Tôi lấy một bánh mì kẹp gà.
+hamburger|hamburger and fries|hamburger và khoai tây chiên|He ordered a hamburger and fries.|Anh ấy gọi hamburger và khoai tây chiên.
+salad|fruit salad|salad trái cây|Fruit salad is a healthy dessert.|Salad trái cây là món tráng miệng lành mạnh.
+pasta|pasta dish|món mì Ý|This pasta dish has tomato and cheese.|Món mì Ý này có cà chua và phô mai.
+cereal|breakfast cereal|ngũ cốc ăn sáng|Kids like breakfast cereal with milk.|Trẻ con thích ngũ cốc ăn sáng với sữa.
+snack|healthy snack|đồ ăn vặt lành mạnh|Fruit is a healthy snack.|Trái cây là đồ ăn vặt lành mạnh.
+snack|snack bar|quầy đồ ăn nhẹ|There is a snack bar at the station.|Ở nhà ga có quầy đồ ăn nhẹ.
+dessert|for dessert|món tráng miệng|We had ice cream for dessert.|Chúng tôi ăn kem tráng miệng.
+flour|rice flour|bột gạo|Banh xeo is made from rice flour.|Bánh xèo làm từ bột gạo.
+spice|five spice|ngũ vị hương|Add five spice to the pork.|Cho ngũ vị hương vào thịt heo.
+steak|beef steak|bít tết bò|I'd like the beef steak, medium.|Cho tôi bít tết bò, chín vừa.
+seafood|seafood restaurant|nhà hàng hải sản|There is a good seafood restaurant by the beach.|Có một nhà hàng hải sản ngon gần biển.
+seafood|fresh seafood|hải sản tươi|Nha Trang has fresh seafood.|Nha Trang có hải sản tươi.

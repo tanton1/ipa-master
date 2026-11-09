@@ -1,0 +1,58 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+weather|weather forecast|dự báo thời tiết|Check the weather forecast before you go.|Xem dự báo thời tiết trước khi đi.
+weather|bad weather|thời tiết xấu|The flight was cancelled because of bad weather.|Chuyến bay bị hủy vì thời tiết xấu.
+sun|in the sun|dưới nắng|Don't sit in the sun too long.|Đừng ngồi dưới nắng quá lâu.
+moon|full moon|trăng tròn|There is a full moon tonight.|Tối nay trăng tròn.
+star|movie star|ngôi sao điện ảnh|She is a famous movie star.|Cô ấy là một ngôi sao điện ảnh nổi tiếng.
+star|five-star hotel|khách sạn năm sao|We stayed in a five-star hotel.|Chúng tôi ở khách sạn năm sao.
+sky|blue sky|bầu trời xanh|Look at the blue sky!|Nhìn bầu trời xanh kìa!
+cloud|dark clouds|mây đen|Dark clouds mean rain is coming.|Mây đen nghĩa là trời sắp mưa.
+rain|heavy rain|mưa to|Heavy rain caused floods in the city.|Mưa to gây ngập trong thành phố.
+rain|in the rain|dưới mưa|We walked home in the rain.|Chúng tôi đi bộ về nhà dưới mưa.
+snow|heavy snow|tuyết dày|Heavy snow closed the road.|Tuyết dày làm đường bị chặn.
+wind|strong wind|gió mạnh|A strong wind blew the roof off.|Gió mạnh thổi bay mái nhà.
+storm|tropical storm|bão nhiệt đới|A tropical storm is coming to central Vietnam.|Một cơn bão nhiệt đới đang vào miền Trung.
+thunder|thunder and lightning|sấm chớp|I'm afraid of thunder and lightning.|Tôi sợ sấm chớp.
+lightning|struck by lightning|bị sét đánh|The tree was struck by lightning.|Cái cây bị sét đánh.
+rainbow|a beautiful rainbow|cầu vồng tuyệt đẹp|We saw a beautiful rainbow after the rain.|Chúng tôi thấy cầu vồng tuyệt đẹp sau cơn mưa.
+fog|thick fog|sương mù dày|Drive slowly in thick fog.|Lái xe chậm khi sương mù dày.
+ice|ice cube|viên đá|Two ice cubes, please.|Cho hai viên đá.
+temperature|room temperature|nhiệt độ phòng|Keep the medicine at room temperature.|Bảo quản thuốc ở nhiệt độ phòng.
+temperature|take your temperature|đo nhiệt độ|The nurse will take your temperature.|Y tá sẽ đo nhiệt độ cho bạn.
+climate|climate change|biến đổi khí hậu|Climate change affects the Mekong Delta.|Biến đổi khí hậu ảnh hưởng đến Đồng bằng sông Cửu Long.
+forest|rain forest|rừng mưa nhiệt đới|Many animals live in the rain forest.|Nhiều loài động vật sống trong rừng mưa nhiệt đới.
+stream|mountain stream|suối trên núi|The water in the mountain stream is clear.|Nước suối trên núi trong vắt.
+desert|desert island|đảo hoang|If you lived on a desert island, what would you bring?|Nếu sống trên đảo hoang, bạn sẽ mang theo gì?
+island|on the island|trên đảo|We stayed on the island for three days.|Chúng tôi ở trên đảo ba ngày.
+lake|by the lake|bên hồ|Let's have coffee by the lake.|Uống cà phê bên hồ nhé.
+hill|top of the hill|đỉnh đồi|There is a temple at the top of the hill.|Trên đỉnh đồi có một ngôi chùa.
+valley|green valley|thung lũng xanh|The village is in a green valley.|Ngôi làng nằm trong một thung lũng xanh.
+ocean|Pacific Ocean|Thái Bình Dương|The Pacific Ocean is the largest ocean.|Thái Bình Dương là đại dương lớn nhất.
+sand|white sand|cát trắng|The beach has white sand.|Bãi biển có cát trắng.
+rock|rock music|nhạc rock|He listens to rock music.|Anh ấy nghe nhạc rock.
+stone|stone bridge|cầu đá|There is an old stone bridge in the village.|Trong làng có một cây cầu đá cổ.
+soil|rich soil|đất màu mỡ|Rice grows well in rich soil.|Lúa phát triển tốt trên đất màu mỡ.
+grass|keep off the grass|không giẫm lên cỏ|Please keep off the grass.|Vui lòng không giẫm lên cỏ.
+flower|flower market|chợ hoa|We visit the flower market before Tet.|Chúng tôi đi chợ hoa trước Tết.
+flower|bunch of flowers|bó hoa|He gave her a bunch of flowers.|Anh ấy tặng cô một bó hoa.
+plant|water the plants|tưới cây|Can you water the plants?|Bạn tưới cây giúp tôi được không?
+leaf|turn over a new leaf|thay đổi bản thân theo hướng tốt|I want to turn over a new leaf this year.|Năm nay tôi muốn thay đổi bản thân.
+branch|bank branch|chi nhánh ngân hàng|There is a bank branch near my house.|Gần nhà tôi có một chi nhánh ngân hàng.
+wood|made of wood|làm bằng gỗ|This table is made of wood.|Cái bàn này làm bằng gỗ.
+fire|on fire|đang cháy|The house is on fire!|Ngôi nhà đang cháy!
+fire|forest fire|cháy rừng|A forest fire started in the dry season.|Một vụ cháy rừng đã xảy ra vào mùa khô.
+smoke|no smoking|cấm hút thuốc|There is a no smoking sign here.|Ở đây có biển cấm hút thuốc.
+earth|on earth|(nhấn mạnh) quái gì|What on earth are you doing?|Bạn đang làm cái quái gì vậy?
+nature|in nature|ngoài thiên nhiên|Children should spend time in nature.|Trẻ em nên dành thời gian ngoài thiên nhiên.
+air|air conditioner|máy điều hòa|Turn on the air conditioner.|Bật điều hòa lên.
+air|by air|bằng đường hàng không|We sent the package by air.|Chúng tôi gửi gói hàng bằng đường hàng không.
+sunny|sunny day|ngày nắng|It's a sunny day, let's go out.|Trời nắng đẹp, đi chơi thôi.
+cloudy|cloudy sky|bầu trời nhiều mây|We couldn't see the stars because of the cloudy sky.|Trời nhiều mây nên không thấy sao.
+rainy|rainy day|ngày mưa; lúc khó khăn|Save money for a rainy day.|Hãy để dành tiền phòng lúc khó khăn.
+windy|windy weather|thời tiết nhiều gió|Windy weather is good for flying kites.|Trời nhiều gió rất hợp để thả diều.
+seed|plant a seed|gieo một hạt giống|Plant a seed and water it every day.|Gieo một hạt giống và tưới mỗi ngày.
+flood|flood water|nước lũ|The flood water reached our door.|Nước lũ dâng đến cửa nhà chúng tôi.
+earthquake|strong earthquake|trận động đất mạnh|A strong earthquake hit the city.|Một trận động đất mạnh đã xảy ra ở thành phố.
+root|root of the problem|gốc rễ vấn đề|We need to find the root of the problem.|Chúng ta cần tìm ra gốc rễ của vấn đề.
+waterfall|beautiful waterfall|thác nước đẹp|There is a beautiful waterfall near Da Lat.|Gần Đà Lạt có một thác nước rất đẹp.
+rose|red rose|hoa hồng đỏ|He gave her a red rose.|Anh ấy tặng cô một bông hồng đỏ.

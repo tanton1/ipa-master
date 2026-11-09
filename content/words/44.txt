@@ -1,0 +1,58 @@
+# Nhóm 44 – Động từ thường dùng 6
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Động từ thường dùng 6|Động từ 7|Động từ đổi trọng âm theo từ loại: record, permit|Động từ dùng nhiều trong tin tức và công việc: nhận, ngăn chặn, phát hành, phá hủy, hạ cánh, bắt giữ. Một số từ đổi trọng âm khi là danh từ (a record /ˈɹɛkɚd/ – to record /ɹɪˈkɔɹd/).|receive,record,disappear,separate
+= Nhận, vào, ngăn chặn|ei đọc /i/ trong receive; cụm cuối /kt/ trong act
+die|daɪ|v|chết|My plant died.|Cây của tôi chết rồi.||Đồng âm với dye.
+receive|ɹɪˈsiv|v|nhận|Did you receive my email?|Bạn nhận được email của tôi chưa?||Chữ ei đọc /i/, âm cuối /v/.
+enter|ˈɛntɚ|v|đi vào; nhập|Please enter the room.|Mời vào phòng.||
+seek|sik|v|tìm kiếm|They seek a better life.|Họ tìm kiếm cuộc sống tốt đẹp hơn.||
+prevent|pɹɪˈvɛnt|v|ngăn chặn|We can prevent this.|Chúng ta có thể ngăn chặn điều này.||
+act|ækt|v|hành động; diễn|We must act now.|Chúng ta phải hành động ngay.||Cụm cuối /kt/.
+beat|bit|v|đánh bại; đập|Vietnam beat Thailand.|Việt Nam thắng Thái Lan.||Khác bit /bɪt/.
+operate|ˈɑpəˌɹeɪt|v|vận hành; phẫu thuật|The doctor will operate tomorrow.|Bác sĩ sẽ mổ vào ngày mai.||
+release|ɹɪˈlis|v|thả; phát hành|They released the birds.|Họ thả những con chim.||Âm cuối /s/.
+set|sɛt|v|đặt, thiết lập|Set the table.|Bày bàn ăn đi.||Khác sat /sæt/.
+= Ghi, gắn, kết hợp|record (v) nhấn âm tiết hai, (n) nhấn âm tiết đầu
+record|ɹɪˈkɔɹd|v|ghi lại, thu âm|Record your voice.|Thu âm giọng của bạn.||Danh từ record đọc /ˈɹɛkɚd/.
+list|lɪst|v|liệt kê|List five fruits.|Kể tên năm loại trái cây.||Khác least /list/.
+belong|bɪˈlɔŋ|v|thuộc về|This book belongs to me.|Quyển sách này của tôi.||
+slip|slɪp|v|trượt chân|I slipped on the wet floor.|Tôi trượt chân trên sàn ướt.||Khác sleep /slip/.
+attach|əˈtætʃ|v|đính kèm, gắn|Attach the photo.|Đính kèm bức ảnh.||
+clap|klæp|v|vỗ tay|Everyone clapped.|Mọi người vỗ tay.||
+combine|kəmˈbaɪn|v|kết hợp|Combine the two ideas.|Kết hợp hai ý tưởng.||
+concern|kənˈsɝn|v|liên quan; làm lo lắng|This concerns everyone.|Việc này liên quan đến mọi người.||
+crack|kɹæk|v|làm nứt, nứt|The glass cracked.|Cái ly bị nứt.||
+damage|ˈdæmɪdʒ|v|làm hư hại|The storm damaged our roof.|Cơn bão làm hỏng mái nhà.||
+= Phá hủy, hạ cánh, giới hạn|u câm trong guard; cụm /stɹ/ trong destroy
+destroy|dɪˈstɹɔɪ|v|phá hủy|The fire destroyed the house.|Ngọn lửa thiêu rụi ngôi nhà.||
+disappear|ˌdɪsəˈpɪɹ|v|biến mất|My keys disappeared.|Chìa khóa của tôi biến mất.||
+end|ɛnd|v|kết thúc|The movie ends at ten.|Phim kết thúc lúc mười giờ.||
+gain|geɪn|v|đạt được; tăng|I gained two kilos.|Tôi tăng hai ký.||
+guard|gɑɹd|v|canh gác|The dog guards the house.|Con chó canh nhà.||Chữ u không đọc.
+intend|ɪnˈtɛnd|v|định, có ý định|What do you intend to do?|Bạn định làm gì?||
+land|lænd|v|hạ cánh|The plane landed safely.|Máy bay hạ cánh an toàn.||
+launch|lɔntʃ|v|khai trương, phóng|They launched a new app.|Họ ra mắt một ứng dụng mới.||Chữ au đọc /ɔ/.
+limit|ˈlɪmɪt|v|giới hạn|Limit your sugar.|Hạn chế đường.||
+load|loʊd|v|chất (hàng); tải|Load the car.|Chất đồ lên xe.||
+= Định vị và sửa chữa|Cụm /skɹ/ trong scream, /stɹ/ trong strike
+locate|ˈloʊˌkeɪt|v|xác định vị trí; đặt ở|Can you locate the problem?|Bạn xác định được vấn đề không?||
+note|noʊt|v|ghi chú, lưu ý|Please note the time.|Vui lòng lưu ý thời gian.||
+refer|ɹɪˈfɝ|v|nhắc đến, tham khảo|What are you referring to?|Bạn đang nói đến chuyện gì?||Trọng âm âm tiết hai.
+repair|ɹɪˈpɛɹ|v|sửa chữa|Can you repair my bike?|Bạn sửa xe đạp giúp tôi được không?||
+scream|skɹim|v|hét lên|She screamed when she saw the snake.|Cô ấy hét lên khi thấy con rắn.||
+separate|ˈsɛpəˌɹeɪt|v|tách ra|Separate the eggs.|Tách trứng ra.||Tính từ separate đọc /ˈsɛpɹət/.
+settle|ˈsɛtəl|v|định cư; giải quyết|They settled in Canada.|Họ định cư ở Canada.||
+spoil|spɔɪl|v|làm hỏng; nuông chiều|Don't spoil the surprise.|Đừng làm hỏng bất ngờ.||
+strike|stɹaɪk|v|đánh, đập|Lightning struck the house.|Sét đánh vào ngôi nhà.||
+surround|səˈɹaʊnd|v|bao quanh|Trees surround the lake.|Cây cối bao quanh hồ.||
+= Đi lang thang và bắt giữ|wander /ˈwɑndɚ/ khác wonder /ˈwʌndɚ/; permit (v) nhấn âm tiết hai
+wander|ˈwɑndɚ|v|đi lang thang|We wandered around the market.|Chúng tôi lang thang quanh chợ.||
+permit|pɚˈmɪt|v|cho phép|Smoking is not permitted.|Không được phép hút thuốc.||Danh từ permit đọc /ˈpɝmɪt/.
+vary|ˈvɛɹi|v|thay đổi, khác nhau|Prices vary.|Giá cả khác nhau.||
+observe|əbˈzɝv|v|quan sát|Observe the birds.|Quan sát những con chim.||
+unite|juˈnaɪt|v|đoàn kết, thống nhất|Let's unite.|Hãy đoàn kết.||Âm đầu /j/.
+bounce|baʊns|v|nảy|The ball bounced.|Quả bóng nảy lên.||
+disagree|ˌdɪsəˈgɹi|v|không đồng ý|I disagree.|Tôi không đồng ý.||
+fetch|fɛtʃ|v|đi lấy về|Fetch me some water.|Đi lấy cho tôi ít nước.||
+nap|næp|v|ngủ trưa, chợp mắt|The baby naps at noon.|Em bé ngủ trưa.||Khác lap /læp/.
+arrest|əˈɹɛst|v|bắt giữ|The police arrested him.|Cảnh sát đã bắt hắn.||

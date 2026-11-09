@@ -1,0 +1,58 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+brain|use your brain|động não|Use your brain and find the answer.|Động não và tìm câu trả lời đi.
+blood|blood test|xét nghiệm máu|The doctor wants a blood test.|Bác sĩ muốn xét nghiệm máu.
+blood|blood pressure|huyết áp|My grandfather has high blood pressure.|Ông tôi bị cao huyết áp.
+bone|broken bone|xương gãy|The X-ray shows a broken bone.|Phim X-quang cho thấy xương bị gãy.
+chest|chest pain|đau ngực|Call a doctor if you have chest pain.|Gọi bác sĩ nếu bạn bị đau ngực.
+stomach|upset stomach|đau bụng, rối loạn tiêu hóa|I have an upset stomach.|Tôi bị đau bụng.
+stomach|empty stomach|bụng đói|Don't take this medicine on an empty stomach.|Đừng uống thuốc này khi bụng đói.
+throat|sore throat|đau họng|I have a sore throat.|Tôi bị đau họng.
+tongue|mother tongue|tiếng mẹ đẻ|Vietnamese is my mother tongue.|Tiếng Việt là tiếng mẹ đẻ của tôi.
+tongue|tongue twister|câu nói líu lưỡi|"She sells seashells" is a tongue twister.|"She sells seashells" là một câu nói líu lưỡi.
+lip|lip balm|son dưỡng môi|I use lip balm in winter.|Mùa đông tôi dùng son dưỡng môi.
+chin|chin up|vui lên nào|Chin up! Tomorrow will be better.|Vui lên! Ngày mai sẽ tốt hơn.
+cheek|rosy cheeks|má hồng|The baby has rosy cheeks.|Em bé có đôi má hồng.
+forehead|hot forehead|trán nóng|Your son has a hot forehead. He may have a fever.|Trán con bạn nóng. Có thể bé bị sốt.
+sore|sore eyes|mỏi mắt, đau mắt|Too much screen time gives me sore eyes.|Nhìn màn hình nhiều làm tôi mỏi mắt.
+wrist|wrist watch|đồng hồ đeo tay|My father gave me a wrist watch.|Bố tặng tôi một chiếc đồng hồ đeo tay.
+elbow|elbow room|chỗ trống để cử động|There is no elbow room on this bus.|Xe buýt này chật cứng.
+ankle|twist your ankle|trẹo mắt cá chân|Be careful not to twist your ankle.|Cẩn thận kẻo trẹo mắt cá chân.
+toe|from head to toe|từ đầu đến chân|She was wet from head to toe.|Cô ấy ướt từ đầu đến chân.
+thumb|thumbs up|giơ ngón cái tán thành|He gave me a thumbs up.|Anh ấy giơ ngón cái với tôi.
+nail|nail polish|sơn móng tay|She bought red nail polish.|Cô ấy mua sơn móng màu đỏ.
+muscle|muscle pain|đau cơ|Hard exercise can cause muscle pain.|Tập nặng có thể gây đau cơ.
+lung|lung cancer|ung thư phổi|Smoking causes lung cancer.|Hút thuốc gây ung thư phổi.
+vaccine|flu vaccine|vắc-xin cúm|Get a flu vaccine every year.|Hãy tiêm vắc-xin cúm mỗi năm.
+surgery|have surgery|phẫu thuật|My father will have surgery next week.|Tuần sau bố tôi sẽ phẫu thuật.
+waist|waist size|vòng eo|What is your waist size?|Vòng eo của bạn bao nhiêu?
+beard|grow a beard|để râu|He wants to grow a beard.|Anh ấy muốn để râu.
+cough|bad cough|ho nặng|You have a bad cough. See a doctor.|Bạn ho nặng quá. Đi khám đi.
+cough|cough medicine|thuốc ho|Take some cough medicine before bed.|Uống thuốc ho trước khi ngủ.
+flu|catch the flu|bị cúm|I don't want to catch the flu.|Tôi không muốn bị cúm.
+injury|serious injury|chấn thương nghiêm trọng|He had a serious injury in the accident.|Anh ấy bị chấn thương nặng trong vụ tai nạn.
+wound|deep wound|vết thương sâu|A deep wound needs stitches.|Vết thương sâu cần phải khâu.
+cancer|breast cancer|ung thư vú|Breast cancer can be cured if found early.|Ung thư vú có thể chữa khỏi nếu phát hiện sớm.
+disease|heart disease|bệnh tim|Heart disease is very common.|Bệnh tim rất phổ biến.
+disease|skin disease|bệnh ngoài da|He has a skin disease.|Anh ấy bị bệnh ngoài da.
+illness|serious illness|bệnh nặng|She is recovering from a serious illness.|Cô ấy đang hồi phục sau trận ốm nặng.
+allergy|food allergy|dị ứng thực phẩm|Do you have a food allergy?|Bạn có bị dị ứng thực phẩm không?
+virus|computer virus|vi-rút máy tính|My laptop has a computer virus.|Máy tính của tôi bị nhiễm vi-rút.
+symptom|common symptom|triệu chứng thường gặp|Fever is a common symptom of flu.|Sốt là triệu chứng thường gặp của cúm.
+nurse|night nurse|y tá trực đêm|The night nurse checked on him every hour.|Y tá trực đêm kiểm tra anh ấy mỗi giờ.
+dentist|go to the dentist|đi nha sĩ|I go to the dentist twice a year.|Tôi đi nha sĩ mỗi năm hai lần.
+clinic|private clinic|phòng khám tư|She works at a private clinic.|Cô ấy làm ở phòng khám tư.
+pharmacy|24-hour pharmacy|nhà thuốc mở cửa 24 giờ|Is there a 24-hour pharmacy near here?|Gần đây có nhà thuốc mở cửa 24 giờ không?
+pill|sleeping pill|thuốc ngủ|Don't take a sleeping pill every night.|Đừng uống thuốc ngủ mỗi đêm.
+vitamin|vitamin C|vitamin C|Oranges are rich in vitamin C.|Cam rất giàu vitamin C.
+diet|on a diet|đang ăn kiêng|I'm on a diet, so no cake for me.|Tôi đang ăn kiêng nên không ăn bánh.
+diet|healthy diet|chế độ ăn lành mạnh|A healthy diet includes vegetables.|Chế độ ăn lành mạnh phải có rau.
+sweat|cold sweat|mồ hôi lạnh|He woke up in a cold sweat.|Anh ấy tỉnh dậy, người toát mồ hôi lạnh.
+sneeze|sneeze a lot|hắt hơi nhiều|I sneeze a lot in spring.|Mùa xuân tôi hắt hơi nhiều.
+bleed|bleed a lot|chảy nhiều máu|Small cuts on the head can bleed a lot.|Vết cắt nhỏ trên đầu có thể chảy nhiều máu.
+hurt|get hurt|bị thương|Be careful, you might get hurt.|Cẩn thận, bạn có thể bị thương.
+heal|heal quickly|lành nhanh|Young people heal quickly.|Người trẻ lành vết thương nhanh.
+recover|recover from|hồi phục sau|She needs time to recover from the flu.|Cô ấy cần thời gian để khỏi cúm.
+cure|no cure|không có thuốc chữa|There is no cure for the common cold.|Không có thuốc chữa cảm lạnh thông thường.
+ambulance|call an ambulance|gọi xe cứu thương|Call an ambulance, quickly!|Gọi xe cứu thương, nhanh lên!
+emergency|in an emergency|trong trường hợp khẩn cấp|In an emergency, call 115.|Trường hợp khẩn cấp, hãy gọi 115.
+emergency|emergency room|phòng cấp cứu|They took him to the emergency room.|Họ đưa anh ấy vào phòng cấp cứu.

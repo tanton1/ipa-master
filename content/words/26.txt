@@ -1,0 +1,58 @@
+# Nhóm 26 – Thực phẩm
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Thực phẩm|Thực phẩm|Từ mượn đọc khác chữ: pizza, yogurt, chocolate; dessert khác desert|Thịt, hải sản, rau củ, trái cây, gia vị và món ăn phổ biến. Nhiều từ quen thuộc nhưng người Việt hay đọc theo kiểu phiên âm tiếng Việt (sô-cô-la, pi-za).|chocolate,pizza,dessert,mushroom
+= Thịt, hải sản, sữa|Cụm đầu /ʃɹ/ trong shrimp; /tʃ/ trong cheese
+beef|bif|n|thịt bò|I don't eat beef.|Tôi không ăn thịt bò.||Âm cuối /f/.
+pork|pɔɹk|n|thịt heo|Pork is cheap here.|Thịt heo ở đây rẻ.||
+shrimp|ʃɹɪmp|n|tôm|I'm allergic to shrimp.|Tôi dị ứng tôm.||Cụm đầu /ʃɹ/, cụm cuối /mp/.
+crab|kɹæb|n|cua|This crab is delicious.|Con cua này ngon.||Âm cuối /b/.
+duck|dʌk|n|vịt|We had duck for dinner.|Tối nay chúng tôi ăn vịt.||
+sausage|ˈsɔsɪdʒ|n|xúc xích|I like grilled sausage.|Tôi thích xúc xích nướng.||
+ham|hæm|n|giăm bông|A slice of ham, please.|Cho một lát giăm bông.||
+cheese|tʃiz|n|phô mai|I love cheese.|Tôi mê phô mai.||Âm cuối /z/.
+butter|ˈbʌtɚ|n|bơ (sữa)|Spread butter on the bread.|Phết bơ lên bánh mì.||
+cream|kɹim|n|kem, váng sữa|Do you want cream in your coffee?|Bạn có muốn cho kem vào cà phê không?||
+= Gia vị và rau củ 1|o đọc /ʌ/ trong honey, onion; trọng âm potato, tomato ở âm tiết hai
+yogurt|ˈjoʊgɚt|n|sữa chua|I eat yogurt every day.|Tôi ăn sữa chua mỗi ngày.||
+honey|ˈhʌni|n|mật ong|Add some honey.|Thêm chút mật ong.||Chữ o đọc /ʌ/.
+jam|dʒæm|n|mứt|I like toast with jam.|Tôi thích bánh mì nướng với mứt.||
+oil|ɔɪl|n|dầu|Heat the oil first.|Làm nóng dầu trước.||
+pepper|ˈpɛpɚ|n|hạt tiêu; ớt chuông|Pass me the pepper.|Đưa tôi lọ tiêu.||
+sauce|sɔs|n|nước sốt|This sauce is spicy.|Nước sốt này cay.||Đồng âm với source trong nhiều giọng Mỹ.
+garlic|ˈgɑɹlɪk|n|tỏi|Fry the garlic.|Phi tỏi.||
+onion|ˈʌnjən|n|hành tây|Cut the onion.|Thái hành tây.||Chữ o đầu đọc /ʌ/.
+potato|pəˈteɪtoʊ|n|khoai tây|I like baked potatoes.|Tôi thích khoai tây nướng.||Trọng âm âm tiết hai.
+tomato|təˈmeɪtoʊ|n|cà chua|Slice the tomato.|Thái lát cà chua.||Giọng Mỹ đọc /təˈmeɪtoʊ/.
+= Rau củ và trái cây|-age đọc /ɪdʒ/ trong cabbage; /ŋg/ trong mango
+carrot|ˈkɛɹət|n|cà rốt|Rabbits like carrots.|Thỏ thích cà rốt.||
+cabbage|ˈkæbɪdʒ|n|bắp cải|Boil the cabbage.|Luộc bắp cải.||Đuôi -age đọc /ɪdʒ/.
+corn|kɔɹn|n|ngô, bắp|We grow corn.|Chúng tôi trồng ngô.||
+bean|bin|n|hạt đậu|I like green beans.|Tôi thích đậu cô ve.||Khác bin /bɪn/.
+mushroom|ˈmʌʃɹum|n|nấm|Add the mushrooms.|Cho nấm vào.||
+lemon|ˈlɛmən|n|chanh vàng|Add a slice of lemon.|Thêm một lát chanh.||
+grape|gɹeɪp|n|quả nho|These grapes are sweet.|Nho này ngọt.||
+mango|ˈmæŋgoʊ|n|xoài|Mangoes are my favorite fruit.|Xoài là trái cây tôi thích nhất.||Có âm /g/ sau /ŋ/.
+pineapple|ˈpaɪnˌæpəl|n|quả dứa|Pineapple is sweet and sour.|Dứa chua ngọt.||
+watermelon|ˈwɔtɚˌmɛlən|n|dưa hấu|We eat watermelon at Tet.|Chúng tôi ăn dưa hấu dịp Tết.||
+= Trái cây và đồ ngọt|zz đọc /ts/ trong pizza; d câm trong sandwich
+strawberry|ˈstɹɔˌbɛɹi|n|dâu tây|Da Lat is famous for strawberries.|Đà Lạt nổi tiếng với dâu tây.||Cụm đầu /stɹ/.
+peach|pitʃ|n|quả đào|This peach is soft.|Quả đào này mềm.||
+pear|pɛɹ|n|quả lê|Would you like a pear?|Bạn ăn lê không?||Đồng âm với pair.
+coconut|ˈkoʊkəˌnʌt|n|quả dừa|Ben Tre is famous for coconuts.|Bến Tre nổi tiếng về dừa.||
+nut|nʌt|n|hạt (có vỏ cứng)|I eat nuts as a snack.|Tôi ăn các loại hạt làm đồ ăn vặt.||
+cookie|ˈkʊki|n|bánh quy|Have a cookie.|Ăn bánh quy đi.||Chữ oo đọc /ʊ/.
+candy|ˈkændi|n|kẹo|Too much candy is bad for your teeth.|Ăn nhiều kẹo hại răng.||
+chocolate|ˈtʃɔklət|n|sô-cô-la|I love dark chocolate.|Tôi mê sô-cô-la đen.||Thường đọc 2 âm tiết /ˈtʃɔk·lət/.
+pizza|ˈpitsə|n|bánh pizza|Let's order pizza.|Đặt pizza đi.||Chữ zz đọc /ts/.
+sandwich|ˈsænwɪtʃ|n|bánh mì kẹp|I had a sandwich for lunch.|Trưa tôi ăn bánh mì kẹp.||Chữ d thường không đọc.
+= Món ăn và nguyên liệu|dessert /dɪˈzɝt/ khác desert /ˈdɛzɚt/; flour đồng âm flower
+hamburger|ˈhæmˌbɝgɚ|n|bánh hamburger|He ate two hamburgers.|Anh ấy ăn hai cái hamburger.||
+salad|ˈsæləd|n|món salad, rau trộn|I'll have a salad.|Tôi gọi món salad.||
+pasta|ˈpɑstə|n|mì Ý|We had pasta for dinner.|Tối nay chúng tôi ăn mì Ý.||
+cereal|ˈsɪɹiəl|n|ngũ cốc|I eat cereal for breakfast.|Tôi ăn ngũ cốc vào bữa sáng.||Đồng âm với serial.
+snack|snæk|n|đồ ăn vặt|Do you want a snack?|Bạn ăn chút gì không?||
+dessert|dɪˈzɝt|n|món tráng miệng|What's for dessert?|Tráng miệng có gì?||Trọng âm âm tiết hai; khác desert /ˈdɛzɚt/ (sa mạc).
+flour|ˈflaʊɚ|n|bột mì|Mix the flour with water.|Trộn bột với nước.||Đồng âm với flower.
+spice|spaɪs|n|gia vị|Vietnamese food uses many spices.|Món Việt dùng nhiều gia vị.||
+steak|steɪk|n|bít tết|How do you like your steak?|Bạn muốn bít tết chín thế nào?||Chữ ea đọc /eɪ/.
+seafood|ˈsiˌfud|n|hải sản|Vung Tau has great seafood.|Vũng Tàu có hải sản rất ngon.||

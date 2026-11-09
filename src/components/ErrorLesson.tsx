@@ -7,7 +7,8 @@ import { getPhoneme } from '@/data/phonemes';
 import { getContrast } from '@/data/contrast';
 import { WORDS } from '@/lib/curriculum';
 import { useTts } from '@/lib/tts';
-import { useAppState, recordListen, recordSpeak, startRetest, completeRetest, errorScore, todayKey, type Rating } from '@/lib/store';
+import { useAppState, recordListen, recordSpeak, startRetest, completeRetest, errorScore, evidenceOf, todayKey, type Rating } from '@/lib/store';
+import { EvidencePill } from './EvidencePill';
 import { MouthDiagram } from './MouthDiagram';
 import { PlayButton } from './PlayButton';
 import { Recorder } from './Recorder';
@@ -83,7 +84,7 @@ export function ErrorLesson({ code }: { code: ErrorCode }) {
       <section className="card p-4">
         <div className="flex items-start justify-between gap-3">
           <p className="text-sm leading-relaxed"><span className="font-semibold">Vì sao hay sai: </span>{e.why}</p>
-          {sc ? <span className="shrink-0 rounded-full bg-surface-2 px-2.5 py-1 text-xs font-semibold tabular-nums">{sc.score}/100</span> : null}
+          <EvidencePill level={evidenceOf(sc)} detail={sc ? `${sc.score}/100 · ${sc.n} lượt` : undefined} />
         </div>
         <p className="mt-3 text-sm leading-relaxed"><span className="font-semibold">Cách sửa: </span>{e.fix}</p>
         {e.region ? <p className="mt-3 rounded-xl bg-surface-2 p-3 text-xs text-muted"><span className="font-semibold text-ink">Theo vùng miền: </span>{e.region}</p> : null}
@@ -277,7 +278,8 @@ export function ErrorLesson({ code }: { code: ErrorCode }) {
       </div>
 
       <section>
-        <h2 className="mb-2 text-lg font-extrabold">Từ trong 500 từ có nguy cơ {code} <span className="text-sm font-normal text-muted">({words.length})</span></h2>
+        <h2 className="mb-1 text-lg font-extrabold">{code === 'E10' ? 'Từ dùng để luyện ngữ điệu' : `Từ có nguy cơ ${code}`} <span className="text-sm font-normal text-muted">({words.length})</span></h2>
+        <p className="mb-2 text-xs text-muted">{code === 'E10' ? 'Ngữ điệu được đánh giá ở cấp cụm từ và câu, không suy ra từ việc đọc đúng một từ đơn.' : 'Nguy cơ là dự đoán theo cấu trúc từ cho người Việt nói chung, không phải lỗi đã quan sát ở bạn.'}</p>
         <ul className="flex flex-col gap-2">{words.slice(0, 8).map((w) => <WordRow key={w.slug} w={w} />)}</ul>
         <Link href={`/words?code=${code}`} className="mt-2 block text-center text-sm font-semibold text-primary">Xem tất cả {words.length} từ</Link>
       </section>

@@ -1,0 +1,58 @@
+# Nhóm 50 – Kinh doanh, kinh tế
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Kinh doanh, kinh tế|Kinh tế|Danh từ và động từ đổi trọng âm: an increase – to increase|Từ vựng kinh tế, tài chính, thị trường và việc làm thường gặp trong tin tức. Nhiều cặp danh từ – động từ đổi trọng âm: export, import, increase, decrease.|economy,investment,unemployment,organization
+= Kinh tế và đầu tư|Trọng âm đổi: economy /ɪˈkɑn/ – economic /ˌɛkəˈnɑm/
+economy|ɪˈkɑnəmi|n|nền kinh tế|The economy is growing.|Nền kinh tế đang tăng trưởng.||Trọng âm âm tiết hai.
+economic|ˌɛkəˈnɑmɪk|adj|thuộc kinh tế|We face economic problems.|Chúng ta gặp vấn đề kinh tế.||Trọng âm âm tiết ba.
+industry|ˈɪndəstɹi|n|ngành công nghiệp|The car industry is big.|Ngành ô tô rất lớn.||Trọng âm âm tiết đầu.
+trade|tɹeɪd|n|thương mại|Trade between the two countries is growing.|Thương mại giữa hai nước đang tăng.||
+income|ˈɪnˌkʌm|n|thu nhập|What is your monthly income?|Thu nhập hằng tháng của bạn là bao nhiêu?||
+finance|ˈfaɪˌnæns|n|tài chính|She works in finance.|Cô ấy làm trong ngành tài chính.||Cũng đọc /fəˈnæns/.
+financial|faɪˈnænʃəl|adj|thuộc tài chính|He needs financial help.|Anh ấy cần giúp đỡ về tài chính.||
+investment|ɪnˈvɛstmənt|n|khoản đầu tư|A house is a good investment.|Nhà là một khoản đầu tư tốt.||
+invest|ɪnˈvɛst|v|đầu tư|I invest in gold.|Tôi đầu tư vào vàng.||
+stock|stɑk|n|cổ phiếu; hàng tồn|We have it in stock.|Chúng tôi còn hàng.||
+= Cung cầu và sản xuất|Danh từ export, import, increase nhấn âm tiết đầu; động từ nhấn âm tiết hai
+value|ˈvælju|n|giá trị|The value of the house went up.|Giá trị ngôi nhà tăng lên.||
+demand|dɪˈmænd|n|nhu cầu|Demand for coffee is high.|Nhu cầu cà phê cao.||
+supply|səˈplaɪ|n|nguồn cung|The water supply is limited.|Nguồn nước có hạn.||
+production|pɹəˈdʌkʃən|n|sự sản xuất|Rice production is up this year.|Năm nay sản lượng lúa tăng.||
+produce|pɹəˈdus|v|sản xuất|This factory produces shoes.|Nhà máy này sản xuất giày.||Danh từ produce (nông sản) đọc /ˈpɹoʊdus/.
+export|ˈɛkˌspɔɹt|n|hàng xuất khẩu|Coffee is a big export.|Cà phê là mặt hàng xuất khẩu lớn.||Động từ export nhấn âm tiết hai.
+import|ˈɪmˌpɔɹt|n|hàng nhập khẩu|Oil is our main import.|Dầu là mặt hàng nhập khẩu chính.||Động từ import nhấn âm tiết hai.
+growth|gɹoʊθ|n|sự tăng trưởng|The company had fast growth.|Công ty tăng trưởng nhanh.||Âm cuối /θ/.
+increase|ˈɪnˌkɹis|n|sự tăng|There is an increase in prices.|Giá cả tăng.||Động từ increase đọc /ɪnˈkɹis/.
+decrease|ˈdiˌkɹis|n|sự giảm|We saw a decrease in sales.|Doanh số giảm.||Động từ decrease đọc /dɪˈkɹis/.
+= Rủi ro và chiến lược|cc đọc /ks/ trong success; /stɹ/ trong strategy
+reduce|ɹɪˈdus|v|giảm|Reduce, reuse, recycle.|Giảm thiểu, tái sử dụng, tái chế.||
+crisis|ˈkɹaɪsɪs|n|khủng hoảng|The country is in crisis.|Đất nước đang khủng hoảng.||Số nhiều crises /ˈkɹaɪsiz/.
+risk|ɹɪsk|n|rủi ro|It's a big risk.|Đó là một rủi ro lớn.||Cụm cuối /sk/.
+success|səkˈsɛs|n|sự thành công|Congratulations on your success!|Chúc mừng thành công của bạn!||Chữ cc đọc /ks/.
+failure|ˈfeɪljɚ|n|sự thất bại|Failure is part of learning.|Thất bại là một phần của việc học.||
+deal|dil|n|thỏa thuận; giao dịch|We made a deal.|Chúng tôi đã thỏa thuận.||
+consumer|kənˈsumɚ|n|người tiêu dùng|Consumers want lower prices.|Người tiêu dùng muốn giá thấp hơn.||
+marketing|ˈmɑɹkɪtɪŋ|n|tiếp thị|She works in marketing.|Cô ấy làm tiếp thị.||
+strategy|ˈstɹætədʒi|n|chiến lược|What is your strategy?|Chiến lược của bạn là gì?||
+payment|ˈpeɪmənt|n|sự thanh toán|Payment is due today.|Hôm nay đến hạn thanh toán.||
+= Lao động và tổ chức|purchase đọc /ˈpɝtʃəs/; trọng âm organization ở âm tiết bốn
+purchase|ˈpɝtʃəs|n|sự mua hàng|Thank you for your purchase.|Cảm ơn bạn đã mua hàng.||Chữ ase đọc /əs/.
+loss|lɔs|n|sự mất mát; thua lỗ|The company had a big loss.|Công ty bị lỗ nặng.||
+fee|fi|n|phí|What is the fee?|Phí là bao nhiêu?||
+wage|weɪdʒ|n|tiền công|Workers want higher wages.|Công nhân muốn tăng lương.||
+employ|ɪmˈplɔɪ|v|thuê, tuyển dụng|The company employs 500 people.|Công ty tuyển dụng 500 người.||
+unemployment|ˌʌnɪmˈplɔɪmənt|n|thất nghiệp|Unemployment is a big problem.|Thất nghiệp là một vấn đề lớn.||
+insurance|ɪnˈʃʊɹəns|n|bảo hiểm|Do you have car insurance?|Bạn có bảo hiểm xe không?||Chữ s đọc /ʃ/.
+organization|ˌɔɹgənəˈzeɪʃən|n|tổ chức|She works for an international organization.|Cô ấy làm cho một tổ chức quốc tế.||
+corporation|ˌkɔɹpəˈɹeɪʃən|n|tập đoàn|It's a big corporation.|Đó là một tập đoàn lớn.||
+agency|ˈeɪdʒənsi|n|cơ quan, đại lý|I found a job through an agency.|Tôi tìm việc qua một công ty môi giới.||
+= Tiền tệ và chi phí|Cụm /kstʃ/ trong exchange; c đọc /s/ trong cent
+firm|fɝm|n|công ty, hãng|He works for a law firm.|Anh ấy làm cho một hãng luật.||
+currency|ˈkɝənsi|n|tiền tệ|What currency do they use?|Họ dùng loại tiền nào?||
+dollar|ˈdɑlɚ|n|đô la|It costs ten dollars.|Giá mười đô la.||
+cent|sɛnt|n|xu (1/100 đô la)|It's fifty cents.|Năm mươi xu.||Đồng âm với sent.
+exchange|ɪksˈtʃeɪndʒ|n|sự trao đổi; đổi tiền|Where can I find money exchange?|Đổi tiền ở đâu?||
+rate|ɹeɪt|n|tỷ lệ; mức giá|What is the rate for one night?|Giá một đêm là bao nhiêu?||
+benefit|ˈbɛnəfɪt|n|lợi ích|What are the benefits?|Có những lợi ích gì?||
+charge|tʃɑɹdʒ|n|phí; sự phụ trách|There is no extra charge.|Không tính thêm phí.||
+expense|ɪkˈspɛns|n|chi phí|Travel expenses are high.|Chi phí đi lại cao.||
+retail|ˈɹiˌteɪl|n|bán lẻ|She works in retail.|Cô ấy làm ngành bán lẻ.||

@@ -1,0 +1,58 @@
+# Nhóm 59 – Chữ câm, đọc bất quy tắc
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Chữ câm, đọc bất quy tắc|Chữ câm|kn-, wr-, -mb, -lm, -gn: chữ viết có nhưng không đọc|50 từ mà chữ viết đánh lừa người đọc: knight đọc như night, colonel /ˈkɝnəl/, women /ˈwɪmɪn/, yacht /jɑt/. Học thuộc cách đọc thay vì đánh vần.|knight,colonel,women,campaign
+= k, w, b câm|kn- đọc /n/, wr- đọc /ɹ/, -mb đọc /m/
+knot|nɑt|n|nút thắt|Tie a knot.|Thắt một cái nút.||Chữ k không đọc; đồng âm với not.
+knit|nɪt|v|đan|My mother knits sweaters.|Mẹ tôi đan áo len.||Chữ k không đọc.
+kneel|nil|v|quỳ|Kneel on the mat.|Quỳ trên tấm thảm.||Chữ k không đọc.
+knight|naɪt|n|hiệp sĩ|The knight rode a white horse.|Chàng hiệp sĩ cưỡi ngựa trắng.||Chữ k và gh không đọc; đồng âm với night.
+knuckle|ˈnʌkəl|n|khớp ngón tay|I hurt my knuckle.|Tôi bị đau khớp ngón tay.||Chữ k đầu không đọc.
+wreck|ɹɛk|n|xác (tàu, xe) đổ nát|They found the wreck of a ship.|Họ tìm thấy xác một con tàu.||Chữ w không đọc.
+wrinkle|ˈɹɪŋkəl|n|nếp nhăn|My grandmother has many wrinkles.|Bà tôi có nhiều nếp nhăn.||Chữ w không đọc.
+sword|sɔɹd|n|thanh kiếm|The king had a gold sword.|Nhà vua có một thanh kiếm vàng.||Chữ w không đọc.
+lamb|læm|n|cừu non; thịt cừu|The lamb is very young.|Chú cừu non còn rất nhỏ.||Chữ b không đọc.
+tomb|tum|n|ngôi mộ, lăng|We visited the king's tomb.|Chúng tôi thăm lăng vua.||Chữ b không đọc; o đọc /u/.
+= b, l, t, g, h câm|l câm trong palm, salmon, yolk; t câm trong fasten
+bomb|bɑm|n|quả bom|The old bomb was found in a field.|Quả bom cũ được tìm thấy trên cánh đồng.||Chữ b cuối không đọc.
+crumb|kɹʌm|n|vụn bánh|There are crumbs on the floor.|Trên sàn có vụn bánh.||Chữ b không đọc.
+palm|pɑm|n|lòng bàn tay; cây cọ|Read my palm.|Xem chỉ tay cho tôi.||Chữ l không đọc.
+salmon|ˈsæmən|n|cá hồi|Salmon is good for you.|Cá hồi tốt cho sức khỏe.||Chữ l không đọc.
+almond|ˈɑmənd|n|hạnh nhân|I eat almonds every day.|Tôi ăn hạnh nhân mỗi ngày.||Chữ l thường không đọc.
+yolk|joʊk|n|lòng đỏ trứng|I don't eat the yolk.|Tôi không ăn lòng đỏ.||Chữ l không đọc; đồng âm với yoke.
+fasten|ˈfæsən|v|thắt, buộc chặt|Fasten your seatbelt.|Thắt dây an toàn.||Chữ t không đọc.
+soften|ˈsɔfən|v|làm mềm|Soften the butter first.|Làm mềm bơ trước.||Chữ t không đọc.
+reign|ɹeɪn|n|triều đại|The king's reign lasted 30 years.|Triều đại nhà vua kéo dài 30 năm.||Chữ g không đọc; đồng âm với rain.
+ghost|goʊst|n|con ma|Do you believe in ghosts?|Bạn có tin có ma không?||Chữ h không đọc.
+= Đọc khác hẳn chữ viết|colonel /ˈkɝnəl/, yacht /jɑt/, queue /kju/, women /ˈwɪmɪn/
+vehicle|ˈviɪkəl|n|xe cộ, phương tiện|Park your vehicle here.|Đỗ xe ở đây.||Chữ h không đọc.
+aisle|aɪl|n|lối đi giữa các dãy ghế|Walk down the aisle.|Đi dọc lối đi.||Chữ s không đọc; đồng âm với isle, I'll.
+cupboard|ˈkʌbɚd|n|tủ chén, tủ đựng đồ|The cups are in the cupboard.|Cốc ở trong tủ.||Chữ p không đọc.
+raspberry|ˈɹæzˌbɛɹi|n|quả mâm xôi|I love raspberry ice cream.|Tôi thích kem mâm xôi.||Chữ p không đọc, s đọc /z/.
+biscuit|ˈbɪskɪt|n|bánh quy|Have a biscuit with your tea.|Ăn bánh quy với trà đi.||Chữ u không đọc.
+colonel|ˈkɝnəl|n|đại tá|My grandfather was a colonel.|Ông tôi từng là đại tá.||Đọc /ˈkɝnəl/ như kernel.
+yacht|jɑt|n|du thuyền|He owns a yacht.|Ông ấy có một chiếc du thuyền.||Chữ ch không đọc.
+queue|kju|n|hàng người chờ|Join the queue.|Xếp hàng đi.||Chỉ đọc /kju/; đồng âm với cue.
+women|ˈwɪmɪn|n|phụ nữ (số nhiều)|Two women are waiting.|Hai người phụ nữ đang đợi.||Chữ o đọc /ɪ/; khác woman /ˈwʊmən/.
+chaos|ˈkeɪɑs|n|sự hỗn loạn|The city was in chaos.|Thành phố hỗn loạn.||Chữ ch đọc /k/.
+= ch, eo, ough đặc biệt|ch đọc /k/ trong echo; b câm trong subtle; h câm trong heir
+echo|ˈɛkoʊ|n|tiếng vang|I heard an echo.|Tôi nghe thấy tiếng vang.||Chữ ch đọc /k/.
+leopard|ˈlɛpɚd|n|con báo|The leopard is fast.|Con báo chạy nhanh.||Chữ eo đọc /ɛ/.
+genre|ˈʒɑnɹə|n|thể loại|What genre is this film?|Bộ phim này thuộc thể loại gì?||Âm đầu /ʒ/ (gốc tiếng Pháp).
+gauge|geɪdʒ|n|đồng hồ đo|The gas gauge is on empty.|Đồng hồ xăng chỉ hết.||Chữ au đọc /eɪ/.
+dough|doʊ|n|bột nhào|Knead the dough.|Nhào bột.||Chữ ough đọc /oʊ/; đồng âm với doe.
+thorough|ˈθɝoʊ|adj|kỹ lưỡng|She is very thorough.|Cô ấy rất kỹ lưỡng.||Chữ ough đọc /oʊ/.
+favorite|ˈfeɪvɚɪt|adj|yêu thích nhất|Blue is my favorite color.|Xanh là màu tôi thích nhất.||Thường đọc 2 âm tiết /ˈfeɪv·ɹɪt/.
+jewelry|ˈdʒuəlɹi|n|trang sức|She sells jewelry.|Cô ấy bán đồ trang sức.||
+subtle|ˈsʌtəl|adj|tinh tế, khó nhận ra|There is a subtle difference.|Có một khác biệt tinh tế.||Chữ b không đọc.
+heir|ɛɹ|n|người thừa kế|He is the heir to the company.|Anh ấy là người thừa kế công ty.||Chữ h không đọc; đồng âm với air.
+= Từ gốc Pháp và chữ câm g|t câm trong buffet, bouquet, debut; g câm trong campaign, resign
+herb|ɝb|n|thảo mộc, rau thơm|Basil is an herb.|Húng quế là một loại rau thơm.||Giọng Mỹ không đọc chữ h.
+rhyme|ɹaɪm|n|vần (thơ)|"Cat" and "hat" rhyme.|"Cat" và "hat" vần với nhau.||Chữ h không đọc.
+buffet|bəˈfeɪ|n|tiệc tự chọn|Let's go to the buffet.|Đi ăn buffet đi.||Chữ t không đọc.
+bouquet|buˈkeɪ|n|bó hoa|The bride held a bouquet.|Cô dâu cầm một bó hoa.||Chữ qu đọc /k/, t không đọc.
+debut|deɪˈbju|n|lần ra mắt đầu tiên|It was her debut on TV.|Đó là lần đầu cô ấy lên truyền hình.||Chữ t không đọc.
+asthma|ˈæzmə|n|bệnh hen suyễn|My son has asthma.|Con trai tôi bị hen suyễn.||Chữ th không đọc.
+wrestle|ˈɹɛsəl|v|vật lộn, đấu vật|The boys like to wrestle.|Các cậu bé thích vật nhau.||Chữ w và t không đọc.
+handkerchief|ˈhæŋkɚtʃɪf|n|khăn tay|Use a handkerchief.|Dùng khăn tay đi.||Chữ d không đọc.
+campaign|kæmˈpeɪn|n|chiến dịch|They started a new campaign.|Họ bắt đầu một chiến dịch mới.||Chữ g không đọc.
+resign|ɹɪˈzaɪn|v|từ chức|The minister resigned.|Bộ trưởng đã từ chức.||Chữ g không đọc, s đọc /z/.

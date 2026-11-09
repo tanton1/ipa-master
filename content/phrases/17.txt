@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+able|be able to|có thể|Will you be able to come tomorrow?|Mai bạn có đến được không?
+alone|live alone|sống một mình|Many old people live alone.|Nhiều người già sống một mình.
+awake|wide awake|tỉnh như sáo|At midnight I was still wide awake.|Nửa đêm tôi vẫn tỉnh như sáo.
+asleep|fast asleep|ngủ say|The baby is fast asleep.|Em bé đang ngủ say.
+safe|safe place|nơi an toàn|Keep your passport in a safe place.|Giữ hộ chiếu ở nơi an toàn.
+dangerous|dangerous road|con đường nguy hiểm|This is a dangerous road at night.|Ban đêm đây là con đường nguy hiểm.
+careful|be careful|cẩn thận|Be careful, the floor is wet.|Cẩn thận, sàn ướt đấy.
+clever|clever idea|ý tưởng thông minh|That's a clever idea!|Ý hay đấy!
+crazy|crazy about|mê, phát cuồng|My son is crazy about football.|Con trai tôi mê bóng đá.
+deep|deep breath|hơi thở sâu|Take a deep breath and relax.|Hít một hơi thật sâu và thư giãn.
+dry|dry season|mùa khô|The dry season in the south starts in December.|Mùa khô ở miền Nam bắt đầu từ tháng Mười hai.
+wet|wet paint|sơn còn ướt|Don't touch it, it's wet paint.|Đừng chạm vào, sơn còn ướt.
+fat|fat cat|con mèo béo|A fat cat is sleeping on the sofa.|Một con mèo béo đang ngủ trên ghế sofa.
+fine|fine weather|thời tiết đẹp|We had fine weather all week.|Cả tuần thời tiết đẹp.
+quick|quick question|hỏi nhanh một câu|Can I ask a quick question?|Cho tôi hỏi nhanh một câu nhé?
+fresh|fresh air|không khí trong lành|Let's go outside for some fresh air.|Ra ngoài hít thở không khí trong lành đi.
+glad|glad to hear|mừng khi nghe|I'm glad to hear that.|Tôi mừng khi nghe điều đó.
+great|great idea|ý kiến hay|"Let's go to the beach." "Great idea!"|"Mình đi biển đi." "Ý hay đấy!"
+high|high school|trường trung học|My sister is in high school.|Em gái tôi đang học trung học.
+low|low price|giá thấp|This shop sells good things at a low price.|Cửa hàng này bán đồ tốt với giá thấp.
+huge|huge fan|người hâm mộ cuồng nhiệt|I'm a huge fan of Vietnamese food.|Tôi cực kỳ mê món ăn Việt Nam.
+tiny|tiny room|căn phòng nhỏ xíu|We stayed in a tiny room in the old town.|Chúng tôi ở một căn phòng nhỏ xíu trong phố cổ.
+large|large size|cỡ lớn|Do you have this shirt in large size?|Áo này có cỡ lớn không?
+little|a little girl|một cô bé|A little girl is singing on the stage.|Một cô bé đang hát trên sân khấu.
+lucky|lucky number|con số may mắn|Seven is my lucky number.|Bảy là con số may mắn của tôi.
+main|main road|đường chính|The hotel is on the main road.|Khách sạn nằm trên đường chính.
+modern|modern art|nghệ thuật hiện đại|I don't understand modern art.|Tôi không hiểu nghệ thuật hiện đại.
+natural|natural beauty|vẻ đẹp tự nhiên|Ha Long Bay is famous for its natural beauty.|Vịnh Hạ Long nổi tiếng với vẻ đẹp tự nhiên.
+normal|back to normal|trở lại bình thường|Life is back to normal after the flood.|Cuộc sống trở lại bình thường sau lũ.
+perfect|perfect time|thời điểm hoàn hảo|Spring is the perfect time to visit Hanoi.|Mùa xuân là thời điểm hoàn hảo để thăm Hà Nội.
+popular|popular song|bài hát nổi tiếng|This is a popular song in Vietnam.|Đây là bài hát nổi tiếng ở Việt Nam.
+possible|if possible|nếu có thể|If possible, call me before noon.|Nếu có thể, gọi tôi trước buổi trưa.
+pretty|pretty good|khá tốt|The food here is pretty good.|Đồ ăn ở đây khá ngon.
+proud|proud of|tự hào về|I'm proud of you.|Tôi tự hào về bạn.
+ready|get ready|chuẩn bị|Get ready, we leave in five minutes.|Chuẩn bị đi, năm phút nữa mình đi.
+real|real name|tên thật|What is his real name?|Tên thật của anh ấy là gì?
+round|round table|bàn tròn|We sat at a round table.|Chúng tôi ngồi ở một cái bàn tròn.
+serious|serious problem|vấn đề nghiêm trọng|Pollution is a serious problem.|Ô nhiễm là một vấn đề nghiêm trọng.
+sharp|sharp knife|con dao sắc|Be careful with that sharp knife.|Cẩn thận với con dao sắc đó.
+simple|simple life|cuộc sống giản dị|My grandparents enjoy a simple life.|Ông bà tôi thích cuộc sống giản dị.
+smooth|smooth skin|làn da mịn|This cream gives you smooth skin.|Kem này giúp da bạn mịn màng.
+soft|soft drink|nước ngọt|Would you like a soft drink?|Bạn uống nước ngọt không?
+special|special offer|ưu đãi đặc biệt|There is a special offer this week.|Tuần này có ưu đãi đặc biệt.
+terrible|terrible traffic|giao thông tồi tệ|We were late because of terrible traffic.|Chúng tôi đến muộn vì giao thông quá tệ.
+thick|thick book|quyển sách dày|She is reading a thick book.|Cô ấy đang đọc một quyển sách dày.
+wide|wide road|con đường rộng|They built a wide road to the airport.|Họ xây một con đường rộng ra sân bay.
+wild|wild animals|động vật hoang dã|Many wild animals live in this forest.|Nhiều động vật hoang dã sống trong khu rừng này.
+wonderful|wonderful time|khoảng thời gian tuyệt vời|We had a wonderful time in Hoi An.|Chúng tôi đã có khoảng thời gian tuyệt vời ở Hội An.
+clear|clear sky|bầu trời quang đãng|There is a clear sky tonight.|Tối nay trời quang đãng.
+useful|useful information|thông tin hữu ích|Thank you for the useful information.|Cảm ơn vì thông tin hữu ích.

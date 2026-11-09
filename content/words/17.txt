@@ -1,0 +1,58 @@
+# Nhóm 17 – Tính từ thường dùng 2
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Tính từ thường dùng 2|Tính từ 2|Âm cuối /f/, /dʒ/, /ð/ và trọng âm tính từ hai âm tiết|Tính từ miêu tả người, vật và tình huống hằng ngày: an toàn, nguy hiểm, to, nhỏ, tươi, sắc. Chú ý âm cuối và cụm phụ âm đầu.|dangerous,fresh,huge,smooth
+= An toàn, cẩn thận, thông minh|Schwa đầu từ alone, awake, asleep; âm cuối /f/ trong safe
+able|ˈeɪbəl|adj|có thể, có khả năng|She is able to swim.|Cô ấy biết bơi.||
+alone|əˈloʊn|adj|một mình|I live alone.|Tôi sống một mình.||
+awake|əˈweɪk|adj|thức, tỉnh|Are you still awake?|Bạn vẫn còn thức à?||
+asleep|əˈslip|adj|đang ngủ|The baby is asleep.|Em bé đang ngủ.||
+safe|seɪf|adj|an toàn|This area is safe.|Khu này an toàn.||Âm cuối /f/ vô thanh; khác save /seɪv/.
+dangerous|ˈdeɪndʒɚəs|adj|nguy hiểm|Smoking is dangerous.|Hút thuốc rất nguy hiểm.||Trọng âm âm tiết đầu.
+careful|ˈkɛɹfəl|adj|cẩn thận|Be careful!|Cẩn thận!||
+clever|ˈklɛvɚ|adj|thông minh, khéo|She is a clever girl.|Cô ấy là cô bé thông minh.||
+crazy|ˈkɹeɪzi|adj|điên, điên rồ|That's a crazy idea.|Ý tưởng điên rồ thật.||Chữ z đọc /z/, không đọc /d/.
+deep|dip|adj|sâu|The lake is very deep.|Hồ này rất sâu.||
+= Mô tả nhanh|Cụm /kw/ trong quick, /fɹ/ trong fresh; gh câm trong high
+dry|dɹaɪ|adj|khô|My skin is dry.|Da tôi bị khô.||
+wet|wɛt|adj|ướt|My shoes are wet.|Giày tôi bị ướt.||Khác vet /vɛt/: môi tròn cho /w/.
+fat|fæt|adj|béo|The cat is fat.|Con mèo béo.||
+fine|faɪn|adj|ổn, khỏe; đẹp (trời)|I'm fine, thanks.|Tôi khỏe, cảm ơn.||
+quick|kwɪk|adj|nhanh|Let's have a quick lunch.|Ăn trưa nhanh thôi.||Chữ qu đọc /kw/.
+fresh|fɹɛʃ|adj|tươi, trong lành|The fish is fresh.|Cá tươi.||
+glad|glæd|adj|vui, mừng|I'm glad you came.|Tôi mừng vì bạn đến.||
+great|gɹeɪt|adj|tuyệt, lớn|That's great!|Tuyệt quá!||Chữ ea đọc /eɪ/; đồng âm với grate.
+high|haɪ|adj|cao|The mountain is high.|Ngọn núi cao.||Chữ gh không đọc.
+low|loʊ|adj|thấp|The price is low.|Giá thấp.||
+= Kích thước và đánh giá|/dʒ/ cuối trong huge, large; trọng âm âm tiết đầu
+huge|hjudʒ|adj|khổng lồ|They live in a huge house.|Họ sống trong một căn nhà rất to.||
+tiny|ˈtaɪni|adj|nhỏ xíu|The baby has tiny hands.|Em bé có bàn tay nhỏ xíu.||
+large|lɑɹdʒ|adj|lớn|A large coffee, please.|Cho một ly cà phê lớn.||
+little|ˈlɪtəl|adj|nhỏ, bé|My little brother is five.|Em trai tôi năm tuổi.||/t/ giữa từ thành âm vỗ /ɾ/.
+lucky|ˈlʌki|adj|may mắn|You are so lucky!|Bạn may mắn quá!||
+main|meɪn|adj|chính|What is the main idea?|Ý chính là gì?||
+modern|ˈmɑdɚn|adj|hiện đại|It's a modern city.|Đó là một thành phố hiện đại.||
+natural|ˈnætʃɚəl|adj|tự nhiên|She has natural talent.|Cô ấy có năng khiếu bẩm sinh.||Thường đọc 3 âm tiết /ˈnætʃ·ɹəl/.
+normal|ˈnɔɹməl|adj|bình thường|It's normal to feel nervous.|Thấy hồi hộp là chuyện bình thường.||
+perfect|ˈpɝfɪkt|adj|hoàn hảo|Your English is perfect.|Tiếng Anh của bạn hoàn hảo.||Cụm cuối /kt/.
+= Phổ biến, sẵn sàng, nghiêm túc|Cụm cuối /nd/ trong round, /ɹp/ trong sharp
+popular|ˈpɑpjəlɚ|adj|phổ biến, được ưa chuộng|Pho is popular everywhere.|Phở được ưa chuộng khắp nơi.||
+possible|ˈpɑsəbəl|adj|có thể|Is it possible?|Có thể không?||
+pretty|ˈpɹɪti|adj|xinh; khá (trạng từ)|What a pretty dress!|Chiếc váy xinh quá!||Chữ e đọc /ɪ/.
+proud|pɹaʊd|adj|tự hào|I'm proud of my team.|Tôi tự hào về đội của mình.||
+ready|ˈɹɛdi|adj|sẵn sàng|Dinner is ready.|Bữa tối xong rồi.||Chữ ea đọc /ɛ/.
+real|ɹil|adj|thật|Is this real gold?|Đây có phải vàng thật không?||
+round|ɹaʊnd|adj|tròn|The earth is round.|Trái đất hình tròn.||
+serious|ˈsɪɹiəs|adj|nghiêm túc, nghiêm trọng|Are you serious?|Bạn nói thật à?||
+sharp|ʃɑɹp|adj|sắc, nhọn|The knife is sharp.|Con dao sắc.||
+simple|ˈsɪmpəl|adj|đơn giản|The rules are simple.|Luật chơi đơn giản.||
+= Bề mặt và cảm nhận|/ð/ cuối trong smooth, /θ/ đầu trong thick
+smooth|smuð|adj|mịn, trơn tru|The road is smooth.|Con đường bằng phẳng.||Âm cuối /ð/ hữu thanh.
+soft|sɔft|adj|mềm|The bed is soft.|Giường mềm.||Cụm cuối /ft/.
+special|ˈspɛʃəl|adj|đặc biệt|Today is a special day.|Hôm nay là ngày đặc biệt.||Chữ ci đọc /ʃ/.
+terrible|ˈtɛɹəbəl|adj|tồi tệ|The weather is terrible.|Thời tiết tệ quá.||
+thick|θɪk|adj|dày|This book is thick.|Quyển sách này dày.||Âm đầu /θ/, khác tick /tɪk/.
+wide|waɪd|adj|rộng|The river is wide.|Con sông rộng.||
+wild|waɪld|adj|hoang dã|Tigers are wild animals.|Hổ là động vật hoang dã.||
+wonderful|ˈwʌndɚfəl|adj|tuyệt vời|What a wonderful day!|Một ngày tuyệt vời!||
+clear|klɪɹ|adj|rõ ràng, trong|Is that clear?|Rõ chưa?||
+useful|ˈjusfəl|adj|hữu ích|This app is useful.|Ứng dụng này hữu ích.||

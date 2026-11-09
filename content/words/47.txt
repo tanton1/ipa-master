@@ -1,0 +1,58 @@
+# Nhóm 47 – Danh từ trừu tượng
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Danh từ trừu tượng|Trừu tượng 2|Cụm phụ âm cuối khó: strength /ŋkθ/, wealth /lθ/, depth /pθ/|Danh từ chỉ phẩm chất, cảm xúc và tình huống: lòng can đảm, sự kiên nhẫn, sức mạnh, sự giàu có. Nhiều từ kết thúc bằng /θ/ sau phụ âm, rất khó với người Việt.|courage,strength,wealth,imagination
+= Hành động và cảm xúc|ou đọc /ɝ/ trong courage; o đọc /ʌ/ trong comfort
+action|ˈækʃən|n|hành động|Actions speak louder than words.|Hành động hơn lời nói.||
+activity|ækˈtɪvɪti|n|hoạt động|What activities do you enjoy?|Bạn thích những hoạt động nào?||
+beauty|ˈbjuti|n|vẻ đẹp|The beauty of nature is amazing.|Vẻ đẹp của thiên nhiên thật tuyệt.||
+care|kɛɹ|n|sự chăm sóc, cẩn thận|Handle with care.|Cẩn thận khi cầm.||
+comfort|ˈkʌmfɚt|n|sự thoải mái, an ủi|I like the comfort of my home.|Tôi thích sự thoải mái ở nhà mình.||Chữ o đọc /ʌ/.
+confidence|ˈkɑnfɪdəns|n|sự tự tin|She speaks with confidence.|Cô ấy nói rất tự tin.||
+courage|ˈkɝɪdʒ|n|lòng can đảm|It takes courage to say sorry.|Cần can đảm để nói lời xin lỗi.||Chữ ou đọc /ɝ/.
+danger|ˈdeɪndʒɚ|n|sự nguy hiểm|Danger! Keep out!|Nguy hiểm! Không được vào!||
+desire|dɪˈzaɪɹ|n|khát khao|He has a desire to learn.|Anh ấy khao khát học hỏi.||
+error|ˈɛɹɚ|n|lỗi|There is an error in the code.|Có lỗi trong mã.||
+= Danh tiếng và hạnh phúc|h câm trong honor; tu đọc /tʃ/ trong fortune
+event|ɪˈvɛnt|n|sự kiện|The event starts at seven.|Sự kiện bắt đầu lúc bảy giờ.||
+fame|feɪm|n|danh tiếng|She found fame on TV.|Cô ấy nổi tiếng nhờ truyền hình.||
+fault|fɔlt|n|lỗi (trách nhiệm)|It's not your fault.|Đó không phải lỗi của bạn.||
+favor|ˈfeɪvɚ|n|ân huệ, việc giúp|Can I ask you a favor?|Tôi nhờ bạn một việc được không?||
+fortune|ˈfɔɹtʃən|n|vận may; gia tài|He made a fortune.|Ông ấy kiếm được cả gia tài.||
+happiness|ˈhæpinəs|n|hạnh phúc|Money can't buy happiness.|Tiền không mua được hạnh phúc.||
+honor|ˈɑnɚ|n|danh dự, vinh dự|It's an honor to meet you.|Thật vinh dự được gặp ông.||Chữ h không đọc.
+humor|ˈhjumɚ|n|sự hài hước|She has a great sense of humor.|Cô ấy rất hài hước.||
+identity|aɪˈdɛntɪti|n|danh tính|Show your identity card.|Xuất trình thẻ căn cước.||
+imagination|ɪˌmædʒɪˈneɪʃən|n|trí tưởng tượng|Kids have great imagination.|Trẻ con có trí tưởng tượng phong phú.||
+= Tính cách và tình huống|gh đọc /f/ trong laughter; ti đọc /ʃ/ trong patience
+kindness|ˈkaɪndnəs|n|lòng tốt|Thank you for your kindness.|Cảm ơn lòng tốt của bạn.||
+lack|læk|n|sự thiếu|There is a lack of water.|Đang thiếu nước.||
+laughter|ˈlæftɚ|n|tiếng cười|Laughter is the best medicine.|Tiếng cười là liều thuốc tốt nhất.||Chữ gh đọc /f/.
+luck|lʌk|n|vận may|Good luck!|Chúc may mắn!||Khác lock /lɑk/.
+manner|ˈmænɚ|n|cách thức; (số nhiều) phép lịch sự|He has good manners.|Anh ấy cư xử lễ phép.||Đồng âm với manor.
+meaning|ˈminɪŋ|n|ý nghĩa|What's the meaning of life?|Ý nghĩa cuộc sống là gì?||
+mystery|ˈmɪstəɹi|n|điều bí ẩn|It's still a mystery.|Đó vẫn là điều bí ẩn.||
+panic|ˈpænɪk|n|sự hoảng loạn|Don't panic!|Đừng hoảng!||
+patience|ˈpeɪʃəns|n|sự kiên nhẫn|Learning needs patience.|Học cần kiên nhẫn.||Đồng âm với patients.
+permission|pɚˈmɪʃən|n|sự cho phép|You need permission.|Bạn cần được cho phép.||
+= Sức mạnh và thử thách|Cụm cuối /ŋkθ/ trong strength; /θɹ/ trong threat
+praise|pɹeɪz|n|lời khen|She deserves praise.|Cô ấy xứng đáng được khen.||Âm cuối /z/.
+progress|ˈpɹɑgɹɛs|n|sự tiến bộ|You're making good progress.|Bạn đang tiến bộ tốt.||Động từ progress nhấn âm tiết hai.
+reward|ɹɪˈwɔɹd|n|phần thưởng|There is a reward for the finder.|Có thưởng cho người tìm thấy.||
+sense|sɛns|n|giác quan; ý nghĩa|Dogs have a good sense of smell.|Chó có khứu giác tốt.||
+silence|ˈsaɪləns|n|sự im lặng|Silence, please.|Xin giữ im lặng.||
+spirit|ˈspɪɹɪt|n|tinh thần|The team has great spirit.|Đội có tinh thần tuyệt vời.||
+strength|stɹɛŋkθ|n|sức mạnh; điểm mạnh|I don't have the strength.|Tôi không còn sức.||Cụm cuối /ŋkθ/ rất khó.
+talent|ˈtælənt|n|tài năng|She has a talent for music.|Cô ấy có năng khiếu âm nhạc.||
+threat|θɹɛt|n|mối đe dọa|Climate change is a threat.|Biến đổi khí hậu là một mối đe dọa.||Chữ ea đọc /ɛ/.
+trouble|ˈtɹʌbəl|n|rắc rối|I'm in trouble.|Tôi gặp rắc rối rồi.||Chữ ou đọc /ʌ/.
+= Phẩm chất|Cụm cuối /lθ/ trong wealth, /pθ/ trong depth; h câm trong honesty
+victory|ˈvɪktəɹi|n|chiến thắng|It was a big victory.|Đó là một chiến thắng lớn.||
+wealth|wɛlθ|n|sự giàu có|Health is wealth.|Sức khỏe là vàng.||Cụm cuối /lθ/.
+weakness|ˈwiknəs|n|điểm yếu|Chocolate is my weakness.|Sô-cô-la là điểm yếu của tôi.||
+wisdom|ˈwɪzdəm|n|sự khôn ngoan|Old people have wisdom.|Người già có sự khôn ngoan.||
+loyalty|ˈlɔɪəlti|n|lòng trung thành|Dogs show loyalty.|Chó rất trung thành.||
+respect|ɹɪˈspɛkt|n|sự tôn trọng|Respect your elders.|Hãy kính trọng người lớn tuổi.||
+honesty|ˈɑnəsti|n|sự trung thực|Honesty is important.|Trung thực rất quan trọng.||Chữ h không đọc.
+faith|feɪθ|n|niềm tin, đức tin|Don't lose faith.|Đừng mất niềm tin.||Âm cuối /θ/.
+depth|dɛpθ|n|độ sâu|What is the depth of the pool?|Hồ bơi sâu bao nhiêu?||Cụm cuối /pθ/.
+relief|ɹɪˈlif|n|sự nhẹ nhõm|It was a big relief.|Thật nhẹ nhõm.||

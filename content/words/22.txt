@@ -1,0 +1,58 @@
+# Nhóm 22 – Số đếm và đo lường
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Số đếm và đo lường|Số & đo lường|-teen nhấn cuối, -ty nhấn đầu; cụm cuối /fθ/, /ŋθ/|Số từ 13 đến hàng tỷ, số thứ tự, phân số và đơn vị đo. Người nghe dễ nhầm thirteen với thirty nếu sai trọng âm. Cụm cuối của fifth, length, width rất khó.|thirteen,fifth,length,kilometer
+= Số 13–19 và hàng chục|-teen nhấn âm tiết cuối, -ty nhấn âm tiết đầu: thirteen khác thirty
+zero|ˈzɪɹoʊ|num|số không|The score is two to zero.|Tỉ số hai không.||Âm đầu /z/ hữu thanh.
+thirteen|ˌθɝˈtin|num|mười ba|I am thirteen.|Tôi mười ba tuổi.||Nhấn âm tiết cuối; khác thirty /ˈθɝti/.
+fourteen|ˌfɔɹˈtin|num|mười bốn|She is fourteen.|Cô bé mười bốn tuổi.||Nhấn âm tiết cuối; khác forty.
+fifteen|ˌfɪfˈtin|num|mười lăm|Wait fifteen minutes.|Đợi mười lăm phút.||Nhấn âm tiết cuối; khác fifty.
+sixteen|ˌsɪkˈstin|num|mười sáu|There are sixteen rooms.|Có mười sáu phòng.||
+seventeen|ˌsɛvənˈtin|num|mười bảy|He is seventeen.|Cậu ấy mười bảy tuổi.||
+eighteen|ˌeɪˈtin|num|mười tám|I left home at eighteen.|Tôi rời nhà năm mười tám tuổi.||
+nineteen|ˌnaɪnˈtin|num|mười chín|There are nineteen students.|Có mười chín học sinh.||
+forty|ˈfɔɹti|num|bốn mươi|My father is forty.|Bố tôi bốn mươi tuổi.||Viết không có u (khác four).
+fifty|ˈfɪfti|num|năm mươi|It costs fifty thousand dong.|Giá năm mươi nghìn đồng.||Nhấn âm tiết đầu.
+= Hàng chục, triệu, phân số|l câm trong half; qu đọc /kw/ trong quarter
+sixty|ˈsɪksti|num|sáu mươi|My grandfather is sixty.|Ông tôi sáu mươi tuổi.||
+seventy|ˈsɛvənti|num|bảy mươi|Seventy people came.|Bảy mươi người đã đến.||
+eighty|ˈeɪti|num|tám mươi|She lived to eighty.|Bà sống đến tám mươi tuổi.||Chữ gh không đọc.
+ninety|ˈnaɪnti|num|chín mươi|The bag is ninety dollars.|Cái túi giá chín mươi đô.||
+million|ˈmɪljən|num|triệu|Hanoi has eight million people.|Hà Nội có tám triệu dân.||
+billion|ˈbɪljən|num|tỷ|The bridge cost a billion dollars.|Cây cầu tốn một tỷ đô.||
+half|hæf|n|một nửa|Cut it in half.|Cắt đôi nó ra.||Chữ l không đọc.
+quarter|ˈkwɔɹtɚ|n|một phần tư; 15 phút|It's a quarter to five.|Bây giờ là năm giờ kém mười lăm.||
+dozen|ˈdʌzən|n|tá (12)|A dozen roses, please.|Cho một tá hoa hồng.||Chữ o đọc /ʌ/.
+pair|pɛɹ|n|đôi, cặp|I bought a pair of jeans.|Tôi mua một chiếc quần jeans.||Đồng âm với pear.
+= Số thứ tự và lượng|Cụm cuối /fθ/ trong fifth, /ɹθ/ trong fourth
+fourth|fɔɹθ|num|thứ tư|This is my fourth visit.|Đây là lần thứ tư tôi đến.||Âm cuối /θ/; đồng âm với forth.
+fifth|fɪfθ|num|thứ năm|He came fifth.|Anh ấy về thứ năm.||Cụm cuối /fθ/: môi chạm răng rồi đưa lưỡi ra.
+double|ˈdʌbəl|adj|gấp đôi, đôi|I'd like a double room.|Cho tôi phòng đôi.||Chữ ou đọc /ʌ/.
+single|ˈsɪŋgəl|adj|đơn, độc thân|Are you single?|Bạn còn độc thân à?||Có âm /g/ sau /ŋ/.
+amount|əˈmaʊnt|n|số lượng, khoản|What is the amount?|Số tiền là bao nhiêu?||
+total|ˈtoʊtəl|n|tổng số|The total is ten dollars.|Tổng cộng mười đô.||
+percent|pɚˈsɛnt|n|phần trăm|Ten percent off.|Giảm mười phần trăm.||
+average|ˈævɹɪdʒ|n|mức trung bình|My grade is above average.|Điểm của tôi trên trung bình.||Thường đọc 2 âm tiết.
+piece|pis|n|mẩu, miếng|Can I have a piece of cake?|Cho tôi một miếng bánh nhé?||Đồng âm với peace.
+part|pɑɹt|n|phần|This is the best part.|Đây là phần hay nhất.||
+= Kích thước|/ŋθ/ trong length, /dθ/ trong width; gh câm trong weight, height
+couple|ˈkʌpəl|n|cặp đôi; vài|They are a happy couple.|Họ là một cặp đôi hạnh phúc.||
+count|kaʊnt|v|đếm|Count from one to ten.|Đếm từ một đến mười.||
+plus|plʌs|prep|cộng|Two plus two is four.|Hai cộng hai bằng bốn.||
+minus|ˈmaɪnəs|prep|trừ|Ten minus three is seven.|Mười trừ ba bằng bảy.||
+size|saɪz|n|kích cỡ|What size are you?|Bạn mặc cỡ nào?||Âm cuối /z/.
+weight|weɪt|n|cân nặng|What is your weight?|Bạn nặng bao nhiêu?||Chữ gh không đọc; đồng âm với wait.
+height|haɪt|n|chiều cao|What is your height?|Bạn cao bao nhiêu?||Chữ ei đọc /aɪ/, gh không đọc.
+length|lɛŋθ|n|chiều dài|What is the length of the room?|Căn phòng dài bao nhiêu?||Cụm cuối /ŋθ/ rất khó.
+width|wɪdθ|n|chiều rộng|Measure the width.|Đo chiều rộng.||Cụm cuối /dθ/.
+distance|ˈdɪstəns|n|khoảng cách|What's the distance from here?|Từ đây bao xa?||
+= Đơn vị đo|Trọng âm kilometer ở âm tiết hai; cụm cuối /nd/ trong pound
+meter|ˈmitɚ|n|mét|The room is five meters long.|Căn phòng dài năm mét.||
+kilometer|kɪˈlɑmətɚ|n|ki-lô-mét|It's ten kilometers from here.|Cách đây mười cây số.||Cũng đọc /ˈkɪləˌmitɚ/.
+kilogram|ˈkɪləˌgɹæm|n|ki-lô-gam|Two kilograms of rice, please.|Cho hai ký gạo.||
+liter|ˈlitɚ|n|lít|I drink two liters of water a day.|Tôi uống hai lít nước mỗi ngày.||
+mile|maɪl|n|dặm|It's a mile away.|Cách một dặm.||
+degree|dɪˈgɹi|n|độ; bằng cấp|It's thirty degrees today.|Hôm nay ba mươi độ.||
+level|ˈlɛvəl|n|mức, cấp độ, tầng|What is your English level?|Trình độ tiếng Anh của bạn thế nào?||
+maximum|ˈmæksəməm|n|tối đa|Five people maximum.|Tối đa năm người.||
+inch|ɪntʃ|n|in-sơ (2,54 cm)|The screen is six inches.|Màn hình sáu in-sơ.||
+pound|paʊnd|n|pao (khoảng 0,45 kg); bảng Anh|It weighs ten pounds.|Nó nặng mười pao.||

@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+become|become a doctor|trở thành bác sĩ|She wants to become a doctor.|Cô ấy muốn trở thành bác sĩ.
+begin|begin the lesson|bắt đầu bài học|Let's begin the lesson.|Chúng ta bắt đầu bài học nhé.
+believe|believe in yourself|tin vào bản thân|You should believe in yourself.|Bạn nên tin vào bản thân.
+build|build a house|xây nhà|They plan to build a house.|Họ dự định xây một ngôi nhà.
+carry|carry a bag|xách túi|Can you carry a bag for me?|Bạn xách giúp tôi một cái túi được không?
+change|change your mind|đổi ý|Call me if you change your mind.|Gọi tôi nếu bạn đổi ý.
+choose|choose a color|chọn một màu|Choose a color you like.|Hãy chọn một màu bạn thích.
+decide|decide what to wear|quyết định mặc gì|I can't decide what to wear.|Tôi không biết nên mặc gì.
+enjoy|enjoy your meal|chúc ngon miệng|Enjoy your meal!|Chúc bạn ngon miệng!
+fall|fall asleep|ngủ thiếp đi|I often fall asleep on the bus.|Tôi hay ngủ gật trên xe buýt.
+finish|finish work|tan làm|What time do you finish work?|Mấy giờ bạn tan làm?
+follow|follow the rules|tuân theo quy định|Please follow the rules.|Vui lòng tuân theo quy định.
+forget|forget your password|quên mật khẩu|Don't forget your password.|Đừng quên mật khẩu của bạn.
+grow|grow vegetables|trồng rau|My parents grow vegetables in the garden.|Bố mẹ tôi trồng rau trong vườn.
+happen|happen again|xảy ra lần nữa|I'm sorry, it won't happen again.|Xin lỗi, chuyện này sẽ không xảy ra nữa.
+hold|hold hands|nắm tay nhau|The children hold hands when they cross the road.|Bọn trẻ nắm tay nhau khi qua đường.
+hope|hope so|hy vọng vậy|"Will it be sunny tomorrow?" "I hope so."|"Mai trời có nắng không?" "Hy vọng vậy."
+keep|keep a secret|giữ bí mật|Can you keep a secret?|Bạn giữ bí mật được không?
+lose|lose weight|giảm cân|He wants to lose weight.|Anh ấy muốn giảm cân.
+meet|nice to meet you|rất vui được gặp bạn|Hi, I'm Lan. Nice to meet you.|Chào, mình là Lan. Rất vui được gặp bạn.
+move|move house|chuyển nhà|We will move house next month.|Tháng sau chúng tôi chuyển nhà.
+offer|offer help|đề nghị giúp đỡ|Many people offer help after the storm.|Nhiều người đề nghị giúp đỡ sau cơn bão.
+remember|remember your name|nhớ tên bạn|Sorry, I don't remember your name.|Xin lỗi, tôi không nhớ tên bạn.
+send|send a message|gửi tin nhắn|Send a message when you arrive.|Nhắn tin khi bạn đến nơi nhé.
+sell|sell clothes online|bán quần áo trên mạng|She wants to sell clothes online.|Cô ấy muốn bán quần áo trên mạng.
+show|show me the way|chỉ đường cho tôi|Can you show me the way to the station?|Bạn chỉ đường đến nhà ga giúp tôi được không?
+sing|sing a song|hát một bài|Let's sing a song together.|Chúng ta cùng hát một bài nhé.
+smile|smile at the camera|cười trước ống kính|Don't forget to smile at the camera.|Đừng quên cười trước ống kính nhé.
+spend|spend time|dành thời gian|I like to spend time with my family.|Tôi thích dành thời gian bên gia đình.
+stay|stay at home|ở nhà|I stay at home on rainy days.|Tôi ở nhà vào những ngày mưa.
+turn|turn left|rẽ trái|Turn left at the corner.|Rẽ trái ở góc đường.
+understand|understand the question|hiểu câu hỏi|I don't understand the question.|Tôi không hiểu câu hỏi.
+visit|visit my grandparents|thăm ông bà|I visit my grandparents every summer.|Mùa hè nào tôi cũng về thăm ông bà.
+win|win a prize|đoạt giải|She hopes to win a prize.|Cô ấy hy vọng đoạt giải.
+wear|wear glasses|đeo kính|Do you wear glasses?|Bạn có đeo kính không?
+worry|worry about|lo lắng về|Don't worry about the test.|Đừng lo về bài kiểm tra.
+agree|agree with you|đồng ý với bạn|I agree with you.|Tôi đồng ý với bạn.
+allow|allow pets|cho phép mang thú cưng|This hotel does not allow pets.|Khách sạn này không cho mang thú cưng.
+appear|appear on TV|xuất hiện trên ti vi|The singer will appear on TV tonight.|Ca sĩ sẽ xuất hiện trên ti vi tối nay.
+cry|cry for help|kêu cứu|We heard someone cry for help.|Chúng tôi nghe thấy ai đó kêu cứu.
+dance|dance together|nhảy cùng nhau|Let's dance together!|Cùng nhảy nào!
+draw|draw a picture|vẽ một bức tranh|My son likes to draw a picture of our cat.|Con trai tôi thích vẽ tranh con mèo nhà mình.
+dream|dream job|công việc mơ ước|Teaching is my dream job.|Dạy học là công việc mơ ước của tôi.
+explain|explain the rules|giải thích luật|Can you explain the rules again?|Bạn giải thích lại luật được không?
+hate|hate waiting|ghét chờ đợi|I hate waiting in line.|Tôi ghét xếp hàng chờ.
+laugh|laugh at|cười chê|Please don't laugh at me.|Làm ơn đừng cười chê tôi.
+mean|mean it|cố ý, nói thật lòng|I'm sorry, I didn't mean it.|Xin lỗi, tôi không cố ý.
+miss|miss the bus|lỡ xe buýt|Hurry, or we will miss the bus.|Nhanh lên, kẻo lỡ xe buýt.
+plan|plan a trip|lên kế hoạch cho chuyến đi|Let's plan a trip to Da Lat.|Mình lên kế hoạch đi Đà Lạt đi.
+seem|seem tired|có vẻ mệt|You seem tired today.|Hôm nay trông bạn có vẻ mệt.

@@ -1,0 +1,53 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+subject|favorite subject|môn học yêu thích|What is your favorite subject?|Môn học yêu thích của bạn là gì?
+course|online course|khóa học trực tuyến|I'm taking an online course.|Tôi đang học một khóa trực tuyến.
+course|of course|tất nhiên|"Can you help me?" "Of course!"|"Bạn giúp tôi được không?" "Tất nhiên rồi!"
+grade|good grade|điểm tốt|She always gets a good grade.|Cô ấy luôn được điểm tốt.
+score|high score|điểm cao|He got a high score on the test.|Anh ấy được điểm cao trong bài kiểm tra.
+result|exam results|kết quả thi|When will we get the exam results?|Khi nào có kết quả thi?
+result|as a result|kết quả là|It rained. As a result, the game was cancelled.|Trời mưa. Kết quả là trận đấu bị hủy.
+knowledge|general knowledge|kiến thức phổ thông|This quiz tests your general knowledge.|Câu đố này kiểm tra kiến thức phổ thông của bạn.
+education|higher education|giáo dục đại học|Higher education is expensive.|Giáo dục đại học rất tốn kém.
+college|college student|sinh viên|She is a college student.|Cô ấy là sinh viên.
+semester|next semester|học kỳ sau|I will study French next semester.|Học kỳ sau tôi sẽ học tiếng Pháp.
+term|long term|dài hạn|Think about your long term goals.|Hãy nghĩ đến mục tiêu dài hạn.
+classroom|in the classroom|trong lớp học|No phones in the classroom.|Không dùng điện thoại trong lớp.
+notebook|in your notebook|vào vở của bạn|Write the new words in your notebook.|Viết từ mới vào vở của bạn.
+textbook|English textbook|sách giáo khoa tiếng Anh|Open your English textbook to page ten.|Mở sách tiếng Anh trang mười.
+dictionary|look it up in the dictionary|tra từ điển|If you don't know a word, look it up in the dictionary.|Nếu không biết từ nào, hãy tra từ điển.
+ruler|a ruler and a pencil|thước và bút chì|You need a ruler and a pencil.|Bạn cần một cây thước và một cây bút chì.
+eraser|pencil eraser|cục tẩy|Can I borrow your pencil eraser?|Cho tôi mượn cục tẩy nhé?
+pencil|pencil case|hộp bút|My pencil case is full of pens.|Hộp bút của tôi đầy bút.
+chalk|a piece of chalk|một viên phấn|The teacher picked up a piece of chalk.|Cô giáo cầm một viên phấn.
+principal|school principal|hiệu trưởng|The school principal gave a speech.|Thầy hiệu trưởng phát biểu.
+lecture|give a lecture|giảng bài|The professor will give a lecture on history.|Giáo sư sẽ giảng về lịch sử.
+research|do research|làm nghiên cứu|She likes to do research on climate change.|Cô ấy thích nghiên cứu về biến đổi khí hậu.
+essay|write an essay|viết bài luận|Write an essay about your hometown.|Viết một bài luận về quê hương bạn.
+presentation|give a presentation|thuyết trình|I have to give a presentation tomorrow.|Mai tôi phải thuyết trình.
+assignment|homework assignment|bài tập về nhà|Finish the homework assignment by Friday.|Hoàn thành bài tập về nhà trước thứ Sáu.
+quiz|pop quiz|bài kiểm tra đột xuất|The teacher gave us a pop quiz.|Cô giáo cho chúng tôi kiểm tra đột xuất.
+mistake|by mistake|nhầm|I took your umbrella by mistake.|Tôi cầm nhầm ô của bạn.
+review|review the lesson|ôn lại bài|Review the lesson before the test.|Ôn lại bài trước khi kiểm tra.
+memorize|memorize new words|học thuộc từ mới|I memorize new words every day.|Ngày nào tôi cũng học thuộc từ mới.
+graduate|graduate from university|tốt nghiệp đại học|I will graduate from university next year.|Năm sau tôi tốt nghiệp đại học.
+pass|pass the exam|thi đỗ|I hope you pass the exam.|Mong bạn thi đỗ.
+succeed|succeed in life|thành công trong cuộc sống|Hard work helps you succeed in life.|Chăm chỉ giúp bạn thành công trong cuộc sống.
+scholarship|full scholarship|học bổng toàn phần|She won a full scholarship to Australia.|Cô ấy giành học bổng toàn phần sang Úc.
+certificate|English certificate|chứng chỉ tiếng Anh|You need an English certificate for this job.|Công việc này cần chứng chỉ tiếng Anh.
+diploma|high school diploma|bằng tốt nghiệp trung học|You need a high school diploma to apply.|Bạn cần bằng tốt nghiệp trung học để nộp đơn.
+math|math teacher|giáo viên toán|Our math teacher is very strict.|Thầy dạy toán của chúng tôi rất nghiêm.
+physics|physics class|giờ vật lý|I fell asleep in physics class.|Tôi ngủ gật trong giờ vật lý.
+chemistry|chemistry lab|phòng thí nghiệm hóa học|We did an experiment in the chemistry lab.|Chúng tôi làm thí nghiệm trong phòng hóa.
+biology|biology teacher|giáo viên sinh học|My biology teacher loves plants.|Cô dạy sinh của tôi rất yêu cây cối.
+geography|geography lesson|bài học địa lý|Today's geography lesson is about rivers.|Bài địa lý hôm nay nói về các con sông.
+literature|Vietnamese literature|văn học Việt Nam|I love Vietnamese literature.|Tôi yêu văn học Việt Nam.
+topic|change the topic|đổi chủ đề|Let's change the topic.|Mình đổi chủ đề đi.
+chapter|next chapter|chương sau|We will read the next chapter tomorrow.|Mai chúng ta sẽ đọc chương sau.
+paragraph|first paragraph|đoạn văn đầu tiên|Read the first paragraph aloud.|Đọc to đoạn văn đầu tiên.
+title|book title|tên sách|What is the book title?|Tên sách là gì?
+definition|by definition|theo định nghĩa|By definition, a square has four equal sides.|Theo định nghĩa, hình vuông có bốn cạnh bằng nhau.
+translation|English translation|bản dịch tiếng Anh|Is there an English translation?|Có bản dịch tiếng Anh không?
+spelling|spelling mistake|lỗi chính tả|There is a spelling mistake in your email.|Email của bạn có lỗi chính tả.
+tutor|private tutor|gia sư|My parents hired a private tutor.|Bố mẹ tôi thuê gia sư.
+kindergarten|kindergarten teacher|giáo viên mầm non|She is a kindergarten teacher.|Cô ấy là giáo viên mầm non.
+pupil|top pupil|học sinh giỏi nhất|She is the top pupil in her class.|Cô bé là học sinh giỏi nhất lớp.

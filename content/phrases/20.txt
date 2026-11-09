@@ -1,0 +1,101 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+thing|the same thing|cùng một chuyện|We are talking about the same thing.|Chúng ta đang nói về cùng một chuyện.
+thing|first thing in the morning|việc đầu tiên buổi sáng|I check my email first thing in the morning.|Việc đầu tiên mỗi sáng là tôi kiểm tra email.
+way|by the way|nhân tiện|By the way, where is Lan?|Nhân tiện, Lan đâu rồi?
+way|on the way|trên đường|I'm on the way home.|Tôi đang trên đường về nhà.
+point|point of view|quan điểm|From my point of view, it's a good idea.|Theo quan điểm của tôi, đó là ý hay.
+point|the main point|ý chính|What is the main point of the story?|Ý chính của câu chuyện là gì?
+reason|good reason|lý do chính đáng|There must be a good reason.|Chắc hẳn có lý do chính đáng.
+reason|the reason why|lý do tại sao|That's the reason why I came.|Đó là lý do tôi đến.
+fact|in fact|thật ra|In fact, I don't like coffee.|Thật ra tôi không thích cà phê.
+fact|fun fact|sự thật thú vị|Here is a fun fact about cats.|Đây là một sự thật thú vị về mèo.
+truth|tell the truth|nói thật|Always tell the truth.|Luôn nói thật.
+truth|the whole truth|toàn bộ sự thật|I want to know the whole truth.|Tôi muốn biết toàn bộ sự thật.
+matter|no matter what|dù có chuyện gì|I will help you no matter what.|Dù có chuyện gì tôi cũng sẽ giúp bạn.
+matter|what's the matter|có chuyện gì vậy|What's the matter? You look sad.|Có chuyện gì vậy? Trông bạn buồn thế.
+issue|big issue|vấn đề lớn|Traffic is a big issue in Hanoi.|Giao thông là vấn đề lớn ở Hà Nội.
+issue|health issue|vấn đề sức khỏe|He has a health issue.|Anh ấy có vấn đề về sức khỏe.
+situation|difficult situation|tình huống khó khăn|We are in a difficult situation.|Chúng ta đang ở trong tình huống khó khăn.
+situation|the current situation|tình hình hiện tại|Can you explain the current situation?|Bạn giải thích tình hình hiện tại được không?
+condition|good condition|tình trạng tốt|The car is in good condition.|Xe còn trong tình trạng tốt.
+condition|weather conditions|điều kiện thời tiết|The flight depends on weather conditions.|Chuyến bay phụ thuộc vào điều kiện thời tiết.
+case|in case|phòng khi|Take an umbrella in case it rains.|Mang ô phòng khi trời mưa.
+case|phone case|ốp điện thoại|I need a new phone case.|Tôi cần một cái ốp điện thoại mới.
+chance|a good chance|cơ hội tốt|This is a good chance to practice English.|Đây là cơ hội tốt để luyện tiếng Anh.
+chance|by chance|tình cờ|We met by chance at the market.|Chúng tôi tình cờ gặp nhau ở chợ.
+choice|good choice|lựa chọn tốt|The fish soup is a good choice.|Canh cá là lựa chọn tốt.
+choice|have no choice|không có lựa chọn|We have no choice but to wait.|Chúng ta không còn cách nào ngoài chờ đợi.
+decision|make a decision|đưa ra quyết định|I need to make a decision today.|Hôm nay tôi phải đưa ra quyết định.
+decision|final decision|quyết định cuối cùng|The final decision is yours.|Quyết định cuối cùng là của bạn.
+purpose|on purpose|cố ý|He broke the vase on purpose.|Anh ta cố ý làm vỡ bình hoa.
+purpose|the purpose of|mục đích của|What is the purpose of your visit?|Mục đích chuyến thăm của bạn là gì?
+aim|main aim|mục tiêu chính|Our main aim is to help children.|Mục tiêu chính của chúng tôi là giúp trẻ em.
+aim|aim high|đặt mục tiêu cao|Aim high and work hard.|Hãy đặt mục tiêu cao và làm việc chăm chỉ.
+effect|side effect|tác dụng phụ|This medicine has no side effect.|Thuốc này không có tác dụng phụ.
+effect|special effects|hiệu ứng đặc biệt|The movie has amazing special effects.|Bộ phim có hiệu ứng đặc biệt tuyệt vời.
+cause|main cause|nguyên nhân chính|Smoking is the main cause of lung cancer.|Hút thuốc là nguyên nhân chính gây ung thư phổi.
+cause|good cause|mục đích tốt đẹp|The money goes to a good cause.|Số tiền được dùng cho mục đích tốt đẹp.
+difference|make a difference|tạo nên khác biệt|Small actions can make a difference.|Hành động nhỏ có thể tạo nên khác biệt.
+difference|time difference|chênh lệch múi giờ|What is the time difference between Hanoi and London?|Hà Nội và Luân Đôn chênh nhau mấy giờ?
+solution|find a solution|tìm ra giải pháp|We need to find a solution quickly.|Chúng ta cần tìm ra giải pháp nhanh.
+solution|simple solution|giải pháp đơn giản|There is a simple solution to this problem.|Có một giải pháp đơn giản cho vấn đề này.
+step|step by step|từng bước một|Learn English step by step.|Học tiếng Anh từng bước một.
+step|first step|bước đầu tiên|The first step is to listen.|Bước đầu tiên là lắng nghe.
+stage|early stage|giai đoạn đầu|The project is at an early stage.|Dự án đang ở giai đoạn đầu.
+stage|on stage|trên sân khấu|She sings on stage every night.|Cô ấy hát trên sân khấu mỗi tối.
+form|application form|đơn đăng ký|Fill in the application form.|Điền vào đơn đăng ký.
+form|in the form of|dưới dạng|The prize is in the form of a check.|Giải thưởng được trao dưới dạng séc.
+shape|in good shape|khỏe, cân đối|He runs every day to stay in good shape.|Anh ấy chạy mỗi ngày để giữ dáng.
+shape|heart shape|hình trái tim|She made a cake in a heart shape.|Cô ấy làm bánh hình trái tim.
+pattern|sleep pattern|nếp ngủ|A baby's sleep pattern changes often.|Nếp ngủ của em bé thay đổi thường xuyên.
+pattern|flower pattern|họa tiết hoa|I like the shirt with a flower pattern.|Tôi thích chiếc áo có họa tiết hoa.
+detail|in detail|chi tiết|Please explain it in detail.|Vui lòng giải thích chi tiết.
+detail|contact details|thông tin liên lạc|Leave your contact details here.|Để lại thông tin liên lạc ở đây.
+quantity|large quantity|số lượng lớn|We bought rice in large quantity.|Chúng tôi mua gạo với số lượng lớn.
+quantity|quality and quantity|chất lượng và số lượng|We check both quality and quantity.|Chúng tôi kiểm tra cả chất lượng lẫn số lượng.
+feature|key feature|tính năng chính|The key feature of this phone is the camera.|Tính năng chính của điện thoại này là camera.
+feature|new feature|tính năng mới|The app has a new feature.|Ứng dụng có một tính năng mới.
+aspect|every aspect|mọi khía cạnh|Money affects every aspect of life.|Tiền ảnh hưởng đến mọi khía cạnh cuộc sống.
+aspect|positive aspect|mặt tích cực|There is a positive aspect to every problem.|Vấn đề nào cũng có mặt tích cực.
+element|key element|yếu tố then chốt|Trust is a key element of friendship.|Niềm tin là yếu tố then chốt của tình bạn.
+element|chemical element|nguyên tố hóa học|Gold is a chemical element.|Vàng là một nguyên tố hóa học.
+factor|important factor|yếu tố quan trọng|Price is an important factor.|Giá cả là một yếu tố quan trọng.
+factor|risk factor|yếu tố nguy cơ|Smoking is a risk factor for heart disease.|Hút thuốc là yếu tố nguy cơ của bệnh tim.
+role|play a role|đóng vai trò|Parents play a role in a child's education.|Cha mẹ đóng vai trò trong việc học của con.
+role|main role|vai chính|She got the main role in the film.|Cô ấy được vai chính trong phim.
+principle|in principle|về nguyên tắc|In principle, I agree with you.|Về nguyên tắc, tôi đồng ý với bạn.
+principle|basic principle|nguyên tắc cơ bản|The basic principle is simple.|Nguyên tắc cơ bản rất đơn giản.
+concept|basic concept|khái niệm cơ bản|Let's start with a basic concept.|Bắt đầu với một khái niệm cơ bản.
+concept|new concept|khái niệm mới|Online shopping was a new concept in 2000.|Năm 2000, mua sắm trực tuyến là khái niệm mới.
+belief|religious belief|niềm tin tôn giáo|We respect every religious belief.|Chúng tôi tôn trọng mọi niềm tin tôn giáo.
+belief|strong belief|niềm tin mạnh mẽ|She has a strong belief in hard work.|Cô ấy tin mạnh mẽ vào sự chăm chỉ.
+opportunity|job opportunity|cơ hội việc làm|There is a great job opportunity in Da Nang.|Có một cơ hội việc làm tuyệt vời ở Đà Nẵng.
+opportunity|take the opportunity|nhân cơ hội|I want to take the opportunity to thank you.|Tôi muốn nhân dịp này cảm ơn bạn.
+advantage|take advantage of|tận dụng|Take advantage of the sale.|Hãy tận dụng đợt giảm giá.
+advantage|big advantage|lợi thế lớn|Speaking English is a big advantage.|Nói được tiếng Anh là một lợi thế lớn.
+disadvantage|main disadvantage|bất lợi chính|The main disadvantage is the price.|Bất lợi chính là giá.
+disadvantage|at a disadvantage|ở thế bất lợi|Without a car, you are at a disadvantage.|Không có xe, bạn ở thế bất lợi.
+effort|make an effort|nỗ lực, cố gắng|Please make an effort to come.|Hãy cố gắng đến nhé.
+effort|team effort|nỗ lực của cả nhóm|Our success was a team effort.|Thành công là nỗ lực của cả nhóm.
+ability|natural ability|khả năng bẩm sinh|She has a natural ability for music.|Cô ấy có năng khiếu âm nhạc bẩm sinh.
+ability|the ability to|khả năng làm gì|Babies have the ability to learn fast.|Em bé có khả năng học rất nhanh.
+control|out of control|mất kiểm soát|The fire is out of control.|Đám cháy đã vượt tầm kiểm soát.
+control|remote control|điều khiển từ xa|Where is the remote control?|Cái điều khiển ti vi đâu rồi?
+influence|bad influence|ảnh hưởng xấu|He is a bad influence on my son.|Anh ta ảnh hưởng xấu đến con trai tôi.
+influence|under the influence of|dưới ảnh hưởng của|Never drive under the influence of alcohol.|Đừng bao giờ lái xe khi đã uống rượu.
+impact|big impact|tác động lớn|The internet has a big impact on our lives.|Internet có tác động lớn đến cuộc sống.
+impact|environmental impact|tác động môi trường|We must reduce our environmental impact.|Chúng ta phải giảm tác động đến môi trường.
+trend|fashion trend|xu hướng thời trang|Wide pants are a new fashion trend.|Quần ống rộng là xu hướng thời trang mới.
+trend|latest trend|xu hướng mới nhất|She always follows the latest trend.|Cô ấy luôn chạy theo xu hướng mới nhất.
+habit|bad habit|thói quen xấu|Biting your nails is a bad habit.|Cắn móng tay là thói quen xấu.
+habit|good habit|thói quen tốt|Reading every day is a good habit.|Đọc sách mỗi ngày là thói quen tốt.
+behavior|good behavior|hạnh kiểm tốt|The teacher praised his good behavior.|Cô giáo khen hạnh kiểm tốt của em ấy.
+behavior|human behavior|hành vi con người|She studies human behavior.|Cô ấy nghiên cứu hành vi con người.
+interest|interest rate|lãi suất|The bank raised the interest rate.|Ngân hàng tăng lãi suất.
+interest|show interest|tỏ ra quan tâm|He didn't show interest in the job.|Anh ấy không tỏ ra quan tâm đến công việc.
+focus|focus on|tập trung vào|Focus on your work.|Tập trung vào công việc đi.
+focus|main focus|trọng tâm chính|Our main focus is the customer.|Trọng tâm chính của chúng tôi là khách hàng.
+balance|work-life balance|cân bằng công việc và cuộc sống|A good job gives you work-life balance.|Công việc tốt giúp bạn cân bằng giữa làm và sống.
+balance|lose your balance|mất thăng bằng|Be careful not to lose your balance.|Cẩn thận kẻo mất thăng bằng.
+structure|sentence structure|cấu trúc câu|English sentence structure is not difficult.|Cấu trúc câu tiếng Anh không khó.
+structure|social structure|cấu trúc xã hội|Social structure changes over time.|Cấu trúc xã hội thay đổi theo thời gian.

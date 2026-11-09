@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+English|English class|giờ tiếng Anh|I have English class on Monday.|Thứ Hai tôi có giờ tiếng Anh.
+word|in other words|nói cách khác|In other words, we need more time.|Nói cách khác, chúng ta cần thêm thời gian.
+sentence|full sentence|câu hoàn chỉnh|Answer in a full sentence.|Trả lời bằng một câu hoàn chỉnh.
+letter|capital letter|chữ in hoa|Start a sentence with a capital letter.|Bắt đầu câu bằng chữ in hoa.
+language|second language|ngôn ngữ thứ hai|English is my second language.|Tiếng Anh là ngôn ngữ thứ hai của tôi.
+question|good question|câu hỏi hay|That's a good question.|Câu hỏi hay đấy.
+answer|answer the phone|nghe điện thoại|Can you answer the phone?|Bạn nghe điện thoại giúp được không?
+lesson|English lesson|bài học tiếng Anh|Today's English lesson is about food.|Bài tiếng Anh hôm nay về đồ ăn.
+class|in class|trong lớp|Don't use your phone in class.|Đừng dùng điện thoại trong lớp.
+test|driving test|thi sát hạch lái xe|I passed my driving test.|Tôi đã đỗ kỳ thi bằng lái.
+exam|study for the exam|ôn thi|I need to study for the exam.|Tôi cần ôn thi.
+homework|lots of homework|nhiều bài tập|We have lots of homework today.|Hôm nay chúng tôi có nhiều bài tập.
+grammar|grammar rules|quy tắc ngữ pháp|English grammar rules are not hard.|Quy tắc ngữ pháp tiếng Anh không khó.
+vocabulary|learn vocabulary|học từ vựng|I learn vocabulary every day.|Tôi học từ vựng mỗi ngày.
+pronunciation|good pronunciation|phát âm tốt|Good pronunciation helps people understand you.|Phát âm tốt giúp người khác hiểu bạn.
+practice|practice makes perfect|có công mài sắt có ngày nên kim|Keep going. Practice makes perfect.|Cứ tiếp tục. Có công mài sắt có ngày nên kim.
+idea|good idea|ý hay|That's a good idea!|Ý hay đấy!
+problem|no problem|không sao|"Thank you!" "No problem."|"Cảm ơn nhé!" "Không có gì."
+example|set an example|làm gương|Parents should set an example.|Cha mẹ nên làm gương.
+page|front page|trang nhất|The story was on the front page.|Câu chuyện lên trang nhất.
+library|public library|thư viện công cộng|I borrow books from the public library.|Tôi mượn sách ở thư viện công cộng.
+university|university student|sinh viên đại học|She is a university student.|Cô ấy là sinh viên đại học.
+science|science class|giờ khoa học|We did an experiment in science class.|Chúng tôi làm thí nghiệm trong giờ khoa học.
+history|history lesson|bài học lịch sử|Today's history lesson is about Tran Hung Dao.|Bài lịch sử hôm nay về Trần Hưng Đạo.
+music|music lesson|buổi học nhạc|My son has a music lesson on Saturday.|Thứ Bảy con trai tôi học nhạc.
+art|art class|giờ mỹ thuật|I love art class.|Tôi thích giờ mỹ thuật.
+internet|on the internet|trên mạng|I found the recipe on the internet.|Tôi tìm thấy công thức trên mạng.
+website|visit our website|truy cập trang web của chúng tôi|Visit our website for more information.|Truy cập trang web của chúng tôi để biết thêm.
+email|send an email|gửi email|Please send an email to the teacher.|Hãy gửi email cho giáo viên.
+message|leave a message|để lại lời nhắn|Please leave a message after the beep.|Vui lòng để lại lời nhắn sau tiếng bíp.
+video|video call|cuộc gọi video|I make a video call to my parents every week.|Tuần nào tôi cũng gọi video cho bố mẹ.
+photo|photo album|album ảnh|Look at this old photo album.|Nhìn album ảnh cũ này nè.
+camera|security camera|camera an ninh|There is a security camera at the door.|Có camera an ninh ở cửa.
+screen|big screen|màn hình lớn|Let's watch the movie on the big screen.|Mình xem phim trên màn hình lớn nhé.
+keyboard|keyboard shortcut|phím tắt|Learn this keyboard shortcut.|Hãy học phím tắt này.
+mouse|computer mouse|chuột máy tính|My computer mouse doesn't work.|Chuột máy tính của tôi không chạy.
+software|free software|phần mềm miễn phí|You can download free software here.|Bạn có thể tải phần mềm miễn phí ở đây.
+app|download an app|tải ứng dụng|Download an app to learn English.|Tải ứng dụng để học tiếng Anh.
+password|strong password|mật khẩu mạnh|Use a strong password.|Hãy dùng mật khẩu mạnh.
+download|free download|tải về miễn phí|The app is a free download.|Ứng dụng tải về miễn phí.
+online|online shopping|mua sắm trực tuyến|Online shopping is very popular.|Mua sắm trực tuyến rất phổ biến.
+search|search for|tìm kiếm|I search for words in the dictionary.|Tôi tra từ trong từ điển.
+click|click here|bấm vào đây|Click here to start.|Bấm vào đây để bắt đầu.
+type|blood type|nhóm máu|What is your blood type?|Bạn nhóm máu gì?
+data|personal data|dữ liệu cá nhân|Protect your personal data.|Hãy bảo vệ dữ liệu cá nhân của bạn.
+technology|new technology|công nghệ mới|New technology changes our lives.|Công nghệ mới thay đổi cuộc sống của chúng ta.
+machine|washing machine|máy giặt|The washing machine is broken.|Máy giặt bị hỏng.
+robot|robot vacuum|robot hút bụi|We bought a robot vacuum.|Chúng tôi mua robot hút bụi.
+number|a number of|một số|A number of students were late.|Một số học sinh đến muộn.
+study|study hard|học chăm chỉ|Study hard and you will pass.|Học chăm chỉ thì sẽ đỗ.

@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+already|already done|đã xong rồi|The work is already done.|Việc đã xong rồi.
+almost|almost ready|gần xong|Dinner is almost ready.|Bữa tối gần xong rồi.
+anyway|thanks anyway|dù sao cũng cảm ơn|I don't need help, but thanks anyway.|Tôi không cần giúp, nhưng dù sao cũng cảm ơn.
+actually|actually, no|thật ra là không|"Are you tired?" "Actually, no."|"Bạn mệt à?" "Thật ra là không."
+especially|especially for you|dành riêng cho bạn|I made this cake especially for you.|Tôi làm chiếc bánh này dành riêng cho bạn.
+finally|finally arrived|cuối cùng cũng đến|The bus finally arrived.|Cuối cùng xe buýt cũng đến.
+probably|probably not|có lẽ không|"Will he come?" "Probably not."|"Anh ấy có đến không?" "Có lẽ không."
+quickly|as quickly as possible|nhanh nhất có thể|Please finish as quickly as possible.|Vui lòng làm xong nhanh nhất có thể.
+slowly|speak slowly|nói chậm|Please speak slowly.|Làm ơn nói chậm thôi.
+suddenly|suddenly started|bỗng bắt đầu|It suddenly started to rain.|Trời bỗng đổ mưa.
+usually|usually go|thường đi|I usually go to bed at eleven.|Tôi thường đi ngủ lúc mười một giờ.
+rarely|rarely eat meat|hiếm khi ăn thịt|I rarely eat meat.|Tôi hiếm khi ăn thịt.
+recently|until recently|cho đến gần đây|Until recently, I lived in Hue.|Cho đến gần đây tôi vẫn sống ở Huế.
+soon|see you soon|hẹn sớm gặp lại|Bye, see you soon!|Tạm biệt, hẹn sớm gặp lại!
+still|still waiting|vẫn đang chờ|I'm still waiting for his answer.|Tôi vẫn đang chờ anh ấy trả lời.
+yet|not yet|chưa|"Have you eaten?" "Not yet."|"Bạn ăn chưa?" "Chưa."
+just|just a moment|chờ một chút|Just a moment, please.|Vui lòng chờ một chút.
+only|only child|con một|I'm an only child.|Tôi là con một.
+even|even better|thậm chí còn tốt hơn|The second movie is even better.|Phim thứ hai còn hay hơn.
+ever|have you ever|bạn đã từng|Have you ever been to Sapa?|Bạn đã từng đến Sa Pa chưa?
+once|once a week|mỗi tuần một lần|I go swimming once a week.|Tôi đi bơi mỗi tuần một lần.
+twice|twice a day|ngày hai lần|Brush your teeth twice a day.|Đánh răng ngày hai lần.
+together|work together|làm việc cùng nhau|Let's work together on this project.|Cùng nhau làm dự án này nhé.
+away|far away|ở xa|My hometown is far away.|Quê tôi ở xa.
+else|someone else|người khác|Is someone else coming?|Có ai khác đến nữa không?
+instead|instead of|thay vì|Drink water instead of soda.|Uống nước lọc thay vì nước ngọt.
+perhaps|perhaps tomorrow|có lẽ ngày mai|"When can we meet?" "Perhaps tomorrow."|"Khi nào gặp được?" "Có lẽ ngày mai."
+quite|quite good|khá tốt|His English is quite good.|Tiếng Anh của anh ấy khá tốt.
+rather|would rather|thà … còn hơn|I would rather stay at home.|Tôi thà ở nhà còn hơn.
+too|too much|quá nhiều|Don't eat too much sugar.|Đừng ăn quá nhiều đường.
+so|so far|cho đến nay|So far, so good.|Đến giờ vẫn ổn.
+than|more than|hơn|More than fifty people came.|Hơn năm mươi người đã đến.
+although|although it was late|dù đã muộn|Although it was late, we kept working.|Dù đã muộn, chúng tôi vẫn làm việc.
+unless|unless you hurry|trừ khi bạn nhanh lên|You will miss the train unless you hurry.|Bạn sẽ lỡ tàu trừ khi nhanh lên.
+until|until tomorrow|đến ngày mai|The shop is closed until tomorrow.|Cửa hàng đóng cửa đến ngày mai.
+while|for a while|một lúc|Let's sit here for a while.|Ngồi đây một lúc nhé.
+whether|whether or not|dù có hay không|I'll go, whether or not you come.|Dù bạn có đến hay không, tôi vẫn đi.
+however|however hard|dù … đến đâu|However hard I try, I can't do it.|Dù cố gắng đến đâu, tôi cũng không làm được.
+therefore|and therefore|và vì thế|It rained, and therefore the game was cancelled.|Trời mưa và vì thế trận đấu bị hủy.
+besides|besides that|ngoài điều đó ra|Besides that, everything is fine.|Ngoài chuyện đó ra, mọi thứ đều ổn.
+otherwise|otherwise we will be late|nếu không thì sẽ muộn|Let's go now, otherwise we will be late.|Đi ngay thôi, không thì muộn mất.
+nearly|nearly finished|gần xong|The new bridge is nearly finished.|Cây cầu mới gần xong.
+exactly|exactly the same|giống hệt|The two bags look exactly the same.|Hai cái túi trông giống hệt nhau.
+certainly|certainly not|chắc chắn không|"Can I drive your car?" "Certainly not!"|"Tôi lái xe bạn được không?" "Chắc chắn là không!"
+clearly|speak clearly|nói rõ ràng|Please speak clearly into the microphone.|Vui lòng nói rõ vào micro.
+easily|easily find|dễ dàng tìm thấy|You can easily find a taxi here.|Ở đây bạn có thể dễ dàng tìm taxi.
+simply|simply delicious|ngon tuyệt|The soup is simply delicious.|Món súp ngon tuyệt.
+immediately|start immediately|bắt đầu ngay|Can you start immediately?|Bạn có thể bắt đầu ngay không?
+everywhere|everywhere you go|bất cứ đâu bạn đến|You can find coffee shops everywhere you go.|Bạn đi đâu cũng thấy quán cà phê.
+somewhere|somewhere else|nơi khác|Let's go somewhere else.|Mình đi chỗ khác đi.

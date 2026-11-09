@@ -54,13 +54,14 @@ sheet('00 README', [{ h: 'Mục', k: 'a', w: 30 }, { h: 'Nội dung', k: 'b', w:
 ]);
 
 const wordCols = Object.keys(data.words[0]).map((k) => ({ h: k, k, w: ['mouth_guide_vi_draft', 'vietnamese_error_hint_draft', 'blend_drill_vi', 'minimal_pairs'].includes(k) ? 60 : k.length > 16 ? 22 : 16 }));
-sheet('01 Words (500)', wordCols, data.words.map((w) => Object.fromEntries(Object.entries(w).map(([k, v]) => [k, j(v)]))));
+sheet(`01 Words (${data.words.length})`, wordCols, data.words.map((w) => Object.fromEntries(Object.entries(w).map(([k, v]) => [k, j(v)]))));
 
-sheet('02 Units (50)', [{ h: 'unit_id', k: 'unit_id' }, { h: 'chapter_id', k: 'chapter_id', w: 10 }, { h: 'Tuần', k: 'week_number', w: 8 }, { h: 'Ngày', k: 'day', w: 10 }, { h: 'Tên cụm', k: 'title', w: 32 }, { h: 'Trọng tâm', k: 'focus', w: 50 }, { h: 'Hoạt động', k: 'act', w: 28 }, { h: '10 từ', k: 'words', w: 70 }],
+sheet(`02 Units (${data.units.length})`, [{ h: 'unit_id', k: 'unit_id' }, { h: 'chapter_id', k: 'chapter_id', w: 10 }, { h: 'Tuần', k: 'week_number', w: 8 }, { h: 'Ngày', k: 'day', w: 10 }, { h: 'Tên cụm', k: 'title', w: 32 }, { h: 'Trọng tâm', k: 'focus', w: 50 }, { h: 'Hoạt động', k: 'act', w: 28 }, { h: '10 từ', k: 'words', w: 70 }],
   data.units.map((u) => ({ ...u, day: WEEKDAYS[u.learning_day - 1], act: ACTIVITY[u.learning_day - 1], words: u.word_ids.map((id) => data.words.find((w) => w.word_id === id)?.word).join(', ') })));
 
 const plan = [];
-for (let wk = 1; wk <= 10; wk++) {
+const WEEKS = Math.max(...data.units.map((u) => u.week_number));
+for (let wk = 1; wk <= WEEKS; wk++) {
   for (let d = 1; d <= 5; d++) { const u = data.units.find((x) => x.week_number === wk && x.learning_day === d); plan.push({ week: wk, day: WEEKDAYS[d - 1], n: 10, unit: `${u.unit_id} ${u.title}`, act: ACTIVITY[d - 1] }); }
   plan.push({ week: wk, day: 'Thứ 7', n: 0, unit: '—', act: 'Kiểm tra 50 từ và các âm trọng tâm' });
   plan.push({ week: wk, day: 'Chủ nhật', n: 0, unit: '—', act: 'Ôn cá nhân hoá / nghỉ' });
@@ -115,9 +116,13 @@ sheet('12 Production plan', [{ h: 'Đợt', k: 'p', w: 8 }, { h: 'Tên', k: 'n',
   { p: '02', n: 'Pilot – 50 từ đầu tiên', s: 'G01 (Tuần 1). Kiểm thử trải nghiệm thật với người học: IPA, nghe, khẩu hình, ghi âm, ôn tập.' },
   { p: '03', n: 'Scale – 150 từ', s: 'G02–G03. Chuẩn hoá dây chuyền theo lô, tự kiểm schema, duyệt IPA chuyên môn.' },
   { p: '04', n: 'Production – 350 từ', s: 'G04–G10. Mở rộng toàn bộ nhóm lỗi, tái sử dụng minh hoạ khẩu hình và dạng bài nghe.' },
-  { p: '05', n: 'Complete – 500 từ', s: 'Đủ câu ví dụ, audio, bài kiểm tra, liên kết lỗi và quy trình review.' },
+  { p: '05', n: 'Core complete – 500 từ', s: 'Đủ câu ví dụ, audio, bài kiểm tra, liên kết lỗi và quy trình review cho giai đoạn 1.' },
+  { p: '05b', n: 'Mở rộng – 3000 từ', s: 'G11–G60: 2500 từ thông dụng theo chủ đề, mỗi từ có cụm từ hay dùng và câu mẫu (sheet 13). Cần đối chiếu tần suất, duyệt IPA và câu mẫu, thu audio theo lô 500 từ.' },
   { p: '06', n: 'Release & Optimize', s: 'Kiểm thử với người học thật, theo dõi âm sai, mức độ nhớ lâu, cải thiện giáo trình.' },
 ]);
+
+const phraseRows = data.words.flatMap((w) => w.common_phrases.map((p) => ({ word_id: w.word_id, word: w.word, chapter: w.chapter_id, ...p })));
+sheet(`13 Phrases (${phraseRows.length})`, [{ h: 'word_id', k: 'word_id', w: 10 }, { h: 'Từ', k: 'word', w: 16 }, { h: 'Nhóm', k: 'chapter', w: 8 }, { h: 'Cụm từ', k: 'phrase', w: 30 }, { h: 'Nghĩa', k: 'meaning_vi', w: 30 }, { h: 'Câu mẫu', k: 'example_en', w: 60 }, { h: 'Dịch', k: 'example_vi', w: 60 }], phraseRows);
 
 await wb.xlsx.writeFile(join(DOCS, 'IPA-Master-Curriculum.xlsx'));
 
@@ -135,7 +140,7 @@ L.push('Ba khuôn mẫu sản xuất: âm khó (three), trọng âm và giảm �
 L.push('## 4. Mười nhóm lỗi VEI', '', '| Mã | Nhóm | Ví dụ | Số từ |', '| --- | --- | --- | --- |');
 for (const e of data.error_patterns) L.push(`| ${e.code} | ${e.title} | ${e.examples.join(', ')} | ${e.word_ids.length} |`);
 L.push('', 'Quy trình chữa lỗi: nghe nhận diện → luyện âm riêng → ghép từ → so sánh A/B → cụm từ và câu → kiểm tra lại sau 1 và 3 ngày.', '');
-L.push('## 5. 50 cụm học × 10 từ', '');
+L.push(`## 5. ${data.units.length} cụm học × 10 từ`, '');
 for (const ch of data.chapters) {
   L.push(`### ${ch.chapter_id} · ${ch.title} (Tuần ${ch.week_number})`, '');
   for (const u of data.units.filter((x) => x.chapter_id === ch.chapter_id)) {

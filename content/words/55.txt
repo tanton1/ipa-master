@@ -1,0 +1,58 @@
+# Nhóm 55 – Danh từ học thuật
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Danh từ học thuật|Học thuật 2|Trọng âm danh từ dài: development, majority, analysis, authority|Danh từ thường gặp trong báo cáo, tin tức và đề thi: lĩnh vực, nguồn, phạm vi, phân tích, thử thách, đề xuất. Nhiều từ dài 4–5 âm tiết cần đúng trọng âm.|development,majority,analysis,alternative
+= Lĩnh vực và nguồn|ie đọc /i/ trong field; series đọc /ˈsɪɹiz/
+field|fild|n|cánh đồng; lĩnh vực|The cows are in the field.|Đàn bò ở ngoài cánh đồng.||
+development|dɪˈvɛləpmənt|n|sự phát triển|The city has seen fast development.|Thành phố phát triển nhanh chóng.||
+drug|dɹʌg|n|thuốc; ma túy|This drug is very strong.|Loại thuốc này rất mạnh.||Âm cuối /g/.
+model|ˈmɑdəl|n|mô hình; người mẫu|She is a fashion model.|Cô ấy là người mẫu thời trang.||
+ground|gɹaʊnd|n|mặt đất|Sit on the ground.|Ngồi xuống đất.||
+site|saɪt|n|địa điểm; trang web|This is a historic site.|Đây là một di tích lịch sử.||Đồng âm với sight.
+figure|ˈfɪgjɚ|n|con số; hình dáng|Look at the figures.|Hãy xem các con số.||
+source|sɔɹs|n|nguồn|What is the source of this news?|Nguồn của tin này là gì?||
+series|ˈsɪɹiz|n|loạt, chuỗi; phim bộ|It's a new TV series.|Đó là một bộ phim truyền hình mới.||Số ít và số nhiều giống nhau.
+range|ɹeɪndʒ|n|phạm vi, dãy|We have a wide range of shoes.|Chúng tôi có rất nhiều loại giày.||
+= Phân tích và thử thách|Trọng âm analysis ở âm tiết hai; /tʃ/ trong approach, challenge
+property|ˈpɹɑpɚti|n|tài sản, bất động sản|This property is for sale.|Bất động sản này đang được rao bán.||
+section|ˈsɛkʃən|n|phần, mục|Read section two.|Đọc phần hai.||
+unit|ˈjunɪt|n|đơn vị; bài học|We are on unit five.|Chúng ta đang học bài năm.||
+response|ɹɪˈspɑns|n|sự phản hồi|Thanks for your quick response.|Cảm ơn bạn đã phản hồi nhanh.||
+performance|pɚˈfɔɹməns|n|màn trình diễn; hiệu suất|What a great performance!|Màn trình diễn tuyệt quá!||
+basis|ˈbeɪsɪs|n|cơ sở, nền tảng|Trust is the basis of friendship.|Niềm tin là nền tảng của tình bạn.||
+approach|əˈpɹoʊtʃ|n|cách tiếp cận|I like your approach.|Tôi thích cách tiếp cận của bạn.||
+majority|məˈdʒɔɹɪti|n|đa số|The majority agreed.|Đa số đồng ý.||
+analysis|əˈnæləsɪs|n|sự phân tích|The analysis took two weeks.|Việc phân tích mất hai tuần.||Trọng âm âm tiết hai; khác analyze.
+challenge|ˈtʃælɪndʒ|n|thử thách|I love a challenge.|Tôi thích thử thách.||
+= Quản lý và hội nghị|th đọc /θ/ trong authority; hole đồng âm whole
+management|ˈmænɪdʒmənt|n|sự quản lý; ban quản lý|Talk to the management.|Hãy nói chuyện với ban quản lý.||
+operation|ˌɑpəˈɹeɪʃən|n|ca phẫu thuật; hoạt động|The operation was successful.|Ca phẫu thuật thành công.||
+treatment|ˈtɹitmənt|n|sự điều trị; cách đối xử|The treatment is expensive.|Việc điều trị tốn kém.||
+variety|vəˈɹaɪəti|n|sự đa dạng|Variety is the spice of life.|Sự đa dạng làm cuộc sống thú vị.||
+authority|əˈθɔɹɪti|n|quyền lực; nhà chức trách|The police have authority here.|Cảnh sát có thẩm quyền ở đây.||
+bar|bɑɹ|n|quán bar; thanh|Let's meet at the bar.|Gặp nhau ở quán bar nhé.||
+conference|ˈkɑnfɚəns|n|hội nghị|She is at a conference in Singapore.|Cô ấy đang dự hội nghị ở Singapore.||
+debate|dɪˈbeɪt|n|cuộc tranh luận|We had a debate in class.|Lớp chúng tôi có một buổi tranh luận.||
+hole|hoʊl|n|cái lỗ, hố|There is a hole in the road.|Có một cái ổ gà trên đường.||Đồng âm với whole.
+mission|ˈmɪʃən|n|nhiệm vụ, sứ mệnh|Our mission is to help children.|Sứ mệnh của chúng tôi là giúp trẻ em.||
+= Mục tiêu và lựa chọn|sc đọc /s/ trong scene; ou đọc /u/ trong group
+scene|sin|n|cảnh; hiện trường|This is my favorite scene.|Đây là cảnh tôi thích nhất.||Chữ sc đọc /s/; đồng âm với seen.
+shot|ʃɑt|n|cú sút; phát súng; mũi tiêm|Nice shot!|Cú sút đẹp!||
+spot|spɑt|n|địa điểm; đốm|This is a nice spot for a picnic.|Đây là chỗ đẹp để đi dã ngoại.||
+target|ˈtɑɹgɪt|n|mục tiêu|We hit our target.|Chúng tôi đạt mục tiêu.||Chữ g đọc /g/.
+access|ˈæksɛs|n|quyền truy cập, lối vào|Do you have internet access?|Bạn có truy cập internet không?||
+group|gɹup|n|nhóm|Work in a group.|Làm việc theo nhóm.||Chữ ou đọc /u/.
+reader|ˈɹidɚ|n|người đọc|She is a fast reader.|Cô ấy đọc rất nhanh.||
+master|ˈmæstɚ|n|bậc thầy; chủ|He is a master of chess.|Ông ấy là bậc thầy cờ vua.||
+origin|ˈɔɹɪdʒɪn|n|nguồn gốc|What is the origin of this word?|Từ này có nguồn gốc từ đâu?||
+option|ˈɑpʃən|n|sự lựa chọn|We have two options.|Chúng ta có hai lựa chọn.||
+= Đề xuất và phản hồi|Trọng âm alternative ở âm tiết hai; cụm /sk/ trong scale
+alternative|ɔlˈtɝnətɪv|n|phương án thay thế|Is there an alternative?|Có phương án nào khác không?||
+proposal|pɹəˈpoʊzəl|n|đề xuất|We accepted the proposal.|Chúng tôi chấp nhận đề xuất.||
+survey|ˈsɝveɪ|n|cuộc khảo sát|Please answer this survey.|Vui lòng trả lời khảo sát này.||Động từ survey nhấn âm tiết hai.
+feedback|ˈfidˌbæk|n|ý kiến phản hồi|Thanks for the feedback.|Cảm ơn bạn đã góp ý.||
+scale|skeɪl|n|quy mô; cái cân; thang đo|Step on the scale.|Bước lên cân.||
+crop|kɹɑp|n|vụ mùa, cây trồng|Rice is the main crop.|Lúa là cây trồng chính.||
+base|beɪs|n|nền, đế; căn cứ|The base of the lamp is heavy.|Đế đèn rất nặng.||Đồng âm với bass (trầm).
+editor|ˈɛdɪtɚ|n|biên tập viên|She is a magazine editor.|Cô ấy là biên tập viên tạp chí.||
+output|ˈaʊtˌpʊt|n|sản lượng; đầu ra|The factory's output is rising.|Sản lượng của nhà máy đang tăng.||
+input|ˈɪnˌpʊt|n|ý kiến đóng góp; đầu vào|We need your input.|Chúng tôi cần ý kiến của bạn.||

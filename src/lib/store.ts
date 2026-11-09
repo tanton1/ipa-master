@@ -59,6 +59,8 @@ export interface AppState {
   log: Record<string, DayLog>;
   settings: { rate: number; voiceURI?: string };
   profile: Profile;
+  /** Từ người học tự lưu để xem lại */
+  saved: string[];
 }
 
 const KEY = 'ipa-master:v1';
@@ -67,6 +69,8 @@ export const INTERVALS = [1, 3, 7, 14, 30, 60];
 export const RATING_SCORE: Record<Rating, number> = { 1: 35, 2: 65, 3: 90 };
 export const MASTERY_WEIGHTS = { listen: 0.25, pron: 0.4, retention: 0.25, sentence: 0.1 };
 export const MASTERY_THRESHOLD = 80;
+/** Tỷ lệ trọng số tối thiểu đã có dữ liệu để điểm thành thạo được xem là đủ tin cậy */
+export const MASTERY_MIN_COVERAGE = 0.65;
 
 export const DEFAULT_STATE: AppState = {
   version: 2,
@@ -78,6 +82,7 @@ export const DEFAULT_STATE: AppState = {
   log: {},
   settings: { rate: 1 },
   profile: { onboarded: false, ipaStyle: 'phonemic' },
+  saved: [],
 };
 
 /* ============================== Ngày tháng ============================== */
@@ -170,22 +175,41 @@ export function useHydrated(): boolean {
 
 /* ============================== Điểm Word Mastery ============================== */
 
-export interface MasteryBreakdown { listen: number | null; pron: number | null; retention: number | null; sentence: number | null; total: number }
+export interface MasteryBreakdown {
+  listen: number | null;
+  pron: number | null;
+  retention: number | null;
+  sentence: number | null;
+  /** Điểm 0–100 tính trên các thành phần đã có dữ liệu (trọng số được chuẩn hoá lại) */
+  total: number;
+  /** Tổng trọng số của các thành phần đã có dữ liệu, 0–1 */
+  coverage: number;
+  /** Số thành phần đã có dữ liệu, 0–4 */
+  parts: number;
+}
 
+/**
+ * Điểm thành thạo chỉ tính trên những gì đã kiểm tra. Thành phần chưa có dữ liệu
+ * không bị tính là 0; thay vào đó coverage cho biết điểm dựa trên bao nhiêu phần.
+ */
 export function mastery(p: WordProgress | undefined): MasteryBreakdown {
-  if (!p) return { listen: null, pron: null, retention: null, sentence: null, total: 0 };
+  if (!p) return { listen: null, pron: null, retention: null, sentence: null, total: 0, coverage: 0, parts: 0 };
   const listen = p.listen.t ? Math.round((100 * p.listen.c) / p.listen.t) : null;
-  const total = Math.round(
-    MASTERY_WEIGHTS.listen * (listen ?? 0) +
-    MASTERY_WEIGHTS.pron * (p.pron ?? 0) +
-    MASTERY_WEIGHTS.retention * (p.retention ?? 0) +
-    MASTERY_WEIGHTS.sentence * (p.sentence ?? 0),
-  );
-  return { listen, pron: p.pron, retention: p.retention, sentence: p.sentence, total };
+  const comps: [number | null, number][] = [
+    [listen, MASTERY_WEIGHTS.listen],
+    [p.pron, MASTERY_WEIGHTS.pron],
+    [p.retention, MASTERY_WEIGHTS.retention],
+    [p.sentence, MASTERY_WEIGHTS.sentence],
+  ];
+  let sum = 0; let cov = 0; let parts = 0;
+  for (const [v, w] of comps) if (v !== null) { sum += v * w; cov += w; parts++; }
+  const total = cov ? Math.round(sum / cov) : 0;
+  return { listen, pron: p.pron, retention: p.retention, sentence: p.sentence, total, coverage: Math.round(cov * 100) / 100, parts };
 }
 
 function isMastered(p: WordProgress): boolean {
-  return mastery(p).total >= MASTERY_THRESHOLD && p.goodDays.length >= 3 && p.step >= 3;
+  const m = mastery(p);
+  return m.total >= MASTERY_THRESHOLD && m.coverage >= MASTERY_MIN_COVERAGE && p.goodDays.length >= 3 && p.step >= 3;
 }
 
 const ema = (prev: number | null, x: number) => (prev === null ? x : Math.round(prev * 0.6 + x * 0.4));
@@ -355,6 +379,10 @@ export function updateProfile(patch: Partial<Profile>): void {
   setState((s) => ({ ...s, profile: { ...s.profile, ...patch } }));
 }
 
+export function toggleSaved(slug: string): void {
+  setState((s) => ({ ...s, saved: s.saved.includes(slug) ? s.saved.filter((x) => x !== slug) : [...s.saved, slug] }));
+}
+
 export function resetProgress(): void {
   setState(() => ({ ...DEFAULT_STATE, startedAt: todayKey() }));
 }
@@ -384,6 +412,29 @@ export function phonemeScore(st: { lc: number; lt: number; sg: number; st: numbe
   if (!n) return null;
   return { id: '', score: Math.round((100 * (st.lc + st.sg + 1)) / (n + 2)), n };
 }
+
+/**
+ * Mức bằng chứng của một kỹ năng. Tách "chưa kiểm tra" khỏi "đã kiểm tra nhưng yếu"
+ * để người học không tưởng mình kém chỉ vì chưa làm bài.
+ */
+export type Evidence = 'not_tested' | 'assessing' | 'practicing' | 'observed_error' | 'confirmed_strength';
+export const EVIDENCE_MIN_N = 3;
+
+export function evidenceOf(sc: SkillScore | null | undefined): Evidence {
+  if (!sc) return 'not_tested';
+  if (sc.n < EVIDENCE_MIN_N) return 'assessing';
+  if (sc.score < 55) return 'observed_error';
+  if (sc.score >= 75) return 'confirmed_strength';
+  return 'practicing';
+}
+
+export const EVIDENCE_LABEL: Record<Evidence, string> = {
+  not_tested: 'Chưa kiểm tra',
+  assessing: 'Đang đánh giá',
+  practicing: 'Đang luyện',
+  observed_error: 'Lỗi đã quan sát',
+  confirmed_strength: 'Đã kiểm tra, ổn',
+};
 
 export function errorScore(t: Tally | undefined): SkillScore | null {
   if (!t || !t.t) return null;

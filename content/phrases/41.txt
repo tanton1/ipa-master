@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+routine|daily routine|thói quen hằng ngày|Tell me about your daily routine.|Kể tôi nghe về thói quen hằng ngày của bạn.
+chore|household chores|việc nhà|We share the household chores.|Chúng tôi chia nhau làm việc nhà.
+housework|do the housework|làm việc nhà|I do the housework on Saturday.|Tôi làm việc nhà vào thứ Bảy.
+vacuum|vacuum cleaner|máy hút bụi|We bought a new vacuum cleaner.|Chúng tôi mua máy hút bụi mới.
+mop|mop the floor|lau nhà|Can you mop the floor?|Bạn lau nhà giúp được không?
+garbage|garbage truck|xe rác|The garbage truck comes at night.|Xe rác đến vào ban đêm.
+appointment|make an appointment|đặt lịch hẹn|I need to make an appointment with the dentist.|Tôi cần đặt lịch hẹn với nha sĩ.
+errand|run errands|chạy việc vặt|I have to run errands this afternoon.|Chiều nay tôi phải chạy việc vặt.
+grocery|grocery store|cửa hàng tạp hóa|There is a grocery store on the corner.|Ở góc phố có một cửa hàng tạp hóa.
+diary|write in my diary|viết nhật ký|I write in my diary every night.|Tối nào tôi cũng viết nhật ký.
+journal|travel journal|nhật ký du lịch|She keeps a travel journal.|Cô ấy viết nhật ký du lịch.
+mail|by mail|qua đường bưu điện|We sent the documents by mail.|Chúng tôi gửi giấy tờ qua đường bưu điện.
+delivery|free delivery|giao hàng miễn phí|They offer free delivery.|Họ giao hàng miễn phí.
+babysitter|hire a babysitter|thuê người trông trẻ|We hire a babysitter on weekends.|Cuối tuần chúng tôi thuê người trông trẻ.
+household|household items|đồ gia dụng|This shop sells household items.|Cửa hàng này bán đồ gia dụng.
+lifestyle|healthy lifestyle|lối sống lành mạnh|A healthy lifestyle is important.|Lối sống lành mạnh rất quan trọng.
+leisure|leisure time|thời gian rảnh rỗi|What do you do in your leisure time?|Lúc rảnh bạn làm gì?
+celebration|birthday celebration|tiệc mừng sinh nhật|We had a small birthday celebration.|Chúng tôi tổ chức một tiệc sinh nhật nhỏ.
+Christmas|Merry Christmas|Giáng sinh vui vẻ|Merry Christmas to you and your family!|Chúc bạn và gia đình Giáng sinh vui vẻ!
+ceremony|wedding ceremony|lễ cưới|The wedding ceremony starts at ten.|Lễ cưới bắt đầu lúc mười giờ.
+funeral|attend a funeral|dự đám tang|We will attend a funeral tomorrow.|Mai chúng tôi đi dự đám tang.
+mask|face mask|khẩu trang|Wear a face mask on the motorbike.|Đeo khẩu trang khi đi xe máy.
+pension|retirement pension|lương hưu|My grandfather lives on his retirement pension.|Ông tôi sống bằng lương hưu.
+savings|savings account|tài khoản tiết kiệm|I put money in a savings account.|Tôi gửi tiền vào tài khoản tiết kiệm.
+landlord|my landlord|chủ nhà của tôi|My landlord raised the rent.|Chủ nhà tăng tiền thuê.
+tenant|new tenant|người thuê mới|The new tenant moves in on Monday.|Người thuê mới chuyển đến vào thứ Hai.
+toddler|active toddler|trẻ mới biết đi hiếu động|An active toddler needs a lot of attention.|Trẻ mới biết đi hiếu động cần được trông nom nhiều.
+pregnant|pregnant woman|phụ nữ mang thai|Give your seat to a pregnant woman.|Nhường ghế cho phụ nữ mang thai.
+divorce|get a divorce|ly hôn|They decided to get a divorce.|Họ quyết định ly hôn.
+engaged|get engaged|đính hôn|They will get engaged next month.|Tháng sau họ đính hôn.
+honeymoon|on our honeymoon|trong tuần trăng mật|We went to Phu Quoc on our honeymoon.|Chúng tôi đi Phú Quốc hưởng tuần trăng mật.
+bedtime|past your bedtime|quá giờ đi ngủ|It's past your bedtime, go to sleep.|Quá giờ ngủ rồi, đi ngủ đi.
+hometown|my hometown|quê tôi|My hometown is in Nghe An.|Quê tôi ở Nghệ An.
+homesick|feel homesick|thấy nhớ nhà|I feel homesick at Tet.|Tôi nhớ nhà vào dịp Tết.
+brunch|Sunday brunch|bữa sáng muộn Chủ nhật|We have Sunday brunch with friends.|Chúng tôi ăn bữa sáng muộn Chủ nhật với bạn bè.
+leftovers|eat leftovers|ăn đồ thừa|We eat leftovers for lunch.|Trưa chúng tôi ăn đồ còn thừa.
+takeaway|takeaway coffee|cà phê mang đi|One takeaway coffee, please.|Cho một ly cà phê mang đi.
+dishwasher|empty the dishwasher|lấy bát ra khỏi máy rửa|Can you empty the dishwasher?|Bạn lấy bát ra khỏi máy rửa giúp được không?
+plumber|call a plumber|gọi thợ sửa ống nước|The sink is broken. Call a plumber.|Bồn rửa hỏng rồi. Gọi thợ sửa ống nước đi.
+electrician|qualified electrician|thợ điện có chuyên môn|Only a qualified electrician should do this.|Chỉ thợ điện có chuyên môn mới nên làm việc này.
+cigarette|smoke a cigarette|hút một điếu thuốc|You can't smoke a cigarette here.|Ở đây không được hút thuốc.
+alcohol|drink alcohol|uống rượu bia|Don't drink alcohol and drive.|Đã uống rượu bia thì không lái xe.
+commute|commute to work|đi lại đến chỗ làm|I commute to work by bus.|Tôi đi xe buýt đến chỗ làm.
+overtime|work overtime|làm thêm giờ|I have to work overtime tonight.|Tối nay tôi phải làm thêm giờ.
+weekday|on weekdays|vào ngày thường|The shop opens early on weekdays.|Ngày thường cửa hàng mở cửa sớm.
+daytime|in the daytime|vào ban ngày|It's hot in the daytime.|Ban ngày trời nóng.
+reunion|family reunion|đoàn tụ gia đình|Tet is a time for family reunion.|Tết là dịp đoàn tụ gia đình.
+housing|housing prices|giá nhà|Housing prices are high in big cities.|Giá nhà ở thành phố lớn rất cao.
+nursery|nursery school|trường mầm non|My daughter goes to nursery school.|Con gái tôi đi học mầm non.
+nutrition|good nutrition|dinh dưỡng tốt|Children need good nutrition.|Trẻ em cần dinh dưỡng tốt.

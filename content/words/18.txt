@@ -1,0 +1,58 @@
+# Nhóm 18 – Tính từ nhận xét, tính cách
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Tính từ nhận xét, tính cách|Tính từ 3|Chữ câm h, l, g, w và trọng âm của tính từ dài|Tính từ miêu tả tính cách và nhận xét: lịch sự, trung thực, kiên nhẫn, tiện lợi, truyền thống. Có nhiều chữ câm (honest, calm, foreign, whole) và từ dài 4–5 âm tiết.|honest,comfortable,foreign,international
+= Tính cách|h câm trong honest, l câm trong calm; /dʒ/ trong gentle
+polite|pəˈlaɪt|adj|lịch sự|Be polite to guests.|Hãy lịch sự với khách.||Trọng âm âm tiết hai.
+rude|ɹud|adj|thô lỗ|Don't be rude.|Đừng thô lỗ.||
+honest|ˈɑnɪst|adj|trung thực|He is an honest man.|Anh ấy là người trung thực.||Chữ h không đọc.
+brave|bɹeɪv|adj|dũng cảm|The firefighter was very brave.|Người lính cứu hỏa rất dũng cảm.||Âm cuối /v/.
+shy|ʃaɪ|adj|nhút nhát|My son is shy.|Con trai tôi nhút nhát.||
+lazy|ˈleɪzi|adj|lười|Don't be lazy.|Đừng lười.||
+friendly|ˈfɹɛndli|adj|thân thiện|People here are friendly.|Người ở đây thân thiện.||Chữ ie đọc /ɛ/; cụm /ndl/.
+gentle|ˈdʒɛntəl|adj|hiền, nhẹ nhàng|She is gentle with animals.|Cô ấy hiền với động vật.||
+calm|kɑm|adj|bình tĩnh|Stay calm.|Bình tĩnh.||Chữ l không đọc.
+patient|ˈpeɪʃənt|adj|kiên nhẫn; (n) bệnh nhân|Teachers must be patient.|Giáo viên phải kiên nhẫn.||Chữ ti đọc /ʃ/.
+= Nhận xét người và việc|/ʒ/ trong usual; cụm /stɹ/ trong strange
+generous|ˈdʒɛnɚəs|adj|hào phóng|She is very generous.|Cô ấy rất hào phóng.||
+selfish|ˈsɛlfɪʃ|adj|ích kỷ|Don't be selfish.|Đừng ích kỷ.||
+smart|smɑɹt|adj|thông minh|You are so smart.|Bạn thông minh quá.||
+stupid|ˈstupɪd|adj|ngốc|That was a stupid idea.|Đó là một ý ngốc nghếch.||
+silly|ˈsɪli|adj|ngớ ngẩn|Don't be silly.|Đừng ngớ ngẩn thế.||
+famous|ˈfeɪməs|adj|nổi tiếng|She is a famous singer.|Cô ấy là ca sĩ nổi tiếng.||
+strange|stɹeɪndʒ|adj|lạ|That's strange.|Lạ thật.||Cụm đầu /stɹ/, cụm cuối /ndʒ/.
+usual|ˈjuʒuəl|adj|thường lệ|Let's meet at the usual place.|Gặp ở chỗ cũ nhé.||Chữ s đọc /ʒ/.
+unusual|ʌnˈjuʒuəl|adj|bất thường, lạ|It's unusual to see snow here.|Thấy tuyết ở đây là chuyện lạ.||
+certain|ˈsɝtən|adj|chắc chắn|Are you certain?|Bạn chắc chứ?||
+= Đúng, sai, tuyệt vời|x đọc /gz/ trong exact; w câm trong whole
+correct|kəˈɹɛkt|adj|đúng|That's correct.|Đúng rồi.||
+exact|ɪgˈzækt|adj|chính xác|I need the exact address.|Tôi cần địa chỉ chính xác.||Chữ x đọc /gz/.
+fair|fɛɹ|adj|công bằng|That's not fair!|Không công bằng!||Đồng âm với fare.
+false|fɔls|adj|sai|Is this true or false?|Điều này đúng hay sai?||
+true|tɹu|adj|đúng, thật|It's true.|Đó là sự thật.||
+final|ˈfaɪnəl|adj|cuối cùng|This is the final question.|Đây là câu hỏi cuối cùng.||
+complete|kəmˈplit|adj|hoàn toàn, đầy đủ|The list is complete.|Danh sách đã đầy đủ.||
+whole|hoʊl|adj|toàn bộ|I ate the whole cake.|Tôi ăn hết cả chiếc bánh.||Chữ w không đọc; đồng âm với hole.
+excellent|ˈɛksələnt|adj|xuất sắc|Excellent work!|Làm xuất sắc lắm!||
+fantastic|fænˈtæstɪk|adj|tuyệt vời|The show was fantastic.|Buổi diễn tuyệt vời.||
+= Cảm nhận và tiện nghi|comfortable đọc 3 âm tiết; /z/ trong amazing, pleasant
+amazing|əˈmeɪzɪŋ|adj|kinh ngạc, tuyệt vời|The view is amazing.|Cảnh đẹp tuyệt.||
+awful|ˈɔfəl|adj|kinh khủng|The food was awful.|Đồ ăn dở kinh khủng.||
+horrible|ˈhɔɹəbəl|adj|kinh khủng, đáng sợ|What a horrible day!|Một ngày kinh khủng!||
+pleasant|ˈplɛzənt|adj|dễ chịu|The weather is pleasant.|Thời tiết dễ chịu.||Chữ ea đọc /ɛ/, chữ s đọc /z/.
+comfortable|ˈkʌmftɚbəl|adj|thoải mái|This chair is comfortable.|Cái ghế này thoải mái.||Thường đọc 3 âm tiết: /ˈkʌmf·tɚ·bəl/.
+convenient|kənˈvinjənt|adj|tiện lợi|The shop is very convenient.|Cửa hàng rất tiện.||
+lovely|ˈlʌvli|adj|đáng yêu, đẹp|What a lovely garden!|Khu vườn đẹp quá!||
+cute|kjut|adj|dễ thương|Your baby is so cute.|Em bé nhà bạn dễ thương quá.||
+ordinary|ˈɔɹdəˌnɛɹi|adj|bình thường|It was an ordinary day.|Đó là một ngày bình thường.||
+private|ˈpɹaɪvət|adj|riêng tư|This is a private room.|Đây là phòng riêng.||Chữ a cuối đọc /ə/.
+= Công cộng, địa phương, quốc tế|Trọng âm từ dài; g câm trong foreign; -tional đọc /ʃənəl/
+public|ˈpʌblɪk|adj|công cộng|There is a public park nearby.|Gần đây có công viên công cộng.||
+local|ˈloʊkəl|adj|địa phương|Try the local food.|Thử món ăn địa phương đi.||
+foreign|ˈfɔɹən|adj|nước ngoài|Do you speak a foreign language?|Bạn có nói ngoại ngữ nào không?||Chữ g không đọc.
+international|ˌɪntɚˈnæʃənəl|adj|quốc tế|It's an international school.|Đó là trường quốc tế.||Trọng âm chính ở âm tiết ba.
+national|ˈnæʃənəl|adj|quốc gia|Pho is a national dish.|Phở là món ăn quốc dân.||Chữ a đầu đọc /æ/, khác nation /ˈneɪʃən/.
+traditional|tɹəˈdɪʃənəl|adj|truyền thống|We wear traditional clothes at Tet.|Chúng tôi mặc trang phục truyền thống dịp Tết.||
+typical|ˈtɪpɪkəl|adj|điển hình|This is a typical Vietnamese house.|Đây là ngôi nhà Việt điển hình.||Chữ y đọc /ɪ/.
+various|ˈvɛɹiəs|adj|khác nhau, đa dạng|We sell various kinds of tea.|Chúng tôi bán nhiều loại trà.||
+available|əˈveɪləbəl|adj|có sẵn, rảnh|Is this room available?|Phòng này còn trống không?||
+necessary|ˈnɛsəˌsɛɹi|adj|cần thiết|Is it necessary?|Có cần thiết không?||Trọng âm âm tiết đầu.

@@ -1,0 +1,58 @@
+# Nhóm 12 – Giới từ, lượng từ, đại từ bất định
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Giới từ, lượng từ, đại từ bất định|Giới từ & lượng từ|Schwa đầu từ và /θ/, /ð/ trong từ chức năng|Giới từ chỉ vị trí, hướng đi, lượng từ và đại từ bất định. Phần lớn đọc nhẹ, trọng âm thường rơi vào âm tiết thứ hai.|between,many,something,without
+= Giới từ vị trí|Trọng âm âm tiết hai: above, between, behind; /ʌ/ trong above, among
+above|əˈbʌv|prep|ở trên, phía trên|The lamp is above the table.|Đèn ở phía trên bàn.||Âm cuối /v/ hữu thanh, rung môi dưới.
+below|bɪˈloʊ|prep|bên dưới|Write your name below the line.|Viết tên bên dưới dòng kẻ.||
+under|ˈʌndɚ|prep|dưới|The shoes are under the bed.|Giày ở dưới gầm giường.||
+over|ˈoʊvɚ|prep|qua, trên, hơn|The plane flew over the city.|Máy bay bay qua thành phố.||
+between|bɪˈtwin|prep|giữa (hai)|Sit between Lan and Minh.|Ngồi giữa Lan và Minh.||Cụm /tw/: tròn môi ngay khi bật /t/.
+among|əˈmʌŋ|prep|giữa (nhiều)|She is popular among students.|Cô ấy được học sinh yêu mến.||Âm cuối /ŋ/, không thêm /g/.
+behind|bɪˈhaɪnd|prep|phía sau|The car is behind the house.|Xe ở phía sau nhà.||Cụm cuối /nd/.
+beside|bɪˈsaɪd|prep|bên cạnh|Sit beside me.|Ngồi cạnh tôi đi.||
+inside|ˌɪnˈsaɪd|prep|bên trong|It is warm inside the house.|Trong nhà ấm áp.||
+outside|ˌaʊtˈsaɪd|prep|bên ngoài|The children play outside.|Bọn trẻ chơi ở ngoài.||
+= Giới từ chuyển động và thời gian|Schwa đầu từ: across, along, around; /θ/ trong without
+across|əˈkɹɔs|prep|băng qua, bên kia|We walked across the bridge.|Chúng tôi đi bộ qua cầu.||Cụm /kɹ/ không chèn nguyên âm.
+along|əˈlɔŋ|prep|dọc theo|Walk along this road.|Đi dọc con đường này.||
+around|əˈɹaʊnd|prep|xung quanh|We sat around the fire.|Chúng tôi ngồi quanh đống lửa.||
+against|əˈgɛnst|prep|chống lại, dựa vào|They played against a strong team.|Họ đấu với một đội mạnh.||Cụm cuối /nst/.
+during|ˈdʊɹɪŋ|prep|trong suốt|Don't talk during the test.|Đừng nói chuyện trong giờ kiểm tra.||
+without|wɪˈθaʊt|prep|không có|I can't live without music.|Tôi không thể sống thiếu âm nhạc.||Nhiều người Mỹ đọc /wɪˈðaʊt/.
+within|wɪˈθɪn|prep|trong vòng|Please answer within two days.|Vui lòng trả lời trong vòng hai ngày.||
+into|ˈɪntu|prep|vào trong|She walked into the room.|Cô ấy bước vào phòng.||Trong câu thường đọc nhẹ /ˈɪntə/.
+toward|tɔɹd|prep|về phía|He ran toward the door.|Anh ấy chạy về phía cửa.||Cũng đọc /təˈwɔɹd/.
+past|pæst|prep|qua, quá (giờ)|It's ten past nine.|Bây giờ là chín giờ mười.||Cụm cuối /st/.
+= Lượng từ 1|/ð/ trong either, neither; /θ/ cuối trong both
+since|sɪns|prep|từ khi|I have lived here since 2010.|Tôi sống ở đây từ năm 2010.||Âm cuối /ns/.
+except|ɪkˈsɛpt|prep|ngoại trừ|Everyone came except Nam.|Mọi người đều đến trừ Nam.||Cụm cuối /pt/.
+beyond|bɪˈjɑnd|prep|vượt quá, ở bên kia|The village is beyond the hill.|Ngôi làng ở bên kia ngọn đồi.||
+each|itʃ|det|mỗi|Each student has a book.|Mỗi học sinh có một quyển sách.||
+every|ˈɛvɹi|det|mọi, mỗi|I walk every morning.|Sáng nào tôi cũng đi bộ.||Đọc 2 âm tiết /ˈɛv·ɹi/.
+both|boʊθ|det|cả hai|Both answers are right.|Cả hai câu trả lời đều đúng.||Âm cuối /θ/, không đọc thành /t/.
+either|ˈiðɚ|det|một trong hai, cũng (không)|You can take either bus.|Bạn có thể đi xe nào trong hai xe.||Cũng đọc /ˈaɪðɚ/.
+neither|ˈniðɚ|det|không cái nào (trong hai)|Neither answer is correct.|Không câu nào trong hai câu đúng.||Cũng đọc /ˈnaɪðɚ/.
+few|fju|det|ít, vài|Only a few people came.|Chỉ vài người đến.||
+many|ˈmɛni|det|nhiều (đếm được)|There are many books here.|Ở đây có nhiều sách.||Chữ a đọc /ɛ/.
+= Lượng từ 2|/ʌ/ trong much, none, other; cụm cuối /st/ trong most
+much|mʌtʃ|det|nhiều (không đếm được)|I don't have much time.|Tôi không có nhiều thời gian.||
+more|mɔɹ|det|nhiều hơn, thêm|Can I have more rice?|Cho tôi thêm cơm được không?||
+most|moʊst|det|hầu hết, nhiều nhất|Most people like music.|Hầu hết mọi người thích âm nhạc.||
+less|lɛs|det|ít hơn|Eat less sugar.|Ăn ít đường hơn.||
+several|ˈsɛvɹəl|det|một vài|I read several books last month.|Tháng trước tôi đọc vài cuốn sách.||Thường đọc 2 âm tiết /ˈsɛv·ɹəl/.
+any|ˈɛni|det|nào, bất kỳ|Do you have any money?|Bạn có tiền không?||Chữ a đọc /ɛ/.
+none|nʌn|pron|không ai, không cái nào|None of my friends smoke.|Không người bạn nào của tôi hút thuốc.||Đồng âm với nun.
+another|əˈnʌðɚ|det|một … khác, thêm một|Try another color.|Thử màu khác đi.||
+other|ˈʌðɚ|det|khác|Do you have other sizes?|Bạn có cỡ khác không?||/ð/ giữa từ, rung lưỡi.
+such|sʌtʃ|det|như vậy, thật là|It was such a nice day.|Thật là một ngày đẹp trời.||
+= Đại từ bất định|/θ/ trong something, nothing; âm cuối /ŋ/
+own|oʊn|adj|của riêng|I have my own car.|Tôi có xe riêng.||
+everyone|ˈɛvɹiˌwʌn|pron|mọi người|Everyone loves her.|Ai cũng quý cô ấy.||
+everything|ˈɛvɹiˌθɪŋ|pron|mọi thứ|Thank you for everything.|Cảm ơn bạn vì tất cả.||
+someone|ˈsʌmˌwʌn|pron|ai đó|Someone took my pen.|Ai đó đã lấy bút của tôi.||
+something|ˈsʌmθɪŋ|pron|cái gì đó|I want to tell you something.|Tôi muốn nói với bạn một điều.||/mθ/: môi khép rồi đưa lưỡi ra giữa răng.
+anything|ˈɛniˌθɪŋ|pron|bất cứ thứ gì|Do you need anything?|Bạn có cần gì không?||
+nothing|ˈnʌθɪŋ|pron|không có gì|There is nothing in the box.|Trong hộp không có gì.||
+nobody|ˈnoʊˌbɑdi|pron|không ai|Nobody was at home.|Không có ai ở nhà.||
+myself|maɪˈsɛlf|pron|chính tôi|I made it myself.|Tôi tự làm nó.||
+whose|huz|pron|của ai|Whose phone is this?|Điện thoại này của ai?||Chữ w không đọc; đồng âm với who's.

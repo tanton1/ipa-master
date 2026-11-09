@@ -2,7 +2,7 @@
  * Xuất dữ liệu giáo trình v2 (Product Data Specification) cho backend / CMS.
  * Mỗi bản ghi từ là DỮ LIỆU NỘI DUNG dùng chung; tiến độ học viên lưu ở bảng riêng.
  */
-import { WORDS } from './curriculum';
+import { FULL_WORDS as WORDS } from './words-full';
 import { articulationSteps, wordIssues } from './errors';
 import { displayIpa } from './ipa-display';
 import { getPhoneme, PHONEMES } from '@/data/phonemes';
@@ -11,9 +11,12 @@ import { GROUPS } from '@/data/groups';
 import { VEI } from '@/data/vei';
 import { GOLD, getGold } from '@/data/gold';
 import { CONTRAST_LESSONS } from '@/data/contrast';
-import { DIFFICULTY_LABEL, DIFFICULTY_QUOTA } from './classify';
+import { WORD_FORMS, getForms } from '@/data/forms';
+import { CONTENT_VERSION } from '@/data/content-version';
+import { DIFFICULTY_LABEL, DIFFICULTY_RATIO } from './classify';
+import { STAGES, stageOf } from '@/data/stages';
 
-export const SCHEMA_VERSION = '2.0.0';
+export const SCHEMA_VERSION = '2.2.0';
 
 const LESSON_FLOW = ['identity', 'ipa_breakdown', 'mouth_guide', 'native_audio', 'contrast_practice', 'recording', 'sentence_practice', 'mastery_review'];
 
@@ -28,6 +31,7 @@ export function wordRecordV2(w: (typeof WORDS)[number]) {
     chapter_id: `G${String(w.group).padStart(2, '0')}`,
     unit_id: w.unit,
     unit_title: UNITS.find((u) => u.id === w.unit)?.title ?? null,
+    stage_id: stageOf(w.group),
     week_number: w.week,
     learning_day: w.day,
     learning_order: w.id,
@@ -36,6 +40,8 @@ export function wordRecordV2(w: (typeof WORDS)[number]) {
     frequency_tier: null as string | null,
     frequency_rank: w.frequencyRank,
     frequency_source: null as string | null,
+    context_forms: getForms(w.slug)?.forms.map((f) => ({ ipa: `/${f.ipa}/`, label_vi: f.label, when_vi: f.when, examples: f.examples, sample_ipa: f.sampleIpa ? `/${f.sampleIpa}/` : null, emphasis: !!f.emphasis })) ?? [],
+    common_phrases: (w.phrases ?? []).map((p) => ({ phrase: p.text, meaning_vi: p.meaning, example_en: p.exampleEn, example_vi: p.exampleVi })),
     difficulty_level: w.difficulty,
     difficulty_score: w.difficultyScore,
     accent: 'en-US',
@@ -67,7 +73,7 @@ export function wordRecordV2(w: (typeof WORDS)[number]) {
     content_status: w.status,
     source_tag: 'ipa-master-draft-v1',
     editorial_notes: w.note ?? null,
-    content_version: 1,
+    content_version: CONTENT_VERSION,
   };
 }
 
@@ -75,24 +81,29 @@ export function buildCurriculum() {
   const words = WORDS.map(wordRecordV2);
   return {
     meta: {
-      name: 'IPA MASTER – Core 500 Curriculum',
+      name: 'IPA MASTER – 3000 Words Curriculum',
       schema_version: SCHEMA_VERSION,
       accent: 'en-US (General American)',
       generated_from: 'content/words/*.txt + src/data/*',
-      status_note: 'Toàn bộ nội dung là bản nháp (draft). IPA, trọng âm và hướng dẫn khẩu hình cần giáo viên ngữ âm duyệt trước khi xuất bản. Chưa có audio và minh hoạ; tần suất NGSL-Spoken chưa được gắn.',
+      status_note: 'Toàn bộ nội dung là bản nháp (draft). IPA, trọng âm và hướng dẫn khẩu hình cần giáo viên ngữ âm duyệt trước khi xuất bản. Chưa có audio và minh hoạ; tần suất NGSL-Spoken chưa được gắn. Dạng đọc theo ngữ cảnh (mạnh/yếu) có cho các từ chức năng trong context_forms. Mỗi từ có cụm từ hay dùng kèm câu mẫu trong common_phrases. 2500 từ của giai đoạn 2–3 được chọn theo chủ đề và ước lượng mức phổ biến, chưa đối chiếu danh sách tần suất.',
+      content_version: CONTENT_VERSION,
       counts: {
         words: words.length,
+        stages: STAGES.length,
+        common_phrases: words.reduce((n, w) => n + w.common_phrases.length, 0),
         chapters: GROUPS.length,
         units: UNITS.length,
         phonemes: PHONEMES.length,
         error_patterns: VEI.length,
         gold_set: GOLD.length,
         contrast_lessons: CONTRAST_LESSONS.length,
+        context_form_words: WORD_FORMS.length,
         sentences: words.length + GOLD.length,
         audio_assets: 0,
         reviewed_ipa: 0,
       },
-      difficulty_quota: Object.fromEntries(DIFFICULTY_LABEL.map((l, i) => [l, DIFFICULTY_QUOTA[i]])),
+      difficulty_quota: Object.fromEntries(DIFFICULTY_LABEL.map((l, i) => [l, Math.round(DIFFICULTY_RATIO[i] * words.length)])),
+      stages: STAGES.map((st) => ({ stage_id: st.id, title: st.title, chapters: `G${String(st.from).padStart(2, '0')}–G${String(st.to).padStart(2, '0')}`, words: words.filter((w) => w.stage_id === st.id).length, description_vi: st.description })),
     },
     chapters: GROUPS.map((g) => ({ chapter_id: `G${g.slug}`, title: g.title, focus: g.focus, week_number: g.id })),
     units: UNITS.map((u) => ({ unit_id: u.id, chapter_id: `G${String(u.group).padStart(2, '0')}`, index: u.index, title: u.title, focus: u.focus, week_number: u.group, learning_day: u.index, word_ids: words.filter((w) => w.unit_id === u.id).map((w) => w.word_id) })),
@@ -126,7 +137,9 @@ export function wordSchema() {
       unit_title: strOrNull,
       week_number: { type: 'integer', minimum: 1, maximum: 10 },
       learning_day: { type: 'integer', minimum: 1, maximum: 5 },
-      learning_order: { type: 'integer', minimum: 1, maximum: 500 },
+      learning_order: { type: 'integer', minimum: 1, maximum: 3000 },
+      stage_id: { type: 'integer', minimum: 1, maximum: 3 },
+      common_phrases: { type: 'array', items: { type: 'object', properties: { phrase: str, meaning_vi: str, example_en: str, example_vi: str }, required: ['phrase', 'meaning_vi', 'example_en', 'example_vi'] } },
       meaning_vi: str,
       part_of_speech: { enum: ['n', 'v', 'adj', 'adv', 'pron', 'det', 'prep', 'conj', 'num', 'interj', 'modal'] },
       frequency_tier: { enum: ['core', 'high', 'extended', null] },
@@ -156,7 +169,7 @@ export function wordSchema() {
       lesson_template: { enum: ['hard-sound', 'stress', 'pair', null] },
       content_status: { enum: ['draft', 'phonetics_review', 'audio_review', 'pedagogy_review', 'published'] },
       source_tag: str, editorial_notes: strOrNull,
-      content_version: { type: 'integer', minimum: 1 },
+      content_version: { type: 'string', minLength: 1 },
     },
     allOf: [
       {

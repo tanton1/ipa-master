@@ -1,0 +1,58 @@
+# Nhóm 30 – Ngôn ngữ và phát âm
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Ngôn ngữ và phát âm|Ngôn ngữ|Từ vựng về chính việc học phát âm: vowel, syllable, intonation|Từ dùng khi học tiếng Anh: nguyên âm, phụ âm, âm tiết, trọng âm, ngữ điệu, từ loại, dấu câu, phụ đề. Biết các từ này giúp bạn đọc tài liệu và hỏi giáo viên bằng tiếng Anh.|vowel,syllable,intonation,pronoun
+= Âm thanh và ngữ điệu|Trọng âm intonation ở âm tiết ba; ph đọc /f/ trong phrase
+vowel|ˈvaʊəl|n|nguyên âm|A, e, i, o, u are vowels.|A, e, i, o, u là nguyên âm.||
+consonant|ˈkɑnsənənt|n|phụ âm|B and c are consonants.|B và c là phụ âm.||
+syllable|ˈsɪləbəl|n|âm tiết|"Water" has two syllables.|"Water" có hai âm tiết.||
+accent|ˈæksɛnt|n|giọng, trọng âm|I like your accent.|Tôi thích giọng nói của bạn.||Chữ cc đọc /ks/.
+intonation|ˌɪntəˈneɪʃən|n|ngữ điệu|Intonation shows feeling.|Ngữ điệu thể hiện cảm xúc.||
+phrase|fɹeɪz|n|cụm từ|Learn this phrase by heart.|Học thuộc cụm từ này.||Chữ ph đọc /f/, chữ s đọc /z/.
+tone|toʊn|n|giọng điệu; thanh điệu|Vietnamese is a tone language.|Tiếng Việt là ngôn ngữ có thanh điệu.||
+symbol|ˈsɪmbəl|n|ký hiệu, biểu tượng|What does this symbol mean?|Ký hiệu này nghĩa là gì?||
+noun|naʊn|n|danh từ|"Cat" is a noun.|"Cat" là danh từ.||
+verb|vɝb|n|động từ|"Run" is a verb.|"Run" là động từ.||Âm cuối /b/.
+= Từ loại và cấu tạo từ|Trọng âm âm tiết đầu: adjective, synonym, antonym
+adjective|ˈædʒɪktɪv|n|tính từ|"Happy" is an adjective.|"Happy" là tính từ.||
+adverb|ˈædvɝb|n|trạng từ|"Quickly" is an adverb.|"Quickly" là trạng từ.||
+tense|tɛns|n|thì (ngữ pháp)|Use the past tense here.|Dùng thì quá khứ ở đây.||
+plural|ˈplʊɹəl|n|số nhiều|"Mice" is the plural of "mouse".|"Mice" là số nhiều của "mouse".||
+singular|ˈsɪŋgjəlɚ|n|số ít|Use the singular form.|Dùng dạng số ít.||
+prefix|ˈpɹiˌfɪks|n|tiền tố|"Re-" is a prefix.|"Re-" là một tiền tố.||
+suffix|ˈsʌfɪks|n|hậu tố|"-ful" is a suffix.|"-ful" là một hậu tố.||
+synonym|ˈsɪnənɪm|n|từ đồng nghĩa|"Big" and "large" are synonyms.|"Big" và "large" là từ đồng nghĩa.||Chữ y đọc /ɪ/.
+antonym|ˈæntənɪm|n|từ trái nghĩa|"Hot" and "cold" are antonyms.|"Hot" và "cold" là từ trái nghĩa.||
+fluency|ˈfluənsi|n|sự trôi chảy|Fluency comes with practice.|Nói trôi chảy nhờ luyện tập.||
+= Cách nói và dấu câu|t câm trong listener; qu đọc /kw/ trong quote
+dialect|ˈdaɪəˌlɛkt|n|phương ngữ|Hue has its own dialect.|Huế có phương ngữ riêng.||
+slang|slæŋ|n|tiếng lóng|Teenagers use a lot of slang.|Thanh thiếu niên dùng nhiều tiếng lóng.||
+idiom|ˈɪdiəm|n|thành ngữ|This idiom is hard to translate.|Thành ngữ này khó dịch.||
+proverb|ˈpɹɑvɝb|n|tục ngữ|There is a Vietnamese proverb about this.|Có một câu tục ngữ Việt Nam về điều này.||
+quote|kwoʊt|n|câu trích dẫn|I love this quote.|Tôi thích câu trích dẫn này.||
+listener|ˈlɪsənɚ|n|người nghe|Thank you, dear listeners.|Cảm ơn quý thính giả.||Chữ t không đọc.
+mispronounce|ˌmɪspɹəˈnaʊns|v|phát âm sai|Many people mispronounce this word.|Nhiều người phát âm sai từ này.||
+clause|klɔz|n|mệnh đề|This sentence has two clauses.|Câu này có hai mệnh đề.||Đồng âm với claws.
+abbreviation|əˌbɹiviˈeɪʃən|n|chữ viết tắt|"Mr." is an abbreviation.|"Mr." là chữ viết tắt.||
+comma|ˈkɑmə|n|dấu phẩy|Put a comma here.|Đặt dấu phẩy ở đây.||
+= Dịch, phụ đề, biểu cảm|Cụm cuối /kst/ trong text; -tion đọc /ʃən/
+punctuation|ˌpʌŋktʃuˈeɪʃən|n|dấu câu, phép chấm câu|Check your punctuation.|Kiểm tra dấu câu của bạn.||
+quotation|kwoʊˈteɪʃən|n|lời trích dẫn|Start your essay with a quotation.|Mở đầu bài luận bằng một lời trích dẫn.||
+bilingual|baɪˈlɪŋgwəl|adj|song ngữ|She is bilingual.|Cô ấy nói được hai thứ tiếng.||
+interpreter|ɪnˈtɝpɹɪtɚ|n|phiên dịch viên|We need an interpreter.|Chúng tôi cần một phiên dịch viên.||
+subtitle|ˈsʌbˌtaɪtəl|n|phụ đề|Turn on the subtitles.|Bật phụ đề lên.||
+caption|ˈkæpʃən|n|chú thích, phụ đề|Read the caption under the photo.|Đọc chú thích dưới bức ảnh.||
+text|tɛkst|n|văn bản; tin nhắn|Read the text and answer.|Đọc văn bản rồi trả lời.||Cụm cuối /kst/.
+expression|ɪkˈspɹɛʃən|n|cách diễn đạt; nét mặt|This is a common expression.|Đây là một cách nói thông dụng.||
+gesture|ˈdʒɛstʃɚ|n|cử chỉ|It was a kind gesture.|Đó là một cử chỉ tử tế.||
+mumble|ˈmʌmbəl|v|nói lầm bầm|Don't mumble!|Đừng nói lầm bầm!||
+= Ngữ pháp và luyện nói|ph đọc /f/ trong alphabet, phonetics; trọng âm preposition ở âm tiết ba
+imitate|ˈɪmɪˌteɪt|v|bắt chước|Children imitate their parents.|Trẻ con bắt chước bố mẹ.||
+correction|kəˈɹɛkʃən|n|sự sửa lỗi|Thank you for the correction.|Cảm ơn bạn đã sửa lỗi cho tôi.||
+preposition|ˌpɹɛpəˈzɪʃən|n|giới từ|"On" is a preposition.|"On" là giới từ.||
+pronoun|ˈpɹoʊˌnaʊn|n|đại từ|"He" is a pronoun.|"He" là đại từ.||
+conjunction|kənˈdʒʌŋkʃən|n|liên từ|"And" is a conjunction.|"And" là liên từ.||
+alphabet|ˈælfəˌbɛt|n|bảng chữ cái|Learn the alphabet first.|Học bảng chữ cái trước.||
+context|ˈkɑntɛkst|n|ngữ cảnh|Guess the meaning from context.|Đoán nghĩa qua ngữ cảnh.||
+phonetics|fəˈnɛtɪks|n|ngữ âm học|Phonetics helps you speak clearly.|Ngữ âm học giúp bạn nói rõ ràng.||
+vocal|ˈvoʊkəl|adj|thuộc giọng nói|She has strong vocal skills.|Cô ấy có kỹ năng thanh nhạc tốt.||
+recite|ɹɪˈsaɪt|v|đọc thuộc lòng|Can you recite the poem?|Bạn đọc thuộc bài thơ được không?||

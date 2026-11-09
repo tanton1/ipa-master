@@ -72,6 +72,37 @@ export interface WordEntry {
   status: 'draft' | 'phonetics_review' | 'audio_review' | 'pedagogy_review' | 'published';
   /** Tần suất NGSL-Spoken: chưa có nguồn nên để null */
   frequencyRank: number | null;
+  /** Cụm từ hay dùng kèm câu mẫu (content/phrases) */
+  phrases?: WordPhrase[];
+}
+
+/** Cụm từ hay dùng (cụm danh từ, kết hợp động từ + danh từ…) kèm câu mẫu ứng dụng */
+export interface WordPhrase {
+  text: string;
+  meaning: string;
+  exampleEn: string;
+  exampleVi: string;
+}
+
+/** Bản gọn dùng phía trình duyệt: danh sách, bộ lọc, ôn tập, kế hoạch học */
+export type WordLite = Pick<WordEntry, 'id' | 'word' | 'slug' | 'ipa' | 'pos' | 'meaning' | 'exampleEn' | 'group' | 'unit' | 'week' | 'day' | 'difficulty' | 'errorCodes' | 'phonemes' | 'gold'>;
+
+/** Một cách đọc của từ chức năng trong ngữ cảnh (dạng mạnh, dạng yếu, biến thể) */
+export interface WordForm {
+  ipa: string;
+  label: string;
+  when: string;
+  examples: string[];
+  sampleIpa?: string;
+  /** Dạng nhấn mạnh: không đem vào bài nghe tự động */
+  emphasis?: boolean;
+}
+
+export interface WordForms {
+  slug: string;
+  summary: string;
+  rule?: string;
+  forms: WordForm[];
 }
 
 export interface WordGroup {
@@ -83,6 +114,8 @@ export interface WordGroup {
   examples: string[];
   focus: string;
   tone: string;
+  /** Giai đoạn 1–3 của lộ trình 3000 từ */
+  stage?: number;
 }
 
 export const POS_LABEL: Record<string, string> = {

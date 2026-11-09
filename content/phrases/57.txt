@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+least|at least|ít nhất|Drink at least two liters of water.|Uống ít nhất hai lít nước.
+upon|once upon a time|ngày xửa ngày xưa|Once upon a time, there was a poor farmer.|Ngày xửa ngày xưa, có một người nông dân nghèo.
+nor|nor do I|tôi cũng không|"I don't like fish." "Nor do I."|"Tôi không thích cá." "Tôi cũng không."
+thus|and thus|và do đó|He studied hard and thus passed the exam.|Anh ấy học chăm và do đó thi đỗ.
+indeed|yes, indeed|đúng vậy|"Is it hot today?" "Yes, indeed."|"Hôm nay nóng nhỉ?" "Đúng vậy."
+furthermore|and furthermore|và hơn nữa|The hotel is cheap, and furthermore, it's near the beach.|Khách sạn rẻ, hơn nữa còn gần biển.
+moreover|moreover, it is|hơn nữa, nó còn|The flat is big. Moreover, it is cheap.|Căn hộ rộng. Hơn nữa, nó còn rẻ.
+nevertheless|but nevertheless|nhưng dù vậy|It was raining, but nevertheless we went out.|Trời mưa nhưng dù vậy chúng tôi vẫn ra ngoài.
+afterward|shortly afterward|ngay sau đó|He arrived, and shortly afterward it started to rain.|Anh ấy đến, và ngay sau đó trời đổ mưa.
+nowadays|nowadays, people|ngày nay, mọi người|Nowadays, people shop online.|Ngày nay, mọi người mua sắm trực tuyến.
+forward|look forward to|mong chờ|I look forward to hearing from you.|Tôi mong nhận được hồi âm của bạn.
+backward|backward and forward|tới lui|He walked backward and forward.|Anh ấy đi tới đi lui.
+ahead|go ahead|cứ tự nhiên|"Can I sit here?" "Go ahead."|"Tôi ngồi đây được không?" "Cứ tự nhiên."
+aside|put aside|để dành|Put aside some money every month.|Để dành một ít tiền mỗi tháng.
+apart|apart from|ngoài … ra|Apart from Lan, everyone came.|Ngoài Lan ra, mọi người đều đến.
+upstairs|go upstairs|lên lầu|Go upstairs and wash your hands.|Lên lầu rửa tay đi.
+downstairs|come downstairs|xuống nhà|Come downstairs, dinner is ready.|Xuống nhà đi, bữa tối xong rồi.
+indoors|stay indoors|ở trong nhà|Stay indoors during the storm.|Ở trong nhà khi có bão.
+outdoors|play outdoors|chơi ngoài trời|Children should play outdoors more.|Trẻ em nên chơi ngoài trời nhiều hơn.
+absolutely|absolutely right|hoàn toàn đúng|You are absolutely right.|Bạn hoàn toàn đúng.
+definitely|definitely not|chắc chắn không|"Will you go?" "Definitely not."|"Bạn có đi không?" "Chắc chắn không."
+totally|totally different|hoàn toàn khác|The two cities are totally different.|Hai thành phố hoàn toàn khác nhau.
+completely|completely free|hoàn toàn miễn phí|The museum is completely free.|Bảo tàng hoàn toàn miễn phí.
+extremely|extremely hot|cực kỳ nóng|It's extremely hot today.|Hôm nay nóng kinh khủng.
+highly|highly recommend|rất khuyên dùng|I highly recommend this restaurant.|Tôi rất khuyên bạn thử nhà hàng này.
+mostly|mostly sunny|phần lớn có nắng|Tomorrow will be mostly sunny.|Ngày mai trời phần lớn có nắng.
+mainly|mainly because|chủ yếu vì|I moved mainly because of work.|Tôi chuyển nhà chủ yếu vì công việc.
+partly|partly cloudy|có mây rải rác|It's partly cloudy today.|Hôm nay trời có mây rải rác.
+slightly|slightly different|hơi khác|The two words are slightly different.|Hai từ này hơi khác nhau.
+fairly|fairly easy|khá dễ|The test was fairly easy.|Bài kiểm tra khá dễ.
+hardly|hardly ever|hầu như không bao giờ|I hardly ever eat fast food.|Tôi hầu như không bao giờ ăn đồ ăn nhanh.
+barely|barely enough|vừa đủ|We have barely enough money.|Chúng tôi chỉ vừa đủ tiền.
+frequently|frequently asked questions|câu hỏi thường gặp|Read the frequently asked questions.|Đọc phần câu hỏi thường gặp.
+occasionally|only occasionally|chỉ thỉnh thoảng|I drink coffee only occasionally.|Tôi chỉ thỉnh thoảng uống cà phê.
+normally|normally take|thường đi|I normally take the bus to work.|Tôi thường đi xe buýt đi làm.
+generally|generally speaking|nói chung|Generally speaking, people here are kind.|Nói chung, người ở đây tốt bụng.
+eventually|eventually found|cuối cùng đã tìm thấy|We eventually found the hotel.|Cuối cùng chúng tôi cũng tìm thấy khách sạn.
+gradually|gradually improve|dần dần tiến bộ|Your English will gradually improve.|Tiếng Anh của bạn sẽ dần dần tiến bộ.
+directly|directly to|thẳng đến|Go directly to the airport.|Đi thẳng đến sân bay.
+fortunately|fortunately, nobody|may thay, không ai|Fortunately, nobody was hurt.|May thay, không ai bị thương.
+unfortunately|unfortunately, I can't|tiếc là tôi không thể|Unfortunately, I can't come to your party.|Tiếc là tôi không thể đến dự tiệc của bạn.
+luckily|luckily for me|may cho tôi|Luckily for me, the bus was late too.|May cho tôi là xe buýt cũng đến muộn.
+hopefully|hopefully tomorrow|hy vọng là ngày mai|"When will it stop raining?" "Hopefully tomorrow."|"Khi nào hết mưa?" "Hy vọng là ngày mai."
+obviously|obviously not|rõ ràng là không|"Is he happy?" "Obviously not."|"Anh ấy vui không?" "Rõ ràng là không."
+seriously|take it seriously|coi trọng việc đó|Please take it seriously.|Hãy coi trọng việc này.
+honestly|honestly speaking|thành thật mà nói|Honestly speaking, I don't like it.|Thành thật mà nói, tôi không thích nó.
+basically|basically the same|về cơ bản giống nhau|The two phones are basically the same.|Hai chiếc điện thoại về cơ bản giống nhau.
+apparently|apparently not|hình như không|"Is she coming?" "Apparently not."|"Cô ấy có đến không?" "Hình như không."
+carefully|listen carefully|nghe kỹ|Listen carefully and repeat.|Nghe kỹ và nhắc lại.
+quietly|speak quietly|nói khẽ|Please speak quietly in the library.|Vui lòng nói khẽ trong thư viện.

@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+recent|recent years|những năm gần đây|Prices have risen in recent years.|Giá cả tăng trong những năm gần đây.
+likely|most likely|rất có thể|It will most likely rain tonight.|Rất có thể tối nay trời mưa.
+unlikely|highly unlikely|rất khó xảy ra|It's highly unlikely to snow in Saigon.|Sài Gòn khó mà có tuyết.
+dead|dead battery|pin hết sạch|My phone has a dead battery.|Điện thoại tôi hết pin.
+alive|stay alive|sống sót|Water helps you stay alive.|Nước giúp bạn sống sót.
+aware|be aware of|nhận thức được|Be aware of the dangers of the sun.|Hãy nhận thức được tác hại của ánh nắng.
+unique|unique style|phong cách độc đáo|She has a unique style.|Cô ấy có phong cách độc đáo.
+religious|religious festival|lễ hội tôn giáo|Vu Lan is a religious festival.|Vu Lan là một lễ hội tôn giáo.
+cultural|cultural differences|khác biệt văn hóa|Learn about cultural differences before you travel.|Tìm hiểu khác biệt văn hóa trước khi đi du lịch.
+silent|silent movie|phim câm|Charlie Chaplin made silent movies.|Charlie Chaplin làm phim câm.
+slight|slight fever|sốt nhẹ|The baby has a slight fever.|Em bé bị sốt nhẹ.
+severe|severe weather|thời tiết khắc nghiệt|Severe weather is coming.|Thời tiết khắc nghiệt sắp đến.
+steady|steady job|công việc ổn định|He has a steady job.|Anh ấy có công việc ổn định.
+stable|stable income|thu nhập ổn định|Everyone wants a stable income.|Ai cũng muốn có thu nhập ổn định.
+brilliant|brilliant idea|ý tưởng tuyệt vời|What a brilliant idea!|Ý tưởng tuyệt quá!
+awesome|awesome time|khoảng thời gian tuyệt vời|It was an awesome time.|Đó là một khoảng thời gian tuyệt vời.
+boring|boring job|công việc nhàm chán|He hates his boring job.|Anh ấy ghét công việc nhàm chán.
+tiring|tiring day|ngày mệt mỏi|It was a long and tiring day.|Đó là một ngày dài và mệt mỏi.
+exciting|exciting news|tin hào hứng|I have exciting news!|Tôi có tin hay đây!
+relaxing|relaxing music|nhạc thư giãn|I listen to relaxing music before bed.|Tôi nghe nhạc thư giãn trước khi ngủ.
+annoying|annoying noise|tiếng ồn khó chịu|What is that annoying noise?|Tiếng ồn khó chịu đó là gì vậy?
+confusing|confusing question|câu hỏi khó hiểu|That was a confusing question.|Đó là một câu hỏi khó hiểu.
+embarrassing|embarrassing moment|khoảnh khắc xấu hổ|Tell me about your most embarrassing moment.|Kể tôi nghe khoảnh khắc xấu hổ nhất của bạn.
+frightening|frightening experience|trải nghiệm đáng sợ|The storm was a frightening experience.|Cơn bão là một trải nghiệm đáng sợ.
+surprising|surprising result|kết quả bất ngờ|The election had a surprising result.|Cuộc bầu cử có kết quả bất ngờ.
+shocking|shocking news|tin gây sốc|That's shocking news.|Đó là tin gây sốc.
+fascinating|fascinating story|câu chuyện hấp dẫn|He told us a fascinating story.|Ông ấy kể cho chúng tôi một câu chuyện hấp dẫn.
+disgusting|disgusting smell|mùi kinh tởm|There is a disgusting smell in here.|Ở đây có mùi kinh tởm.
+interested|interested in|quan tâm đến|I'm interested in history.|Tôi quan tâm đến lịch sử.
+annoyed|annoyed with|bực mình với|She is annoyed with her brother.|Cô ấy bực mình với em trai.
+worried|worried about|lo lắng về|Don't be worried about me.|Đừng lo cho tôi.
+terrified|terrified of|rất sợ|My son is terrified of dogs.|Con trai tôi rất sợ chó.
+impressed|impressed with|ấn tượng với|I'm impressed with your English.|Tôi ấn tượng với tiếng Anh của bạn.
+exhausted|completely exhausted|kiệt sức hoàn toàn|After the trip I was completely exhausted.|Sau chuyến đi tôi kiệt sức hoàn toàn.
+impressive|impressive view|cảnh tượng ấn tượng|Ba Na Hills has an impressive view.|Bà Nà có cảnh tượng rất ấn tượng.
+attractive|attractive price|giá hấp dẫn|The shop offers an attractive price.|Cửa hàng đưa ra giá hấp dẫn.
+charming|charming town|thị trấn duyên dáng|Sa Pa is a charming town.|Sa Pa là một thị trấn duyên dáng.
+elegant|elegant dress|chiếc váy thanh lịch|She wore an elegant dress.|Cô ấy mặc một chiếc váy thanh lịch.
+tasty|tasty food|đồ ăn ngon|This restaurant serves tasty food.|Nhà hàng này phục vụ đồ ăn ngon.
+cozy|cozy room|căn phòng ấm cúng|We rented a cozy room in Da Lat.|Chúng tôi thuê một căn phòng ấm cúng ở Đà Lạt.
+chilly|chilly morning|buổi sáng se lạnh|It's a chilly morning in Hanoi.|Một buổi sáng se lạnh ở Hà Nội.
+freezing|freezing cold|lạnh cóng|It's freezing cold outside.|Bên ngoài lạnh cóng.
+damp|damp clothes|quần áo ẩm|Don't wear damp clothes.|Đừng mặc quần áo ẩm.
+mature|mature for her age|chín chắn so với tuổi|She is very mature for her age.|Cô bé rất chín chắn so với tuổi.
+gorgeous|gorgeous view|cảnh đẹp lộng lẫy|The beach has a gorgeous view.|Bãi biển có cảnh đẹp lộng lẫy.
+stylish|stylish clothes|quần áo sành điệu|She always wears stylish clothes.|Cô ấy luôn mặc đồ sành điệu.
+delicate|delicate skin|làn da mỏng manh|Babies have delicate skin.|Em bé có làn da mỏng manh.
+fragile|fragile items|đồ dễ vỡ|Pack the fragile items carefully.|Đóng gói cẩn thận đồ dễ vỡ.
+bold|bold decision|quyết định táo bạo|Leaving her job was a bold decision.|Nghỉ việc là một quyết định táo bạo của cô ấy.
+mysterious|mysterious man|người đàn ông bí ẩn|A mysterious man knocked on the door.|Một người đàn ông bí ẩn gõ cửa.

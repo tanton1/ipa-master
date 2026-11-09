@@ -8,7 +8,7 @@ import { MouthDiagram } from '@/components/MouthDiagram';
 import { PlayButton } from '@/components/PlayButton';
 import { WordRow } from '@/components/WordRow';
 import { PRIORITY_LABEL } from '@/lib/tones';
-import { wordsWithPhoneme, countWordsWithPhoneme, getWord } from '@/lib/curriculum';
+import { WORDS, wordsWithPhoneme, countWordsWithPhoneme, getWord } from '@/lib/curriculum';
 import { IconAlert, IconCompare, IconSparkle } from '@/components/icons';
 
 export function generateStaticParams() {
@@ -50,7 +50,7 @@ export default async function PhonemePage({ params }: { params: Promise<{ id: st
               ) : (
                 <>
                   <dt>Loại</dt><dd className="text-ink">{typeLabel}</dd>
-                  <dt>Trong 500 từ</dt><dd className="text-ink">{total} từ</dd>
+                  <dt>Trong {WORDS.length} từ</dt><dd className="text-ink">{total} từ</dd>
                 </>
               )}
             </dl>
@@ -115,7 +115,7 @@ export default async function PhonemePage({ params }: { params: Promise<{ id: st
 
         {inCorpus.length ? (
           <section>
-            <h2 className="mb-2 text-lg font-extrabold">Trong bộ 500 từ <span className="text-sm font-normal text-muted">({total} từ có âm này)</span></h2>
+            <h2 className="mb-2 text-lg font-extrabold">Trong bộ {WORDS.length} từ <span className="text-sm font-normal text-muted">({total} từ có âm này)</span></h2>
             <ul className="flex flex-col gap-2">
               {inCorpus.map((w) => <WordRow key={w.slug} w={w} />)}
             </ul>

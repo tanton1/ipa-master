@@ -56,7 +56,7 @@ const DIFFICULT: Record<string, { title: string; detail: string }> = {
   ae: { title: 'Đọc /æ/ thành /ɛ/', detail: 'Hạ hàm rộng hơn, lưỡi vẫn ở phía trước. Đọc như "e" tiếng Việt sẽ thành từ khác (bad → bed).' },
   uh: { title: 'Đọc /ʊ/ thành /u/ dài', detail: '/ʊ/ ngắn và lỏng, môi tròn nhẹ (pull khác pool).' },
   r: { title: 'Rung lưỡi hoặc đọc /ɹ/ thành /l/, /z/', detail: 'Lưỡi cong lên nhưng không chạm vòm, môi hơi tròn. Không rung lưỡi kiểu Việt.' },
-  er: { title: 'Bỏ "màu r" của /ɝ/, /ɚ/', detail: 'Nói "ơ" rồi cuộn lưỡi lên và giữ. Không đọc thành "ơ" thuần.' },
+  er: { title: 'Bỏ "màu r" của /ɝ/, /ɚ/', detail: 'Nói "ơ" rồi cong nhẹ đầu lưỡi lên hoặc gồ thân lưỡi về sau (hai cách đều đúng), không chạm vòm. Không đọc thành "ơ" thuần.' },
   v: { title: 'Đọc /v/ thành /j/, /w/ hoặc /b/', detail: 'Răng trên chạm môi dưới và rung. Người miền Nam hay đọc "v" thành "d/j".' },
   z: { title: 'Đọc /z/ thành /s/', detail: 'Cùng khẩu hình /s/ nhưng dây thanh rung như tiếng ong.' },
   sh: { title: 'Đọc /ʃ/ thành /s/', detail: 'Lưỡi lùi hơn /s/, môi hơi tròn. Người miền Bắc hay đọc "sh" thành "x".' },
@@ -182,7 +182,7 @@ export function wordIssues(w: WordEntry): Issue[] {
 }
 
 /** Các âm vị "rủi ro" của một từ (để gợi ý người học tự đánh dấu). */
-export function riskyPhonemes(w: WordEntry): string[] {
+export function riskyPhonemes(w: Pick<WordEntry, 'phonemes'>): string[] {
   const out: string[] = [];
   const last = w.phonemes[w.phonemes.length - 1];
   for (const id of w.phonemes) {

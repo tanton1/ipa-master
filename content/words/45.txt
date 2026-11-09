@@ -1,0 +1,58 @@
+# Nhóm 45 – Tính từ đời sống
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Tính từ đời sống|Tính từ 4|Hậu tố -ful, -less và đuôi -ed đọc /t/, /ɪd/|Tính từ miêu tả đồ vật, nơi chốn, con người trong đời sống hằng ngày. Luyện hậu tố -ful (helpful, harmful) và -less (useless, careless), đều đọc nhẹ /fəl/, /ləs/.|ancient,handsome,familiar,enormous
+= Cổ, hỏng, trung tâm|ci đọc /ʃ/ trong ancient; đuôi -ed đọc /ɪd/ trong crowded
+ancient|ˈeɪnʃənt|adj|cổ xưa|This is an ancient temple.|Đây là một ngôi đền cổ.||Chữ a đọc /eɪ/, ci đọc /ʃ/.
+broken|ˈbɹoʊkən|adj|bị vỡ, bị hỏng|My phone is broken.|Điện thoại tôi bị hỏng.||
+central|ˈsɛntɹəl|adj|ở trung tâm|The hotel is in a central location.|Khách sạn ở vị trí trung tâm.||
+chief|tʃif|adj|chính, đứng đầu|The chief cook is from Hue.|Bếp trưởng người Huế.||
+common|ˈkɑmən|adj|phổ biến, chung|Nguyen is a common name.|Nguyễn là họ phổ biến.||
+cool|kul|adj|mát; tuyệt|It's cool in the evening.|Buổi tối trời mát.||
+crowded|ˈkɹaʊdɪd|adj|đông đúc|The market is crowded.|Chợ đông người.||Đuôi -ed đọc /ɪd/.
+curly|ˈkɝli|adj|xoăn|She has curly hair.|Cô ấy tóc xoăn.||
+dull|dʌl|adj|buồn tẻ; xỉn màu|The movie was dull.|Bộ phim tẻ nhạt.||
+electric|ɪˈlɛktɹɪk|adj|chạy bằng điện|I want an electric bike.|Tôi muốn một chiếc xe đạp điện.||
+= Toàn bộ, thêm, quen|d câm trong handsome; cụm /kstɹ/ trong extra
+entire|ɪnˈtaɪɹ|adj|toàn bộ|I slept the entire day.|Tôi ngủ cả ngày.||
+extra|ˈɛkstɹə|adj|thêm, phụ|Do you have an extra pen?|Bạn có bút thừa không?||
+familiar|fəˈmɪljɚ|adj|quen thuộc|This song sounds familiar.|Bài hát này nghe quen quen.||
+fluent|ˈfluənt|adj|trôi chảy, lưu loát|He is fluent in English.|Anh ấy nói tiếng Anh lưu loát.||
+former|ˈfɔɹmɚ|adj|cũ, trước đây|He is my former teacher.|Ông ấy là thầy giáo cũ của tôi.||
+frozen|ˈfɹoʊzən|adj|đông lạnh|The lake is frozen.|Hồ bị đóng băng.||
+handsome|ˈhænsəm|adj|đẹp trai|Your son is handsome.|Con trai bạn đẹp trai.||Chữ d không đọc.
+helpful|ˈhɛlpfəl|adj|hữu ích, hay giúp đỡ|The staff are very helpful.|Nhân viên rất nhiệt tình.||
+ill|ɪl|adj|ốm|She is ill today.|Hôm nay cô ấy ốm.||
+lost|lɔst|adj|bị lạc; bị mất|I'm lost.|Tôi bị lạc rồi.||
+= Nhẹ, ồn, đều đặn|mixed đọc /mɪkst/; trọng âm nearby ở âm tiết hai
+magic|ˈmædʒɪk|adj|kỳ diệu, ma thuật|It's a magic moment.|Đó là khoảnh khắc kỳ diệu.||
+mild|maɪld|adj|nhẹ, ôn hòa|The weather is mild.|Thời tiết ôn hòa.||
+mixed|mɪkst|adj|lẫn lộn, hỗn hợp|I'll have the mixed salad.|Tôi gọi món salad trộn.||Đuôi -ed đọc /t/: /kst/.
+nearby|ˌnɪɹˈbaɪ|adj|gần đó|Is there a bank nearby?|Gần đây có ngân hàng không?||
+noisy|ˈnɔɪzi|adj|ồn ào|The street is noisy.|Con phố ồn ào.||
+opposite|ˈɑpəzɪt|adj|đối diện, ngược lại|The shop is on the opposite side.|Cửa hàng ở phía đối diện.||
+peaceful|ˈpisfəl|adj|yên bình|The countryside is peaceful.|Vùng quê yên bình.||
+pure|pjʊɹ|adj|tinh khiết|This is pure honey.|Đây là mật ong nguyên chất.||
+rare|ɹɛɹ|adj|hiếm; tái (thịt)|This bird is rare.|Loài chim này hiếm.||
+regular|ˈɹɛgjəlɚ|adj|đều đặn, thường xuyên|He is a regular visitor.|Anh ấy là khách quen.||
+= Buồn ngủ, gấp, kỳ lạ|/θ/ cuối trong worth; /dʒ/ trong urgent
+sleepy|ˈslipi|adj|buồn ngủ|I'm sleepy.|Tôi buồn ngủ.||
+slim|slɪm|adj|mảnh mai|She is tall and slim.|Cô ấy cao và mảnh mai.||
+spare|spɛɹ|adj|dư, dự phòng|Do you have a spare key?|Bạn có chìa khóa dự phòng không?||
+sudden|ˈsʌdən|adj|đột ngột|It was a sudden change.|Đó là một sự thay đổi đột ngột.||
+tidy|ˈtaɪdi|adj|gọn gàng|Her room is always tidy.|Phòng cô ấy luôn gọn gàng.||
+urgent|ˈɝdʒənt|adj|khẩn cấp|It's urgent!|Gấp lắm!||
+vast|væst|adj|rộng lớn, bao la|The ocean is vast.|Đại dương bao la.||
+weird|wɪɹd|adj|kỳ quặc|That's weird.|Lạ thật.||
+worth|wɝθ|adj|đáng giá|This book is worth reading.|Cuốn sách này đáng đọc.||Âm cuối /θ/.
+elderly|ˈɛldɚli|adj|cao tuổi|She takes care of her elderly parents.|Cô ấy chăm sóc bố mẹ già.||
+= Hậu tố -ful, -less|-less đọc /ləs/; -ful đọc /fəl/
+enormous|ɪˈnɔɹməs|adj|khổng lồ|The elephant is enormous.|Con voi to khổng lồ.||
+instant|ˈɪnstənt|adj|ngay lập tức; ăn liền|I want instant results.|Tôi muốn có kết quả ngay.||
+harmful|ˈhɑɹmfəl|adj|có hại|Smoking is harmful.|Hút thuốc có hại.||
+useless|ˈjusləs|adj|vô dụng|This old phone is useless.|Cái điện thoại cũ này vô dụng.||Chữ s đầu đọc /s/ (khác use động từ /z/).
+careless|ˈkɛɹləs|adj|cẩu thả|Don't be careless.|Đừng cẩu thả.||
+homeless|ˈhoʊmləs|adj|vô gia cư|The flood left many people homeless.|Lũ lụt khiến nhiều người mất nhà cửa.||
+direct|dəˈɹɛkt|adj|trực tiếp|Is there a direct bus?|Có xe buýt đi thẳng không?||
+fake|feɪk|adj|giả|This bag is fake.|Cái túi này là hàng giả.||
+distant|ˈdɪstənt|adj|xa xôi|They live in a distant village.|Họ sống ở một ngôi làng xa xôi.||
+lively|ˈlaɪvli|adj|sôi nổi, sống động|The party was lively.|Bữa tiệc rất sôi nổi.||

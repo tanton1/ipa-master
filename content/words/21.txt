@@ -1,0 +1,58 @@
+# Nhóm 21 – Thời gian và lịch
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Thời gian và lịch|Thời gian|Thứ, tháng, chữ câm trong Wednesday, autumn|Thứ trong tuần, các tháng, mốc thời gian và lịch trình. Chú ý chữ câm (Wednesday, autumn) và trọng âm của tên tháng.|Wednesday,February,schedule,anniversary
+= Khoảng thời gian|/θ/ trong birthday; cụm đầu /spɹ/ trong spring
+moment|ˈmoʊmənt|n|khoảnh khắc, lúc|Wait a moment.|Đợi một chút.||
+century|ˈsɛntʃɚi|n|thế kỷ|This temple is ten centuries old.|Ngôi chùa này có mười thế kỷ tuổi.||Chữ t đọc /tʃ/.
+decade|ˈdɛkeɪd|n|thập kỷ|I have lived here for a decade.|Tôi sống ở đây được mười năm.||
+weekend|ˈwikɛnd|n|cuối tuần|Have a nice weekend!|Cuối tuần vui vẻ!||
+holiday|ˈhɑləˌdeɪ|n|ngày lễ, kỳ nghỉ|Tet is the biggest holiday.|Tết là ngày lễ lớn nhất.||
+birthday|ˈbɝθˌdeɪ|n|sinh nhật|When is your birthday?|Sinh nhật bạn khi nào?||Cụm /θd/ giữa từ.
+date|deɪt|n|ngày tháng; buổi hẹn|What's the date today?|Hôm nay ngày bao nhiêu?||
+calendar|ˈkæləndɚ|n|lịch|Check the calendar.|Xem lịch đi.||
+season|ˈsizən|n|mùa|Which season do you like?|Bạn thích mùa nào?||Chữ s giữa đọc /z/.
+spring|spɹɪŋ|n|mùa xuân|Tet is in spring.|Tết vào mùa xuân.||Cụm đầu /spɹ/ ba phụ âm.
+= Mốc trong ngày|n câm trong autumn; sch đọc /sk/ trong schedule
+autumn|ˈɔtəm|n|mùa thu|Hanoi is beautiful in autumn.|Hà Nội đẹp vào mùa thu.||Chữ n cuối không đọc.
+future|ˈfjutʃɚ|n|tương lai|Think about your future.|Hãy nghĩ về tương lai của bạn.||
+present|ˈpɹɛzənt|n|hiện tại; món quà|Live in the present.|Hãy sống cho hiện tại.||Động từ present đọc /pɹɪˈzɛnt/, trọng âm âm tiết hai.
+period|ˈpɪɹiəd|n|giai đoạn, tiết học|We have five periods today.|Hôm nay chúng tôi có năm tiết.||
+schedule|ˈskɛdʒul|n|lịch trình|What's your schedule today?|Hôm nay lịch của bạn thế nào?||Giọng Mỹ: sch đọc /sk/.
+deadline|ˈdɛdˌlaɪn|n|hạn chót|The deadline is Friday.|Hạn chót là thứ Sáu.||
+noon|nun|n|buổi trưa (12 giờ)|Let's have lunch at noon.|Ăn trưa lúc mười hai giờ nhé.||
+midnight|ˈmɪdˌnaɪt|n|nửa đêm|I went to bed at midnight.|Tôi đi ngủ lúc nửa đêm.||Chữ gh không đọc.
+sunrise|ˈsʌnˌɹaɪz|n|bình minh|We watched the sunrise.|Chúng tôi ngắm bình minh.||
+sunset|ˈsʌnˌsɛt|n|hoàng hôn|The sunset is beautiful.|Hoàng hôn thật đẹp.||
+= Thứ và tháng 1|d câm trong Wednesday; /θ/ trong Thursday
+daily|ˈdeɪli|adj|hằng ngày|Exercise is part of my daily routine.|Tập thể dục là thói quen hằng ngày của tôi.||
+weekly|ˈwikli|adj|hằng tuần|I buy a weekly magazine.|Tôi mua một tạp chí hằng tuần.||
+Tuesday|ˈtuzdeɪ|n|thứ Ba|See you on Tuesday.|Hẹn gặp thứ Ba.||
+Wednesday|ˈwɛnzdeɪ|n|thứ Tư|Today is Wednesday.|Hôm nay là thứ Tư.||Chữ d đầu không đọc: /ˈwɛnz·deɪ/.
+Thursday|ˈθɝzdeɪ|n|thứ Năm|The test is on Thursday.|Bài kiểm tra vào thứ Năm.||Âm đầu /θ/.
+Saturday|ˈsætɚdeɪ|n|thứ Bảy|I don't work on Saturday.|Thứ Bảy tôi không đi làm.||
+February|ˈfɛbjuˌɛɹi|n|tháng Hai|February is short.|Tháng Hai ngắn.||Chữ r đầu thường không đọc: /ˈfɛb·ju·ɛɹi/.
+March|mɑɹtʃ|n|tháng Ba|My birthday is in March.|Sinh nhật tôi vào tháng Ba.||
+April|ˈeɪpɹəl|n|tháng Tư|It's hot in April.|Tháng Tư trời nóng.||
+June|dʒun|n|tháng Sáu|School ends in June.|Năm học kết thúc vào tháng Sáu.||
+= Tháng và trạng từ thời gian|Trọng âm âm tiết hai: July, September, October, November
+July|dʒuˈlaɪ|n|tháng Bảy|We travel in July.|Chúng tôi đi du lịch vào tháng Bảy.||Trọng âm âm tiết hai.
+August|ˈɔgəst|n|tháng Tám|August is the rainy season.|Tháng Tám là mùa mưa.||
+September|sɛpˈtɛmbɚ|n|tháng Chín|School starts in September.|Năm học bắt đầu vào tháng Chín.||
+October|ɑkˈtoʊbɚ|n|tháng Mười|The weather is cool in October.|Tháng Mười trời mát.||
+November|noʊˈvɛmbɚ|n|tháng Mười một|Teachers' Day is in November.|Ngày Nhà giáo vào tháng Mười một.||
+December|dɪˈsɛmbɚ|n|tháng Mười hai|Christmas is in December.|Giáng sinh vào tháng Mười hai.||
+tonight|təˈnaɪt|adv|tối nay|What are you doing tonight?|Tối nay bạn làm gì?||
+ago|əˈgoʊ|adv|cách đây|I met him two years ago.|Tôi gặp anh ấy cách đây hai năm.||
+later|ˈleɪtɚ|adv|sau, lát nữa|Call me later.|Gọi tôi sau nhé.||/t/ giữa từ thành âm vỗ /ɾ/.
+forever|fɚˈɛvɚ|adv|mãi mãi|I will love you forever.|Anh sẽ yêu em mãi mãi.||
+= Lịch và nhắc giờ|/nθ/ trong monthly; trọng âm anniversary ở âm tiết ba
+meanwhile|ˈminˌwaɪl|adv|trong khi đó|Meanwhile, I'll cook dinner.|Trong lúc đó tôi sẽ nấu bữa tối.||
+anniversary|ˌænəˈvɝsəɹi|n|ngày kỷ niệm|Happy anniversary!|Chúc mừng ngày kỷ niệm!||Trọng âm âm tiết ba.
+festival|ˈfɛstəvəl|n|lễ hội|We went to a music festival.|Chúng tôi đi một lễ hội âm nhạc.||
+monthly|ˈmʌnθli|adj|hằng tháng|I pay a monthly fee.|Tôi trả phí hằng tháng.||Cụm /nθl/.
+annual|ˈænjuəl|adj|hằng năm|The annual meeting is in May.|Cuộc họp thường niên vào tháng Năm.||
+delay|dɪˈleɪ|n|sự chậm trễ|Sorry for the delay.|Xin lỗi vì sự chậm trễ.||
+timetable|ˈtaɪmˌteɪbəl|n|thời khóa biểu, lịch chạy|Look at the train timetable.|Xem lịch tàu chạy đi.||
+lifetime|ˈlaɪfˌtaɪm|n|cả đời|It's the trip of a lifetime.|Đó là chuyến đi để đời.||
+dawn|dɔn|n|bình minh, rạng sáng|We left at dawn.|Chúng tôi đi lúc rạng sáng.||
+alarm|əˈlɑɹm|n|chuông báo, báo thức|Set the alarm for six.|Đặt báo thức lúc sáu giờ.||

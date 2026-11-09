@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+man|old man|ông lão|An old man is fishing by the lake.|Một ông lão đang câu cá bên hồ.
+woman|young woman|cô gái trẻ|A young woman asked me the way.|Một cô gái trẻ hỏi đường tôi.
+child|child care|chăm sóc trẻ em|Child care is expensive in the city.|Gửi trẻ ở thành phố rất đắt.
+children|young children|trẻ nhỏ|Young children need a lot of sleep.|Trẻ nhỏ cần ngủ nhiều.
+boy|baby boy|bé trai|They just had a baby boy.|Họ vừa sinh một bé trai.
+girl|baby girl|bé gái|It's a baby girl!|Là một bé gái!
+baby|baby food|thức ăn cho em bé|This shop sells baby food.|Cửa hàng này bán thức ăn cho em bé.
+mother|Mother's Day|Ngày của Mẹ|We give flowers on Mother's Day.|Chúng tôi tặng hoa vào Ngày của Mẹ.
+father|Father's Day|Ngày của Cha|Father's Day is in June.|Ngày của Cha vào tháng Sáu.
+parents|my parents|bố mẹ tôi|My parents live in Hue.|Bố mẹ tôi sống ở Huế.
+brother|older brother|anh trai|My older brother is a doctor.|Anh trai tôi là bác sĩ.
+sister|younger sister|em gái|My younger sister is in high school.|Em gái tôi đang học cấp ba.
+son|only son|con trai một|He is their only son.|Anh ấy là con trai một của họ.
+daughter|eldest daughter|con gái lớn|Their eldest daughter lives in Japan.|Con gái lớn của họ sống ở Nhật.
+husband|my husband|chồng tôi|My husband cooks dinner every night.|Tối nào chồng tôi cũng nấu bữa tối.
+wife|husband and wife|vợ chồng|They are husband and wife.|Họ là vợ chồng.
+family|family name|họ|Nguyen is a common family name.|Nguyễn là một họ phổ biến.
+friend|old friend|bạn cũ|I met an old friend at the market.|Tôi gặp một người bạn cũ ở chợ.
+people|young people|người trẻ|Young people love social media.|Người trẻ thích mạng xã hội.
+person|in person|trực tiếp|I want to meet you in person.|Tôi muốn gặp bạn trực tiếp.
+teacher|English teacher|giáo viên tiếng Anh|She is an English teacher.|Cô ấy là giáo viên tiếng Anh.
+student|exchange student|học sinh trao đổi|We have an exchange student from Japan.|Chúng tôi có một học sinh trao đổi từ Nhật.
+doctor|family doctor|bác sĩ gia đình|Ask your family doctor.|Hãy hỏi bác sĩ gia đình của bạn.
+head|head office|trụ sở chính|The head office is in Hanoi.|Trụ sở chính ở Hà Nội.
+face|face to face|trực tiếp, mặt đối mặt|Let's talk face to face.|Mình nói chuyện trực tiếp đi.
+eye|keep an eye on|để mắt đến|Can you keep an eye on my bag?|Bạn trông giúp cái túi của tôi được không?
+ear|all ears|lắng nghe chăm chú|Tell me, I'm all ears.|Kể đi, tôi đang lắng nghe đây.
+nose|runny nose|sổ mũi|I have a runny nose.|Tôi bị sổ mũi.
+mouth|word of mouth|truyền miệng|The restaurant became famous by word of mouth.|Nhà hàng nổi tiếng nhờ truyền miệng.
+tooth|sweet tooth|hảo ngọt|My son has a sweet tooth.|Con trai tôi rất hảo ngọt.
+teeth|brush your teeth|đánh răng|Brush your teeth before bed.|Đánh răng trước khi ngủ.
+hair|long hair|tóc dài|She has long hair.|Cô ấy có mái tóc dài.
+hand|on the other hand|mặt khác|On the other hand, it's expensive.|Mặt khác, nó đắt.
+arm|arm in arm|khoác tay nhau|They walked arm in arm.|Họ khoác tay nhau đi dạo.
+leg|break a leg|chúc may mắn (trước khi biểu diễn)|Break a leg tonight!|Chúc diễn tốt tối nay nhé!
+foot|on foot|đi bộ|We went to school on foot.|Chúng tôi đi bộ đến trường.
+feet|cold feet|chùn bước|He got cold feet before the wedding.|Anh ấy chùn bước trước đám cưới.
+finger|fingers crossed|cầu mong may mắn|Fingers crossed for your exam!|Cầu chúc bạn thi tốt!
+heart|by heart|thuộc lòng|I know this poem by heart.|Tôi thuộc lòng bài thơ này.
+body|body language|ngôn ngữ cơ thể|Body language is important.|Ngôn ngữ cơ thể rất quan trọng.
+neck|neck pain|đau cổ|Using a phone too much can cause neck pain.|Dùng điện thoại quá nhiều có thể gây đau cổ.
+shoulder|shoulder bag|túi đeo vai|She carries a shoulder bag.|Cô ấy đeo một chiếc túi đeo vai.
+back|back pain|đau lưng|My father has back pain.|Bố tôi bị đau lưng.
+knee|knee injury|chấn thương đầu gối|He has a knee injury.|Anh ấy bị chấn thương đầu gối.
+skin|skin care|chăm sóc da|She spends a lot on skin care.|Cô ấy chi nhiều tiền cho việc chăm sóc da.
+voice|loud voice|giọng to|He has a loud voice.|Anh ấy có giọng nói to.
+name|first name|tên|What is your first name?|Tên của bạn là gì?
+age|at the age of|ở tuổi|She started school at the age of six.|Cô bé đi học năm sáu tuổi.
+life|real life|đời thực|He is very funny in real life.|Ngoài đời anh ấy rất vui tính.
+neighbor|next-door neighbor|hàng xóm sát vách|Our next-door neighbor is very kind.|Hàng xóm sát vách nhà tôi rất tốt.

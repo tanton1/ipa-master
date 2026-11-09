@@ -1,0 +1,58 @@
+# Nhóm 58 – Trọng âm theo hậu tố
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Trọng âm theo hậu tố|Trọng âm|Quy tắc trọng âm: -ity, -ic, -ian nhấn âm tiết trước; -ee, -ique nhấn chính nó|Nhóm luyện trọng âm từ dài theo hậu tố. Nắm vài quy tắc là đọc đúng hàng nghìn từ: responsibility, scientific, musician, refugee, technique. Kèm các cặp danh từ – động từ đổi trọng âm.|responsibility,photographer,technique,psychology
+= Đuôi -ity và -ic|Quy tắc: nhấn âm tiết ngay trước -ity, -ic
+responsibility|ɹɪˌspɑnsəˈbɪlɪti|n|trách nhiệm|It's your responsibility.|Đó là trách nhiệm của bạn.||Nhấn âm tiết ngay trước -ity: -BIL-.
+possibility|ˌpɑsəˈbɪlɪti|n|khả năng|Is there any possibility?|Có khả năng nào không?||
+creativity|ˌkɹieɪˈtɪvɪti|n|sự sáng tạo|Creativity is important.|Sáng tạo rất quan trọng.||
+curiosity|ˌkjʊɹiˈɑsɪti|n|sự tò mò|Curiosity helps you learn.|Tò mò giúp bạn học hỏi.||
+reality|ɹiˈælɪti|n|thực tế|Face reality.|Hãy đối mặt với thực tế.||
+scientific|ˌsaɪənˈtɪfɪk|adj|thuộc khoa học|It's a scientific fact.|Đó là sự thật khoa học.||Nhấn âm tiết ngay trước -ic.
+democratic|ˌdɛməˈkɹætɪk|adj|dân chủ|We had a democratic vote.|Chúng tôi bỏ phiếu dân chủ.||Khác democracy /dɪˈmɑkɹəsi/.
+dramatic|dɹəˈmætɪk|adj|kịch tính, đột ngột|The ending was dramatic.|Kết thúc thật kịch tính.||
+realistic|ˌɹiəˈlɪstɪk|adj|thực tế|Be realistic.|Hãy thực tế.||
+romantic|ɹoʊˈmæntɪk|adj|lãng mạn|Paris is romantic.|Paris rất lãng mạn.||
+= Đuôi -ical, -ian, -grapher|Nhấn trước -ian: musician, politician; photographer nhấn âm tiết hai
+automatic|ˌɔtəˈmætɪk|adj|tự động|The door is automatic.|Cửa tự động.||
+academic|ˌækəˈdɛmɪk|adj|thuộc học thuật|She has good academic results.|Cô ấy có kết quả học tập tốt.||
+artistic|ɑɹˈtɪstɪk|adj|có tính nghệ thuật|He is very artistic.|Anh ấy rất có khiếu nghệ thuật.||
+historical|hɪˈstɔɹɪkəl|adj|thuộc lịch sử|It's a historical film.|Đó là một bộ phim lịch sử.||
+photographer|fəˈtɑgɹəfɚ|n|nhiếp ảnh gia|She is a photographer.|Cô ấy là nhiếp ảnh gia.||Trọng âm âm tiết hai; khác photograph.
+politician|ˌpɑlɪˈtɪʃən|n|chính trị gia|He is a famous politician.|Ông ấy là chính trị gia nổi tiếng.||Nhấn âm tiết ngay trước -ian.
+musician|mjuˈzɪʃən|n|nhạc sĩ, nhạc công|My uncle is a musician.|Chú tôi là nhạc công.||
+technician|tɛkˈnɪʃən|n|kỹ thuật viên|Call a technician.|Gọi kỹ thuật viên đi.||Chữ ch đọc /k/.
+magician|məˈdʒɪʃən|n|ảo thuật gia|The magician did a card trick.|Ảo thuật gia làm trò với lá bài.||
+librarian|laɪˈbɹɛɹiən|n|thủ thư|Ask the librarian.|Hỏi thủ thư đi.||
+= Đuôi -ee, -ique nhận trọng âm|refugee, guarantee, technique nhấn âm tiết cuối
+comedian|kəˈmidiən|n|diễn viên hài|He is a funny comedian.|Anh ấy là diễn viên hài vui tính.||
+refugee|ˌɹɛfjuˈdʒi|n|người tị nạn|They helped the refugees.|Họ giúp đỡ người tị nạn.||Đuôi -ee nhận trọng âm.
+guarantee|ˌgɛɹənˈti|n|sự bảo đảm, bảo hành|There is a one-year guarantee.|Có bảo hành một năm.||Chữ u không đọc; -ee nhận trọng âm.
+technique|tɛkˈnik|n|kỹ thuật|Learn the right technique.|Học đúng kỹ thuật.||Chữ ch đọc /k/, -ique đọc /ik/ và nhận trọng âm.
+antique|ænˈtik|n|đồ cổ|This vase is an antique.|Bình hoa này là đồ cổ.||
+commercial|kəˈmɝʃəl|adj|thương mại|It's a commercial area.|Đó là khu thương mại.||
+industrial|ɪnˈdʌstɹiəl|adj|thuộc công nghiệp|Hai Phong is an industrial city.|Hải Phòng là thành phố công nghiệp.||Khác industry /ˈɪndəstɹi/.
+suspicious|səˈspɪʃəs|adj|đáng ngờ, nghi ngờ|That man looks suspicious.|Người đàn ông kia trông khả nghi.||
+conduct|ˈkɑndʌkt|n|hạnh kiểm, cách cư xử|His conduct was good.|Hạnh kiểm của cậu ấy tốt.||Động từ conduct nhấn âm tiết hai.
+conflict|ˈkɑnflɪkt|n|xung đột|There is a conflict between them.|Giữa họ có xung đột.||Động từ conflict nhấn âm tiết hai.
+= Danh từ – động từ đổi trọng âm|Danh từ nhấn âm đầu (a CONtrast), động từ nhấn âm sau (to conTRAST)
+contrast|ˈkɑntɹæst|n|sự tương phản|There is a big contrast between the two cities.|Hai thành phố khác nhau rất rõ.||Động từ contrast đọc /kənˈtɹæst/.
+insult|ˈɪnsʌlt|n|lời xúc phạm|That was an insult.|Đó là một lời xúc phạm.||Động từ insult nhấn âm tiết hai.
+rebel|ˈɹɛbəl|n|kẻ nổi loạn|He was a rebel at school.|Hồi đi học cậu ấy là kẻ nổi loạn.||Động từ rebel đọc /ɹɪˈbɛl/.
+suspect|ˈsʌspɛkt|n|nghi phạm|The police caught the suspect.|Cảnh sát bắt được nghi phạm.||Động từ suspect nhấn âm tiết hai.
+convert|kənˈvɝt|v|chuyển đổi|Convert dollars to dong.|Đổi đô la sang đồng.||Danh từ convert nhấn âm tiết đầu.
+content|ˈkɑntɛnt|n|nội dung|The content of the book is good.|Nội dung cuốn sách hay.||Tính từ content (hài lòng) đọc /kənˈtɛnt/.
+estimate|ˈɛstɪmət|n|sự ước tính|What is your estimate?|Bạn ước tính bao nhiêu?||Động từ estimate đọc /ˈɛstɪˌmeɪt/.
+upgrade|ˈʌpˌgɹeɪd|n|sự nâng cấp|The phone needs an upgrade.|Điện thoại cần được nâng cấp.||
+economics|ˌɛkəˈnɑmɪks|n|kinh tế học|She studies economics.|Cô ấy học kinh tế học.||
+mathematics|ˌmæθəˈmætɪks|n|toán học|Mathematics is his favorite subject.|Toán là môn cậu ấy thích nhất.||
+= Từ dài và chữ câm p|p câm trong psychology; ph đọc /f/ trong philosophy
+emphasis|ˈɛmfəsɪs|n|sự nhấn mạnh|Put the emphasis on the first syllable.|Nhấn vào âm tiết đầu.||
+category|ˈkætəˌgɔɹi|n|hạng mục, loại|Which category is it in?|Nó thuộc loại nào?||
+necessity|nəˈsɛsɪti|n|sự cần thiết; nhu yếu phẩm|A phone is a necessity now.|Giờ điện thoại là thứ thiết yếu.||
+popularity|ˌpɑpjəˈlɛɹɪti|n|sự phổ biến|The game grew in popularity.|Trò chơi ngày càng phổ biến.||Nhấn âm tiết ngay trước -ity.
+electrical|ɪˈlɛktɹɪkəl|adj|thuộc điện|We have an electrical problem.|Chúng tôi gặp sự cố về điện.||
+psychology|saɪˈkɑlədʒi|n|tâm lý học|She studies psychology.|Cô ấy học tâm lý học.||Chữ p đầu không đọc.
+philosophy|fɪˈlɑsəfi|n|triết học, triết lý|He loves philosophy.|Anh ấy mê triết học.||Chữ ph đọc /f/.
+immediate|ɪˈmidiət|adj|ngay lập tức|We need an immediate answer.|Chúng tôi cần câu trả lời ngay.||
+deliberate|dɪˈlɪbɚət|adj|cố ý, có chủ đích|It was a deliberate choice.|Đó là một lựa chọn có chủ đích.||Động từ deliberate đọc /dɪˈlɪbəˌɹeɪt/.
+sophisticated|səˈfɪstɪˌkeɪtɪd|adj|tinh vi, tinh tế|She has sophisticated taste.|Cô ấy có gu thẩm mỹ tinh tế.||

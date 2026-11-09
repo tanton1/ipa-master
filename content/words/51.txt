@@ -1,0 +1,58 @@
+# Nhóm 51 – Khoa học, môi trường
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Khoa học, môi trường|Khoa học|Trọng âm từ khoa học dài: electricity, laboratory, environment|Năng lượng, vật liệu, vũ trụ, môi trường và phòng thí nghiệm. Chú ý iron đọc /ˈaɪɚn/ (r đứng sau nguyên âm), laboratory giọng Mỹ nhấn âm tiết đầu.|electricity,iron,environment,laboratory
+= Khám phá và năng lượng|/θ/ trong theory; trọng âm electricity ở âm tiết ba
+experiment|ɪkˈspɛɹəmənt|n|thí nghiệm|Let's do an experiment.|Mình làm thí nghiệm nhé.||
+theory|ˈθiəɹi|n|lý thuyết|It's just a theory.|Đó chỉ là lý thuyết.||Âm đầu /θ/.
+discovery|dɪˈskʌvəɹi|n|sự khám phá|It was an important discovery.|Đó là một khám phá quan trọng.||
+discover|dɪˈskʌvɚ|v|khám phá, phát hiện|Who discovered America?|Ai đã phát hiện ra châu Mỹ?||Chữ o đọc /ʌ/.
+invent|ɪnˈvɛnt|v|phát minh|Who invented the phone?|Ai phát minh ra điện thoại?||
+invention|ɪnˈvɛnʃən|n|phát minh|The wheel was a great invention.|Bánh xe là một phát minh vĩ đại.||
+energy|ˈɛnɚdʒi|n|năng lượng|I have no energy today.|Hôm nay tôi chẳng còn sức.||Chữ g đọc /dʒ/.
+power|ˈpaʊɚ|n|năng lượng điện; quyền lực|The power is off.|Mất điện rồi.||
+electricity|ɪˌlɛkˈtɹɪsɪti|n|điện|Save electricity.|Tiết kiệm điện.||Trọng âm âm tiết ba.
+gas|gæs|n|khí ga; xăng (Mỹ)|We cook with gas.|Chúng tôi nấu bằng ga.||
+= Nhiên liệu và kim loại|r câm sau nguyên âm trong iron /ˈaɪɚn/; ch đọc /k/ trong chemical
+coal|koʊl|n|than đá|Coal is dirty energy.|Than là nguồn năng lượng bẩn.||
+solar|ˈsoʊlɚ|adj|thuộc mặt trời|We use solar power.|Chúng tôi dùng điện mặt trời.||
+nuclear|ˈnukliɚ|adj|hạt nhân|Nuclear energy is powerful.|Năng lượng hạt nhân rất mạnh.||
+chemical|ˈkɛmɪkəl|adj|hóa học|Don't use chemical cleaners.|Đừng dùng chất tẩy rửa hóa học.||Chữ ch đọc /k/.
+metal|ˈmɛtəl|n|kim loại|The box is made of metal.|Cái hộp làm bằng kim loại.||Đồng âm với medal trong giọng Mỹ.
+gold|goʊld|n|vàng|Gold is expensive.|Vàng rất đắt.||
+silver|ˈsɪlvɚ|n|bạc|She has a silver ring.|Cô ấy có một chiếc nhẫn bạc.||
+iron|ˈaɪɚn|n|sắt; bàn là|The gate is made of iron.|Cổng làm bằng sắt.||Đọc /ˈaɪ·ɚn/, không đọc "ai-rôn".
+steel|stil|n|thép|The bridge is made of steel.|Cây cầu làm bằng thép.||Đồng âm với steal.
+plastic|ˈplæstɪk|n|nhựa|Use less plastic.|Hãy dùng ít nhựa hơn.||
+= Vũ trụ và sự sống|c đọc /ʃ/ trong species; /n/ trước /m/ trong environment
+material|məˈtɪɹiəl|n|vật liệu; tài liệu|What material is this?|Cái này làm bằng chất liệu gì?||
+planet|ˈplænɪt|n|hành tinh|Earth is our planet.|Trái Đất là hành tinh của chúng ta.||
+space|speɪs|n|không gian; chỗ trống|Is there space for me?|Còn chỗ cho tôi không?||
+universe|ˈjunəˌvɝs|n|vũ trụ|The universe is huge.|Vũ trụ bao la.||
+gravity|ˈgɹævɪti|n|trọng lực|Gravity pulls things down.|Trọng lực kéo mọi vật xuống.||
+atom|ˈætəm|n|nguyên tử|Everything is made of atoms.|Mọi thứ đều được tạo nên từ nguyên tử.||
+cell|sɛl|n|tế bào|The body has many cells.|Cơ thể có nhiều tế bào.||Đồng âm với sell.
+gene|dʒin|n|gen|Eye color is in your genes.|Màu mắt do gen quyết định.||Đồng âm với jeans.
+species|ˈspiʃiz|n|loài|There are many species of birds.|Có nhiều loài chim.||Số ít và số nhiều giống nhau.
+environment|ɪnˈvaɪɹənmənt|n|môi trường|Protect the environment.|Bảo vệ môi trường.||Đọc rõ /n/ trước /m/.
+= Môi trường và phòng thí nghiệm|Trọng âm laboratory (Mỹ) ở âm tiết đầu; /θ/ trong method
+pollution|pəˈluʃən|n|sự ô nhiễm|Pollution is a big problem.|Ô nhiễm là vấn đề lớn.||
+pollute|pəˈlut|v|làm ô nhiễm|Cars pollute the air.|Ô tô làm ô nhiễm không khí.||
+recycle|ɹiˈsaɪkəl|v|tái chế|We recycle bottles.|Chúng tôi tái chế chai lọ.||
+global|ˈgloʊbəl|adj|toàn cầu|It's a global problem.|Đó là vấn đề toàn cầu.||
+carbon|ˈkɑɹbən|n|các-bon|Trees store carbon.|Cây xanh lưu trữ các-bon.||
+oxygen|ˈɑksɪdʒən|n|khí ô-xy|We need oxygen to live.|Chúng ta cần ô-xy để sống.||
+laboratory|ˈlæbɹəˌtɔɹi|n|phòng thí nghiệm|She works in a laboratory.|Cô ấy làm trong phòng thí nghiệm.||Giọng Mỹ nhấn âm tiết đầu.
+evidence|ˈɛvɪdəns|n|bằng chứng|Where is the evidence?|Bằng chứng đâu?||
+method|ˈmɛθəd|n|phương pháp|This method works.|Phương pháp này hiệu quả.||
+process|ˈpɹɑsɛs|n|quá trình|Learning is a slow process.|Học là một quá trình chậm.||
+= Vật chất|qu đọc /kw/ trong liquid; cụm /mpl/ trong sample
+sample|ˈsæmpəl|n|mẫu|Take a blood sample.|Lấy mẫu máu.||
+substance|ˈsʌbstəns|n|chất|This substance is dangerous.|Chất này nguy hiểm.||
+motion|ˈmoʊʃən|n|sự chuyển động|The car was in motion.|Chiếc xe đang chạy.||
+liquid|ˈlɪkwɪd|n|chất lỏng|Water is a liquid.|Nước là chất lỏng.||
+solid|ˈsɑlɪd|adj|rắn, chắc chắn|Ice is solid water.|Đá là nước ở thể rắn.||
+surface|ˈsɝfəs|n|bề mặt|The surface is smooth.|Bề mặt nhẵn.||Chữ ace đọc /əs/.
+mass|mæs|n|khối lượng; số đông|What is the mass of this rock?|Khối lượng hòn đá này là bao nhiêu?||
+volume|ˈvɑljum|n|âm lượng; thể tích|Turn down the volume.|Vặn nhỏ âm lượng.||
+steam|stim|n|hơi nước|Steam comes from the kettle.|Hơi nước bốc lên từ ấm.||
+resource|ˈɹisɔɹs|n|tài nguyên|Water is a precious resource.|Nước là tài nguyên quý.||

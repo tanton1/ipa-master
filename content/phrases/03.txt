@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+one|one by one|từng người một|Come in one by one.|Lần lượt vào từng người một.
+two|two of us|hai chúng tôi|There are two of us.|Chúng tôi có hai người.
+three|three times a day|ba lần một ngày|Take this medicine three times a day.|Uống thuốc này ba lần một ngày.
+four|four seasons|bốn mùa|Hanoi has four seasons.|Hà Nội có bốn mùa.
+five|five minutes|năm phút|Give me five minutes.|Cho tôi năm phút.
+six|six o'clock|sáu giờ|I wake up at six o'clock.|Tôi dậy lúc sáu giờ.
+seven|seven days a week|bảy ngày một tuần|The shop is open seven days a week.|Cửa hàng mở cửa bảy ngày một tuần.
+eight|eight hours|tám tiếng|I sleep eight hours a night.|Mỗi đêm tôi ngủ tám tiếng.
+nine|nine to five|giờ hành chính|I work nine to five.|Tôi làm giờ hành chính.
+ten|ten years ago|mười năm trước|I moved here ten years ago.|Tôi chuyển đến đây mười năm trước.
+eleven|eleven players|mười một cầu thủ|A football team has eleven players.|Một đội bóng có mười một cầu thủ.
+twelve|twelve months|mười hai tháng|There are twelve months in a year.|Một năm có mười hai tháng.
+twenty|twenty dollars|hai mươi đô|It costs twenty dollars.|Giá hai mươi đô.
+thirty|thirty minutes|ba mươi phút|The bus takes thirty minutes.|Đi xe buýt mất ba mươi phút.
+hundred|hundreds of|hàng trăm|Hundreds of people came.|Hàng trăm người đã đến.
+thousand|thousands of|hàng nghìn|Thousands of tourists visit Hoi An.|Hàng nghìn du khách đến Hội An.
+first|at first|lúc đầu|At first, I didn't like it.|Lúc đầu tôi không thích nó.
+second|second hand|đồ cũ|I bought a second hand bike.|Tôi mua một chiếc xe đạp cũ.
+third|third floor|tầng ba|My room is on the third floor.|Phòng tôi ở tầng ba.
+last|last night|tối qua|I slept well last night.|Tối qua tôi ngủ ngon.
+today|today is|hôm nay là|Today is my birthday.|Hôm nay là sinh nhật tôi.
+tomorrow|see you tomorrow|mai gặp nhé|Bye, see you tomorrow!|Tạm biệt, mai gặp nhé!
+yesterday|yesterday morning|sáng hôm qua|I saw him yesterday morning.|Sáng hôm qua tôi gặp anh ấy.
+now|right now|ngay bây giờ|I'm busy right now.|Giờ tôi đang bận.
+morning|good morning|chào buổi sáng|Good morning, everyone!|Chào buổi sáng mọi người!
+afternoon|this afternoon|chiều nay|I'm free this afternoon.|Chiều nay tôi rảnh.
+evening|good evening|chào buổi tối|Good evening, ladies and gentlemen.|Xin chào buổi tối quý vị.
+night|good night|chúc ngủ ngon|Good night, sleep well.|Chúc ngủ ngon.
+day|day off|ngày nghỉ|Tomorrow is my day off.|Mai là ngày nghỉ của tôi.
+week|last week|tuần trước|I visited my parents last week.|Tuần trước tôi về thăm bố mẹ.
+month|this month|tháng này|I'm very busy this month.|Tháng này tôi rất bận.
+year|new year|năm mới|Happy New Year!|Chúc mừng năm mới!
+hour|an hour ago|một giờ trước|He left an hour ago.|Anh ấy đi một giờ trước.
+minute|last minute|phút chót|Don't wait until the last minute.|Đừng đợi đến phút chót.
+time|have a good time|chơi vui nhé|Have a good time at the party!|Đi tiệc vui nhé!
+early|early morning|sáng sớm|I like to run in the early morning.|Tôi thích chạy bộ vào sáng sớm.
+late|late at night|khuya|Don't call me late at night.|Đừng gọi tôi lúc khuya.
+Monday|on Monday|vào thứ Hai|The meeting is on Monday.|Cuộc họp vào thứ Hai.
+Friday|Friday night|tối thứ Sáu|We often eat out on Friday night.|Tối thứ Sáu chúng tôi hay đi ăn ngoài.
+Sunday|every Sunday|mỗi Chủ nhật|We visit Grandma every Sunday.|Chủ nhật nào chúng tôi cũng thăm bà.
+January|in January|vào tháng Một|It's cold in January.|Tháng Một trời lạnh.
+summer|this summer|mùa hè này|We are going to Da Nang this summer.|Hè này chúng tôi đi Đà Nẵng.
+winter|in winter|vào mùa đông|It's cold in Hanoi in winter.|Mùa đông ở Hà Nội lạnh.
+always|as always|như mọi khi|As always, he was late.|Như mọi khi, anh ấy lại muộn.
+often|how often|bao lâu một lần|How often do you go to the gym?|Bạn đi tập gym bao lâu một lần?
+sometimes|sometimes I|đôi khi tôi|Sometimes I walk to work.|Đôi khi tôi đi bộ đi làm.
+never|never again|không bao giờ nữa|That was terrible. Never again!|Tệ quá. Không bao giờ nữa!
+again|once again|một lần nữa|Thank you once again.|Một lần nữa xin cảm ơn.
+before|before long|chẳng bao lâu nữa|Before long, you will speak English well.|Chẳng bao lâu nữa bạn sẽ nói tiếng Anh giỏi.
+after|after school|sau giờ học|I play football after school.|Tôi đá bóng sau giờ học.

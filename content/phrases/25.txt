@@ -1,0 +1,60 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+furniture|a piece of furniture|một món đồ nội thất|We bought a piece of furniture for the hall.|Chúng tôi mua một món đồ nội thất cho sảnh.
+bedroom|master bedroom|phòng ngủ chính|The master bedroom has a balcony.|Phòng ngủ chính có ban công.
+bedroom|two-bedroom apartment|căn hộ hai phòng ngủ|We rent a two-bedroom apartment.|Chúng tôi thuê căn hộ hai phòng ngủ.
+apartment|apartment building|tòa chung cư|I live in a tall apartment building.|Tôi sống trong một tòa chung cư cao tầng.
+building|office building|tòa nhà văn phòng|My company is in a new office building.|Công ty tôi nằm trong một tòa nhà văn phòng mới.
+building|tall building|tòa nhà cao|Landmark 81 is a very tall building.|Landmark 81 là tòa nhà rất cao.
+ceiling|ceiling fan|quạt trần|Turn on the ceiling fan.|Bật quạt trần lên.
+hall|city hall|tòa thị chính|The concert is in front of city hall.|Buổi hòa nhạc diễn ra trước tòa thị chính.
+hall|wedding hall|sảnh cưới|The wedding hall can hold 500 guests.|Sảnh cưới chứa được 500 khách.
+yard|back yard|sân sau|The kids play in the back yard.|Bọn trẻ chơi ở sân sau.
+fence|garden fence|hàng rào vườn|We painted the garden fence.|Chúng tôi sơn hàng rào vườn.
+gate|front gate|cổng trước|Meet me at the front gate.|Gặp tôi ở cổng trước.
+gate|boarding gate|cửa lên máy bay|Go to boarding gate 12.|Đi đến cửa lên máy bay số 12.
+balcony|on the balcony|ngoài ban công|We drink tea on the balcony.|Chúng tôi uống trà ngoài ban công.
+garage|garage sale|bán đồ cũ tại nhà|They are having a garage sale.|Họ đang bán đồ cũ tại nhà.
+closet|walk-in closet|phòng thay đồ|She has a walk-in closet.|Cô ấy có một phòng thay đồ riêng.
+drawer|top drawer|ngăn kéo trên cùng|The keys are in the top drawer.|Chìa khóa ở ngăn kéo trên cùng.
+shelf|top shelf|kệ trên cùng|Put the box on the top shelf.|Đặt cái hộp lên kệ trên cùng.
+desk|front desk|quầy lễ tân|Leave your key at the front desk.|Để chìa khóa ở quầy lễ tân.
+desk|desk job|công việc bàn giấy|I don't want a desk job.|Tôi không muốn làm công việc bàn giấy.
+carpet|red carpet|thảm đỏ|The actors walked on the red carpet.|Các diễn viên bước trên thảm đỏ.
+curtain|close the curtains|kéo rèm lại|Close the curtains, the sun is too bright.|Kéo rèm lại, nắng chói quá.
+heater|water heater|bình nóng lạnh|The water heater is broken.|Bình nóng lạnh bị hỏng.
+fridge|in the fridge|trong tủ lạnh|Put the milk in the fridge.|Cho sữa vào tủ lạnh.
+oven|microwave oven|lò vi sóng|Heat the soup in the microwave oven.|Hâm súp trong lò vi sóng.
+stove|gas stove|bếp ga|We cook on a gas stove.|Chúng tôi nấu bằng bếp ga.
+microwave|microwave popcorn|bỏng ngô quay lò|Let's make microwave popcorn.|Mình làm bỏng ngô bằng lò vi sóng nhé.
+tap|tap water|nước máy|Don't drink tap water here.|Đừng uống nước máy ở đây.
+toilet|toilet paper|giấy vệ sinh|We need more toilet paper.|Chúng ta cần thêm giấy vệ sinh.
+toilet|public toilet|nhà vệ sinh công cộng|Is there a public toilet near here?|Gần đây có nhà vệ sinh công cộng không?
+brush|hair brush|lược chải tóc|I can't find my hair brush.|Tôi không tìm thấy lược chải tóc.
+comb|comb your hair|chải tóc|Comb your hair before school.|Chải tóc trước khi đi học.
+toothbrush|electric toothbrush|bàn chải điện|I use an electric toothbrush.|Tôi dùng bàn chải điện.
+toothpaste|a tube of toothpaste|một tuýp kem đánh răng|Buy a tube of toothpaste, please.|Mua giúp một tuýp kem đánh răng nhé.
+shampoo|shampoo and conditioner|dầu gội và dầu xả|The hotel gives free shampoo and conditioner.|Khách sạn có dầu gội và dầu xả miễn phí.
+scissors|a pair of scissors|một cái kéo|Can I borrow a pair of scissors?|Cho tôi mượn cái kéo được không?
+needle|needle and thread|kim chỉ|Do you have a needle and thread?|Bạn có kim chỉ không?
+thread|a piece of thread|một sợi chỉ|There is a piece of thread on your shirt.|Có một sợi chỉ trên áo bạn.
+rope|tie a rope|buộc dây thừng|Tie a rope to the tree.|Buộc dây thừng vào cây.
+hammer|hammer and nails|búa và đinh|I need a hammer and nails.|Tôi cần búa và đinh.
+tool|power tool|dụng cụ điện|Be careful with power tools.|Cẩn thận với dụng cụ điện.
+tool|useful tool|công cụ hữu ích|A dictionary is a useful tool.|Từ điển là một công cụ hữu ích.
+ladder|climb a ladder|leo thang|Don't climb a ladder alone.|Đừng leo thang một mình.
+bucket|a bucket of water|một xô nước|Bring me a bucket of water.|Mang cho tôi một xô nước.
+broom|a new broom|cây chổi mới|We need a new broom.|Chúng ta cần cây chổi mới.
+trash|trash can|thùng rác|Put it in the trash can.|Bỏ nó vào thùng rác.
+trash|take out the trash|đổ rác|Can you take out the trash?|Bạn đi đổ rác được không?
+umbrella|take an umbrella|mang ô|Take an umbrella, it might rain.|Mang ô đi, có thể mưa đấy.
+wallet|leather wallet|ví da|He gave me a leather wallet.|Anh ấy tặng tôi một chiếc ví da.
+battery|low battery|pin yếu|My phone has low battery.|Điện thoại tôi pin yếu.
+battery|charge the battery|sạc pin|Charge the battery before you go.|Sạc pin trước khi đi.
+charger|phone charger|sạc điện thoại|Can I borrow your phone charger?|Cho tôi mượn sạc điện thoại được không?
+plug|plug in|cắm điện|Plug in the TV.|Cắm điện ti vi đi.
+switch|light switch|công tắc đèn|Where is the light switch?|Công tắc đèn ở đâu?
+wire|electric wire|dây điện|Don't touch that electric wire.|Đừng chạm vào dây điện đó.
+candle|light a candle|thắp nến|Light a candle on the cake.|Thắp nến trên bánh.
+vase|flower vase|bình hoa|Put the roses in a flower vase.|Cắm hoa hồng vào bình.
+handle|door handle|tay nắm cửa|The door handle is broken.|Tay nắm cửa bị hỏng.
+lock|lock the door|khóa cửa|Don't forget to lock the door.|Đừng quên khóa cửa.

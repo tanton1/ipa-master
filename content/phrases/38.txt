@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+feeling|hurt my feelings|làm tôi tổn thương|Your words hurt my feelings.|Lời bạn nói làm tôi tổn thương.
+emotion|show emotion|thể hiện cảm xúc|Some men don't show emotion.|Một số người đàn ông không thể hiện cảm xúc.
+mood|in a good mood|đang vui|She is in a good mood today.|Hôm nay cô ấy đang vui.
+fear|fear of heights|chứng sợ độ cao|I have a fear of heights.|Tôi sợ độ cao.
+anger|control your anger|kiềm chế cơn giận|Try to control your anger.|Cố kiềm chế cơn giận.
+joy|tears of joy|nước mắt hạnh phúc|She cried tears of joy.|Cô ấy khóc vì hạnh phúc.
+pleasure|my pleasure|rất hân hạnh, không có gì|"Thank you!" "My pleasure."|"Cảm ơn nhé!" "Không có gì."
+pride|take pride in|tự hào về|We take pride in our work.|Chúng tôi tự hào về công việc của mình.
+shame|what a shame|tiếc quá|You can't come? What a shame!|Bạn không đến được à? Tiếc quá!
+stress|under stress|bị căng thẳng|He is under stress at work.|Anh ấy bị căng thẳng trong công việc.
+pressure|under pressure|chịu áp lực|Students are under pressure before exams.|Học sinh chịu áp lực trước kỳ thi.
+nervous|nervous about|hồi hộp về|I'm nervous about the interview.|Tôi hồi hộp về buổi phỏng vấn.
+anxious|anxious about|lo âu về|She is anxious about her exam results.|Cô ấy lo lắng về kết quả thi.
+upset|get upset|buồn bực|Don't get upset, it's just a game.|Đừng buồn, chỉ là trò chơi thôi.
+lonely|feel lonely|thấy cô đơn|I feel lonely when I live far from home.|Tôi thấy cô đơn khi sống xa nhà.
+jealous|jealous of|ghen tị với|He is jealous of his brother.|Anh ấy ghen tị với em trai.
+embarrassed|feel embarrassed|thấy ngượng|Don't feel embarrassed, everyone makes mistakes.|Đừng ngượng, ai cũng mắc lỗi.
+confused|a bit confused|hơi bối rối|I'm a bit confused. Can you explain again?|Tôi hơi bối rối. Bạn giải thích lại được không?
+disappointed|disappointed with|thất vọng về|I was disappointed with the hotel.|Tôi thất vọng về khách sạn.
+satisfied|satisfied customer|khách hàng hài lòng|A satisfied customer will come back.|Khách hàng hài lòng sẽ quay lại.
+relaxed|feel relaxed|thấy thư thái|I feel relaxed at the beach.|Tôi thấy thư thái khi ở biển.
+confident|feel confident|thấy tự tin|Practice helps you feel confident.|Luyện tập giúp bạn thấy tự tin.
+curious|curious about|tò mò về|Children are curious about everything.|Trẻ em tò mò về mọi thứ.
+grateful|grateful for|biết ơn vì|I'm grateful for your help.|Tôi biết ơn vì sự giúp đỡ của bạn.
+ashamed|ashamed of|xấu hổ về|He is ashamed of his mistake.|Anh ấy xấu hổ về sai lầm của mình.
+scared|scared of|sợ|My son is scared of the dark.|Con trai tôi sợ bóng tối.
+frightened|frightened child|đứa trẻ sợ hãi|The frightened child hid behind his mother.|Đứa trẻ sợ hãi nấp sau lưng mẹ.
+shocked|shocked to hear|sốc khi nghe|I was shocked to hear the news.|Tôi sốc khi nghe tin.
+pleased|pleased to meet you|rất vui được gặp bạn|I'm pleased to meet you.|Rất vui được gặp bạn.
+delighted|delighted to|rất vui được|We are delighted to welcome you.|Chúng tôi rất vui được chào đón bạn.
+cheerful|cheerful smile|nụ cười tươi|She always has a cheerful smile.|Cô ấy luôn có nụ cười tươi.
+miserable|miserable weather|thời tiết khó chịu|What miserable weather!|Thời tiết gì mà khó chịu thế!
+depressed|feel depressed|thấy chán nản|Many people feel depressed in winter.|Nhiều người thấy chán nản vào mùa đông.
+emotional|emotional support|hỗ trợ tinh thần|Friends give us emotional support.|Bạn bè hỗ trợ tinh thần cho chúng ta.
+sensitive|sensitive skin|da nhạy cảm|This cream is for sensitive skin.|Kem này dành cho da nhạy cảm.
+cruel|cruel joke|trò đùa ác ý|That was a cruel joke.|Đó là một trò đùa ác ý.
+humble|humble beginnings|xuất thân khiêm tốn|He came from humble beginnings.|Ông ấy xuất thân từ hoàn cảnh khiêm tốn.
+modest|modest house|ngôi nhà giản dị|They live in a modest house.|Họ sống trong một ngôi nhà giản dị.
+ambitious|ambitious plan|kế hoạch đầy tham vọng|The city has an ambitious plan.|Thành phố có một kế hoạch đầy tham vọng.
+creative|creative idea|ý tưởng sáng tạo|That's a creative idea!|Đó là một ý tưởng sáng tạo!
+energetic|energetic kids|những đứa trẻ hiếu động|The energetic kids ran around the yard.|Những đứa trẻ hiếu động chạy quanh sân.
+active|active lifestyle|lối sống năng động|An active lifestyle keeps you healthy.|Lối sống năng động giúp bạn khỏe mạnh.
+positive|positive thinking|suy nghĩ tích cực|Positive thinking can change your life.|Suy nghĩ tích cực có thể thay đổi cuộc đời bạn.
+negative|negative effect|tác động tiêu cực|Too much sugar has a negative effect on health.|Ăn quá nhiều đường có hại cho sức khỏe.
+optimistic|optimistic about|lạc quan về|I'm optimistic about the future.|Tôi lạc quan về tương lai.
+passion|passion for|niềm đam mê với|She has a passion for music.|Cô ấy có niềm đam mê âm nhạc.
+attitude|positive attitude|thái độ tích cực|A positive attitude helps a lot.|Thái độ tích cực giúp ích rất nhiều.
+personality|strong personality|cá tính mạnh|My sister has a strong personality.|Chị tôi có cá tính mạnh.
+character|main character|nhân vật chính|Who is the main character in the book?|Nhân vật chính trong sách là ai?
+sympathy|deepest sympathy|lời chia buồn sâu sắc|You have my deepest sympathy.|Xin gửi bạn lời chia buồn sâu sắc nhất.

@@ -1,0 +1,52 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+conversation|have a conversation|trò chuyện|It's nice to have a conversation in English.|Thật vui khi trò chuyện bằng tiếng Anh.
+discussion|group discussion|thảo luận nhóm|Let's start the group discussion.|Chúng ta bắt đầu thảo luận nhóm nhé.
+speech|give a speech|phát biểu|The director will give a speech.|Giám đốc sẽ phát biểu.
+chat|have a chat|nói chuyện|Let's have a chat over coffee.|Ngồi nói chuyện bên tách cà phê nhé.
+sound|sound effects|hiệu ứng âm thanh|The game has great sound effects.|Trò chơi có hiệu ứng âm thanh tuyệt vời.
+noise|make noise|làm ồn|Don't make noise, the baby is sleeping.|Đừng làm ồn, em bé đang ngủ.
+news|good news|tin tốt|I have good news for you.|Tôi có tin tốt cho bạn.
+news|the news|thời sự|I watch the news every evening.|Tối nào tôi cũng xem thời sự.
+newspaper|read the newspaper|đọc báo|I like to read the newspaper in the morning.|Tôi thích đọc báo vào buổi sáng.
+radio|on the radio|trên đài|I heard the song on the radio.|Tôi nghe bài hát đó trên đài.
+channel|TV channel|kênh truyền hình|Change the TV channel, please.|Đổi kênh ti vi đi.
+program|TV program|chương trình truyền hình|What's your favorite TV program?|Chương trình ti vi bạn thích nhất là gì?
+advertisement|advertisement for|quảng cáo cho|I saw an advertisement for a new phone.|Tôi thấy quảng cáo một chiếc điện thoại mới.
+poster|movie poster|áp phích phim|There is a movie poster on the wall.|Trên tường có một tấm áp phích phim.
+article|newspaper article|bài báo|I read an interesting newspaper article.|Tôi đọc một bài báo thú vị.
+media|social media|mạng xã hội|Young people spend hours on social media.|Người trẻ dành hàng giờ trên mạng xã hội.
+network|social network|mạng xã hội|Facebook is a social network.|Facebook là một mạng xã hội.
+post|post office|bưu điện|Where is the post office?|Bưu điện ở đâu?
+comment|leave a comment|để lại bình luận|Please leave a comment below.|Vui lòng để lại bình luận bên dưới.
+opinion|in my opinion|theo ý tôi|In my opinion, the movie was too long.|Theo tôi, bộ phim dài quá.
+advice|a piece of advice|một lời khuyên|Let me give you a piece of advice.|Để tôi cho bạn một lời khuyên.
+information|more information|thêm thông tin|For more information, visit our website.|Để biết thêm thông tin, hãy xem trang web của chúng tôi.
+communication|communication skills|kỹ năng giao tiếp|Good communication skills are important.|Kỹ năng giao tiếp tốt rất quan trọng.
+greeting|greeting card|thiệp chúc mừng|I sent her a greeting card.|Tôi gửi cô ấy một tấm thiệp chúc mừng.
+invitation|wedding invitation|thiệp cưới|We got a wedding invitation from Lan.|Chúng tôi nhận được thiệp cưới của Lan.
+apology|accept my apology|nhận lời xin lỗi của tôi|Please accept my apology.|Xin hãy nhận lời xin lỗi của tôi.
+explanation|clear explanation|lời giải thích rõ ràng|Thank you for the clear explanation.|Cảm ơn lời giải thích rõ ràng.
+description|job description|bản mô tả công việc|Read the job description carefully.|Đọc kỹ bản mô tả công việc.
+request|special request|yêu cầu đặc biệt|Do you have any special request?|Bạn có yêu cầu đặc biệt nào không?
+argument|have an argument|cãi nhau|They often have an argument about money.|Họ hay cãi nhau về tiền bạc.
+agreement|reach an agreement|đạt được thỏa thuận|We hope to reach an agreement soon.|Chúng tôi hy vọng sớm đạt được thỏa thuận.
+secret|secret recipe|công thức bí mật|This is my grandmother's secret recipe.|Đây là công thức bí mật của bà tôi.
+rumor|spread a rumor|tung tin đồn|Don't spread a rumor about your friends.|Đừng tung tin đồn về bạn bè.
+gossip|celebrity gossip|chuyện phiếm về người nổi tiếng|She loves reading celebrity gossip.|Cô ấy thích đọc chuyện phiếm về người nổi tiếng.
+signal|phone signal|sóng điện thoại|There is no phone signal here.|Ở đây không có sóng điện thoại.
+contact|keep in contact|giữ liên lạc|Let's keep in contact.|Mình giữ liên lạc nhé.
+attention|pay attention|chú ý|Please pay attention to the teacher.|Hãy chú ý nghe cô giáo.
+announce|announce the winner|công bố người thắng|They will announce the winner tonight.|Tối nay họ sẽ công bố người thắng.
+inform|inform the police|báo cảnh sát|You should inform the police.|Bạn nên báo cảnh sát.
+express|express yourself|thể hiện bản thân|Don't be afraid to express yourself.|Đừng ngại thể hiện bản thân.
+communicate|communicate with|giao tiếp với|It's hard to communicate with my teenage son.|Thật khó giao tiếp với cậu con trai tuổi teen.
+whisper|whisper a secret|thì thầm một bí mật|She leaned over to whisper a secret.|Cô ấy nghiêng người thì thầm một bí mật.
+statement|make a statement|ra thông báo chính thức|The police will make a statement today.|Hôm nay cảnh sát sẽ ra thông báo.
+headline|front page headline|tiêu đề trang nhất|The story was a front page headline.|Câu chuyện lên tiêu đề trang nhất.
+broadcast|live broadcast|truyền hình trực tiếp|We watched the live broadcast of the match.|Chúng tôi xem truyền hình trực tiếp trận đấu.
+audience|large audience|lượng khán giả lớn|The show had a large audience.|Chương trình có lượng khán giả lớn.
+reporter|news reporter|phóng viên thời sự|She is a news reporter on VTV.|Cô ấy là phóng viên thời sự của VTV.
+blog|travel blog|blog du lịch|I write a travel blog.|Tôi viết blog du lịch.
+podcast|listen to a podcast|nghe podcast|I listen to a podcast on the bus.|Tôi nghe podcast trên xe buýt.
+subscribe|subscribe to|đăng ký theo dõi|Please subscribe to our channel.|Hãy đăng ký kênh của chúng tôi.
+nickname|cute nickname|biệt danh dễ thương|Her cute nickname is "Bong".|Biệt danh dễ thương của cô ấy là "Bông".

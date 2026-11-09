@@ -1,0 +1,64 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+zero|zero degrees|không độ|Water freezes at zero degrees.|Nước đóng băng ở không độ.
+thirteen|thirteen years old|mười ba tuổi|My son is thirteen years old.|Con trai tôi mười ba tuổi.
+fourteen|fourteen days|mười bốn ngày|You must stay for fourteen days.|Bạn phải ở lại mười bốn ngày.
+fifteen|fifteen minutes|mười lăm phút|The bus comes every fifteen minutes.|Cứ mười lăm phút có một chuyến xe buýt.
+sixteen|sixteen students|mười sáu học sinh|There are sixteen students in my class.|Lớp tôi có mười sáu học sinh.
+seventeen|seventeen kilometers|mười bảy ki-lô-mét|The airport is seventeen kilometers away.|Sân bay cách đây mười bảy ki-lô-mét.
+eighteen|over eighteen|trên mười tám tuổi|You must be over eighteen to drive a car.|Bạn phải trên mười tám tuổi mới được lái ô tô.
+nineteen|nineteen ninety-nine|năm 1999|My sister was born in nineteen ninety-nine.|Chị tôi sinh năm 1999.
+forty|forty years old|bốn mươi tuổi|My mother is forty years old.|Mẹ tôi bốn mươi tuổi.
+fifty|fifty percent|năm mươi phần trăm|Everything is fifty percent off.|Mọi thứ giảm năm mươi phần trăm.
+sixty|sixty seconds|sáu mươi giây|There are sixty seconds in a minute.|Một phút có sáu mươi giây.
+seventy|seventy percent|bảy mươi phần trăm|Seventy percent of the earth is water.|Bảy mươi phần trăm bề mặt Trái đất là nước.
+eighty|eighty dollars|tám mươi đô|The hotel costs eighty dollars a night.|Khách sạn giá tám mươi đô một đêm.
+ninety|ninety minutes|chín mươi phút|A football match lasts ninety minutes.|Một trận bóng đá kéo dài chín mươi phút.
+million|one in a million|có một không hai|My mother is one in a million.|Mẹ tôi là người có một không hai.
+million|million people|triệu người|Ho Chi Minh City has nine million people.|TP. Hồ Chí Minh có chín triệu dân.
+billion|billion dollars|tỷ đô la|The company is worth a billion dollars.|Công ty trị giá một tỷ đô la.
+half|half an hour|nửa tiếng|I'll be there in half an hour.|Nửa tiếng nữa tôi đến.
+half|half price|nửa giá|Children get in at half price.|Trẻ em vào cửa nửa giá.
+quarter|a quarter past|… giờ mười lăm|It's a quarter past eight.|Bây giờ là tám giờ mười lăm.
+dozen|a dozen eggs|một tá trứng|Please buy a dozen eggs.|Mua giúp một tá trứng.
+pair|a pair of shoes|một đôi giày|I need a pair of shoes for the wedding.|Tôi cần một đôi giày để đi đám cưới.
+pair|in pairs|theo cặp|Work in pairs, please.|Làm việc theo cặp nhé.
+fourth|the fourth floor|tầng bốn|My office is on the fourth floor.|Văn phòng tôi ở tầng bốn.
+fifth|fifth grade|lớp năm|My daughter is in fifth grade.|Con gái tôi học lớp năm.
+double|double room|phòng đôi|I'd like a double room, please.|Cho tôi một phòng đôi.
+single|single room|phòng đơn|A single room costs thirty dollars.|Phòng đơn giá ba mươi đô.
+amount|a large amount of|một lượng lớn|He spent a large amount of money.|Anh ấy tiêu một khoản tiền lớn.
+amount|small amount|lượng nhỏ|Add a small amount of salt.|Thêm một chút muối.
+total|in total|tổng cộng|In total, we paid two million dong.|Tổng cộng chúng tôi trả hai triệu đồng.
+percent|ten percent|mười phần trăm|Prices went up ten percent.|Giá tăng mười phần trăm.
+average|on average|trung bình|On average, I sleep seven hours.|Trung bình tôi ngủ bảy tiếng.
+average|average age|tuổi trung bình|The average age of the class is twenty.|Tuổi trung bình của lớp là hai mươi.
+piece|a piece of cake|dễ ợt|The test was a piece of cake.|Bài kiểm tra dễ ợt.
+piece|a piece of paper|một mẩu giấy|Write it on a piece of paper.|Viết nó lên một mẩu giấy.
+part|part-time job|việc làm bán thời gian|She has a part-time job at a cafe.|Cô ấy làm bán thời gian ở quán cà phê.
+part|take part in|tham gia|Everyone can take part in the game.|Mọi người đều có thể tham gia trò chơi.
+couple|a couple of|vài, một hai|I'll be back in a couple of days.|Vài ngày nữa tôi sẽ quay lại.
+couple|young couple|cặp vợ chồng trẻ|A young couple lives next door.|Một cặp vợ chồng trẻ sống ở nhà bên.
+count|count to ten|đếm đến mười|Can you count to ten in English?|Bạn đếm đến mười bằng tiếng Anh được không?
+plus|plus tax|cộng thuế|The price is fifty dollars plus tax.|Giá năm mươi đô cộng thuế.
+minus|minus five degrees|âm năm độ|It was minus five degrees in Sapa.|Ở Sa Pa nhiệt độ âm năm độ.
+size|what size|cỡ nào|What size do you wear?|Bạn mặc cỡ nào?
+size|small size|cỡ nhỏ|Do you have this in a small size?|Cái này có cỡ nhỏ không?
+weight|gain weight|tăng cân|Eating late can make you gain weight.|Ăn khuya có thể làm bạn tăng cân.
+weight|body weight|cân nặng cơ thể|Check your body weight every week.|Kiểm tra cân nặng mỗi tuần.
+height|average height|chiều cao trung bình|He is of average height.|Anh ấy cao trung bình.
+length|full length|hết chiều dài|We swam the full length of the pool.|Chúng tôi bơi hết chiều dài hồ bơi.
+width|the width of|chiều rộng của|Measure the width of the window.|Đo chiều rộng cửa sổ.
+distance|long distance|khoảng cách xa|They are in a long distance relationship.|Họ đang yêu xa.
+distance|walking distance|khoảng cách đi bộ được|The beach is within walking distance.|Bãi biển ở gần, đi bộ được.
+meter|square meter|mét vuông|The apartment is sixty square meters.|Căn hộ rộng sáu mươi mét vuông.
+kilometer|kilometers per hour|ki-lô-mét một giờ|The speed limit is fifty kilometers per hour.|Tốc độ tối đa là năm mươi ki-lô-mét một giờ.
+kilogram|a kilogram of|một ki-lô-gam|I bought a kilogram of rice.|Tôi mua một ký gạo.
+liter|a liter of|một lít|Drink at least a liter of water a day.|Uống ít nhất một lít nước mỗi ngày.
+mile|miles away|cách rất xa|The nearest shop is miles away.|Cửa hàng gần nhất cách đây rất xa.
+degree|degrees Celsius|độ C|It's thirty degrees Celsius today.|Hôm nay ba mươi độ C.
+degree|university degree|bằng đại học|You need a university degree for this job.|Công việc này cần bằng đại học.
+level|sea level|mực nước biển|Da Lat is 1,500 meters above sea level.|Đà Lạt cao 1.500 mét so với mực nước biển.
+level|beginner level|trình độ sơ cấp|This course is at beginner level.|Khóa học này ở trình độ sơ cấp.
+maximum|maximum speed|tốc độ tối đa|The maximum speed here is sixty.|Tốc độ tối đa ở đây là sáu mươi.
+inch|every inch|từng ngóc ngách|We searched every inch of the house.|Chúng tôi lục từng ngóc ngách trong nhà.
+pound|a pound of|một pao|A pound of beef, please.|Cho tôi một pao thịt bò.

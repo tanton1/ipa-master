@@ -1,0 +1,58 @@
+# Nhóm 28 – Thiên nhiên, thời tiết
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Thiên nhiên, thời tiết|Thiên nhiên|s câm trong island; /θ/ trong thunder, earth|Thời tiết, bầu trời, địa hình, cây cối và thiên tai. Nhiều từ có cụm phụ âm đầu (storm, stream, snow) và chữ câm (island, lightning).|weather,island,earthquake,temperature
+= Bầu trời và thời tiết|/ð/ trong weather; cụm đầu /st/, /sk/, /sn/
+weather|ˈwɛðɚ|n|thời tiết|How's the weather today?|Hôm nay thời tiết thế nào?||Đồng âm với whether.
+sun|sʌn|n|mặt trời|The sun is hot today.|Hôm nay nắng gắt.||Đồng âm với son.
+moon|mun|n|mặt trăng|The moon is bright tonight.|Đêm nay trăng sáng.||
+star|stɑɹ|n|ngôi sao|Look at the stars.|Nhìn những ngôi sao kìa.||
+sky|skaɪ|n|bầu trời|The sky is blue.|Bầu trời xanh.||
+cloud|klaʊd|n|đám mây|There are no clouds today.|Hôm nay không có mây.||
+rain|ɹeɪn|n|mưa|I love the sound of rain.|Tôi thích tiếng mưa.||Đồng âm với reign.
+snow|snoʊ|n|tuyết|I have never seen snow.|Tôi chưa bao giờ thấy tuyết.||
+wind|wɪnd|n|gió|The wind is strong today.|Hôm nay gió mạnh.||Động từ wind (cuộn) đọc /waɪnd/.
+storm|stɔɹm|n|cơn bão|A storm is coming.|Bão sắp đến.||
+= Hiện tượng và địa hình|/θ/ trong thunder; gh câm trong lightning
+thunder|ˈθʌndɚ|n|sấm|Did you hear the thunder?|Bạn có nghe tiếng sấm không?||
+lightning|ˈlaɪtnɪŋ|n|tia chớp, sét|Lightning hit the tree.|Sét đánh vào cái cây.||Chữ gh không đọc.
+rainbow|ˈɹeɪnˌboʊ|n|cầu vồng|Look, a rainbow!|Nhìn kìa, cầu vồng!||
+fog|fɑg|n|sương mù|There is thick fog this morning.|Sáng nay sương mù dày.||
+ice|aɪs|n|nước đá, băng|No ice, please.|Đừng cho đá nhé.||
+temperature|ˈtɛmpɚətʃɚ|n|nhiệt độ|What's the temperature today?|Hôm nay bao nhiêu độ?||Thường đọc 3 âm tiết /ˈtɛm·pɹə·tʃɚ/.
+climate|ˈklaɪmət|n|khí hậu|Vietnam has a tropical climate.|Việt Nam có khí hậu nhiệt đới.||
+forest|ˈfɔɹɪst|n|rừng|Don't cut down the forest.|Đừng chặt phá rừng.||
+stream|stɹim|n|dòng suối|The children played in the stream.|Bọn trẻ chơi dưới suối.||Cụm đầu /stɹ/.
+desert|ˈdɛzɚt|n|sa mạc|It's hot in the desert.|Trong sa mạc rất nóng.||Trọng âm âm tiết đầu; khác dessert /dɪˈzɝt/.
+= Đất, nước, đá|s câm trong island; ce đọc /ʃ/ trong ocean
+island|ˈaɪlənd|n|hòn đảo|Phu Quoc is a big island.|Phú Quốc là một hòn đảo lớn.||Chữ s không đọc.
+lake|leɪk|n|hồ|Let's walk around the lake.|Đi dạo quanh hồ nhé.||
+hill|hɪl|n|đồi|The house is on a hill.|Ngôi nhà ở trên đồi.||
+valley|ˈvæli|n|thung lũng|We camped in the valley.|Chúng tôi cắm trại trong thung lũng.||
+ocean|ˈoʊʃən|n|đại dương|The ocean is deep.|Đại dương rất sâu.||Chữ ce đọc /ʃ/.
+sand|sænd|n|cát|The sand is hot.|Cát nóng.||
+rock|ɹɑk|n|đá, tảng đá|Sit on that rock.|Ngồi lên tảng đá kia.||Khác lock /lɑk/.
+stone|stoʊn|n|đá, hòn sỏi|The wall is made of stone.|Bức tường làm bằng đá.||
+soil|sɔɪl|n|đất trồng|This soil is good for rice.|Đất này tốt cho lúa.||
+grass|gɹæs|n|cỏ|The grass is wet.|Cỏ ướt.||Khác glass /glæs/.
+= Cây cối và lửa|/ɝθ/ trong earth; oo đọc /ʊ/ trong wood
+flower|ˈflaʊɚ|n|bông hoa|What a beautiful flower!|Bông hoa đẹp quá!||Đồng âm với flour.
+plant|plænt|n|cây (nhỏ), thực vật|Water the plants every day.|Tưới cây mỗi ngày.||
+leaf|lif|n|chiếc lá|The leaves are falling.|Lá đang rụng.||Số nhiều leaves /livz/.
+branch|bɹæntʃ|n|cành cây; chi nhánh|A bird is on the branch.|Một con chim đậu trên cành.||
+wood|wʊd|n|gỗ|The table is made of wood.|Cái bàn làm bằng gỗ.||Đồng âm với would.
+fire|faɪɹ|n|lửa, đám cháy|Fire! Call 114!|Cháy! Gọi 114!||
+smoke|smoʊk|n|khói|I can smell smoke.|Tôi ngửi thấy mùi khói.||
+earth|ɝθ|n|trái đất, đất|The earth goes around the sun.|Trái đất quay quanh mặt trời.||Âm cuối /θ/.
+nature|ˈneɪtʃɚ|n|thiên nhiên|I love nature.|Tôi yêu thiên nhiên.||Chữ t đọc /tʃ/.
+air|ɛɹ|n|không khí|The air is clean here.|Không khí ở đây trong lành.||Đồng âm với heir.
+= Mô tả thời tiết, thiên tai|Đuôi -y đọc /i/; oo đọc /ʌ/ trong flood
+sunny|ˈsʌni|adj|có nắng|It's sunny today.|Hôm nay trời nắng.||
+cloudy|ˈklaʊdi|adj|nhiều mây|It's cloudy and cool.|Trời nhiều mây và mát.||
+rainy|ˈɹeɪni|adj|có mưa|I stay home on rainy days.|Ngày mưa tôi ở nhà.||
+windy|ˈwɪndi|adj|có gió|It's windy at the beach.|Ở bãi biển nhiều gió.||
+seed|sid|n|hạt giống|Plant the seeds in spring.|Gieo hạt vào mùa xuân.||
+flood|flʌd|n|lũ lụt|The flood destroyed many houses.|Lũ lụt phá hủy nhiều ngôi nhà.||Chữ oo đọc /ʌ/.
+earthquake|ˈɝθˌkweɪk|n|động đất|There was an earthquake in Japan.|Đã có một trận động đất ở Nhật.||
+root|ɹut|n|rễ cây; gốc rễ|The tree has deep roots.|Cái cây có rễ sâu.||
+waterfall|ˈwɔtɚˌfɔl|n|thác nước|The waterfall is very high.|Thác nước rất cao.||
+rose|ɹoʊz|n|hoa hồng|She loves red roses.|Cô ấy thích hoa hồng đỏ.||Cũng là quá khứ của rise.

@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+above|above average|trên mức trung bình|Her score is above average.|Điểm của cô ấy trên mức trung bình.
+below|below zero|dưới không độ|It was below zero last night.|Đêm qua nhiệt độ dưới không độ.
+under|under the table|dưới gầm bàn|The dog is under the table.|Con chó ở dưới gầm bàn.
+over|over there|ở đằng kia|The bus stop is over there.|Trạm xe buýt ở đằng kia.
+between|between you and me|nói riêng giữa chúng ta|Between you and me, I don't like his idea.|Nói riêng giữa chúng ta, tôi không thích ý của anh ta.
+among|among friends|giữa bạn bè|She feels relaxed among friends.|Cô ấy thấy thoải mái khi ở bên bạn bè.
+behind|behind the house|sau nhà|There is a garden behind the house.|Có một khu vườn sau nhà.
+beside|beside the window|cạnh cửa sổ|I like to sit beside the window.|Tôi thích ngồi cạnh cửa sổ.
+inside|inside the box|bên trong hộp|What is inside the box?|Bên trong hộp có gì?
+outside|outside the door|ngoài cửa|Leave your shoes outside the door.|Để giày ngoài cửa nhé.
+across|across the street|bên kia đường|The bank is across the street.|Ngân hàng ở bên kia đường.
+along|along the river|dọc bờ sông|We walked along the river.|Chúng tôi đi dạo dọc bờ sông.
+around|around the world|vòng quanh thế giới|I want to travel around the world.|Tôi muốn du lịch vòng quanh thế giới.
+against|against the wall|dựa vào tường|Put the ladder against the wall.|Dựng cái thang dựa vào tường.
+during|during the day|ban ngày, trong ngày|Drink a lot of water during the day.|Hãy uống nhiều nước trong ngày.
+without|without sugar|không đường|I drink coffee without sugar.|Tôi uống cà phê không đường.
+within|within a week|trong vòng một tuần|You will get the package within a week.|Bạn sẽ nhận gói hàng trong vòng một tuần.
+into|into the room|vào trong phòng|Please come into the room.|Mời vào trong phòng.
+toward|toward the sea|về phía biển|The boat moved toward the sea.|Con thuyền tiến về phía biển.
+past|half past|… rưỡi|The class starts at half past seven.|Lớp học bắt đầu lúc bảy giờ rưỡi.
+since|since childhood|từ nhỏ|We have been friends since childhood.|Chúng tôi là bạn từ nhỏ.
+except|except Sunday|trừ Chủ nhật|The shop opens every day except Sunday.|Cửa hàng mở mọi ngày trừ Chủ nhật.
+beyond|beyond my control|ngoài tầm kiểm soát của tôi|The delay was beyond my control.|Sự chậm trễ nằm ngoài tầm kiểm soát của tôi.
+each|each other|nhau, lẫn nhau|They always help each other.|Họ luôn giúp đỡ lẫn nhau.
+every|every day|mỗi ngày|I practice English every day.|Tôi luyện tiếng Anh mỗi ngày.
+both|both of us|cả hai chúng tôi|Both of us like music.|Cả hai chúng tôi đều thích âm nhạc.
+either|either way|đằng nào cũng vậy|Either way, we will be late.|Đằng nào chúng ta cũng muộn.
+neither|neither of them|không ai trong hai người|Neither of them can drive.|Không ai trong hai người biết lái xe.
+few|a few minutes|vài phút|Please wait a few minutes.|Vui lòng đợi vài phút.
+many|how many|bao nhiêu (đếm được)|How many people are coming?|Có bao nhiêu người sẽ đến?
+much|how much|bao nhiêu (tiền, lượng)|How much is this shirt?|Cái áo này bao nhiêu tiền?
+more|more and more|ngày càng nhiều|More and more people learn English.|Ngày càng nhiều người học tiếng Anh.
+most|most of the time|phần lớn thời gian|I work from home most of the time.|Phần lớn thời gian tôi làm việc ở nhà.
+less|less sugar|ít đường hơn|I'd like my coffee with less sugar.|Tôi muốn cà phê ít đường hơn.
+several|several times|vài lần|I have called him several times.|Tôi đã gọi cho anh ấy vài lần.
+any|any questions|câu hỏi nào|Do you have any questions?|Bạn có câu hỏi nào không?
+none|none of them|không ai trong số họ|None of them knew the answer.|Không ai trong số họ biết câu trả lời.
+another|another cup|thêm một tách|Would you like another cup of tea?|Bạn uống thêm một tách trà nữa không?
+other|the other side|phía bên kia|He lives on the other side of the city.|Anh ấy sống ở phía bên kia thành phố.
+such|such a good day|một ngày thật tuyệt|We had such a good day at the beach.|Chúng tôi đã có một ngày thật tuyệt ở bãi biển.
+own|my own room|phòng riêng của tôi|I finally have my own room.|Cuối cùng tôi đã có phòng riêng.
+everyone|hello everyone|xin chào mọi người|Hello everyone, welcome to the class.|Xin chào mọi người, chào mừng đến lớp.
+everything|everything is ready|mọi thứ đã sẵn sàng|Everything is ready for the party.|Mọi thứ đã sẵn sàng cho bữa tiệc.
+someone|someone special|một người đặc biệt|She is someone special to me.|Cô ấy là một người đặc biệt với tôi.
+something|something to drink|thứ gì đó để uống|Would you like something to drink?|Bạn có muốn uống gì không?
+anything|anything else|còn gì nữa|Do you need anything else?|Bạn còn cần gì nữa không?
+nothing|nothing special|không có gì đặc biệt|I did nothing special this weekend.|Cuối tuần này tôi không làm gì đặc biệt.
+nobody|nobody knows|không ai biết|Nobody knows the answer.|Không ai biết câu trả lời.
+myself|by myself|một mình tôi, tự tôi|I can do it by myself.|Tôi có thể tự làm.
+whose|whose turn|lượt của ai|Whose turn is it?|Đến lượt ai rồi?

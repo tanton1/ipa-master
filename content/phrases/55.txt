@@ -1,0 +1,53 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+field|in the field of|trong lĩnh vực|She works in the field of medicine.|Cô ấy làm trong lĩnh vực y học.
+field|rice field|cánh đồng lúa|The rice field is green in spring.|Cánh đồng lúa xanh mướt vào mùa xuân.
+development|personal development|phát triển bản thân|Reading helps personal development.|Đọc sách giúp phát triển bản thân.
+drug|drug store|hiệu thuốc|Buy some medicine at the drug store.|Mua ít thuốc ở hiệu thuốc.
+model|role model|tấm gương|My mother is my role model.|Mẹ là tấm gương của tôi.
+ground|on the ground|dưới đất|Don't sit on the ground.|Đừng ngồi dưới đất.
+site|construction site|công trường|Wear a helmet at the construction site.|Đội mũ bảo hộ ở công trường.
+figure|figure out|tìm ra|I can't figure out the answer.|Tôi không tìm ra câu trả lời.
+source|source of energy|nguồn năng lượng|The sun is a source of energy.|Mặt trời là một nguồn năng lượng.
+series|TV series|phim truyền hình nhiều tập|I'm watching a new TV series.|Tôi đang xem một bộ phim truyền hình mới.
+range|price range|khoảng giá|What is your price range?|Bạn muốn mua trong khoảng giá nào?
+property|private property|tài sản tư nhân|This is private property.|Đây là tài sản tư nhân.
+section|sports section|chuyên mục thể thao|My father reads the sports section first.|Bố tôi đọc chuyên mục thể thao trước.
+unit|first unit|bài đầu tiên|Let's start with the first unit.|Chúng ta bắt đầu với bài đầu tiên.
+response|in response to|để đáp lại|In response to your email, here is the price list.|Để trả lời email của bạn, đây là bảng giá.
+performance|live performance|buổi biểu diễn trực tiếp|We watched a live performance.|Chúng tôi xem một buổi biểu diễn trực tiếp.
+basis|on a daily basis|hằng ngày|I use English on a daily basis.|Tôi dùng tiếng Anh hằng ngày.
+approach|new approach|cách tiếp cận mới|We need a new approach.|Chúng ta cần một cách tiếp cận mới.
+majority|the majority of|đa số|The majority of students live nearby.|Đa số học sinh sống gần trường.
+analysis|data analysis|phân tích dữ liệu|She works in data analysis.|Cô ấy làm phân tích dữ liệu.
+challenge|big challenge|thử thách lớn|Learning English is a big challenge.|Học tiếng Anh là một thử thách lớn.
+management|time management|quản lý thời gian|Time management is an important skill.|Quản lý thời gian là kỹ năng quan trọng.
+operation|rescue operation|chiến dịch cứu hộ|The rescue operation lasted two days.|Chiến dịch cứu hộ kéo dài hai ngày.
+treatment|medical treatment|điều trị y tế|He needs medical treatment.|Anh ấy cần được điều trị.
+variety|a variety of|nhiều loại|The market sells a variety of fruit.|Chợ bán nhiều loại trái cây.
+authority|local authority|chính quyền địa phương|Contact the local authority.|Hãy liên hệ chính quyền địa phương.
+bar|chocolate bar|thanh sô-cô-la|I ate a chocolate bar.|Tôi ăn một thanh sô-cô-la.
+conference|video conference|họp trực tuyến|We have a video conference at nine.|Chín giờ chúng tôi họp trực tuyến.
+debate|heated debate|cuộc tranh luận gay gắt|There was a heated debate in class.|Lớp có một cuộc tranh luận gay gắt.
+hole|a hole in|một cái lỗ trên|There is a hole in my sock.|Tất của tôi bị thủng một lỗ.
+mission|mission impossible|nhiệm vụ bất khả thi|Getting a taxi at rush hour is mission impossible.|Bắt taxi giờ cao điểm là nhiệm vụ bất khả thi.
+scene|behind the scenes|hậu trường|Let's see what happens behind the scenes.|Hãy xem hậu trường diễn ra thế nào.
+shot|flu shot|mũi tiêm phòng cúm|Get a flu shot every year.|Tiêm phòng cúm mỗi năm.
+spot|on the spot|ngay tại chỗ|They hired him on the spot.|Họ nhận anh ấy ngay tại chỗ.
+target|sales target|chỉ tiêu doanh số|We reached our sales target.|Chúng tôi đạt chỉ tiêu doanh số.
+access|internet access|truy cập internet|The hotel has free internet access.|Khách sạn có internet miễn phí.
+group|in groups|theo nhóm|Work in groups of four.|Làm việc theo nhóm bốn người.
+group|blood group|nhóm máu|What is your blood group?|Bạn thuộc nhóm máu gì?
+reader|regular reader|độc giả thường xuyên|I'm a regular reader of this blog.|Tôi là độc giả thường xuyên của blog này.
+master|master's degree|bằng thạc sĩ|She has a master's degree in English.|Cô ấy có bằng thạc sĩ tiếng Anh.
+origin|country of origin|nước xuất xứ|What is the country of origin?|Nước xuất xứ là gì?
+option|the best option|lựa chọn tốt nhất|The bus is the best option.|Xe buýt là lựa chọn tốt nhất.
+alternative|healthy alternative|lựa chọn lành mạnh hơn|Fruit is a healthy alternative to candy.|Trái cây là lựa chọn lành mạnh thay cho kẹo.
+proposal|marriage proposal|lời cầu hôn|She said yes to his marriage proposal.|Cô ấy đồng ý lời cầu hôn của anh.
+survey|online survey|khảo sát trực tuyến|Please fill in our online survey.|Vui lòng điền khảo sát trực tuyến của chúng tôi.
+feedback|give feedback|góp ý|Please give feedback on the lesson.|Hãy góp ý về bài học nhé.
+scale|on a scale of|trên thang điểm|On a scale of one to ten, how happy are you?|Trên thang điểm từ một đến mười, bạn hạnh phúc đến đâu?
+crop|rice crop|vụ lúa|This year's rice crop is good.|Vụ lúa năm nay được mùa.
+base|military base|căn cứ quân sự|There is a military base near the city.|Gần thành phố có một căn cứ quân sự.
+editor|video editor|biên tập viên video|He works as a video editor.|Anh ấy làm biên tập viên video.
+output|daily output|sản lượng hằng ngày|The factory's daily output is high.|Sản lượng hằng ngày của nhà máy cao.
+input|your input|ý kiến đóng góp của bạn|Thank you for your input.|Cảm ơn ý kiến đóng góp của bạn.

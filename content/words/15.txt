@@ -1,0 +1,58 @@
+# Nhóm 15 – Động từ hành động
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Động từ hành động|Động từ 3|Chữ câm b, k, gh, w và âm cuối của động từ ngắn|Động từ chỉ hành động tay chân: bắt, ném, đẩy, nhảy, gói, đổ. Nhiều từ có chữ câm (climb, knock, wrap) và âm cuối dễ bị nuốt (catch, push, mix).|climb,knock,throw,solve
+= Hành động mạnh|Chữ câm b trong climb, gh trong fight; âm cuối /tʃ/, /ŋ/
+break|bɹeɪk|v|làm vỡ, phá|Don't break the glass.|Đừng làm vỡ cái ly.||Chữ ea đọc /eɪ/; đồng âm với brake.
+catch|kætʃ|v|bắt, đón (xe)|Catch the ball!|Bắt bóng!||Âm cuối /tʃ/, không bỏ.
+cross|kɹɔs|v|băng qua|Cross the street carefully.|Qua đường cẩn thận.||
+climb|klaɪm|v|leo, trèo|Cats can climb trees.|Mèo leo cây được.||Chữ b không đọc.
+drop|dɹɑp|v|làm rơi, thả|Don't drop the phone.|Đừng làm rơi điện thoại.||
+feed|fid|v|cho ăn|I feed my dog twice a day.|Tôi cho chó ăn hai lần một ngày.||
+fight|faɪt|v|đánh nhau, chiến đấu|Stop fighting!|Đừng đánh nhau nữa!||Chữ gh không đọc.
+hide|haɪd|v|trốn, giấu|Where did you hide the key?|Bạn giấu chìa khóa ở đâu?||
+hit|hɪt|v|đánh, va|The car hit a tree.|Chiếc xe đâm vào cây.||
+hang|hæŋ|v|treo|Hang your coat here.|Treo áo khoác ở đây.||Âm cuối /ŋ/.
+= Chuyển động tay chân|/dʒ/ đầu từ join, jump; k câm trong knock; cụm cuối /ks/, /ft/
+join|dʒɔɪn|v|tham gia|Can I join you?|Tôi tham gia cùng được không?||
+jump|dʒʌmp|v|nhảy|The kids jump into the pool.|Bọn trẻ nhảy xuống hồ bơi.||Cụm cuối /mp/.
+kick|kɪk|v|đá|He kicked the ball.|Cậu ấy đá quả bóng.||
+knock|nɑk|v|gõ (cửa)|Someone is knocking.|Có ai đang gõ cửa.||Chữ k đầu không đọc.
+lift|lɪft|v|nâng, nhấc|Lift the box with both hands.|Nhấc hộp bằng hai tay.||Cụm cuối /ft/.
+mix|mɪks|v|trộn|Mix the flour and sugar.|Trộn bột với đường.||Chữ x đọc /ks/.
+pick|pɪk|v|chọn, hái, nhặt|Pick a card.|Chọn một lá bài.||
+push|pʊʃ|v|đẩy|Push the door.|Đẩy cửa.||Chữ u đọc /ʊ/.
+reach|ɹitʃ|v|với tới, đạt đến|I can't reach the top shelf.|Tôi không với tới kệ trên cùng.||
+ring|ɹɪŋ|v|reo, rung chuông|The phone is ringing.|Điện thoại đang reo.||
+= Lắc, la, ném, chạm|/ʃ/ đầu từ; /θɹ/ trong throw; ou đọc /ʌ/ trong touch
+shake|ʃeɪk|v|lắc, rung|Shake the bottle.|Lắc chai.||
+shout|ʃaʊt|v|hét, la|Don't shout!|Đừng la hét!||
+shut|ʃʌt|v|đóng|Shut your eyes.|Nhắm mắt lại.||
+steal|stil|v|ăn trộm|Someone stole my bike.|Ai đó trộm xe đạp của tôi.||Đồng âm với steel.
+throw|θɹoʊ|v|ném|Throw me the ball.|Ném bóng cho tôi.||
+touch|tʌtʃ|v|chạm|Don't touch the screen.|Đừng chạm vào màn hình.||Chữ ou đọc /ʌ/.
+wave|weɪv|v|vẫy tay|She waved at me.|Cô ấy vẫy tay với tôi.||
+wish|wɪʃ|v|ước|I wish you luck.|Chúc bạn may mắn.||
+wonder|ˈwʌndɚ|v|tự hỏi|I wonder why.|Tôi tự hỏi tại sao.||Chữ o đọc /ʌ/; khác wander /ˈwɑndɚ/.
+borrow|ˈbɑɹoʊ|v|mượn|Can I borrow your pen?|Cho tôi mượn bút được không?||
+= Cho mượn, hứa, cưới|Trọng âm prefer ở âm tiết hai; /ɝ/ trong hurry
+lend|lɛnd|v|cho mượn|Can you lend me some money?|Bạn cho tôi mượn ít tiền được không?||
+let|lɛt|v|để, cho phép|Let me help you.|Để tôi giúp bạn.||
+lie|laɪ|v|nằm; nói dối|Don't lie to me.|Đừng nói dối tôi.||
+promise|ˈpɹɑmɪs|v|hứa|I promise.|Tôi hứa.||Trọng âm âm tiết đầu.
+prefer|pɹɪˈfɝ|v|thích hơn|I prefer tea.|Tôi thích trà hơn.||Trọng âm âm tiết hai.
+hurry|ˈhɝi|v|vội, nhanh lên|Hurry up!|Nhanh lên!||
+swim|swɪm|v|bơi|I swim every morning.|Sáng nào tôi cũng bơi.||Cụm đầu /sw/.
+marry|ˈmɛɹi|v|cưới, kết hôn|He wants to marry her.|Anh ấy muốn cưới cô ấy.||
+fix|fɪks|v|sửa|Can you fix my computer?|Bạn sửa máy tính giúp tôi được không?||
+fold|foʊld|v|gấp|Fold the paper in half.|Gấp đôi tờ giấy.||Cụm cuối /ld/.
+= Việc tay chân hằng ngày|w câm trong wrap; cụm cuối /lv/ trong solve
+pour|pɔɹ|v|rót, đổ|Pour the milk into the cup.|Rót sữa vào cốc.||
+pack|pæk|v|đóng gói, xếp đồ|Pack your bag.|Xếp đồ vào túi đi.||
+press|pɹɛs|v|ấn, nhấn|Press the red button.|Nhấn nút đỏ.||
+roll|ɹoʊl|v|lăn, cuộn|The ball rolled away.|Quả bóng lăn mất.||Đồng âm với role.
+rush|ɹʌʃ|v|vội vã|Don't rush.|Đừng vội.||
+solve|sɑlv|v|giải quyết|We can solve this.|Chúng ta có thể giải quyết việc này.||Cụm cuối /lv/: đủ /l/ và /v/.
+spell|spɛl|v|đánh vần|How do you spell it?|Từ đó đánh vần thế nào?||
+tie|taɪ|v|buộc, thắt|Tie your shoes.|Buộc dây giày đi.||
+wrap|ɹæp|v|gói, quấn|Wrap the gift.|Gói quà lại.||Chữ w không đọc; đồng âm với rap.
+burn|bɝn|v|đốt, cháy, bỏng|I burned my finger.|Tôi bị bỏng ngón tay.||

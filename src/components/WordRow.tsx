@@ -1,7 +1,7 @@
 'use client';
 
 import Link from 'next/link';
-import type { WordEntry } from '@/data/types';
+import type { WordLite } from '@/data/types';
 import { useAppState, STATUS_LABEL } from '@/lib/store';
 import { PlayButton } from './PlayButton';
 import { Ipa } from './Ipa';
@@ -14,7 +14,7 @@ const STATUS_PILL: Record<string, string> = {
   mastered: 'bg-accent-soft text-accent',
 };
 
-export function WordRow({ w, index, showMeta = false }: { w: WordEntry; index?: number; showMeta?: boolean }) {
+export function WordRow({ w, index, showMeta = false }: { w: WordLite; index?: number; showMeta?: boolean }) {
   const { words } = useAppState();
   const st = words[w.slug]?.status ?? 'new';
   const group = String(w.group).padStart(2, '0');

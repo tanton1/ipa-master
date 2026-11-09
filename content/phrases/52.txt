@@ -1,0 +1,52 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+society|modern society|xã hội hiện đại|Technology is everywhere in modern society.|Công nghệ có mặt khắp nơi trong xã hội hiện đại.
+social|social life|đời sống giao lưu|He has a busy social life.|Anh ấy giao lưu rất nhiều.
+government|local government|chính quyền địa phương|The local government built a new park.|Chính quyền địa phương xây một công viên mới.
+politics|talk about politics|nói chuyện chính trị|I don't like to talk about politics.|Tôi không thích nói chuyện chính trị.
+political|political leader|nhà lãnh đạo chính trị|He is a political leader.|Ông ấy là một nhà lãnh đạo chính trị.
+president|vice president|phó chủ tịch|She is the vice president of the company.|Bà ấy là phó chủ tịch công ty.
+minister|prime minister|thủ tướng|The prime minister gave a speech.|Thủ tướng đã có bài phát biểu.
+vote|vote for|bỏ phiếu cho|Who will you vote for?|Bạn sẽ bỏ phiếu cho ai?
+election|general election|tổng tuyển cử|The general election is next year.|Tổng tuyển cử vào năm sau.
+law|against the law|phạm pháp|Drink driving is against the law.|Lái xe khi say là phạm pháp.
+law|traffic law|luật giao thông|Everyone must follow the traffic law.|Mọi người phải tuân thủ luật giao thông.
+rule|break the rules|vi phạm quy định|Don't break the rules.|Đừng vi phạm quy định.
+freedom|freedom of speech|tự do ngôn luận|Freedom of speech is important.|Tự do ngôn luận rất quan trọng.
+peace|peace and quiet|sự yên tĩnh|I need some peace and quiet.|Tôi cần chút yên tĩnh.
+war|world war|chiến tranh thế giới|My great-grandfather lived through a world war.|Cụ tôi đã sống qua một cuộc chiến tranh thế giới.
+army|join the army|nhập ngũ|He wants to join the army.|Anh ấy muốn nhập ngũ.
+military|military service|nghĩa vụ quân sự|Young men do military service.|Thanh niên đi nghĩa vụ quân sự.
+weapon|nuclear weapon|vũ khí hạt nhân|No country should use a nuclear weapon.|Không nước nào nên dùng vũ khí hạt nhân.
+gun|toy gun|súng đồ chơi|The boy has a toy gun.|Cậu bé có một khẩu súng đồ chơi.
+attack|heart attack|cơn đau tim|Smoking can cause a heart attack.|Hút thuốc có thể gây đau tim.
+defend|defend yourself|tự vệ|Learn karate to defend yourself.|Học karate để tự vệ.
+crime|crime rate|tỷ lệ tội phạm|The crime rate is low here.|Ở đây tỷ lệ tội phạm thấp.
+criminal|criminal record|tiền án|He has no criminal record.|Anh ấy không có tiền án.
+thief|car thief|kẻ trộm xe|The police caught a car thief.|Cảnh sát bắt được một tên trộm xe.
+judge|don't judge|đừng phán xét|Don't judge a book by its cover.|Đừng trông mặt mà bắt hình dong.
+court|go to court|ra tòa|They will go to court next week.|Tuần sau họ sẽ ra tòa.
+trial|free trial|dùng thử miễn phí|The app has a free trial.|Ứng dụng có bản dùng thử miễn phí.
+guilty|feel guilty|thấy có lỗi|I feel guilty about forgetting her birthday.|Tôi thấy có lỗi vì quên sinh nhật cô ấy.
+innocent|innocent people|người vô tội|War kills innocent people.|Chiến tranh giết hại người vô tội.
+punish|punish the criminal|trừng phạt tội phạm|The court will punish the criminal.|Tòa sẽ trừng phạt kẻ phạm tội.
+justice|social justice|công bằng xã hội|We fight for social justice.|Chúng tôi đấu tranh vì công bằng xã hội.
+culture|Vietnamese culture|văn hóa Việt Nam|I want to learn about Vietnamese culture.|Tôi muốn tìm hiểu văn hóa Việt Nam.
+religion|freedom of religion|tự do tôn giáo|Vietnam has freedom of religion.|Việt Nam có tự do tôn giáo.
+tradition|family tradition|truyền thống gia đình|Making banh chung is a family tradition.|Gói bánh chưng là truyền thống gia đình.
+custom|local custom|phong tục địa phương|Learn the local custom before you visit.|Tìm hiểu phong tục địa phương trước khi đến.
+population|large population|dân số đông|Ho Chi Minh City has a large population.|TP. Hồ Chí Minh có dân số đông.
+community|local community|cộng đồng địa phương|The festival brings the local community together.|Lễ hội gắn kết cộng đồng địa phương.
+charity|charity event|sự kiện từ thiện|We joined a charity event.|Chúng tôi tham gia một sự kiện từ thiện.
+volunteer|volunteer work|công việc tình nguyện|She does volunteer work on weekends.|Cuối tuần cô ấy làm tình nguyện.
+poverty|live in poverty|sống trong nghèo khó|Many families live in poverty.|Nhiều gia đình sống trong nghèo khó.
+equal|equal rights|quyền bình đẳng|Men and women have equal rights.|Nam và nữ có quyền bình đẳng.
+protest|peaceful protest|cuộc biểu tình ôn hòa|It was a peaceful protest.|Đó là một cuộc biểu tình ôn hòa.
+nation|United Nations|Liên Hợp Quốc|Vietnam is a member of the United Nations.|Việt Nam là thành viên Liên Hợp Quốc.
+state|state school|trường công|My son goes to a state school.|Con trai tôi học trường công.
+official|government official|quan chức nhà nước|A government official visited the school.|Một quan chức nhà nước đến thăm trường.
+policy|company policy|quy định công ty|It's against company policy.|Điều đó trái quy định của công ty.
+democracy|in a democracy|trong một nền dân chủ|In a democracy, people vote for leaders.|Trong một nền dân chủ, người dân bầu lãnh đạo.
+safety|road safety|an toàn giao thông|Teach children about road safety.|Dạy trẻ về an toàn giao thông.
+violence|domestic violence|bạo lực gia đình|Domestic violence is a crime.|Bạo lực gia đình là tội ác.
+victim|accident victim|nạn nhân tai nạn|The accident victim is in hospital.|Nạn nhân vụ tai nạn đang nằm viện.
+escape|escape from|trốn khỏi|The bird tried to escape from the cage.|Con chim cố trốn khỏi lồng.

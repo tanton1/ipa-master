@@ -1,0 +1,54 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+economy|global economy|kinh tế toàn cầu|The global economy is growing slowly.|Kinh tế toàn cầu đang tăng trưởng chậm.
+economic|economic growth|tăng trưởng kinh tế|Vietnam has fast economic growth.|Việt Nam có tốc độ tăng trưởng kinh tế nhanh.
+industry|tourism industry|ngành du lịch|The tourism industry is important for Da Nang.|Ngành du lịch rất quan trọng với Đà Nẵng.
+trade|free trade|thương mại tự do|The two countries signed a free trade deal.|Hai nước đã ký thỏa thuận thương mại tự do.
+income|low income|thu nhập thấp|Many families have a low income.|Nhiều gia đình có thu nhập thấp.
+finance|personal finance|tài chính cá nhân|Learn about personal finance early.|Hãy tìm hiểu về tài chính cá nhân từ sớm.
+financial|financial problems|khó khăn tài chính|They have financial problems.|Họ đang gặp khó khăn tài chính.
+investment|good investment|khoản đầu tư tốt|Education is a good investment.|Giáo dục là một khoản đầu tư tốt.
+invest|invest in|đầu tư vào|My father wants to invest in land.|Bố tôi muốn đầu tư vào đất đai.
+stock|out of stock|hết hàng|Sorry, this item is out of stock.|Xin lỗi, mặt hàng này đã hết.
+stock|stock market|thị trường chứng khoán|The stock market fell today.|Hôm nay thị trường chứng khoán giảm.
+value|good value|đáng đồng tiền|This meal is good value.|Bữa ăn này đáng đồng tiền.
+demand|high demand|nhu cầu cao|There is high demand for nurses.|Nhu cầu tuyển y tá đang cao.
+supply|supply and demand|cung và cầu|Prices depend on supply and demand.|Giá cả phụ thuộc vào cung và cầu.
+production|mass production|sản xuất hàng loạt|Mass production makes things cheaper.|Sản xuất hàng loạt làm hàng hóa rẻ hơn.
+produce|produce rice|sản xuất lúa gạo|The Mekong Delta can produce rice all year.|Đồng bằng sông Cửu Long có thể làm lúa quanh năm.
+export|rice export|xuất khẩu gạo|Rice export is important for Vietnam.|Xuất khẩu gạo rất quan trọng với Việt Nam.
+import|import tax|thuế nhập khẩu|There is a high import tax on cars.|Thuế nhập khẩu ô tô rất cao.
+growth|population growth|gia tăng dân số|Population growth is slowing down.|Gia tăng dân số đang chậm lại.
+increase|price increase|việc tăng giá|There will be a price increase next month.|Tháng sau sẽ tăng giá.
+decrease|decrease in|sự giảm về|There is a decrease in sales.|Doanh số bị giảm.
+reduce|reduce waste|giảm rác thải|We must reduce waste.|Chúng ta phải giảm rác thải.
+crisis|economic crisis|khủng hoảng kinh tế|Many people lost jobs in the economic crisis.|Nhiều người mất việc trong khủng hoảng kinh tế.
+risk|take a risk|chấp nhận rủi ro|Sometimes you need to take a risk.|Đôi khi bạn cần chấp nhận rủi ro.
+success|key to success|chìa khóa thành công|Hard work is the key to success.|Chăm chỉ là chìa khóa thành công.
+failure|power failure|sự cố mất điện|There was a power failure last night.|Đêm qua bị mất điện.
+deal|it's a deal|chốt vậy nhé|"Fifty thousand?" "It's a deal."|"Năm mươi nghìn nhé?" "Chốt."
+consumer|consumer goods|hàng tiêu dùng|Consumer goods are cheap here.|Hàng tiêu dùng ở đây rẻ.
+marketing|marketing manager|trưởng phòng tiếp thị|She is a marketing manager.|Cô ấy là trưởng phòng tiếp thị.
+strategy|business strategy|chiến lược kinh doanh|We need a new business strategy.|Chúng ta cần chiến lược kinh doanh mới.
+payment|online payment|thanh toán trực tuyến|Online payment is fast and easy.|Thanh toán trực tuyến nhanh và dễ.
+purchase|make a purchase|mua hàng|You can make a purchase online.|Bạn có thể mua hàng trực tuyến.
+loss|weight loss|sự giảm cân|Exercise helps with weight loss.|Tập thể dục giúp giảm cân.
+fee|entrance fee|phí vào cửa|The entrance fee is fifty thousand dong.|Phí vào cửa là năm mươi nghìn đồng.
+wage|minimum wage|lương tối thiểu|The minimum wage went up this year.|Lương tối thiểu tăng trong năm nay.
+employ|employ workers|thuê công nhân|The factory will employ workers from the village.|Nhà máy sẽ thuê công nhân trong làng.
+unemployment|unemployment rate|tỷ lệ thất nghiệp|The unemployment rate is low.|Tỷ lệ thất nghiệp thấp.
+insurance|health insurance|bảo hiểm y tế|Do you have health insurance?|Bạn có bảo hiểm y tế không?
+organization|non-profit organization|tổ chức phi lợi nhuận|She works for a non-profit organization.|Cô ấy làm cho một tổ chức phi lợi nhuận.
+corporation|large corporation|tập đoàn lớn|He works for a large corporation.|Anh ấy làm cho một tập đoàn lớn.
+agency|travel agency|đại lý du lịch|Book the tour at a travel agency.|Đặt tour ở đại lý du lịch.
+firm|law firm|công ty luật|She works at a law firm.|Cô ấy làm ở một công ty luật.
+currency|foreign currency|ngoại tệ|Exchange foreign currency at the bank.|Đổi ngoại tệ ở ngân hàng.
+dollar|US dollar|đô la Mỹ|One US dollar is about 25,000 dong.|Một đô la Mỹ khoảng 25.000 đồng.
+cent|every cent|từng đồng|He saves every cent.|Anh ấy tiết kiệm từng đồng.
+exchange|exchange rate|tỷ giá hối đoái|What is the exchange rate today?|Tỷ giá hôm nay là bao nhiêu?
+exchange|student exchange|trao đổi sinh viên|She joined a student exchange program.|Cô ấy tham gia chương trình trao đổi sinh viên.
+rate|birth rate|tỷ lệ sinh|The birth rate is falling.|Tỷ lệ sinh đang giảm.
+benefit|health benefits|lợi ích cho sức khỏe|Green tea has many health benefits.|Trà xanh có nhiều lợi ích cho sức khỏe.
+charge|free of charge|miễn phí|The service is free of charge.|Dịch vụ miễn phí.
+charge|in charge of|phụ trách|Who is in charge of this project?|Ai phụ trách dự án này?
+expense|living expenses|chi phí sinh hoạt|Living expenses are high in Hanoi.|Chi phí sinh hoạt ở Hà Nội cao.
+retail|retail store|cửa hàng bán lẻ|She works in a retail store.|Cô ấy làm ở một cửa hàng bán lẻ.

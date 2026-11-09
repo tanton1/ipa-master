@@ -1,0 +1,58 @@
+# Nhóm 29 – Màu sắc, hình dạng, vị trí
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Màu sắc, hình dạng, vị trí|Màu & hình|Cụm phụ âm đầu bl-, gr-, br- và âm cuối /k/, /dʒ/|Màu sắc, hình khối, chất liệu và từ chỉ vị trí (top, bottom, middle, front). Cụm phụ âm đầu như blue, green, brown cần đọc liền, không chèn "ơ".|purple,triangle,leather,transparent
+= Màu sắc|Cụm đầu /bl/, /gɹ/, /bɹ/; âm cuối /k/ trong black, pink
+red|ɹɛd|adj|màu đỏ|I like red.|Tôi thích màu đỏ.||Âm cuối /d/; đồng âm với read (quá khứ).
+blue|blu|adj|màu xanh dương|The sea is blue.|Biển màu xanh.||Đồng âm với blew.
+green|gɹin|adj|màu xanh lá|Green is my favorite color.|Màu xanh lá là màu tôi thích nhất.||
+yellow|ˈjɛloʊ|adj|màu vàng|The flowers are yellow.|Hoa màu vàng.||
+black|blæk|adj|màu đen|She has black hair.|Cô ấy có tóc đen.||
+white|waɪt|adj|màu trắng|Snow is white.|Tuyết màu trắng.||Chữ h không đọc.
+brown|bɹaʊn|adj|màu nâu|He has brown eyes.|Anh ấy có mắt nâu.||
+pink|pɪŋk|adj|màu hồng|She loves pink.|Cô bé thích màu hồng.||
+purple|ˈpɝpəl|adj|màu tím|I bought a purple bag.|Tôi mua một cái túi màu tím.||
+gray|gɹeɪ|adj|màu xám|The sky is gray.|Trời xám xịt.||
+= Hình khối và đường nét|c đọc /s/ trong circle; /ŋg/ trong triangle
+golden|ˈgoʊldən|adj|bằng vàng, màu vàng óng|The rice fields are golden.|Cánh đồng lúa vàng óng.||
+colorful|ˈkʌlɚfəl|adj|nhiều màu sắc|What a colorful market!|Khu chợ thật rực rỡ sắc màu!||
+pale|peɪl|adj|nhợt nhạt, nhạt|You look pale.|Trông bạn nhợt nhạt quá.||Đồng âm với pail.
+circle|ˈsɝkəl|n|hình tròn, vòng tròn|Draw a circle.|Vẽ một hình tròn.||Chữ c đầu đọc /s/.
+triangle|ˈtɹaɪˌæŋgəl|n|hình tam giác|A triangle has three sides.|Hình tam giác có ba cạnh.||
+rectangle|ˈɹɛkˌtæŋgəl|n|hình chữ nhật|The door is a rectangle.|Cánh cửa hình chữ nhật.||
+line|laɪn|n|đường kẻ; hàng|Draw a straight line.|Kẻ một đường thẳng.||Khác nine /naɪn/: chú ý /l/ và /n/.
+dot|dɑt|n|dấu chấm|Put a dot here.|Chấm một dấu ở đây.||
+curve|kɝv|n|đường cong|There is a curve in the road.|Đường có một khúc cua.||
+narrow|ˈnɛɹoʊ|adj|hẹp|The street is narrow.|Con phố hẹp.||
+= Đặc tính bề mặt|gh đọc /f/ trong rough; loose /s/ khác lose /z/
+shallow|ˈʃæloʊ|adj|nông, cạn|The water is shallow here.|Nước ở đây nông.||
+tight|taɪt|adj|chật, chặt|These shoes are tight.|Đôi giày này chật.||Chữ gh không đọc.
+loose|lus|adj|lỏng, rộng|My pants are loose.|Quần tôi rộng.||Âm cuối /s/; khác lose /luz/.
+hollow|ˈhɑloʊ|adj|rỗng|The tree is hollow.|Cái cây bị rỗng ruột.||
+rough|ɹʌf|adj|thô ráp; khó khăn|His hands are rough.|Tay anh ấy thô ráp.||Chữ ough đọc /ʌf/.
+sticky|ˈstɪki|adj|dính|My hands are sticky.|Tay tôi bị dính.||
+shiny|ˈʃaɪni|adj|sáng bóng|She has shiny hair.|Cô ấy có mái tóc bóng mượt.||
+wooden|ˈwʊdən|adj|bằng gỗ|We have a wooden table.|Nhà tôi có một cái bàn gỗ.||
+cotton|ˈkɑtən|n|vải bông, cotton|This shirt is cotton.|Áo này bằng vải cotton.||
+silk|sɪlk|n|lụa|Vietnamese silk is famous.|Lụa Việt Nam nổi tiếng.||Cụm cuối /lk/.
+= Chất liệu và vị trí|/ð/ trong leather; /dʒ/ cuối trong edge
+wool|wʊl|n|len|This hat is made of wool.|Mũ này làm bằng len.||
+leather|ˈlɛðɚ|n|da (thuộc)|I want a leather bag.|Tôi muốn một cái túi da.||Chữ ea đọc /ɛ/; /ð/ giữa từ.
+rubber|ˈɹʌbɚ|n|cao su|The tires are made of rubber.|Lốp xe làm bằng cao su.||
+stripe|stɹaɪp|n|sọc|I like the shirt with blue stripes.|Tôi thích chiếc áo sọc xanh.||
+plain|pleɪn|adj|trơn, đơn giản|I prefer plain clothes.|Tôi thích quần áo trơn.||Đồng âm với plane.
+oval|ˈoʊvəl|adj|hình bầu dục|The table is oval.|Cái bàn hình bầu dục.||
+edge|ɛdʒ|n|mép, rìa|Don't stand near the edge.|Đừng đứng gần mép.||Chữ dge đọc /dʒ/.
+side|saɪd|n|bên, cạnh, phía|Which side are you on?|Bạn đứng về phía nào?||
+top|tɑp|n|đỉnh, phía trên|Write your name at the top.|Viết tên ở phía trên.||
+bottom|ˈbɑtəm|n|đáy, phía dưới|The keys are at the bottom of my bag.|Chìa khóa ở dưới đáy túi tôi.||
+= Vị trí và vẻ ngoài|o đọc /ʌ/ trong front; trọng âm transparent ở âm tiết hai
+middle|ˈmɪdəl|n|giữa|Sit in the middle.|Ngồi ở giữa.||
+front|fɹʌnt|n|phía trước|Sit at the front.|Ngồi ở phía trước.||Chữ o đọc /ʌ/.
+diamond|ˈdaɪmənd|n|kim cương; hình thoi|Diamonds are expensive.|Kim cương rất đắt.||Thường đọc 2 âm tiết.
+cube|kjub|n|khối lập phương|Cut the meat into cubes.|Cắt thịt thành miếng vuông.||
+shade|ʃeɪd|n|bóng râm|Let's rest in the shade.|Nghỉ trong bóng râm đi.||
+transparent|tɹænsˈpɛɹənt|adj|trong suốt|The bottle is transparent.|Cái chai trong suốt.||
+dusty|ˈdʌsti|adj|đầy bụi|The old books are dusty.|Những cuốn sách cũ đầy bụi.||
+neat|nit|adj|gọn gàng|Keep your room neat.|Giữ phòng gọn gàng.||
+messy|ˈmɛsi|adj|bừa bộn|My desk is messy.|Bàn tôi bừa bộn.||
+fancy|ˈfænsi|adj|sang trọng, cầu kỳ|It's a fancy hotel.|Đó là một khách sạn sang trọng.||

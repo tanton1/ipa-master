@@ -1,0 +1,58 @@
+# Nhóm 20 – Sự việc, ý tưởng
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Sự việc, ý tưởng|Ý tưởng|Danh từ trừu tượng: -tion, -ity và trọng âm|Danh từ trừu tượng dùng hằng ngày để nói về lý do, lựa chọn, kết quả, cơ hội. Nhiều từ có đuôi -tion /ʃən/, -ity /əti/, -age /ɪdʒ/.|reason,decision,opportunity,structure
+= Sự việc và lý do|/θ/ trong thing, truth; -tion đọc /ʃən/
+thing|θɪŋ|n|vật, điều, việc|I have many things to do.|Tôi có nhiều việc phải làm.||Âm đầu /θ/, khác sing /sɪŋ/.
+way|weɪ|n|cách, con đường|This is the best way.|Đây là cách tốt nhất.||
+point|pɔɪnt|n|điểm, ý|That's a good point.|Ý hay đấy.||
+reason|ˈɹizən|n|lý do|What's the reason?|Lý do là gì?||Chữ s đọc /z/.
+fact|fækt|n|sự thật, thực tế|It's a fact.|Đó là sự thật.||Cụm cuối /kt/.
+truth|tɹuθ|n|sự thật|Tell me the truth.|Nói thật với tôi.||Âm cuối /θ/.
+matter|ˈmætɚ|n|vấn đề, chuyện|It's a private matter.|Đó là chuyện riêng.||
+issue|ˈɪʃu|n|vấn đề|This is a serious issue.|Đây là vấn đề nghiêm trọng.||Chữ ss đọc /ʃ/.
+situation|ˌsɪtʃuˈeɪʃən|n|tình huống|The situation is getting better.|Tình hình đang tốt lên.||
+condition|kənˈdɪʃən|n|điều kiện, tình trạng|The house is in bad condition.|Ngôi nhà xuống cấp.||
+= Lựa chọn và kết quả|/ʒ/ trong decision; cause có âm cuối /z/
+case|keɪs|n|trường hợp, vụ việc|In that case, I'll wait.|Trong trường hợp đó, tôi sẽ đợi.||
+chance|tʃæns|n|cơ hội, khả năng|Give me a chance.|Cho tôi một cơ hội.||
+choice|tʃɔɪs|n|sự lựa chọn|It's your choice.|Tùy bạn chọn.||
+decision|dɪˈsɪʒən|n|quyết định|It was a hard decision.|Đó là một quyết định khó khăn.||Chữ s đọc /ʒ/.
+purpose|ˈpɝpəs|n|mục đích|What's the purpose of this trip?|Mục đích chuyến đi này là gì?||
+aim|eɪm|n|mục tiêu|Our aim is to win.|Mục tiêu của chúng tôi là chiến thắng.||
+effect|ɪˈfɛkt|n|tác động, ảnh hưởng|Music has a calming effect.|Âm nhạc giúp tinh thần dịu lại.||Khác affect (động từ).
+cause|kɔz|n|nguyên nhân|What is the cause of the fire?|Nguyên nhân vụ cháy là gì?||Chữ s đọc /z/.
+difference|ˈdɪfɚəns|n|sự khác biệt|What's the difference?|Khác nhau ở đâu?||Thường đọc 2 âm tiết /ˈdɪf·ɹəns/.
+solution|səˈluʃən|n|giải pháp|We found a solution.|Chúng tôi đã tìm ra giải pháp.||
+= Hình thức và chi tiết|Cụm đầu /st/; qu đọc /kw/ trong quantity
+step|stɛp|n|bước|Watch your step.|Coi chừng bước chân.||
+stage|steɪdʒ|n|giai đoạn; sân khấu|We are at the final stage.|Chúng ta đang ở giai đoạn cuối.||
+form|fɔɹm|n|hình thức; mẫu đơn|Please fill in this form.|Vui lòng điền mẫu đơn này.||
+shape|ʃeɪp|n|hình dạng|What shape is it?|Nó có hình gì?||
+pattern|ˈpætɚn|n|mẫu, họa tiết, quy luật|I like the pattern on this dress.|Tôi thích họa tiết trên chiếc váy này.||
+detail|ˈditeɪl|n|chi tiết|Tell me the details.|Kể tôi nghe chi tiết.||Cũng đọc /dɪˈteɪl/.
+quantity|ˈkwɑntəti|n|số lượng|We need a large quantity of rice.|Chúng tôi cần số lượng gạo lớn.||
+feature|ˈfitʃɚ|n|đặc điểm, tính năng|This phone has many features.|Điện thoại này có nhiều tính năng.||
+aspect|ˈæspɛkt|n|khía cạnh|Consider every aspect.|Hãy xem xét mọi khía cạnh.||
+element|ˈɛləmənt|n|yếu tố, nguyên tố|Water is an important element.|Nước là một yếu tố quan trọng.||
+= Vai trò và cơ hội|Trọng âm opportunity ở âm tiết ba; -age đọc /ɪdʒ/
+factor|ˈfæktɚ|n|yếu tố|Price is a big factor.|Giá cả là yếu tố lớn.||
+role|ɹoʊl|n|vai trò, vai diễn|She plays an important role.|Cô ấy đóng vai trò quan trọng.||Đồng âm với roll.
+principle|ˈpɹɪnsəpəl|n|nguyên tắc|It's a matter of principle.|Đó là vấn đề nguyên tắc.||Đồng âm với principal.
+concept|ˈkɑnsɛpt|n|khái niệm|This is a simple concept.|Đây là một khái niệm đơn giản.||
+belief|bɪˈlif|n|niềm tin|It's my belief.|Đó là niềm tin của tôi.||Âm cuối /f/; động từ believe có /v/.
+opportunity|ˌɑpɚˈtunəti|n|cơ hội|This is a great opportunity.|Đây là cơ hội tuyệt vời.||Trọng âm âm tiết ba.
+advantage|ədˈvæntɪdʒ|n|lợi thế|Being tall is an advantage.|Cao là một lợi thế.||
+disadvantage|ˌdɪsədˈvæntɪdʒ|n|bất lợi|What are the disadvantages?|Có những bất lợi gì?||
+effort|ˈɛfɚt|n|nỗ lực|Thank you for your effort.|Cảm ơn sự nỗ lực của bạn.||
+ability|əˈbɪləti|n|khả năng|She has the ability to lead.|Cô ấy có khả năng lãnh đạo.||
+= Ảnh hưởng và thói quen|Trọng âm control ở âm tiết hai; cụm /stɹ/ trong structure
+control|kənˈtɹoʊl|n|sự kiểm soát|Everything is under control.|Mọi thứ trong tầm kiểm soát.||
+influence|ˈɪnfluəns|n|ảnh hưởng|My father had a big influence on me.|Bố có ảnh hưởng lớn đến tôi.||Trọng âm âm tiết đầu.
+impact|ˈɪmpækt|n|tác động|Social media has a big impact.|Mạng xã hội có tác động lớn.||
+trend|tɹɛnd|n|xu hướng|It's the latest trend.|Đó là xu hướng mới nhất.||
+habit|ˈhæbɪt|n|thói quen|Smoking is a bad habit.|Hút thuốc là thói quen xấu.||Âm đầu /h/ rõ.
+behavior|bɪˈheɪvjɚ|n|hành vi|His behavior is strange.|Hành vi của anh ấy lạ.||
+interest|ˈɪntɹəst|n|sự quan tâm; sở thích; lãi|Music is my main interest.|Âm nhạc là sở thích chính của tôi.||Thường đọc 3 âm tiết.
+focus|ˈfoʊkəs|n|trọng tâm|The focus is on speaking.|Trọng tâm là kỹ năng nói.||
+balance|ˈbæləns|n|sự cân bằng|Keep your balance.|Giữ thăng bằng.||
+structure|ˈstɹʌktʃɚ|n|cấu trúc|Look at the structure of the sentence.|Hãy nhìn cấu trúc của câu.||

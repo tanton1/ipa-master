@@ -3,9 +3,10 @@
 import Link from 'next/link';
 import { useEffect, useMemo, useState } from 'react';
 import { GROUPS } from '@/data/groups';
+import { STAGES } from '@/data/stages';
 import { VEI } from '@/data/vei';
 import { PHONEMES } from '@/data/phonemes';
-import { useAppState, useHydrated, learnedSlugs, STATUS_LABEL, type WordStatus } from '@/lib/store';
+import { useAppState, useHydrated, learnedSlugs, todayKey, STATUS_LABEL, type WordStatus } from '@/lib/store';
 import { WORDS, wordsOfGroup } from '@/lib/curriculum';
 import { DIFFICULTY_LABEL } from '@/lib/classify';
 import { ProgressBar } from './ProgressBar';
@@ -28,11 +29,13 @@ export function GroupsClient() {
   const [phoneme, setPhoneme] = useState('');
   const [status, setStatus] = useState('');
   const [gold, setGold] = useState(false);
+  const [due, setDue] = useState(false);
+  const [saved, setSaved] = useState(false);
 
   useEffect(() => {
     const p = new URLSearchParams(window.location.search);
-    const c = p.get('code'); const ph = p.get('phoneme'); const lv = p.get('level'); const st = p.get('status');
-    if (c || ph || lv || st) { setView('library'); if (c) setCode(c); if (ph) setPhoneme(ph); if (lv) setLevel(lv); if (st) setStatus(st); }
+    const c = p.get('code'); const ph = p.get('phoneme'); const lv = p.get('level'); const st = p.get('status'); const d = p.get('due'); const sv = p.get('saved');
+    if (c || ph || lv || st || d || sv) { setView('library'); if (c) setCode(c); if (ph) setPhoneme(ph); if (lv) setLevel(lv); if (st) setStatus(st); if (d) setDue(true); if (sv) setSaved(true); }
   }, []);
 
   const results = useMemo(() => {
@@ -44,15 +47,17 @@ export function GroupsClient() {
       if (code && !w.errorCodes.includes(code)) return false;
       if (phoneme && !w.phonemes.includes(phoneme)) return false;
       if (gold && !w.gold) return false;
+      if (saved && !s.saved.includes(w.slug)) return false;
+      if (due) { const p = s.words[w.slug]; if (!p || p.status === 'new' || p.due > todayKey()) return false; }
       if (status) {
         const st = s.words[w.slug]?.status ?? 'new';
         if (st !== status) return false;
       }
       return true;
     });
-  }, [q, group, level, code, phoneme, status, gold, s.words]);
+  }, [q, group, level, code, phoneme, status, gold, due, saved, s.words, s.saved]);
 
-  const anyFilter = q || group || level || code || phoneme || status || gold;
+  const anyFilter = q || group || level || code || phoneme || status || gold || due || saved;
 
   return (
     <div className="flex flex-col gap-4">
@@ -61,7 +66,7 @@ export function GroupsClient() {
           <p className="text-sm text-muted">Đã học</p>
           <p className="font-display text-2xl font-extrabold tabular-nums">{hydrated ? learnedTotal : '–'}<span className="text-base font-medium text-muted">/{WORDS.length}</span></p>
         </div>
-        <ProgressBar value={learnedTotal} max={WORDS.length} className="mt-2" label="Tổng tiến độ 500 từ" />
+        <ProgressBar value={learnedTotal} max={WORDS.length} className="mt-2" label={`Tổng tiến độ ${WORDS.length} từ`} />
       </section>
 
       <div role="tablist" className="grid grid-cols-2 rounded-xl bg-surface-2 p-1 text-sm font-semibold">
@@ -72,8 +77,21 @@ export function GroupsClient() {
 
       {view === 'topics' ? (
         <>
+          {STAGES.map((st) => {
+            const stageGroups = GROUPS.filter((g) => g.id >= st.from && g.id <= st.to);
+            if (!stageGroups.length) return null;
+            const stageWords = WORDS.filter((w) => w.group >= st.from && w.group <= st.to);
+            const stageLearned = stageWords.filter((w) => s.words[w.slug] && s.words[w.slug].status !== 'new').length;
+            return (
+          <section key={st.id} aria-labelledby={`stage-${st.id}`} className="flex flex-col gap-3">
+            <div className="px-1">
+              <p className="eyebrow text-primary">Tuần {st.from}–{st.to} • {stageWords.length} từ</p>
+              <h2 id={`stage-${st.id}`} className="mt-0.5 text-xl font-extrabold">{st.title}</h2>
+              <p className="mt-1 text-sm leading-relaxed text-muted">{st.description}</p>
+              <ProgressBar value={stageLearned} max={stageWords.length} className="mt-2 h-1.5" color="accent" label={`Tiến độ ${st.title}`} />
+            </div>
           <ul className="flex flex-col gap-3">
-            {GROUPS.map((g) => {
+            {stageGroups.map((g) => {
               const words = wordsOfGroup(g.id);
               const learned = words.filter((w) => s.words[w.slug] && s.words[w.slug].status !== 'new').length;
               return (
@@ -96,8 +114,11 @@ export function GroupsClient() {
               );
             })}
           </ul>
+          </section>
+            );
+          })}
           <p className="text-xs leading-relaxed text-muted">
-            Bộ 500 từ được tuyển chọn theo mục đích sư phạm, chưa phải 500 từ tần suất cao nhất. Dữ liệu tần suất NGSL-Spoken (CC BY-SA 4.0) chưa được gắn. Toàn bộ phiên âm đang ở trạng thái nháp, cần giáo viên ngữ âm đối soát trước khi phát hành.
+            Giai đoạn 1 gồm 500 từ tuyển chọn theo mục đích sư phạm. Giai đoạn 2 và 3 bổ sung 2500 từ thông dụng xếp theo chủ đề, ước lượng theo mức độ phổ biến, chưa đối chiếu với danh sách tần suất NGSL-Spoken. Mỗi từ có cụm từ hay dùng kèm câu mẫu. Toàn bộ phiên âm, cụm từ và câu mẫu đang ở trạng thái nháp, cần giáo viên đối soát trước khi phát hành.
           </p>
         </>
       ) : (
@@ -123,13 +144,15 @@ export function GroupsClient() {
             <label className="text-xs text-muted">Trạng thái
               <select value={status} onChange={(e) => setStatus(e.target.value)} className={SELECT}><option value="">Tất cả</option>{(Object.keys(STATUS_LABEL) as WordStatus[]).map((k) => <option key={k} value={k}>{STATUS_LABEL[k]}</option>)}</select>
             </label>
-            <label className="flex items-end gap-2 pb-2 text-sm">
-              <input type="checkbox" checked={gold} onChange={(e) => setGold(e.target.checked)} className="size-5 accent-[var(--c-primary)]" /> Chỉ 30 bài chuẩn
-            </label>
+          </div>
+          <div className="flex flex-wrap gap-x-4 gap-y-2 text-sm">
+            <label className="flex items-center gap-2"><input type="checkbox" checked={gold} onChange={(e) => setGold(e.target.checked)} className="size-5 accent-[var(--c-primary)]" /> 30 bài chuẩn</label>
+            <label className="flex items-center gap-2"><input type="checkbox" checked={due} onChange={(e) => setDue(e.target.checked)} className="size-5 accent-[var(--c-primary)]" /> Đến hạn ôn</label>
+            <label className="flex items-center gap-2"><input type="checkbox" checked={saved} onChange={(e) => setSaved(e.target.checked)} className="size-5 accent-[var(--c-primary)]" /> Đã lưu</label>
           </div>
           <div className="flex items-center justify-between text-sm">
             <p className="text-muted"><span className="font-semibold text-ink tabular-nums">{results.length}</span> từ</p>
-            {anyFilter ? <button type="button" onClick={() => { setQ(''); setGroup(''); setLevel(''); setCode(''); setPhoneme(''); setStatus(''); setGold(false); }} className="font-semibold text-primary">Xoá bộ lọc</button> : null}
+            {anyFilter ? <button type="button" onClick={() => { setQ(''); setGroup(''); setLevel(''); setCode(''); setPhoneme(''); setStatus(''); setGold(false); setDue(false); setSaved(false); }} className="font-semibold text-primary">Xoá bộ lọc</button> : null}
           </div>
           <ul className="flex flex-col gap-2">
             {results.slice(0, 120).map((w) => <WordRow key={w.slug} w={w} index={w.id} showMeta />)}

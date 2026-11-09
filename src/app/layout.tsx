@@ -28,7 +28,7 @@ const noto = Noto_Sans({
 export const metadata: Metadata = {
   title: { default: 'IPA Master – Học phát âm tiếng Anh cho người Việt', template: '%s · IPA Master' },
   description:
-    'Học phát âm tiếng Anh từ gốc: nhận diện âm IPA, so sánh với tiếng Việt, quan sát khẩu hình, ghi âm và luyện 500 từ cốt lõi.',
+    'Học phát âm tiếng Anh từ gốc: nhận diện âm IPA, so sánh với tiếng Việt, quan sát khẩu hình, ghi âm và luyện 3000 từ thông dụng kèm cụm từ hay dùng và câu mẫu.',
   applicationName: 'IPA Master',
   manifest: '/manifest.webmanifest',
   appleWebApp: { capable: true, title: 'IPA Master', statusBarStyle: 'default' },

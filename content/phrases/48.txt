@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+object|everyday object|đồ vật thường ngày|A spoon is an everyday object.|Cái thìa là một đồ vật thường ngày.
+item|news item|mẩu tin|I read a news item about the flood.|Tôi đọc một mẩu tin về trận lũ.
+stuff|my stuff|đồ đạc của tôi|Don't touch my stuff.|Đừng đụng vào đồ của tôi.
+equipment|sports equipment|dụng cụ thể thao|The school bought new sports equipment.|Trường mua dụng cụ thể thao mới.
+instrument|musical instrument|nhạc cụ|Do you play a musical instrument?|Bạn có chơi nhạc cụ nào không?
+container|plastic container|hộp nhựa|Put the leftovers in a plastic container.|Cho đồ thừa vào hộp nhựa.
+package|holiday package|gói du lịch trọn gói|We bought a holiday package to Thailand.|Chúng tôi mua gói du lịch trọn gói đi Thái Lan.
+parcel|send a parcel|gửi bưu kiện|I need to send a parcel to my sister.|Tôi cần gửi một bưu kiện cho chị.
+envelope|stamped envelope|phong bì dán tem|Put the letter in a stamped envelope.|Cho lá thư vào phong bì đã dán tem.
+stamp|postage stamp|tem thư|I collect old postage stamps.|Tôi sưu tầm tem thư cũ.
+label|price label|nhãn giá|Check the price label.|Kiểm tra nhãn giá đi.
+tag|name tag|thẻ tên|Please wear your name tag.|Vui lòng đeo thẻ tên.
+sticker|sticker on|nhãn dán trên|There is a sticker on the box.|Có nhãn dán trên hộp.
+board|on board|trên tàu, trên máy bay|Welcome on board.|Chào mừng quý khách lên máy bay.
+sheet|a sheet of paper|một tờ giấy|Give me a sheet of paper.|Đưa tôi một tờ giấy.
+glue|super glue|keo siêu dính|Fix it with super glue.|Dán nó bằng keo siêu dính.
+tape|tape measure|thước dây|Use a tape measure.|Dùng thước dây.
+string|a piece of string|một sợi dây|Tie it with a piece of string.|Buộc nó bằng một sợi dây.
+chain|chain store|chuỗi cửa hàng|Circle K is a chain store.|Circle K là một chuỗi cửa hàng.
+net|fishing net|lưới đánh cá|The fishermen pulled in the fishing net.|Ngư dân kéo lưới lên.
+pipe|water pipe|ống nước|A water pipe broke.|Một ống nước bị vỡ.
+tube|test tube|ống nghiệm|Pour the liquid into a test tube.|Rót chất lỏng vào ống nghiệm.
+tank|fish tank|bể cá|We have a fish tank in the living room.|Nhà tôi có một bể cá ở phòng khách.
+brick|brick wall|tường gạch|There is a brick wall around the garden.|Quanh vườn có một bức tường gạch.
+cement|bag of cement|bao xi măng|Carry this bag of cement.|Vác bao xi măng này đi.
+concrete|concrete floor|sàn bê tông|The garage has a concrete floor.|Ga-ra có sàn bê tông.
+tile|floor tile|gạch lát nền|We chose white floor tiles.|Chúng tôi chọn gạch lát nền màu trắng.
+column|newspaper column|chuyên mục báo|She writes a newspaper column.|Cô ấy viết một chuyên mục trên báo.
+elevator|take the elevator|đi thang máy|Let's take the elevator.|Mình đi thang máy nhé.
+escalator|on the escalator|trên thang cuốn|Stand on the right on the escalator.|Đứng bên phải trên thang cuốn.
+screw|loose screw|ốc lỏng|There is a loose screw in the chair.|Ghế có một con ốc bị lỏng.
+lid|put the lid on|đậy nắp|Put the lid on the pot.|Đậy nắp nồi lại.
+sack|sack of rice|bao gạo|He carried a sack of rice.|Anh ấy vác một bao gạo.
+pile|a pile of|một đống|There is a pile of books on the desk.|Có một đống sách trên bàn.
+row|in a row|liên tiếp|It rained three days in a row.|Trời mưa ba ngày liên tiếp.
+bin|recycling bin|thùng rác tái chế|Put plastic bottles in the recycling bin.|Bỏ chai nhựa vào thùng tái chế.
+mat|yoga mat|thảm tập yoga|I bought a new yoga mat.|Tôi mua thảm tập yoga mới.
+cushion|sofa cushion|gối tựa ghế sofa|The cat sleeps on the sofa cushion.|Con mèo ngủ trên gối tựa ghế sofa.
+hook|off the hook|thoát tội|You are off the hook this time.|Lần này bạn thoát rồi.
+cabinet|kitchen cabinet|tủ bếp|The cups are in the kitchen cabinet.|Cốc ở trong tủ bếp.
+mattress|soft mattress|nệm mềm|I can't sleep on a soft mattress.|Tôi không ngủ được trên nệm mềm.
+jug|water jug|bình nước|Fill the water jug, please.|Đổ đầy bình nước giúp nhé.
+cart|shopping cart|xe đẩy mua hàng|Put it in the shopping cart.|Bỏ nó vào xe đẩy.
+trolley|luggage trolley|xe đẩy hành lý|Get a luggage trolley at the airport.|Lấy xe đẩy hành lý ở sân bay.
+wheelchair|in a wheelchair|ngồi xe lăn|My grandfather is in a wheelchair.|Ông tôi ngồi xe lăn.
+flag|national flag|quốc kỳ|The national flag of Vietnam is red with a yellow star.|Quốc kỳ Việt Nam màu đỏ có ngôi sao vàng.
+ribbon|red ribbon|dải ruy băng đỏ|Tie a red ribbon on the gift.|Buộc một dải ruy băng đỏ lên món quà.
+balloon|blow up a balloon|thổi bóng bay|Help me blow up a balloon.|Giúp tôi thổi bóng bay.
+kite|fly a kite|thả diều|Let's fly a kite on the beach.|Thả diều trên bãi biển đi.
+bell|ring a bell|nghe quen quen|Does this name ring a bell?|Cái tên này nghe có quen không?

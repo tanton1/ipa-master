@@ -1,0 +1,58 @@
+# Nhóm 57 – Trạng từ nâng cao
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Trạng từ nâng cao|Trạng từ 2|Đuôi -ly sau phụ âm và từ nối trang trọng có /ð/|Trạng từ chỉ mức độ, tần suất, thái độ và từ nối dùng trong bài viết: furthermore, nevertheless, eventually. Luyện ghép đuôi -ly vào phụ âm cuối (mostly, honestly, directly) không bỏ âm.|nevertheless,absolutely,occasionally,unfortunately
+= Từ nối trang trọng|/ð/ trong thus, furthermore, nevertheless
+least|list|adv|ít nhất|It's the least I can do.|Đó là điều tối thiểu tôi có thể làm.||Khác list /lɪst/.
+upon|əˈpɑn|prep|trên, khi|Once upon a time…|Ngày xửa ngày xưa…||
+nor|nɔɹ|conj|cũng không|Neither he nor I knew.|Cả anh ấy lẫn tôi đều không biết.||
+thus|ðʌs|adv|do đó|He was ill and thus stayed home.|Anh ấy ốm nên ở nhà.||Âm đầu /ð/.
+indeed|ɪnˈdid|adv|quả thật|It was indeed a great day.|Đó quả thật là một ngày tuyệt vời.||
+furthermore|ˈfɝðɚˌmɔɹ|adv|hơn nữa|Furthermore, the price is low.|Hơn nữa, giá lại thấp.||
+moreover|mɔɹˈoʊvɚ|adv|hơn nữa|Moreover, it's free.|Hơn nữa, nó miễn phí.||
+nevertheless|ˌnɛvɚðəˈlɛs|adv|tuy nhiên|It was hard. Nevertheless, we finished.|Việc đó khó. Tuy vậy, chúng tôi đã hoàn thành.||Trọng âm âm tiết cuối.
+afterward|ˈæftɚwɚd|adv|sau đó|We had dinner and went home afterward.|Chúng tôi ăn tối rồi sau đó về nhà.||
+nowadays|ˈnaʊəˌdeɪz|adv|ngày nay|Nowadays, everyone has a phone.|Ngày nay ai cũng có điện thoại.||
+= Hướng và vị trí|ea đọc /ɛ/ trong ahead; trọng âm absolutely ở âm tiết ba
+forward|ˈfɔɹwɚd|adv|về phía trước|Step forward, please.|Mời bước lên phía trước.||
+backward|ˈbækwɚd|adv|về phía sau|Don't walk backward.|Đừng đi giật lùi.||
+ahead|əˈhɛd|adv|phía trước|Go straight ahead.|Đi thẳng về phía trước.||Chữ ea đọc /ɛ/.
+aside|əˈsaɪd|adv|sang một bên|Please step aside.|Vui lòng tránh sang một bên.||
+apart|əˈpɑɹt|adv|cách xa nhau; rời ra|The two towns are ten miles apart.|Hai thị trấn cách nhau mười dặm.||
+upstairs|ˌʌpˈstɛɹz|adv|trên lầu|My room is upstairs.|Phòng tôi ở trên lầu.||
+downstairs|ˌdaʊnˈstɛɹz|adv|dưới nhà|The kitchen is downstairs.|Bếp ở dưới nhà.||
+indoors|ˌɪnˈdɔɹz|adv|trong nhà|Let's stay indoors today.|Hôm nay ở trong nhà thôi.||
+outdoors|ˌaʊtˈdɔɹz|adv|ngoài trời|We ate outdoors.|Chúng tôi ăn ngoài trời.||
+absolutely|ˌæbsəˈlutli|adv|tuyệt đối, hoàn toàn|Absolutely!|Tất nhiên rồi!||Trọng âm âm tiết ba.
+= Mức độ|gh câm trong highly, slightly; cụm /stl/ trong mostly
+definitely|ˈdɛfənətli|adv|chắc chắn|I'll definitely come.|Tôi chắc chắn sẽ đến.||
+totally|ˈtoʊtəli|adv|hoàn toàn|I totally agree.|Tôi hoàn toàn đồng ý.||
+completely|kəmˈplitli|adv|hoàn toàn|I completely forgot.|Tôi quên mất tiêu.||
+extremely|ɪkˈstɹimli|adv|cực kỳ|It's extremely cold.|Trời cực kỳ lạnh.||
+highly|ˈhaɪli|adv|rất, cao|She is highly educated.|Cô ấy có học vấn cao.||Chữ gh không đọc.
+mostly|ˈmoʊstli|adv|phần lớn|The students are mostly girls.|Học sinh phần lớn là nữ.||Đọc đủ /st/ rồi /l/.
+mainly|ˈmeɪnli|adv|chủ yếu|I eat mainly vegetables.|Tôi chủ yếu ăn rau.||
+partly|ˈpɑɹtli|adv|một phần|It's partly my fault.|Đó một phần là lỗi của tôi.||
+slightly|ˈslaɪtli|adv|hơi, một chút|I'm slightly tired.|Tôi hơi mệt.||Chữ gh không đọc.
+fairly|ˈfɛɹli|adv|khá; công bằng|The test was fairly easy.|Bài kiểm tra khá dễ.||
+= Tần suất và kết quả|/ʒ/ trong occasionally; /dʒ/ trong gradually
+hardly|ˈhɑɹdli|adv|hầu như không|I can hardly hear you.|Tôi hầu như không nghe thấy bạn.||Khác hard (chăm chỉ).
+barely|ˈbɛɹli|adv|vừa đủ, suýt không|I barely slept last night.|Đêm qua tôi gần như không ngủ.||
+frequently|ˈfɹikwəntli|adv|thường xuyên|He frequently travels for work.|Anh ấy thường xuyên đi công tác.||
+occasionally|əˈkeɪʒənəli|adv|thỉnh thoảng|We occasionally eat out.|Thỉnh thoảng chúng tôi đi ăn ngoài.||Chữ s đọc /ʒ/.
+normally|ˈnɔɹməli|adv|bình thường, thường|I normally wake up at six.|Tôi thường dậy lúc sáu giờ.||
+generally|ˈdʒɛnɚəli|adv|nói chung|Generally, I agree.|Nói chung tôi đồng ý.||
+eventually|ɪˈvɛntʃuəli|adv|cuối cùng|He eventually found a job.|Cuối cùng anh ấy cũng tìm được việc.||
+gradually|ˈgɹædʒuəli|adv|dần dần|The weather gradually got warmer.|Thời tiết dần ấm lên.||
+directly|dəˈɹɛktli|adv|trực tiếp|Talk to him directly.|Nói chuyện trực tiếp với anh ấy.||
+fortunately|ˈfɔɹtʃənətli|adv|may mắn thay|Fortunately, it didn't rain.|May mà trời không mưa.||
+= Thái độ người nói|h câm trong honestly; quietly /ˈkwaɪət/ khác quite /kwaɪt/
+unfortunately|ʌnˈfɔɹtʃənətli|adv|thật không may|Unfortunately, the shop is closed.|Tiếc là cửa hàng đóng cửa.||
+luckily|ˈlʌkɪli|adv|may thay|Luckily, I found my keys.|May mà tôi tìm thấy chìa khóa.||
+hopefully|ˈhoʊpfəli|adv|hy vọng là|Hopefully, it will be sunny.|Hy vọng trời sẽ nắng.||
+obviously|ˈɑbviəsli|adv|rõ ràng|Obviously, he was wrong.|Rõ ràng là anh ấy sai.||
+seriously|ˈsɪɹiəsli|adv|nghiêm túc; thật sao|Seriously? You won?|Thật á? Bạn thắng rồi?||
+honestly|ˈɑnɪstli|adv|thật lòng|Honestly, I don't know.|Thật lòng tôi không biết.||Chữ h không đọc.
+basically|ˈbeɪsɪkli|adv|về cơ bản|Basically, it's easy.|Về cơ bản thì dễ.||Chữ ally đọc /li/.
+apparently|əˈpɛɹəntli|adv|hình như|Apparently, she moved to Hanoi.|Hình như cô ấy đã chuyển ra Hà Nội.||
+carefully|ˈkɛɹfəli|adv|cẩn thận|Drive carefully.|Lái xe cẩn thận.||
+quietly|ˈkwaɪətli|adv|lặng lẽ, khẽ|She closed the door quietly.|Cô ấy khẽ đóng cửa.||

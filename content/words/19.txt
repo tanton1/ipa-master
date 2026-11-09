@@ -1,0 +1,58 @@
+# Nhóm 19 – Trạng từ và từ nối
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Trạng từ và từ nối|Trạng từ|Đuôi -ly, âm /ð/ trong từ nối và cách đọc once, quite|Trạng từ chỉ tần suất, mức độ, thời điểm và các từ nối câu: although, unless, however. Đuôi -ly luôn đọc /li/, không phải "lai".|actually,although,however,immediately
+= Trạng từ -ly 1|Đuôi -ly đọc /li/; al- đọc /ɔl/ trong already, almost
+already|ɔlˈɹɛdi|adv|đã … rồi|I already ate.|Tôi ăn rồi.||
+almost|ˈɔlmoʊst|adv|gần như|It's almost ten.|Gần mười giờ rồi.||
+anyway|ˈɛniˌweɪ|adv|dù sao|Anyway, let's go.|Dù sao thì đi thôi.||
+actually|ˈæktʃuəli|adv|thật ra|Actually, I'm a teacher.|Thật ra tôi là giáo viên.||Chữ t đọc /tʃ/.
+especially|ɪˈspɛʃəli|adv|đặc biệt là|I love fruit, especially mango.|Tôi thích trái cây, nhất là xoài.||
+finally|ˈfaɪnəli|adv|cuối cùng|We finally arrived.|Cuối cùng chúng tôi cũng đến.||
+probably|ˈpɹɑbəbli|adv|có lẽ|It will probably rain.|Có lẽ trời sẽ mưa.||Thường đọc nhanh /ˈpɹɑbli/.
+quickly|ˈkwɪkli|adv|nhanh chóng|Come quickly!|Đến nhanh lên!||
+slowly|ˈsloʊli|adv|chậm rãi|Drive slowly.|Lái xe chậm thôi.||
+suddenly|ˈsʌdənli|adv|đột nhiên|Suddenly, the lights went out.|Đột nhiên đèn tắt.||
+= Tần suất và thời điểm|/ʒ/ trong usually; /dʒ/ trong just khác /j/ trong yet
+usually|ˈjuʒuəli|adv|thường thường|I usually walk to work.|Tôi thường đi bộ đi làm.||Chữ s đọc /ʒ/.
+rarely|ˈɹɛɹli|adv|hiếm khi|He rarely calls.|Anh ấy hiếm khi gọi.||
+recently|ˈɹisəntli|adv|gần đây|I moved here recently.|Tôi mới chuyển đến đây.||Cụm /ntl/.
+soon|sun|adv|sớm, chẳng bao lâu|See you soon.|Hẹn sớm gặp lại.||
+still|stɪl|adv|vẫn|I still love you.|Anh vẫn yêu em.||
+yet|jɛt|adv|chưa, vẫn chưa|I haven't finished yet.|Tôi chưa xong.||Âm đầu /j/, khác jet /dʒɛt/.
+just|dʒʌst|adv|vừa mới; chỉ|I just got home.|Tôi vừa về đến nhà.||
+only|ˈoʊnli|adv|chỉ|I have only one brother.|Tôi chỉ có một anh trai.||
+even|ˈivən|adv|thậm chí|Even children know that.|Ngay cả trẻ con cũng biết.||
+ever|ˈɛvɚ|adv|từng|Have you ever seen snow?|Bạn đã từng thấy tuyết chưa?||
+= Số lần và lựa chọn|once đọc /wʌns/; /ð/ trong together, rather
+once|wʌns|adv|một lần|I've been there once.|Tôi đã đến đó một lần.||Đọc /wʌns/, có âm /w/ dù viết o.
+twice|twaɪs|adv|hai lần|I called her twice.|Tôi gọi cô ấy hai lần.||
+together|təˈgɛðɚ|adv|cùng nhau|Let's eat together.|Cùng ăn nhé.||
+away|əˈweɪ|adv|đi xa, rời đi|Go away!|Đi đi!||
+else|ɛls|adv|khác, nữa|What else do you need?|Bạn cần gì nữa?||Cụm cuối /ls/.
+instead|ɪnˈstɛd|adv|thay vào đó|Let's walk instead.|Thay vào đó mình đi bộ đi.||Chữ ea đọc /ɛ/.
+perhaps|pɚˈhæps|adv|có lẽ|Perhaps you're right.|Có lẽ bạn đúng.||
+quite|kwaɪt|adv|khá|It's quite cold today.|Hôm nay khá lạnh.||Khác quiet /ˈkwaɪət/ (yên tĩnh).
+rather|ˈɹæðɚ|adv|khá; thà|It's rather expensive.|Hơi đắt.||
+too|tu|adv|quá; cũng|It's too hot.|Nóng quá.||Đồng âm với two.
+= Từ nối|/ð/ trong than, although, whether; trọng âm however ở âm tiết hai
+so|soʊ|adv|vì vậy, rất|I'm so happy.|Tôi rất vui.||Đồng âm với sew.
+than|ðæn|conj|hơn (so sánh)|She is taller than me.|Cô ấy cao hơn tôi.||Trong câu thường đọc nhẹ /ðən/.
+although|ɔlˈðoʊ|conj|mặc dù|Although it rained, we went out.|Dù trời mưa, chúng tôi vẫn ra ngoài.||Chữ gh không đọc.
+unless|ənˈlɛs|conj|trừ khi|Don't call unless it's urgent.|Đừng gọi trừ khi khẩn cấp.||
+until|ənˈtɪl|conj|cho đến khi|Wait until I come.|Đợi đến khi tôi tới.||
+while|waɪl|conj|trong khi|I listen to music while I cook.|Tôi nghe nhạc trong khi nấu ăn.||
+whether|ˈwɛðɚ|conj|liệu, có … hay không|I don't know whether he will come.|Tôi không biết anh ấy có đến không.||Đồng âm với weather.
+however|haʊˈɛvɚ|adv|tuy nhiên|However, it's not easy.|Tuy nhiên, việc đó không dễ.||
+therefore|ˈðɛɹfɔɹ|adv|vì vậy|I think, therefore I am.|Tôi tư duy, nên tôi tồn tại.||
+besides|bɪˈsaɪdz|adv|ngoài ra|Besides, it's too late.|Hơn nữa, đã quá muộn rồi.||Cụm cuối /dz/.
+= Trạng từ -ly 2|x đọc /gz/ trong exactly; cụm /mpl/ trong simply
+otherwise|ˈʌðɚˌwaɪz|adv|nếu không thì|Hurry, otherwise you'll be late.|Nhanh lên, không thì muộn.||
+nearly|ˈnɪɹli|adv|gần như|I nearly fell.|Tôi suýt ngã.||
+exactly|ɪgˈzæktli|adv|chính xác|Exactly!|Chính xác!||Chữ x đọc /gz/.
+certainly|ˈsɝtənli|adv|chắc chắn|I will certainly come.|Tôi chắc chắn sẽ đến.||
+clearly|ˈklɪɹli|adv|rõ ràng|Please speak clearly.|Làm ơn nói rõ.||
+easily|ˈizəli|adv|dễ dàng|You can easily do it.|Bạn có thể làm dễ dàng.||Chữ s đọc /z/.
+simply|ˈsɪmpli|adv|đơn giản là|It's simply the best.|Đơn giản là tốt nhất.||
+immediately|ɪˈmidiətli|adv|ngay lập tức|Call me immediately.|Gọi tôi ngay.||
+everywhere|ˈɛvɹiˌwɛɹ|adv|khắp nơi|I looked everywhere.|Tôi đã tìm khắp nơi.||
+somewhere|ˈsʌmˌwɛɹ|adv|đâu đó|Let's go somewhere quiet.|Đi đâu đó yên tĩnh đi.||

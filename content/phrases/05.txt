@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+house|house party|tiệc tại nhà|We are having a house party on Saturday.|Thứ Bảy chúng tôi tổ chức tiệc tại nhà.
+home|feel at home|cảm thấy như ở nhà|Please feel at home.|Cứ tự nhiên như ở nhà nhé.
+room|living room|phòng khách|We watch TV in the living room.|Chúng tôi xem ti vi ở phòng khách.
+door|next door|nhà bên cạnh|She lives next door.|Cô ấy sống ở nhà bên cạnh.
+window|window seat|ghế cạnh cửa sổ|I'd like a window seat.|Cho tôi ghế cạnh cửa sổ.
+wall|on the wall|trên tường|There is a clock on the wall.|Trên tường có một chiếc đồng hồ.
+floor|ground floor|tầng trệt|The shop is on the ground floor.|Cửa hàng ở tầng trệt.
+table|dinner table|bàn ăn|Please sit at the dinner table.|Mời ngồi vào bàn ăn.
+chair|take a chair|mời ngồi|Please take a chair.|Mời ngồi.
+bed|make the bed|dọn giường|Make the bed before you go to school.|Dọn giường trước khi đi học.
+kitchen|kitchen table|bàn bếp|We eat breakfast at the kitchen table.|Chúng tôi ăn sáng ở bàn bếp.
+bathroom|bathroom sink|bồn rửa mặt|The bathroom sink is broken.|Bồn rửa mặt bị hỏng.
+light|turn on the light|bật đèn|Turn on the light, please.|Bật đèn lên giúp với.
+key|car key|chìa khóa xe|I can't find my car key.|Tôi không tìm thấy chìa khóa xe.
+book|book a table|đặt bàn|Let's book a table for dinner.|Mình đặt bàn ăn tối nhé.
+pen|pen pal|bạn qua thư|I have a pen pal in Japan.|Tôi có một người bạn qua thư ở Nhật.
+paper|paper bag|túi giấy|Can I have a paper bag?|Cho tôi một cái túi giấy.
+bag|school bag|cặp sách|My school bag is heavy.|Cặp sách của tôi nặng.
+box|lunch box|hộp cơm|My mother packed my lunch box.|Mẹ chuẩn bị hộp cơm cho tôi.
+clock|around the clock|suốt ngày đêm|Nurses work around the clock.|Y tá làm việc suốt ngày đêm.
+picture|take a picture|chụp ảnh|Can I take a picture here?|Tôi chụp ảnh ở đây được không?
+television|on television|trên truyền hình|I saw her on television.|Tôi thấy cô ấy trên truyền hình.
+computer|computer game|trò chơi máy tính|He plays computer games all night.|Anh ấy chơi game máy tính cả đêm.
+phone|phone number|số điện thoại|What's your phone number?|Số điện thoại của bạn là gì?
+water|a glass of water|một cốc nước|Can I have a glass of water?|Cho tôi xin một cốc nước nhé?
+cup|a cup of coffee|một tách cà phê|Let's have a cup of coffee.|Uống một tách cà phê nhé.
+glass|wine glass|ly rượu vang|Be careful with the wine glass.|Cẩn thận với ly rượu.
+plate|paper plate|đĩa giấy|We use paper plates for the picnic.|Chúng tôi dùng đĩa giấy cho buổi dã ngoại.
+bottle|water bottle|chai nước|Don't forget your water bottle.|Đừng quên chai nước.
+knife|knife and fork|dao và nĩa|Do you eat with a knife and fork?|Bạn ăn bằng dao nĩa à?
+spoon|a spoon of sugar|một thìa đường|Add a spoon of sugar.|Thêm một thìa đường.
+fork|use a fork|dùng nĩa|I can't use chopsticks, so I use a fork.|Tôi không dùng đũa được nên dùng nĩa.
+clothes|change clothes|thay quần áo|I need to change clothes.|Tôi cần thay quần áo.
+shirt|white T-shirt|áo phông trắng|He always wears a white T-shirt.|Anh ấy luôn mặc áo phông trắng.
+shoes|running shoes|giày chạy bộ|I need new running shoes.|Tôi cần giày chạy bộ mới.
+money|make money|kiếm tiền|He wants to make money online.|Anh ấy muốn kiếm tiền trên mạng.
+card|birthday card|thiệp sinh nhật|I made a birthday card for Mom.|Tôi làm thiệp sinh nhật tặng mẹ.
+gift|gift shop|cửa hàng quà tặng|There is a gift shop at the airport.|Ở sân bay có cửa hàng quà tặng.
+toy|toy car|ô tô đồ chơi|My son loves his toy car.|Con trai tôi mê chiếc ô tô đồ chơi.
+mirror|look in the mirror|soi gương|Look in the mirror and smile.|Soi gương và mỉm cười đi.
+towel|bath towel|khăn tắm|Can I have a clean bath towel?|Cho tôi một chiếc khăn tắm sạch.
+soap|soap and water|xà phòng và nước|Wash your hands with soap and water.|Rửa tay bằng xà phòng và nước.
+garden|vegetable garden|vườn rau|We have a small vegetable garden.|Nhà tôi có một vườn rau nhỏ.
+roof|on the roof|trên mái nhà|A cat is sleeping on the roof.|Một con mèo đang ngủ trên mái nhà.
+stairs|go up the stairs|lên cầu thang|Go up the stairs to the second floor.|Lên cầu thang đến tầng hai.
+lamp|desk lamp|đèn bàn|I read with a desk lamp.|Tôi đọc sách bằng đèn bàn.
+sofa|sofa bed|ghế sofa giường|You can sleep on the sofa bed.|Bạn có thể ngủ trên ghế sofa giường.
+pillow|soft pillow|gối mềm|I like a soft pillow.|Tôi thích gối mềm.
+blanket|warm blanket|chăn ấm|I need a warm blanket.|Tôi cần một cái chăn ấm.
+basket|shopping basket|giỏ mua hàng|Take a shopping basket.|Lấy một cái giỏ mua hàng.

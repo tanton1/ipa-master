@@ -1,0 +1,58 @@
+# Nhóm 40 – Công nghệ, internet 2
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Công nghệ, internet 2|Công nghệ 2|Từ mượn công nghệ đọc đúng kiểu Anh-Mỹ: wifi, emoji, selfie|Thiết bị, tài khoản, thao tác trên máy và mạng xã hội. Nhiều từ người Việt dùng hằng ngày nhưng hay đọc sai trọng âm: device, security, notification.|smartphone,microphone,notification,emoji
+= Thiết bị|ph đọc /f/ trong headphones, microphone; trọng âm device ở âm tiết hai
+device|dɪˈvaɪs|n|thiết bị|Turn off your devices.|Tắt các thiết bị của bạn.||Trọng âm âm tiết hai.
+laptop|ˈlæpˌtɑp|n|máy tính xách tay|My laptop is slow.|Laptop của tôi chậm.||
+tablet|ˈtæblət|n|máy tính bảng; viên thuốc|My son plays games on a tablet.|Con trai tôi chơi game trên máy tính bảng.||
+smartphone|ˈsmɑɹtˌfoʊn|n|điện thoại thông minh|Almost everyone has a smartphone.|Hầu như ai cũng có điện thoại thông minh.||
+printer|ˈpɹɪntɚ|n|máy in|The printer is out of paper.|Máy in hết giấy.||
+speaker|ˈspikɚ|n|loa; người nói|Turn up the speaker.|Vặn loa to lên.||
+headphones|ˈhɛdˌfoʊnz|n|tai nghe|Use headphones on the bus.|Dùng tai nghe trên xe buýt.||
+microphone|ˈmaɪkɹəˌfoʊn|n|micro|Speak into the microphone.|Nói vào micro.||
+cable|ˈkeɪbəl|n|dây cáp|I need a longer cable.|Tôi cần dây cáp dài hơn.||
+wifi|ˈwaɪˌfaɪ|n|wifi|Is there free wifi here?|Ở đây có wifi miễn phí không?||Giọng Mỹ đọc /ˈwaɪ·faɪ/.
+= Tài khoản và tệp|-age đọc /ɪdʒ/ trong image; /ŋk/ trong link
+account|əˈkaʊnt|n|tài khoản|Create a new account.|Tạo tài khoản mới.||
+profile|ˈpɹoʊˌfaɪl|n|hồ sơ cá nhân|Update your profile.|Cập nhật hồ sơ của bạn.||
+username|ˈjuzɚˌneɪm|n|tên đăng nhập|What's your username?|Tên đăng nhập của bạn là gì?||
+file|faɪl|n|tệp tin|Send me the file.|Gửi tôi tệp đó.||
+folder|ˈfoʊldɚ|n|thư mục|Put it in this folder.|Để nó vào thư mục này.||
+image|ˈɪmɪdʒ|n|hình ảnh|The image is too small.|Hình ảnh nhỏ quá.||Chữ a đọc /ɪ/.
+link|lɪŋk|n|đường dẫn|Send me the link.|Gửi tôi đường dẫn.||
+icon|ˈaɪkɑn|n|biểu tượng|Click on the icon.|Bấm vào biểu tượng.||
+update|ˈʌpˌdeɪt|n|bản cập nhật|There is a new update.|Có bản cập nhật mới.||Động từ update nhấn âm tiết hai.
+upload|ˈʌpˌloʊd|v|tải lên|Upload your photos here.|Tải ảnh của bạn lên đây.||
+= Thao tác|Cụm /skɹ/ trong scroll; cụm cuối /kt/ trong connect
+install|ɪnˈstɔl|v|cài đặt|Install the app.|Cài ứng dụng đi.||
+delete|dɪˈlit|v|xóa|Delete this photo.|Xóa bức ảnh này.||
+copy|ˈkɑpi|v|sao chép|Copy this file.|Sao chép tệp này.||
+paste|peɪst|v|dán|Paste it here.|Dán nó vào đây.||
+print|pɹɪnt|v|in|Print two copies.|In hai bản.||
+scroll|skɹoʊl|v|cuộn (màn hình)|Scroll up.|Cuộn lên.||
+connect|kəˈnɛkt|v|kết nối|Connect to the wifi.|Kết nối wifi.||
+digital|ˈdɪdʒɪtəl|adj|kỹ thuật số|We live in a digital world.|Chúng ta sống trong thế giới số.||
+virtual|ˈvɝtʃuəl|adj|ảo|It's a virtual tour.|Đó là chuyến tham quan ảo.||
+electronic|ɪˌlɛkˈtɹɑnɪk|adj|điện tử|I prefer electronic books.|Tôi thích sách điện tử hơn.||
+= Mạng và bảo mật|Trọng âm security ở âm tiết hai; -tion đọc /ʃən/
+offline|ˌɔfˈlaɪn|adj|ngoại tuyến|The app works offline.|Ứng dụng chạy được khi không có mạng.||
+wireless|ˈwaɪɹləs|adj|không dây|I use a wireless keyboard.|Tôi dùng bàn phím không dây.||
+security|sɪˈkjʊɹɪti|n|an ninh, bảo mật|Security is important.|Bảo mật rất quan trọng.||
+privacy|ˈpɹaɪvəsi|n|sự riêng tư|Respect my privacy.|Hãy tôn trọng sự riêng tư của tôi.||
+hacker|ˈhækɚ|n|tin tặc|A hacker stole my password.|Tin tặc đánh cắp mật khẩu của tôi.||
+code|koʊd|n|mã|Enter the code.|Nhập mã.||
+system|ˈsɪstəm|n|hệ thống|The system is down.|Hệ thống bị sập.||
+server|ˈsɝvɚ|n|máy chủ|The server is slow today.|Hôm nay máy chủ chậm.||
+application|ˌæpləˈkeɪʃən|n|ứng dụng; đơn xin|Download the application.|Tải ứng dụng xuống.||
+notification|ˌnoʊtəfəˈkeɪʃən|n|thông báo|I got a notification.|Tôi nhận được một thông báo.||Trọng âm âm tiết thứ tư.
+= Cài đặt và mạng xã hội|/ʒ/ trong version; /dʒ/ trong gadget, emoji
+setting|ˈsɛtɪŋ|n|cài đặt; bối cảnh|Go to settings.|Vào phần cài đặt.||
+storage|ˈstɔɹɪdʒ|n|bộ nhớ lưu trữ|My phone is out of storage.|Điện thoại tôi hết bộ nhớ.||
+memory|ˈmɛməɹi|n|trí nhớ; bộ nhớ|I have a bad memory.|Tôi kém trí nhớ.||
+version|ˈvɝʒən|n|phiên bản|Is this the new version?|Đây có phải phiên bản mới không?||Chữ s đọc /ʒ/.
+browser|ˈbɹaʊzɚ|n|trình duyệt|Which browser do you use?|Bạn dùng trình duyệt nào?||Chữ s đọc /z/.
+gadget|ˈgædʒɪt|n|đồ công nghệ|He loves new gadgets.|Anh ấy mê đồ công nghệ mới.||
+chip|tʃɪp|n|con chip; miếng khoai chiên|This phone has a fast chip.|Điện thoại này có chip nhanh.||Khác cheap /tʃip/.
+pixel|ˈpɪksəl|n|điểm ảnh|The photo has too few pixels.|Bức ảnh có quá ít điểm ảnh.||
+emoji|ɪˈmoʊdʒi|n|biểu tượng cảm xúc|She sent me a heart emoji.|Cô ấy gửi tôi biểu tượng trái tim.||Trọng âm âm tiết hai.
+selfie|ˈsɛlfi|n|ảnh tự chụp|Let's take a selfie.|Chụp ảnh tự sướng nào.||

@@ -1,0 +1,58 @@
+# Nhóm 36 – Trường học, giáo dục 2
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Trường học, giáo dục 2|Học tập 2|ch đọc /k/ trong chemistry, scholarship; k câm trong knowledge|Môn học, bằng cấp, bài tập và đồ dùng học tập. Nhiều từ có chữ câm (knowledge, chalk, assignment) và ch đọc /k/ (chemistry, scholarship).|knowledge,chemistry,scholarship,kindergarten
+= Môn học và kết quả|k câm trong knowledge; -dge, -ge đọc /dʒ/
+subject|ˈsʌbdʒɪkt|n|môn học; chủ đề|Math is my best subject.|Toán là môn tôi giỏi nhất.||Động từ subject nhấn âm tiết hai.
+course|kɔɹs|n|khóa học|I'm taking an English course.|Tôi đang học một khóa tiếng Anh.||Đồng âm với coarse.
+grade|gɹeɪd|n|điểm; lớp|What grade are you in?|Bạn học lớp mấy?||
+score|skɔɹ|n|điểm số|What was your score?|Bạn được bao nhiêu điểm?||
+result|ɹɪˈzʌlt|n|kết quả|The results are out.|Đã có kết quả.||Chữ s đọc /z/.
+knowledge|ˈnɑlɪdʒ|n|kiến thức|Knowledge is power.|Tri thức là sức mạnh.||Chữ k không đọc.
+education|ˌɛdʒəˈkeɪʃən|n|giáo dục|Education is important.|Giáo dục rất quan trọng.||Chữ d đọc /dʒ/.
+college|ˈkɑlɪdʒ|n|trường cao đẳng, đại học|She goes to college in Hanoi.|Cô ấy học đại học ở Hà Nội.||
+semester|səˈmɛstɚ|n|học kỳ|The semester starts in September.|Học kỳ bắt đầu vào tháng Chín.||
+term|tɝm|n|kỳ học; thuật ngữ|The term ends in May.|Kỳ học kết thúc vào tháng Năm.||
+= Đồ dùng học tập|Cụm /kstb/ trong textbook; l câm trong chalk
+classroom|ˈklæsˌɹum|n|phòng học|The classroom is clean.|Phòng học sạch sẽ.||
+notebook|ˈnoʊtˌbʊk|n|cuốn vở|Write it in your notebook.|Viết nó vào vở.||
+textbook|ˈtɛkstˌbʊk|n|sách giáo khoa|Open your textbook.|Mở sách giáo khoa ra.||
+dictionary|ˈdɪkʃəˌnɛɹi|n|từ điển|Use a dictionary.|Dùng từ điển đi.||
+ruler|ˈɹulɚ|n|cây thước|Draw a line with a ruler.|Kẻ một đường bằng thước.||
+eraser|ɪˈɹeɪsɚ|n|cục tẩy|I need an eraser.|Tôi cần một cục tẩy.||
+pencil|ˈpɛnsəl|n|bút chì|Write with a pencil.|Viết bằng bút chì.||
+chalk|tʃɔk|n|phấn|The teacher writes with chalk.|Cô giáo viết bằng phấn.||Chữ l không đọc.
+principal|ˈpɹɪnsəpəl|n|hiệu trưởng|The principal is very kind.|Thầy hiệu trưởng rất tốt bụng.||Đồng âm với principle.
+lecture|ˈlɛktʃɚ|n|bài giảng|The lecture was boring.|Bài giảng chán quá.||
+= Bài tập và ôn thi|g câm trong assignment; qu đọc /kw/ trong quiz
+research|ˈɹisɝtʃ|n|nghiên cứu|She does research on rice.|Cô ấy nghiên cứu về lúa.||Cũng đọc /ɹɪˈsɝtʃ/.
+essay|ˈɛseɪ|n|bài luận|Write a short essay.|Viết một bài luận ngắn.||
+presentation|ˌpɹɛzənˈteɪʃən|n|bài thuyết trình|Your presentation was great.|Bài thuyết trình của bạn rất hay.||
+assignment|əˈsaɪnmənt|n|bài tập được giao|The assignment is due Friday.|Hạn nộp bài tập là thứ Sáu.||Chữ g không đọc.
+quiz|kwɪz|n|bài kiểm tra ngắn|We have a quiz today.|Hôm nay có bài kiểm tra ngắn.||
+mistake|mɪˈsteɪk|n|lỗi sai|Everyone makes mistakes.|Ai cũng mắc lỗi.||
+review|ɹɪˈvju|n|sự ôn tập; bài đánh giá|Let's do a quick review.|Mình ôn nhanh nhé.||
+memorize|ˈmɛməˌɹaɪz|v|học thuộc|Memorize these words.|Học thuộc những từ này.||
+graduate|ˈgɹædʒuˌeɪt|v|tốt nghiệp|I graduated in 2020.|Tôi tốt nghiệp năm 2020.||Danh từ graduate đọc /ˈgɹædʒuət/.
+pass|pæs|v|vượt qua; đỗ|Did you pass?|Bạn có đỗ không?||
+= Môn học và bằng cấp|ch đọc /k/ trong chemistry, scholarship; ph đọc /f/ trong physics
+succeed|səkˈsid|v|thành công|You will succeed.|Bạn sẽ thành công.||Chữ cc đọc /ks/.
+scholarship|ˈskɑlɚˌʃɪp|n|học bổng|She got a scholarship.|Cô ấy được học bổng.||Chữ ch đọc /k/.
+certificate|sɚˈtɪfɪkət|n|chứng chỉ, giấy chứng nhận|I have an IELTS certificate.|Tôi có chứng chỉ IELTS.||
+diploma|dɪˈploʊmə|n|văn bằng|He got his diploma last year.|Anh ấy nhận bằng năm ngoái.||
+math|mæθ|n|môn toán|I'm good at math.|Tôi giỏi toán.||Âm cuối /θ/.
+physics|ˈfɪzɪks|n|vật lý|Physics is difficult.|Vật lý khó.||Chữ ph đọc /f/, y đọc /ɪ/.
+chemistry|ˈkɛmɪstɹi|n|hóa học|We have chemistry on Monday.|Thứ Hai có môn hóa.||Chữ ch đọc /k/.
+biology|baɪˈɑlədʒi|n|sinh học|I love biology.|Tôi thích môn sinh.||Trọng âm âm tiết hai.
+geography|dʒiˈɑgɹəfi|n|địa lý|Geography is about places.|Địa lý là môn học về các vùng đất.||
+literature|ˈlɪtɚətʃɚ|n|văn học|She studies literature.|Cô ấy học văn học.||Thường đọc 3 âm tiết /ˈlɪt·ɹə·tʃɚ/.
+= Bài đọc và lớp học|ph đọc /f/ trong paragraph; trọng âm definition ở âm tiết ba
+topic|ˈtɑpɪk|n|chủ đề|What's the topic today?|Chủ đề hôm nay là gì?||
+chapter|ˈtʃæptɚ|n|chương|Read chapter five.|Đọc chương năm.||
+paragraph|ˈpɛɹəˌgɹæf|n|đoạn văn|Write one paragraph.|Viết một đoạn văn.||
+title|ˈtaɪtəl|n|tiêu đề|What's the title of the book?|Tên quyển sách là gì?||
+definition|ˌdɛfəˈnɪʃən|n|định nghĩa|Look up the definition.|Tra định nghĩa đi.||
+translation|tɹænsˈleɪʃən|n|bản dịch|The translation is wrong.|Bản dịch sai.||
+spelling|ˈspɛlɪŋ|n|chính tả|Check your spelling.|Kiểm tra chính tả.||
+tutor|ˈtutɚ|n|gia sư|I have a math tutor.|Tôi có gia sư toán.||
+kindergarten|ˈkɪndɚˌgɑɹtən|n|trường mẫu giáo|My son is in kindergarten.|Con trai tôi học mẫu giáo.||
+pupil|ˈpjupəl|n|học sinh; con ngươi|The class has thirty pupils.|Lớp có ba mươi học sinh.||

@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+device|mobile device|thiết bị di động|You can use the app on any mobile device.|Bạn có thể dùng ứng dụng trên mọi thiết bị di động.
+laptop|laptop bag|túi đựng laptop|I need a new laptop bag.|Tôi cần túi đựng laptop mới.
+tablet|on my tablet|trên máy tính bảng|I read books on my tablet.|Tôi đọc sách trên máy tính bảng.
+smartphone|smartphone app|ứng dụng điện thoại|There is a smartphone app for that.|Có một ứng dụng điện thoại để làm việc đó.
+printer|printer ink|mực máy in|We are out of printer ink.|Hết mực máy in rồi.
+speaker|Bluetooth speaker|loa Bluetooth|I bought a small Bluetooth speaker.|Tôi mua một chiếc loa Bluetooth nhỏ.
+headphones|wireless headphones|tai nghe không dây|These wireless headphones are great.|Tai nghe không dây này tuyệt lắm.
+microphone|turn on the microphone|bật micro|Please turn on the microphone and speak.|Hãy bật micro lên và nói.
+cable|charging cable|dây sạc|I forgot my charging cable.|Tôi quên dây sạc.
+wifi|wifi password|mật khẩu wifi|What's the wifi password?|Mật khẩu wifi là gì?
+account|bank account|tài khoản ngân hàng|I want to open a bank account.|Tôi muốn mở tài khoản ngân hàng.
+profile|profile picture|ảnh đại diện|I changed my profile picture.|Tôi đã đổi ảnh đại diện.
+username|username and password|tên đăng nhập và mật khẩu|Enter your username and password.|Nhập tên đăng nhập và mật khẩu.
+file|save the file|lưu tệp|Don't forget to save the file.|Đừng quên lưu tệp.
+folder|new folder|thư mục mới|Create a new folder for your photos.|Tạo thư mục mới cho ảnh của bạn.
+image|image quality|chất lượng hình ảnh|The image quality is very good.|Chất lượng hình ảnh rất tốt.
+link|click the link|bấm vào đường dẫn|Click the link to join the meeting.|Bấm vào đường dẫn để vào cuộc họp.
+icon|app icon|biểu tượng ứng dụng|Tap the app icon to open it.|Chạm vào biểu tượng ứng dụng để mở.
+update|software update|bản cập nhật phần mềm|Install the software update tonight.|Cài bản cập nhật phần mềm tối nay.
+upload|upload a photo|tải ảnh lên|Upload a photo of your ID card.|Tải ảnh căn cước của bạn lên.
+install|install an app|cài ứng dụng|How do I install an app?|Làm sao để cài ứng dụng?
+delete|delete a message|xóa tin nhắn|You can delete a message after sending it.|Bạn có thể xóa tin nhắn sau khi gửi.
+copy|copy and paste|sao chép và dán|Copy and paste the link here.|Sao chép và dán đường dẫn vào đây.
+paste|paste the text|dán văn bản|Paste the text into the box.|Dán văn bản vào ô.
+print|print out|in ra|Can you print out this page?|Bạn in trang này ra được không?
+scroll|scroll down|cuộn xuống|Scroll down to see more.|Cuộn xuống để xem thêm.
+connect|connect to the internet|kết nối internet|I can't connect to the internet.|Tôi không kết nối được internet.
+digital|digital camera|máy ảnh kỹ thuật số|My father still uses a digital camera.|Bố tôi vẫn dùng máy ảnh kỹ thuật số.
+virtual|virtual meeting|cuộc họp trực tuyến|We have a virtual meeting at ten.|Chúng ta có cuộc họp trực tuyến lúc mười giờ.
+electronic|electronic devices|thiết bị điện tử|Turn off all electronic devices.|Tắt hết các thiết bị điện tử.
+offline|go offline|ngắt mạng|I go offline on Sundays.|Chủ nhật tôi ngắt mạng.
+wireless|wireless mouse|chuột không dây|I use a wireless mouse.|Tôi dùng chuột không dây.
+security|security guard|nhân viên bảo vệ|Ask the security guard.|Hỏi nhân viên bảo vệ đi.
+privacy|privacy settings|cài đặt quyền riêng tư|Check your privacy settings.|Kiểm tra cài đặt quyền riêng tư của bạn.
+hacker|computer hacker|tin tặc|A computer hacker stole the data.|Một tin tặc đã đánh cắp dữ liệu.
+code|QR code|mã QR|Scan the QR code to pay.|Quét mã QR để thanh toán.
+system|operating system|hệ điều hành|Which operating system do you use?|Bạn dùng hệ điều hành nào?
+server|server error|lỗi máy chủ|There is a server error. Try again later.|Có lỗi máy chủ. Hãy thử lại sau.
+application|job application|đơn xin việc|I sent my job application yesterday.|Hôm qua tôi đã gửi đơn xin việc.
+notification|push notification|thông báo đẩy|Turn off push notifications at night.|Tắt thông báo đẩy vào ban đêm.
+setting|default setting|cài đặt mặc định|Reset the phone to the default setting.|Đưa điện thoại về cài đặt mặc định.
+storage|cloud storage|lưu trữ đám mây|I keep my photos in cloud storage.|Tôi lưu ảnh trên đám mây.
+memory|good memory|trí nhớ tốt|She has a good memory for names.|Cô ấy nhớ tên rất giỏi.
+version|latest version|phiên bản mới nhất|Download the latest version of the app.|Tải phiên bản mới nhất của ứng dụng.
+browser|web browser|trình duyệt web|Open your web browser.|Mở trình duyệt web của bạn.
+gadget|kitchen gadget|dụng cụ nhà bếp tiện ích|This kitchen gadget cuts vegetables fast.|Dụng cụ nhà bếp này thái rau rất nhanh.
+chip|computer chip|chip máy tính|This computer chip is very small.|Con chip máy tính này rất nhỏ.
+pixel|pixel by pixel|từng điểm ảnh|The photo was edited pixel by pixel.|Bức ảnh được chỉnh sửa từng điểm ảnh.
+emoji|smiley emoji|biểu tượng mặt cười|She replied with a smiley emoji.|Cô ấy trả lời bằng biểu tượng mặt cười.
+selfie|take a selfie|chụp ảnh tự sướng|Let's take a selfie!|Chụp ảnh tự sướng nào!

@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+polite|polite request|lời đề nghị lịch sự|"Could you help me?" is a polite request.|"Could you help me?" là một lời đề nghị lịch sự.
+rude|rude question|câu hỏi bất lịch sự|Asking about salary can be a rude question.|Hỏi về lương có thể là câu hỏi bất lịch sự.
+honest|honest answer|câu trả lời thật lòng|Please give me an honest answer.|Hãy cho tôi câu trả lời thật lòng.
+brave|brave soldier|người lính dũng cảm|My grandfather was a brave soldier.|Ông tôi là một người lính dũng cảm.
+shy|shy smile|nụ cười bẽn lẽn|She gave me a shy smile.|Cô ấy cười bẽn lẽn với tôi.
+lazy|lazy Sunday|ngày Chủ nhật lười biếng|We spent a lazy Sunday at home.|Chúng tôi có một ngày Chủ nhật lười biếng ở nhà.
+friendly|friendly staff|nhân viên thân thiện|The hotel has very friendly staff.|Khách sạn có nhân viên rất thân thiện.
+gentle|gentle voice|giọng nói dịu dàng|My teacher has a gentle voice.|Cô giáo tôi có giọng nói dịu dàng.
+calm|stay calm|giữ bình tĩnh|Stay calm and listen to me.|Bình tĩnh và nghe tôi nói.
+patient|be patient|kiên nhẫn|Be patient, the bus is coming.|Kiên nhẫn chút, xe buýt sắp đến.
+generous|generous gift|món quà hào phóng|Thank you for your generous gift.|Cảm ơn món quà hào phóng của bạn.
+selfish|selfish person|người ích kỷ|A selfish person only thinks about himself.|Người ích kỷ chỉ nghĩ cho bản thân.
+smart|smart choice|lựa chọn khôn ngoan|Buying a used car was a smart choice.|Mua xe cũ là một lựa chọn khôn ngoan.
+stupid|stupid mistake|lỗi ngớ ngẩn|I made a stupid mistake.|Tôi mắc một lỗi ngớ ngẩn.
+silly|silly question|câu hỏi ngớ ngẩn|There is no silly question.|Không có câu hỏi nào ngớ ngẩn cả.
+famous|famous for|nổi tiếng về|Hue is famous for its old buildings.|Huế nổi tiếng với các công trình cổ.
+strange|strange noise|tiếng động lạ|I heard a strange noise last night.|Đêm qua tôi nghe thấy tiếng động lạ.
+usual|as usual|như thường lệ|He was late as usual.|Anh ấy đến muộn như thường lệ.
+unusual|unusual name|cái tên lạ|She has an unusual name.|Cô ấy có một cái tên lạ.
+certain|for certain|chắc chắn|I don't know for certain.|Tôi không biết chắc.
+correct|correct answer|câu trả lời đúng|Circle the correct answer.|Khoanh tròn câu trả lời đúng.
+exact|exact time|thời gian chính xác|What is the exact time?|Chính xác bây giờ là mấy giờ?
+fair|fair price|giá hợp lý|This is a fair price for a new bike.|Đây là giá hợp lý cho một chiếc xe đạp mới.
+false|true or false|đúng hay sai|Read the sentences and answer true or false.|Đọc các câu và trả lời đúng hay sai.
+true|come true|thành hiện thực|I hope your dream will come true.|Mong ước mơ của bạn thành hiện thực.
+final|final exam|kỳ thi cuối kỳ|The final exam is next Monday.|Kỳ thi cuối kỳ vào thứ Hai tới.
+complete|complete the form|điền đầy đủ mẫu đơn|Please complete the form.|Vui lòng điền đầy đủ mẫu đơn.
+whole|the whole day|cả ngày|It rained the whole day.|Trời mưa cả ngày.
+excellent|excellent service|dịch vụ tuyệt vời|The restaurant has excellent service.|Nhà hàng có dịch vụ tuyệt vời.
+fantastic|fantastic view|cảnh đẹp tuyệt vời|There is a fantastic view from the top.|Từ trên đỉnh có cảnh đẹp tuyệt vời.
+amazing|amazing experience|trải nghiệm tuyệt vời|Flying a kite was an amazing experience.|Thả diều là một trải nghiệm tuyệt vời.
+awful|awful smell|mùi kinh khủng|There's an awful smell in the kitchen.|Trong bếp có mùi kinh khủng.
+horrible|horrible dream|giấc mơ kinh hoàng|I had a horrible dream last night.|Đêm qua tôi mơ một giấc mơ kinh hoàng.
+pleasant|pleasant surprise|bất ngờ thú vị|Your visit is a pleasant surprise.|Bạn đến chơi đúng là một bất ngờ thú vị.
+comfortable|comfortable shoes|giày êm chân|Wear comfortable shoes for the trip.|Mang giày êm chân cho chuyến đi.
+convenient|convenient time|thời gian thuận tiện|What is a convenient time for you?|Lúc nào thì thuận tiện cho bạn?
+lovely|lovely weather|thời tiết dễ chịu|What lovely weather today!|Hôm nay thời tiết dễ chịu quá!
+cute|cute puppy|chú cún dễ thương|Look at that cute puppy!|Nhìn chú cún dễ thương kìa!
+ordinary|ordinary people|người bình thường|Ordinary people can't afford a house in the city.|Người bình thường không đủ tiền mua nhà ở thành phố.
+private|private school|trường tư|My son goes to a private school.|Con trai tôi học trường tư.
+public|public transport|giao thông công cộng|Use public transport to reduce traffic.|Hãy đi phương tiện công cộng để giảm kẹt xe.
+local|local food|món ăn địa phương|I always try local food when I travel.|Tôi luôn thử món ăn địa phương khi đi du lịch.
+foreign|foreign language|ngoại ngữ|English is my first foreign language.|Tiếng Anh là ngoại ngữ đầu tiên của tôi.
+international|international airport|sân bay quốc tế|Tan Son Nhat is an international airport.|Tân Sơn Nhất là sân bay quốc tế.
+national|national holiday|ngày lễ quốc gia|September 2 is a national holiday in Vietnam.|Ngày 2 tháng 9 là ngày lễ quốc gia ở Việt Nam.
+traditional|traditional dress|trang phục truyền thống|The ao dai is a traditional dress.|Áo dài là trang phục truyền thống.
+typical|typical day|một ngày điển hình|Tell me about a typical day at work.|Kể tôi nghe một ngày làm việc điển hình.
+various|various reasons|nhiều lý do|People move to cities for various reasons.|Người ta lên thành phố vì nhiều lý do.
+available|available now|đã có bán, có ngay|The new phone is available now.|Điện thoại mới đã có bán.
+necessary|if necessary|nếu cần|Call me if necessary.|Gọi tôi nếu cần.

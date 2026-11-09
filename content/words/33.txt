@@ -1,0 +1,58 @@
+# Nhóm 33 – Thành phố, địa điểm 2
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Thành phố, địa điểm 2|Địa điểm 2|Chữ câm trong castle, sign, neighborhood; trọng âm museum, police|Khu vực, công trình, đường phố và dịch vụ trong thành phố. Chú ý chữ câm (castle, sign, sidewalk) và trọng âm museum, police ở âm tiết hai.|neighborhood,museum,castle,skyscraper
+= Khu vực trong thành phố|gh câm trong neighborhood; trọng âm museum ở âm tiết hai
+center|ˈsɛntɚ|n|trung tâm|The hotel is in the center.|Khách sạn ở trung tâm.||
+area|ˈɛɹiə|n|khu vực|This area is quiet.|Khu này yên tĩnh.||Đọc 3 âm tiết /ˈɛɹ·i·ə/.
+place|pleɪs|n|nơi, chỗ|This is a nice place.|Đây là một nơi dễ chịu.||
+neighborhood|ˈneɪbɚˌhʊd|n|khu phố, hàng xóm|I grew up in this neighborhood.|Tôi lớn lên ở khu phố này.||Chữ gh không đọc.
+downtown|ˌdaʊnˈtaʊn|n|khu trung tâm|The office is downtown.|Văn phòng ở khu trung tâm.||
+suburb|ˈsʌbɝb|n|ngoại ô|They live in a suburb.|Họ sống ở ngoại ô.||Âm cuối /b/.
+capital|ˈkæpɪtəl|n|thủ đô; vốn|Hanoi is the capital.|Hà Nội là thủ đô.||
+address|ˈædɹɛs|n|địa chỉ|What's your address?|Địa chỉ của bạn là gì?||Cũng đọc /əˈdɹɛs/.
+museum|mjuˈziəm|n|bảo tàng|The museum is closed on Monday.|Bảo tàng đóng cửa thứ Hai.||Trọng âm âm tiết hai; chữ s đọc /z/.
+theater|ˈθiətɚ|n|nhà hát, rạp|We went to the theater.|Chúng tôi đi nhà hát.||Âm đầu /θ/.
+= Công trình và nơi làm việc|g đọc /dʒ/ trong gym; trọng âm police ở âm tiết hai
+cinema|ˈsɪnəmə|n|rạp chiếu phim|The cinema is near my house.|Rạp chiếu phim ở gần nhà tôi.||
+stadium|ˈsteɪdiəm|n|sân vận động|The stadium was full.|Sân vận động chật kín.||
+zoo|zu|n|sở thú|Let's go to the zoo.|Đi sở thú đi.||
+gym|dʒɪm|n|phòng tập|I go to the gym after work.|Tôi đi tập gym sau giờ làm.||Chữ g đọc /dʒ/, y đọc /ɪ/.
+police|pəˈlis|n|cảnh sát|Call the police!|Gọi cảnh sát!||Trọng âm âm tiết hai.
+prison|ˈpɹɪzən|n|nhà tù|He went to prison.|Anh ta đi tù.||
+factory|ˈfæktəɹi|n|nhà máy|My father works in a factory.|Bố tôi làm ở nhà máy.||
+farm|fɑɹm|n|trang trại|They live on a farm.|Họ sống ở một trang trại.||
+temple|ˈtɛmpəl|n|đền, chùa|We visited an old temple.|Chúng tôi thăm một ngôi đền cổ.||
+pagoda|pəˈgoʊdə|n|chùa (có tháp)|The pagoda is on the hill.|Ngôi chùa nằm trên đồi.||
+= Đường phố|t câm trong castle; l câm trong sidewalk
+palace|ˈpæləs|n|cung điện|The king lived in the palace.|Nhà vua sống trong cung điện.||
+castle|ˈkæsəl|n|lâu đài|The castle is very old.|Lâu đài rất cổ.||Chữ t không đọc.
+tower|ˈtaʊɚ|n|tòa tháp|Climb the tower for a great view.|Leo lên tháp để ngắm cảnh đẹp.||
+square|skwɛɹ|n|quảng trường; hình vuông|Meet me in the square.|Gặp tôi ở quảng trường.||
+sidewalk|ˈsaɪdˌwɔk|n|vỉa hè|Walk on the sidewalk.|Đi trên vỉa hè.||Chữ l không đọc.
+traffic|ˈtɹæfɪk|n|giao thông|The traffic is terrible.|Giao thông tệ quá.||
+parking|ˈpɑɹkɪŋ|n|việc đỗ xe, bãi đỗ|Is there parking here?|Ở đây có chỗ đỗ xe không?||
+lane|leɪn|n|làn đường; ngõ|Stay in your lane.|Đi đúng làn.||
+highway|ˈhaɪˌweɪ|n|đường cao tốc|Take the highway to Hai Phong.|Đi cao tốc đến Hải Phòng.||Chữ gh không đọc.
+avenue|ˈævəˌnu|n|đại lộ|The shop is on Fifth Avenue.|Cửa hàng ở Đại lộ số Năm.||
+= Lối vào và nơi công cộng|g câm trong sign; x đọc /gz/ trong exit
+block|blɑk|n|dãy nhà; khối|My house is two blocks away.|Nhà tôi cách đây hai dãy nhà.||
+sign|saɪn|n|biển báo; dấu hiệu|Read the sign.|Đọc biển báo đi.||Chữ g không đọc.
+entrance|ˈɛntɹəns|n|lối vào|Where is the entrance?|Lối vào ở đâu?||
+exit|ˈɛgzɪt|n|lối ra|Take the next exit.|Đi lối ra tiếp theo.||Chữ x đọc /gz/.
+bookstore|ˈbʊkˌstɔɹ|n|hiệu sách|I bought it at a bookstore.|Tôi mua nó ở hiệu sách.||
+playground|ˈpleɪˌgɹaʊnd|n|sân chơi|The kids are at the playground.|Bọn trẻ đang ở sân chơi.||
+campus|ˈkæmpəs|n|khuôn viên trường|The campus is beautiful.|Khuôn viên trường rất đẹp.||
+port|pɔɹt|n|cảng|The ship arrived at the port.|Con tàu cập cảng.||
+harbor|ˈhɑɹbɚ|n|bến cảng|Boats are in the harbor.|Thuyền đậu ở bến cảng.||
+gallery|ˈgæləɹi|n|phòng trưng bày|The gallery has many paintings.|Phòng trưng bày có nhiều bức tranh.||
+= Dịch vụ và kiến trúc|Cụm /skɹ/ trong skyscraper; tu đọc /tʃu/ trong statue
+embassy|ˈɛmbəsi|n|đại sứ quán|Go to the embassy for a visa.|Đến đại sứ quán để xin visa.||
+salon|səˈlɑn|n|tiệm làm đẹp|She went to the salon.|Cô ấy đi tiệm làm tóc.||
+laundry|ˈlɔndɹi|n|đồ giặt; tiệm giặt|I have a lot of laundry.|Tôi có nhiều đồ cần giặt.||
+studio|ˈstudiˌoʊ|n|xưởng, phòng thu|She has a dance studio.|Cô ấy có một phòng tập nhảy.||
+warehouse|ˈwɛɹˌhaʊs|n|nhà kho|The goods are in the warehouse.|Hàng hóa ở trong kho.||
+statue|ˈstætʃu|n|bức tượng|There is a statue in the park.|Trong công viên có một bức tượng.||
+fountain|ˈfaʊntən|n|đài phun nước|The kids played near the fountain.|Bọn trẻ chơi gần đài phun nước.||
+alley|ˈæli|n|con hẻm|My house is down this alley.|Nhà tôi ở cuối con hẻm này.||
+crosswalk|ˈkɹɔsˌwɔk|n|vạch qua đường|Wait at the crosswalk.|Đợi ở vạch qua đường.||Chữ l không đọc.
+skyscraper|ˈskaɪˌskɹeɪpɚ|n|tòa nhà chọc trời|New York has many skyscrapers.|New York có nhiều nhà chọc trời.||Cụm /skɹ/ ba phụ âm.

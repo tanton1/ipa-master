@@ -1,0 +1,58 @@
+# Nhóm 31 – Nấu ăn, nhà hàng
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Nấu ăn, nhà hàng|Nấu ăn|ch đọc /ʃ/ trong chef, p câm trong receipt; động từ nấu ăn ngắn|Cách nấu, dụng cụ bếp, mùi vị và từ vựng khi đi nhà hàng. Chú ý chef đọc /ʃɛf/, receipt đọc /ɹɪˈsit/, recipe có 3 âm tiết.|recipe,chopsticks,receipt,vegetarian
+= Bữa ăn và đồ uống|recipe đọc 3 âm tiết /ˈɹɛsəpi/; bowl đọc /boʊl/
+meal|mil|n|bữa ăn|We have three meals a day.|Chúng tôi ăn ba bữa một ngày.||
+menu|ˈmɛnju|n|thực đơn|Can I see the menu?|Cho tôi xem thực đơn.||
+recipe|ˈɹɛsəpi|n|công thức nấu ăn|Can you give me the recipe?|Bạn cho tôi công thức được không?||Đọc 3 âm tiết, chữ e cuối đọc /i/.
+beer|bɪɹ|n|bia|Two beers, please.|Cho hai chai bia.||
+wine|waɪn|n|rượu vang|Do you like wine?|Bạn thích rượu vang không?||Khác vine /vaɪn/.
+soda|ˈsoʊdə|n|nước ngọt có ga|A can of soda, please.|Cho một lon nước ngọt.||
+bowl|boʊl|n|cái bát, tô|A bowl of rice, please.|Cho một bát cơm.||Chữ ow đọc /oʊ/.
+pot|pɑt|n|nồi|Put the pot on the stove.|Đặt nồi lên bếp.||
+pan|pæn|n|chảo|Heat the pan.|Làm nóng chảo.||
+kettle|ˈkɛtəl|n|ấm đun nước|The kettle is boiling.|Ấm nước đang sôi.||
+= Dụng cụ và cách nấu 1|Cụm cuối /ks/ trong chopsticks; /ɔɪ/ trong boil
+chopsticks|ˈtʃɑpˌstɪks|n|đũa|Can you use chopsticks?|Bạn dùng đũa được không?||
+tray|tɹeɪ|n|cái khay|Put the cups on the tray.|Đặt mấy cái cốc lên khay.||
+napkin|ˈnæpkɪn|n|khăn ăn|Here is a napkin.|Khăn ăn đây.||
+jar|dʒɑɹ|n|lọ, hũ|Open the jar.|Mở cái lọ ra.||
+bake|beɪk|v|nướng (bằng lò)|I bake bread on Sundays.|Chủ nhật tôi nướng bánh mì.||
+boil|bɔɪl|v|luộc, đun sôi|Boil the eggs for ten minutes.|Luộc trứng mười phút.||
+fry|fɹaɪ|v|rán, chiên|Fry the fish in oil.|Rán cá trong dầu.||Khác fly /flaɪ/.
+grill|gɹɪl|v|nướng (vỉ)|Let's grill some meat.|Nướng ít thịt nhé.||
+roast|ɹoʊst|v|quay, rang|Roast the chicken for an hour.|Quay gà trong một giờ.||
+slice|slaɪs|v|thái lát|Slice the bread.|Thái lát bánh mì.||
+= Cách nấu 2 và ăn|ch đọc /tʃ/ trong chop, chew; cụm cuối /lt/ trong melt
+chop|tʃɑp|v|chặt, băm|Chop the meat into small pieces.|Băm nhỏ thịt.||Khác shop /ʃɑp/.
+peel|pil|v|gọt, bóc vỏ|Peel the potatoes.|Gọt vỏ khoai tây.||
+stir|stɝ|v|khuấy|Stir the soup.|Khuấy nồi súp.||
+heat|hit|v|làm nóng|Heat the milk.|Hâm nóng sữa.||Khác hit /hɪt/.
+melt|mɛlt|v|tan chảy|The ice is melting.|Đá đang tan.||
+freeze|fɹiz|v|đông lạnh|Freeze the meat.|Cấp đông thịt.||
+serve|sɝv|v|phục vụ, dọn món|Dinner is served.|Mời mọi người dùng bữa.||
+smell|smɛl|v|ngửi, có mùi|It smells good.|Thơm quá.||
+bite|baɪt|v|cắn|The dog won't bite.|Con chó không cắn đâu.||
+chew|tʃu|v|nhai|Chew your food well.|Nhai kỹ thức ăn.||
+= Nhà hàng|ch đọc /ʃ/ trong chef; p câm trong receipt
+swallow|ˈswɑloʊ|v|nuốt|It's hard to swallow.|Khó nuốt quá.||
+waiter|ˈweɪtɚ|n|người phục vụ (nam)|Ask the waiter.|Hỏi người phục vụ đi.||
+chef|ʃɛf|n|đầu bếp|He is a famous chef.|Anh ấy là đầu bếp nổi tiếng.||Chữ ch đọc /ʃ/ (gốc tiếng Pháp).
+customer|ˈkʌstəmɚ|n|khách hàng|The customer is always right.|Khách hàng luôn luôn đúng.||
+bill|bɪl|n|hóa đơn|Can I have the bill, please?|Cho tôi tính tiền.||
+tip|tɪp|n|tiền boa; mẹo|Here's a tip for you.|Đây là tiền boa cho bạn.||
+receipt|ɹɪˈsit|n|biên lai|Can I have a receipt?|Cho tôi xin biên lai.||Chữ p không đọc.
+cafe|kæˈfeɪ|n|quán cà phê|Let's meet at the cafe.|Gặp nhau ở quán cà phê nhé.||
+bakery|ˈbeɪkəɹi|n|tiệm bánh|The bakery opens at six.|Tiệm bánh mở cửa lúc sáu giờ.||
+picnic|ˈpɪkˌnɪk|n|chuyến dã ngoại|We had a picnic in the park.|Chúng tôi đi dã ngoại ở công viên.||
+= Mùi vị|/aʊɚ/ trong sour; trọng âm vegetarian ở âm tiết ba
+party|ˈpɑɹti|n|bữa tiệc|Come to my party.|Đến dự tiệc của tôi nhé.||
+flavor|ˈfleɪvɚ|n|hương vị|This tea has a nice flavor.|Trà này có hương vị dễ chịu.||
+sour|ˈsaʊɚ|adj|chua|Lemons are sour.|Chanh chua.||
+bitter|ˈbɪtɚ|adj|đắng|The coffee is bitter.|Cà phê đắng.||
+salty|ˈsɔlti|adj|mặn|The soup is salty.|Canh mặn.||
+spicy|ˈspaɪsi|adj|cay|I love spicy food.|Tôi thích đồ cay.||
+raw|ɹɔ|adj|sống, chưa nấu|Don't eat raw meat.|Đừng ăn thịt sống.||
+ripe|ɹaɪp|adj|chín (trái cây)|The bananas are ripe.|Chuối chín rồi.||
+crispy|ˈkɹɪspi|adj|giòn|I like crispy spring rolls.|Tôi thích chả giò giòn.||
+vegetarian|ˌvɛdʒəˈtɛɹiən|n|người ăn chay|My mother is a vegetarian.|Mẹ tôi ăn chay.||Trọng âm âm tiết ba.

@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+city|big city|thành phố lớn|I don't like living in a big city.|Tôi không thích sống ở thành phố lớn.
+town|small town|thị trấn nhỏ|I grew up in a small town.|Tôi lớn lên ở một thị trấn nhỏ.
+village|fishing village|làng chài|We visited a fishing village.|Chúng tôi thăm một làng chài.
+country|in the country|ở nông thôn|My grandparents live in the country.|Ông bà tôi sống ở quê.
+street|street food|đồ ăn đường phố|Vietnamese street food is famous.|Đồ ăn đường phố Việt Nam rất nổi tiếng.
+road|on the road|trên đường|Be careful on the road.|Cẩn thận khi đi đường.
+bridge|cross the bridge|qua cầu|We cross the bridge to get to school.|Chúng tôi qua cầu để đến trường.
+river|river bank|bờ sông|Let's have a picnic on the river bank.|Mình đi dã ngoại trên bờ sông nhé.
+mountain|mountain bike|xe đạp leo núi|He rides a mountain bike.|Anh ấy đi xe đạp leo núi.
+sea|by the sea|bên bờ biển|They live in a house by the sea.|Họ sống trong một ngôi nhà bên bờ biển.
+beach|on the beach|trên bãi biển|We played on the beach all day.|Chúng tôi chơi trên bãi biển cả ngày.
+park|car park|bãi đỗ xe|The car park is full.|Bãi đỗ xe kín chỗ.
+school|go to school|đi học|I go to school by bike.|Tôi đi học bằng xe đạp.
+hospital|in hospital|nằm viện|My grandfather is in hospital.|Ông tôi đang nằm viện.
+market|night market|chợ đêm|Let's go to the night market.|Đi chợ đêm đi.
+shop|coffee shop|quán cà phê|Let's meet at the coffee shop.|Gặp nhau ở quán cà phê nhé.
+store|convenience store|cửa hàng tiện lợi|There is a convenience store near my house.|Gần nhà tôi có một cửa hàng tiện lợi.
+bank|bank card|thẻ ngân hàng|I lost my bank card.|Tôi bị mất thẻ ngân hàng.
+office|office hours|giờ hành chính|Call during office hours.|Hãy gọi trong giờ hành chính.
+hotel|hotel room|phòng khách sạn|The hotel room is clean.|Phòng khách sạn sạch sẽ.
+restaurant|Vietnamese restaurant|nhà hàng Việt|There is a Vietnamese restaurant in London.|Ở Luân Đôn có một nhà hàng Việt.
+church|go to church|đi lễ nhà thờ|They go to church on Sunday.|Họ đi lễ nhà thờ vào Chủ nhật.
+station|train station|ga tàu|Where is the train station?|Ga tàu ở đâu?
+airport|at the airport|ở sân bay|I'll meet you at the airport.|Tôi sẽ đón bạn ở sân bay.
+bus|bus stop|trạm xe buýt|Wait at the bus stop.|Đợi ở trạm xe buýt.
+train|by train|bằng tàu hỏa|We went to Hue by train.|Chúng tôi đi Huế bằng tàu hỏa.
+car|by car|bằng ô tô|It takes two hours by car.|Đi ô tô mất hai tiếng.
+taxi|call a taxi|gọi taxi|Can you call a taxi for me?|Bạn gọi taxi giúp tôi được không?
+bicycle|ride a bicycle|đạp xe|I ride a bicycle to work.|Tôi đạp xe đi làm.
+plane|by plane|bằng máy bay|We went to Da Nang by plane.|Chúng tôi đi Đà Nẵng bằng máy bay.
+boat|boat trip|chuyến đi thuyền|We took a boat trip on the river.|Chúng tôi đi thuyền trên sông.
+ticket|one-way ticket|vé một chiều|I'd like a one-way ticket to Hanoi.|Cho tôi một vé một chiều đi Hà Nội.
+map|on the map|trên bản đồ|Show me on the map.|Chỉ cho tôi trên bản đồ.
+travel|travel alone|du lịch một mình|She likes to travel alone.|Cô ấy thích du lịch một mình.
+trip|day trip|chuyến đi trong ngày|Let's take a day trip to Vung Tau.|Mình đi Vũng Tàu trong ngày nhé.
+left|on the left|bên trái|The bank is on the left.|Ngân hàng ở bên trái.
+right|on the right|bên phải|The hotel is on the right.|Khách sạn ở bên phải.
+straight|go straight|đi thẳng|Go straight and turn left.|Đi thẳng rồi rẽ trái.
+north|north of|phía bắc của|Sapa is north of Hanoi.|Sa Pa ở phía bắc Hà Nội.
+south|in the south|ở miền Nam|It's hot in the south.|Ở miền Nam trời nóng.
+east|east coast|bờ biển phía đông|Vietnam has a long east coast.|Việt Nam có bờ biển phía đông dài.
+west|the West|phương Tây|Many young people want to study in the West.|Nhiều người trẻ muốn học ở phương Tây.
+near|near here|gần đây|Is there a bank near here?|Gần đây có ngân hàng không?
+far|how far|bao xa|How far is the airport?|Sân bay cách bao xa?
+drive|drive to work|lái xe đi làm|I drive to work every day.|Ngày nào tôi cũng lái xe đi làm.
+fly|fly to|bay đến|We fly to Bangkok tomorrow.|Mai chúng tôi bay đi Bangkok.
+ride|give me a ride|cho tôi đi nhờ|Can you give me a ride home?|Bạn cho tôi đi nhờ về nhà được không?
+arrive|arrive at|đến nơi|We arrive at the hotel at noon.|Trưa chúng tôi đến khách sạn.
+corner|around the corner|ngay gần đây|The shop is just around the corner.|Cửa hàng ở ngay gần đây.
+world|all over the world|khắp thế giới|People all over the world love pho.|Người khắp thế giới yêu phở.

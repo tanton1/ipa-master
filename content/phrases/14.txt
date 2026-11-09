@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+went|went home|đã về nhà|I went home early yesterday.|Hôm qua tôi về nhà sớm.
+saw|saw a movie|đã xem phim|We saw a movie last night.|Tối qua chúng tôi đi xem phim.
+ate|ate breakfast|đã ăn sáng|I ate breakfast at seven.|Tôi ăn sáng lúc bảy giờ.
+came|came back|đã quay về|She came back from Japan last week.|Cô ấy từ Nhật về tuần trước.
+got|got married|đã kết hôn|They got married in 2020.|Họ kết hôn năm 2020.
+gave|gave me a gift|tặng tôi một món quà|My friend gave me a gift.|Bạn tôi tặng tôi một món quà.
+took|took a photo|đã chụp ảnh|He took a photo of the sunset.|Anh ấy chụp ảnh hoàng hôn.
+made|made a mistake|đã mắc lỗi|I made a mistake in the test.|Tôi mắc một lỗi trong bài kiểm tra.
+said|said goodbye|đã chào tạm biệt|We said goodbye at the airport.|Chúng tôi chào tạm biệt nhau ở sân bay.
+told|told the truth|đã nói thật|In the end, she told the truth.|Cuối cùng cô ấy đã nói thật.
+bought|bought a new phone|đã mua điện thoại mới|I bought a new phone yesterday.|Hôm qua tôi mua điện thoại mới.
+brought|brought some food|đã mang ít đồ ăn|They brought some food to the party.|Họ mang ít đồ ăn đến bữa tiệc.
+caught|caught a cold|bị cảm lạnh|I caught a cold last week.|Tuần trước tôi bị cảm lạnh.
+taught|taught English|đã dạy tiếng Anh|She taught English in Hue for two years.|Cô ấy dạy tiếng Anh ở Huế hai năm.
+fought|fought for freedom|đã chiến đấu vì tự do|Our grandparents fought for freedom.|Ông bà ta đã chiến đấu vì tự do.
+knew|knew the answer|đã biết câu trả lời|Only one student knew the answer.|Chỉ một học sinh biết câu trả lời.
+wrote|wrote a letter|đã viết thư|I wrote a letter to my teacher.|Tôi đã viết thư cho thầy giáo.
+spoke|spoke English|đã nói tiếng Anh|He spoke English very well.|Anh ấy nói tiếng Anh rất giỏi.
+broke|broke his leg|bị gãy chân|He broke his leg playing football.|Anh ấy bị gãy chân khi đá bóng.
+chose|chose the red one|đã chọn cái màu đỏ|In the end, she chose the red one.|Cuối cùng cô ấy chọn cái màu đỏ.
+drove|drove to work|đã lái xe đi làm|I drove to work this morning.|Sáng nay tôi lái xe đi làm.
+rode|rode a bike|đã đạp xe|We rode a bike around the lake.|Chúng tôi đạp xe quanh hồ.
+flew|flew to Hanoi|đã bay ra Hà Nội|My boss flew to Hanoi on Monday.|Sếp tôi bay ra Hà Nội hôm thứ Hai.
+drew|drew a map|đã vẽ bản đồ|He drew a map for me.|Anh ấy vẽ cho tôi một tấm bản đồ.
+grew|grew up|đã lớn lên|I grew up in a small village.|Tôi lớn lên ở một ngôi làng nhỏ.
+threw|threw the ball|đã ném quả bóng|The boy threw the ball to his dog.|Cậu bé ném bóng cho con chó.
+began|began to rain|bắt đầu mưa|It began to rain after lunch.|Sau bữa trưa trời bắt đầu mưa.
+ran|ran out of|đã hết (cái gì)|We ran out of milk.|Chúng tôi hết sữa rồi.
+swam|swam in the sea|đã bơi ở biển|We swam in the sea every morning.|Sáng nào chúng tôi cũng bơi ở biển.
+sang|sang happy birthday|đã hát chúc mừng sinh nhật|Everyone sang happy birthday to her.|Mọi người hát chúc mừng sinh nhật cô ấy.
+drank|drank too much coffee|đã uống quá nhiều cà phê|I drank too much coffee and couldn't sleep.|Tôi uống quá nhiều cà phê nên không ngủ được.
+sat|sat down|đã ngồi xuống|He sat down next to me.|Anh ấy ngồi xuống cạnh tôi.
+stood|stood in line|đã xếp hàng|We stood in line for an hour.|Chúng tôi xếp hàng một tiếng.
+understood|understood everything|đã hiểu hết|I understood everything she said.|Tôi hiểu hết những gì cô ấy nói.
+felt|felt better|thấy khỏe hơn|I felt better after a long sleep.|Ngủ một giấc dài xong tôi thấy khỏe hơn.
+kept|kept a diary|đã viết nhật ký|She kept a diary when she was young.|Hồi nhỏ cô ấy viết nhật ký.
+slept|slept well|đã ngủ ngon|I slept well last night.|Đêm qua tôi ngủ ngon.
+met|met for the first time|gặp nhau lần đầu|We met for the first time in 2019.|Chúng tôi gặp nhau lần đầu năm 2019.
+paid|paid the bill|đã trả tiền hóa đơn|My father paid the bill.|Bố tôi đã trả tiền.
+sold|sold out|đã bán hết|The tickets sold out in one hour.|Vé đã bán hết trong một giờ.
+sent|sent an email|đã gửi email|I sent an email to the manager.|Tôi đã gửi email cho quản lý.
+spent|spent all my money|đã tiêu hết tiền|I spent all my money on books.|Tôi đã tiêu hết tiền vào sách.
+built|built in 1990|được xây năm 1990|This bridge was built in 1990.|Cây cầu này được xây năm 1990.
+heard|heard the news|đã nghe tin|Have you heard the news?|Bạn đã nghe tin chưa?
+won|won the game|đã thắng trận|Our team won the game.|Đội chúng tôi đã thắng trận.
+wore|wore a uniform|đã mặc đồng phục|We wore a uniform at school.|Hồi đi học chúng tôi mặc đồng phục.
+held|held a meeting|đã tổ chức cuộc họp|The company held a meeting on Friday.|Công ty đã tổ chức cuộc họp hôm thứ Sáu.
+fell|fell in love|đã phải lòng nhau|They fell in love in Paris.|Họ yêu nhau ở Paris.
+forgot|forgot my keys|đã quên chìa khóa|I forgot my keys at home.|Tôi để quên chìa khóa ở nhà.
+hid|hid the money|đã giấu tiền|She hid the money under the bed.|Cô ấy giấu tiền dưới gầm giường.

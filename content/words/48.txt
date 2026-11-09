@@ -1,0 +1,58 @@
+# Nhóm 48 – Đồ vật, vật liệu
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Đồ vật, vật liệu|Đồ vật 3|n câm trong column; trọng âm elevator, escalator ở âm tiết đầu|Đồ vật, bao bì, vật liệu xây dựng và dụng cụ hằng ngày. Chú ý object (danh từ) nhấn âm tiết đầu, column có n câm, balloon nhấn âm tiết hai.|equipment,envelope,column,escalator
+= Đồ vật và bưu kiện|qu đọc /kw/ trong equipment; -age đọc /ɪdʒ/ trong package
+object|ˈɑbdʒɛkt|n|đồ vật|What is that object?|Vật kia là gì?||Động từ object nhấn âm tiết hai.
+item|ˈaɪtəm|n|món, mục|How many items do you have?|Bạn có bao nhiêu món hàng?||
+stuff|stʌf|n|đồ đạc, thứ|I have a lot of stuff to do.|Tôi có nhiều việc phải làm.||
+equipment|ɪˈkwɪpmənt|n|thiết bị|The gym has new equipment.|Phòng tập có thiết bị mới.||Danh từ không đếm được.
+instrument|ˈɪnstɹəmənt|n|nhạc cụ; dụng cụ|The piano is my favorite instrument.|Piano là nhạc cụ tôi thích nhất.||
+container|kənˈteɪnɚ|n|đồ đựng; thùng hàng|Put the rice in a container.|Cho gạo vào hộp.||
+package|ˈpækɪdʒ|n|gói hàng|A package came for you.|Có gói hàng gửi cho bạn.||
+parcel|ˈpɑɹsəl|n|bưu kiện|I sent a parcel to Hanoi.|Tôi gửi một bưu kiện ra Hà Nội.||
+envelope|ˈɛnvəˌloʊp|n|phong bì|Put the money in an envelope.|Cho tiền vào phong bì.||
+stamp|stæmp|n|con tem|I need a stamp for this letter.|Tôi cần một con tem cho lá thư này.||
+= Nhãn, dây, dán|Âm cuối /g/ trong tag; cụm /stɹ/ trong string
+label|ˈleɪbəl|n|nhãn|Read the label carefully.|Đọc kỹ nhãn.||
+tag|tæg|n|thẻ, nhãn|The price tag says ten dollars.|Thẻ giá ghi mười đô.||
+sticker|ˈstɪkɚ|n|nhãn dán|Kids love stickers.|Trẻ con thích hình dán.||
+board|bɔɹd|n|tấm bảng; ban|Write it on the board.|Viết lên bảng.||Đồng âm với bored.
+sheet|ʃit|n|tấm, tờ; ga trải giường|Change the bed sheets.|Thay ga giường.||Khác seat /sit/.
+glue|glu|n|keo dán|I need some glue.|Tôi cần ít keo.||
+tape|teɪp|n|băng dính|Fix it with tape.|Dán nó bằng băng dính.||
+string|stɹɪŋ|n|sợi dây|The kite is on a string.|Con diều buộc vào sợi dây.||
+chain|tʃeɪn|n|dây xích; chuỗi|My bike chain is broken.|Xích xe đạp của tôi bị đứt.||
+net|nɛt|n|lưới|The ball hit the net.|Bóng chạm lưới.||
+= Xây dựng|n câm trong column; c đọc /s/ trong cement
+pipe|paɪp|n|ống|The pipe is leaking.|Ống bị rò rỉ.||
+tube|tub|n|ống, tuýp|A tube of cream.|Một tuýp kem.||
+tank|tæŋk|n|bể chứa; xe tăng|The water tank is full.|Bể nước đầy rồi.||
+brick|bɹɪk|n|viên gạch|The house is made of bricks.|Ngôi nhà xây bằng gạch.||
+cement|sɪˈmɛnt|n|xi măng|They mixed the cement.|Họ trộn xi măng.||Trọng âm âm tiết hai.
+concrete|ˈkɑnkɹit|n|bê tông|The bridge is made of concrete.|Cây cầu làm bằng bê tông.||
+tile|taɪl|n|gạch lát, ngói|The bathroom has blue tiles.|Phòng tắm lát gạch xanh.||
+column|ˈkɑləm|n|cột; chuyên mục|There are four columns in the hall.|Sảnh có bốn cây cột.||Chữ n cuối không đọc.
+elevator|ˈɛləˌveɪtɚ|n|thang máy|Take the elevator to floor ten.|Đi thang máy lên tầng mười.||Trọng âm âm tiết đầu.
+escalator|ˈɛskəˌleɪtɚ|n|thang cuốn|The escalator is broken.|Thang cuốn bị hỏng.||Trọng âm âm tiết đầu.
+= Vật dụng trong nhà|Cụm /skɹ/ trong screw; oo đọc /ʊ/ trong hook
+screw|skɹu|n|đinh vít, ốc|I need a small screw.|Tôi cần một con ốc nhỏ.||
+lid|lɪd|n|nắp|Where is the lid?|Cái nắp đâu rồi?||
+sack|sæk|n|bao tải|A sack of potatoes.|Một bao khoai tây.||
+pile|paɪl|n|đống|A pile of clothes.|Một đống quần áo.||
+row|ɹoʊ|n|hàng, dãy|Sit in the front row.|Ngồi hàng đầu.||Đồng âm với roe.
+bin|bɪn|n|thùng rác|Put it in the bin.|Bỏ nó vào thùng rác.||Khác bean /bin/.
+mat|mæt|n|tấm thảm nhỏ|Wipe your feet on the mat.|Chùi chân lên thảm.||
+cushion|ˈkʊʃən|n|gối tựa, đệm|Sit on the cushion.|Ngồi lên đệm.||
+hook|hʊk|n|cái móc|Hang your bag on the hook.|Treo túi lên móc.||
+cabinet|ˈkæbənɪt|n|tủ; nội các|The medicine is in the cabinet.|Thuốc ở trong tủ.||
+= Đồ dùng và đồ chơi|wh đọc /w/ trong wheelchair; trọng âm balloon ở âm tiết hai
+mattress|ˈmætɹəs|n|nệm|This mattress is too hard.|Cái nệm này cứng quá.||
+jug|dʒʌg|n|bình rót|A jug of water, please.|Cho một bình nước.||
+cart|kɑɹt|n|xe đẩy; xe kéo|Push the cart.|Đẩy xe đi.||
+trolley|ˈtɹɑli|n|xe đẩy|Get a trolley for the bags.|Lấy xe đẩy cho mấy cái túi.||
+wheelchair|ˈwilˌtʃɛɹ|n|xe lăn|He uses a wheelchair.|Anh ấy dùng xe lăn.||
+flag|flæg|n|lá cờ|Wave the flag!|Vẫy cờ lên!||
+ribbon|ˈɹɪbən|n|ruy băng|She wears a ribbon in her hair.|Cô bé buộc ruy băng trên tóc.||
+balloon|bəˈlun|n|bóng bay|The child let go of the balloon.|Đứa trẻ thả quả bóng bay.||Trọng âm âm tiết hai.
+kite|kaɪt|n|cái diều|Children fly kites in summer.|Trẻ em thả diều vào mùa hè.||
+bell|bɛl|n|cái chuông|The bell is ringing.|Chuông đang reo.||

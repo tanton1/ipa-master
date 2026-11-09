@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+achieve|achieve a goal|đạt mục tiêu|Work hard to achieve a goal.|Chăm chỉ để đạt được mục tiêu.
+affect|affect your health|ảnh hưởng đến sức khỏe|Stress can affect your health.|Căng thẳng có thể ảnh hưởng đến sức khỏe.
+analyze|analyze the data|phân tích dữ liệu|We need to analyze the data.|Chúng ta cần phân tích dữ liệu.
+assume|assume that|cho rằng|Don't assume that everyone knows.|Đừng cho rằng ai cũng biết.
+attract|attract tourists|thu hút khách du lịch|Beautiful beaches attract tourists.|Những bãi biển đẹp thu hút khách du lịch.
+claim|claim your prize|nhận giải|Come to the desk to claim your prize.|Đến quầy để nhận giải.
+compete|compete with|cạnh tranh với|Small shops can't compete with big malls.|Cửa hàng nhỏ khó cạnh tranh với trung tâm lớn.
+concentrate|concentrate on|tập trung vào|Concentrate on your work.|Tập trung vào công việc.
+confirm|confirm a booking|xác nhận đặt chỗ|Please call to confirm a booking.|Vui lòng gọi điện để xác nhận đặt chỗ.
+measure|measure the room|đo căn phòng|Let's measure the room first.|Mình đo căn phòng trước đã.
+contain|contain sugar|chứa đường|Does this drink contain sugar?|Đồ uống này có đường không?
+contribute|contribute to|góp phần vào|Everyone can contribute to a clean city.|Ai cũng có thể góp phần làm thành phố sạch.
+create|create jobs|tạo việc làm|New factories create jobs.|Các nhà máy mới tạo việc làm.
+define|define success|định nghĩa thành công|How do you define success?|Bạn định nghĩa thành công thế nào?
+depend|it depends|còn tùy|"Will you come?" "It depends."|"Bạn có đến không?" "Còn tùy."
+design|design a website|thiết kế trang web|She can design a website.|Cô ấy có thể thiết kế trang web.
+determine|determine the cause|xác định nguyên nhân|Police are trying to determine the cause.|Cảnh sát đang cố xác định nguyên nhân.
+develop|develop skills|phát triển kỹ năng|Games can help children develop skills.|Trò chơi có thể giúp trẻ phát triển kỹ năng.
+establish|establish a company|thành lập công ty|He wants to establish a company.|Anh ấy muốn thành lập công ty.
+examine|examine the patient|khám bệnh nhân|The doctor will examine the patient.|Bác sĩ sẽ khám cho bệnh nhân.
+exist|no longer exist|không còn tồn tại|Some old shops no longer exist.|Một số cửa hàng cũ không còn nữa.
+expand|expand the business|mở rộng kinh doanh|They plan to expand the business.|Họ dự định mở rộng kinh doanh.
+identify|identify the problem|xác định vấn đề|First, identify the problem.|Trước tiên, hãy xác định vấn đề.
+ignore|ignore the warning|phớt lờ cảnh báo|Don't ignore the warning.|Đừng phớt lờ cảnh báo.
+indicate|indicate that|cho thấy rằng|Studies indicate that sleep is important.|Các nghiên cứu cho thấy giấc ngủ rất quan trọng.
+involve|get involved|tham gia|I want to get involved in the project.|Tôi muốn tham gia dự án.
+maintain|maintain a healthy weight|duy trì cân nặng hợp lý|Exercise helps you maintain a healthy weight.|Tập thể dục giúp duy trì cân nặng hợp lý.
+manage|manage time|quản lý thời gian|Learn to manage time well.|Hãy học cách quản lý thời gian tốt.
+obtain|obtain a visa|xin được thị thực|It's not easy to obtain a visa.|Xin được thị thực không dễ.
+occur|occur to|nảy ra trong đầu|It didn't occur to me.|Tôi không nghĩ ra điều đó.
+organize|organize a party|tổ chức tiệc|Let's organize a party for Mom.|Mình tổ chức tiệc cho mẹ nhé.
+perform|perform on stage|biểu diễn trên sân khấu|She will perform on stage tonight.|Tối nay cô ấy sẽ biểu diễn trên sân khấu.
+predict|predict the future|dự đoán tương lai|No one can predict the future.|Không ai đoán trước được tương lai.
+provide|provide information|cung cấp thông tin|Please provide information about your trip.|Vui lòng cung cấp thông tin về chuyến đi.
+publish|publish a book|xuất bản sách|She wants to publish a book.|Cô ấy muốn xuất bản một cuốn sách.
+recognize|recognize her voice|nhận ra giọng cô ấy|I didn't recognize her voice on the phone.|Tôi không nhận ra giọng cô ấy qua điện thoại.
+reflect|reflect on|suy ngẫm về|Take time to reflect on your day.|Dành thời gian suy ngẫm về một ngày của bạn.
+relate|relate to|đồng cảm với|I can relate to that.|Tôi hiểu cảm giác đó.
+rely|rely on|dựa vào|You can rely on me.|Bạn có thể tin cậy tôi.
+remain|remain calm|giữ bình tĩnh|Please remain calm.|Xin hãy giữ bình tĩnh.
+remove|remove your shoes|cởi giày|Please remove your shoes before entering.|Vui lòng cởi giày trước khi vào.
+replace|replace the battery|thay pin|You need to replace the battery.|Bạn cần thay pin.
+represent|represent the school|đại diện cho trường|She will represent the school in the contest.|Cô ấy sẽ đại diện trường dự thi.
+require|require a visa|yêu cầu thị thực|Some countries require a visa.|Một số nước yêu cầu thị thực.
+respond|respond to|phản hồi|Please respond to my email.|Vui lòng phản hồi email của tôi.
+reveal|reveal a secret|tiết lộ bí mật|Don't reveal a secret to strangers.|Đừng tiết lộ bí mật cho người lạ.
+select|select a language|chọn ngôn ngữ|Select a language to continue.|Chọn ngôn ngữ để tiếp tục.
+survive|survive the winter|sống qua mùa đông|Bears sleep to survive the winter.|Gấu ngủ đông để sống qua mùa đông.
+tend|tend to|thường hay|I tend to eat too much at Tet.|Tôi hay ăn quá nhiều dịp Tết.
+encourage|encourage children|khuyến khích trẻ|Parents should encourage children to read.|Cha mẹ nên khuyến khích con đọc sách.

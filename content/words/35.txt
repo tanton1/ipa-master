@@ -1,0 +1,58 @@
+# Nhóm 35 – Công việc, nghề nghiệp
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Công việc, nghề nghiệp|Công việc|Đuôi -er/-or đọc /ɚ/, trọng âm career, engineer, employee|Nghề nghiệp, công ty, phỏng vấn và sự nghiệp. Nhiều từ chỉ nghề có đuôi -er, -or, -ist; chú ý trọng âm career /kəˈɹɪɹ/, engineer /ˌɛndʒəˈnɪɹ/.|business,engineer,journalist,experience
+= Công ty và nhân sự|u đọc /ɪ/ trong business; trọng âm employee ở âm tiết hai
+job|dʒɑb|n|công việc, việc làm|I love my job.|Tôi yêu công việc của mình.||Âm cuối /b/.
+career|kəˈɹɪɹ|n|sự nghiệp|She has a great career.|Cô ấy có sự nghiệp tốt.||Trọng âm âm tiết hai.
+company|ˈkʌmpəni|n|công ty|He works for a big company.|Anh ấy làm cho một công ty lớn.||Chữ o đầu đọc /ʌ/.
+business|ˈbɪznəs|n|kinh doanh, doanh nghiệp|Business is good.|Làm ăn thuận lợi.||Chữ u đọc /ɪ/; đọc 2 âm tiết.
+manager|ˈmænɪdʒɚ|n|người quản lý|I want to talk to the manager.|Tôi muốn nói chuyện với quản lý.||
+employee|ɪmˈplɔɪi|n|nhân viên|The company has 200 employees.|Công ty có 200 nhân viên.||
+employer|ɪmˈplɔɪɚ|n|chủ, người sử dụng lao động|My employer is very fair.|Chủ của tôi rất công bằng.||
+worker|ˈwɝkɚ|n|công nhân, người lao động|The workers are on strike.|Công nhân đang đình công.||
+staff|stæf|n|nhân viên (tập thể)|The staff are friendly.|Nhân viên thân thiện.||
+team|tim|n|đội, nhóm|We are a team.|Chúng ta là một đội.||
+= Công việc hằng ngày|Cụm cuối /sk/ trong task, /kt/ trong project, contract
+meeting|ˈmitɪŋ|n|cuộc họp|The meeting starts at ten.|Cuộc họp bắt đầu lúc mười giờ.||
+interview|ˈɪntɚˌvju|n|cuộc phỏng vấn|How was the interview?|Buổi phỏng vấn thế nào?||
+project|ˈpɹɑdʒɛkt|n|dự án|This project is important.|Dự án này quan trọng.||Động từ project nhấn âm tiết hai.
+task|tæsk|n|nhiệm vụ|Finish this task first.|Làm xong việc này trước.||
+document|ˈdɑkjəmənt|n|tài liệu, giấy tờ|Please read this document.|Vui lòng đọc tài liệu này.||
+contract|ˈkɑntɹækt|n|hợp đồng|Read the contract carefully.|Đọc kỹ hợp đồng.||
+client|ˈklaɪənt|n|khách hàng|I have a meeting with a client.|Tôi có hẹn với khách hàng.||
+service|ˈsɝvɪs|n|dịch vụ|The service here is excellent.|Dịch vụ ở đây tuyệt vời.||
+product|ˈpɹɑdəkt|n|sản phẩm|This is our new product.|Đây là sản phẩm mới của chúng tôi.||
+profit|ˈpɹɑfɪt|n|lợi nhuận|The company made a big profit.|Công ty có lãi lớn.||Đồng âm với prophet.
+= Nghề nghiệp 1|Đuôi -er, -or đọc /ɚ/; trọng âm engineer ở âm tiết cuối
+engineer|ˌɛndʒəˈnɪɹ|n|kỹ sư|My father is an engineer.|Bố tôi là kỹ sư.||Trọng âm âm tiết cuối.
+lawyer|ˈlɔjɚ|n|luật sư|She is a lawyer.|Cô ấy là luật sư.||Chữ aw đọc /ɔ/.
+farmer|ˈfɑɹmɚ|n|nông dân|The farmer grows rice.|Người nông dân trồng lúa.||
+officer|ˈɔfɪsɚ|n|sĩ quan, viên chức|He is a police officer.|Anh ấy là cảnh sát.||
+soldier|ˈsoʊldʒɚ|n|người lính|My grandfather was a soldier.|Ông tôi từng là bộ đội.||Chữ di đọc /dʒ/.
+artist|ˈɑɹtɪst|n|nghệ sĩ, họa sĩ|She is a talented artist.|Cô ấy là một họa sĩ tài năng.||
+singer|ˈsɪŋɚ|n|ca sĩ|My sister is a singer.|Chị tôi là ca sĩ.||Không có âm /g/: /ˈsɪŋɚ/.
+actor|ˈæktɚ|n|diễn viên|He is a good actor.|Anh ấy là diễn viên giỏi.||
+writer|ˈɹaɪtɚ|n|nhà văn|She is a famous writer.|Bà ấy là nhà văn nổi tiếng.||Chữ w không đọc.
+journalist|ˈdʒɝnəlɪst|n|nhà báo|He works as a journalist.|Anh ấy làm nhà báo.||
+= Nghề nghiệp 2|g câm trong designer; ch đọc /k/ trong mechanic
+designer|dɪˈzaɪnɚ|n|nhà thiết kế|She is a fashion designer.|Cô ấy là nhà thiết kế thời trang.||Chữ g không đọc.
+programmer|ˈpɹoʊˌgɹæmɚ|n|lập trình viên|My brother is a programmer.|Anh tôi là lập trình viên.||
+secretary|ˈsɛkɹəˌtɛɹi|n|thư ký|Ask the secretary.|Hỏi thư ký nhé.||
+mechanic|məˈkænɪk|n|thợ máy|The mechanic fixed my car.|Thợ máy đã sửa xe cho tôi.||Chữ ch đọc /k/.
+captain|ˈkæptən|n|thuyền trưởng; đội trưởng|The captain spoke to the passengers.|Cơ trưởng nói chuyện với hành khách.||
+firefighter|ˈfaɪɹˌfaɪtɚ|n|lính cứu hỏa|Firefighters are brave.|Lính cứu hỏa rất dũng cảm.||
+scientist|ˈsaɪəntɪst|n|nhà khoa học|She is a scientist.|Cô ấy là nhà khoa học.||
+accountant|əˈkaʊntənt|n|kế toán|My mother is an accountant.|Mẹ tôi là kế toán.||
+assistant|əˈsɪstənt|n|trợ lý|I'm his assistant.|Tôi là trợ lý của anh ấy.||
+director|dəˈɹɛktɚ|n|giám đốc; đạo diễn|The director is in a meeting.|Giám đốc đang họp.||
+= Tuyển dụng và sự nghiệp|/ɝ/ trong earn; -sion đọc /ʃən/
+hire|haɪɹ|v|thuê, tuyển|We need to hire more staff.|Chúng tôi cần tuyển thêm nhân viên.||Đồng âm với higher.
+retire|ɹɪˈtaɪɹ|v|nghỉ hưu|My father retired last year.|Bố tôi nghỉ hưu năm ngoái.||
+earn|ɝn|v|kiếm (tiền)|How much do you earn?|Bạn kiếm được bao nhiêu?||Đồng âm với urn.
+apply|əˈplaɪ|v|nộp đơn; áp dụng|I applied for the job.|Tôi đã nộp đơn xin việc.||
+experience|ɪkˈspɪɹiəns|n|kinh nghiệm|I have five years of experience.|Tôi có năm năm kinh nghiệm.||
+skill|skɪl|n|kỹ năng|Speaking is an important skill.|Nói là một kỹ năng quan trọng.||
+position|pəˈzɪʃən|n|vị trí|What position are you applying for?|Bạn ứng tuyển vị trí nào?||Chữ s đọc /z/.
+shift|ʃɪft|n|ca làm việc|I work the morning shift.|Tôi làm ca sáng.||Cụm cuối /ft/.
+profession|pɹəˈfɛʃən|n|nghề nghiệp|Teaching is a noble profession.|Dạy học là một nghề cao quý.||
+workplace|ˈwɝkˌpleɪs|n|nơi làm việc|My workplace is near my home.|Nơi làm việc của tôi gần nhà.||

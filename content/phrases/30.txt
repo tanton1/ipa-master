@@ -1,0 +1,55 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+vowel|short vowel|nguyên âm ngắn|The word "ship" has a short vowel.|Từ "ship" có nguyên âm ngắn.
+vowel|vowel sound|âm nguyên âm|English has many vowel sounds.|Tiếng Anh có nhiều âm nguyên âm.
+consonant|final consonant|phụ âm cuối|Don't drop the final consonant.|Đừng bỏ phụ âm cuối.
+syllable|stressed syllable|âm tiết nhận trọng âm|Say the stressed syllable louder.|Đọc to hơn ở âm tiết có trọng âm.
+accent|American accent|giọng Mỹ|She speaks with an American accent.|Cô ấy nói giọng Mỹ.
+accent|strong accent|giọng nặng|He has a strong accent.|Anh ấy nói giọng nặng.
+intonation|rising intonation|ngữ điệu lên giọng|Use rising intonation for yes-no questions.|Dùng ngữ điệu lên giọng với câu hỏi có/không.
+phrase|useful phrase|cụm từ hữu ích|Write down every useful phrase you hear.|Ghi lại mọi cụm từ hữu ích bạn nghe được.
+tone|tone of voice|giọng điệu|Don't use that tone of voice with me.|Đừng dùng giọng điệu đó với tôi.
+tone|six tones|sáu thanh điệu|Vietnamese has six tones.|Tiếng Việt có sáu thanh điệu.
+symbol|phonetic symbol|ký hiệu phiên âm|Learn each phonetic symbol in the chart.|Học từng ký hiệu phiên âm trong bảng.
+noun|plural noun|danh từ số nhiều|"Children" is a plural noun.|"Children" là danh từ số nhiều.
+verb|irregular verb|động từ bất quy tắc|"Go" is an irregular verb.|"Go" là động từ bất quy tắc.
+adjective|common adjective|tính từ thông dụng|"Big" is a common adjective.|"Big" là tính từ thông dụng.
+adverb|adverb of frequency|trạng từ chỉ tần suất|"Often" is an adverb of frequency.|"Often" là trạng từ chỉ tần suất.
+tense|past tense|thì quá khứ|"Went" is the past tense of "go".|"Went" là thì quá khứ của "go".
+plural|plural form|dạng số nhiều|What is the plural form of "mouse"?|Dạng số nhiều của "mouse" là gì?
+singular|singular noun|danh từ số ít|"Book" is a singular noun.|"Book" là danh từ số ít.
+prefix|negative prefix|tiền tố phủ định|"Un-" is a negative prefix.|"Un-" là tiền tố phủ định.
+suffix|add a suffix|thêm hậu tố|Add a suffix to make a new word.|Thêm hậu tố để tạo từ mới.
+synonym|a synonym for|từ đồng nghĩa với|"Big" is a synonym for "large".|"Big" là từ đồng nghĩa với "large".
+antonym|the antonym of|từ trái nghĩa của|"Hot" is the antonym of "cold".|"Hot" là từ trái nghĩa của "cold".
+fluency|improve your fluency|nói trôi chảy hơn|Speaking every day will improve your fluency.|Nói mỗi ngày sẽ giúp bạn trôi chảy hơn.
+dialect|local dialect|phương ngữ địa phương|My grandmother speaks a local dialect.|Bà tôi nói phương ngữ địa phương.
+slang|slang word|từ lóng|"Cool" is a slang word.|"Cool" là một từ lóng.
+idiom|English idiom|thành ngữ tiếng Anh|"Break a leg" is an English idiom.|"Break a leg" là một thành ngữ tiếng Anh.
+proverb|old proverb|câu tục ngữ xưa|As the old proverb says, time is money.|Như tục ngữ xưa nói, thời gian là tiền bạc.
+quote|famous quote|câu nói nổi tiếng|This is a famous quote from Ho Chi Minh.|Đây là câu nói nổi tiếng của Chủ tịch Hồ Chí Minh.
+listener|good listener|người biết lắng nghe|My mother is a good listener.|Mẹ tôi là người biết lắng nghe.
+mispronounce|mispronounce a word|phát âm sai một từ|It's okay to mispronounce a word sometimes.|Thỉnh thoảng phát âm sai một từ cũng không sao.
+clause|main clause|mệnh đề chính|Find the main clause in this sentence.|Tìm mệnh đề chính trong câu này.
+abbreviation|common abbreviation|chữ viết tắt thông dụng|"TV" is a common abbreviation.|"TV" là chữ viết tắt thông dụng.
+comma|use a comma|dùng dấu phẩy|Use a comma between items in a list.|Dùng dấu phẩy giữa các mục trong danh sách.
+punctuation|punctuation mark|dấu câu|A question mark is a punctuation mark.|Dấu hỏi là một dấu câu.
+quotation|quotation marks|dấu ngoặc kép|Put the title in quotation marks.|Đặt tiêu đề trong dấu ngoặc kép.
+bilingual|bilingual school|trường song ngữ|My son goes to a bilingual school.|Con trai tôi học trường song ngữ.
+interpreter|work as an interpreter|làm phiên dịch|She wants to work as an interpreter.|Cô ấy muốn làm phiên dịch viên.
+subtitle|English subtitles|phụ đề tiếng Anh|Watch movies with English subtitles.|Xem phim có phụ đề tiếng Anh.
+caption|photo caption|chú thích ảnh|Write a short photo caption.|Viết một chú thích ảnh ngắn.
+text|text message|tin nhắn|I got a text message from my bank.|Tôi nhận được tin nhắn từ ngân hàng.
+expression|facial expression|nét mặt|His facial expression showed he was angry.|Nét mặt cho thấy anh ấy đang giận.
+expression|common expression|cách nói thông dụng|"How's it going?" is a common expression.|"How's it going?" là cách nói thông dụng.
+gesture|hand gesture|cử chỉ tay|Some hand gestures are rude in other countries.|Một số cử chỉ tay bị coi là bất lịch sự ở nước khác.
+mumble|don't mumble|đừng lầm bầm|Don't mumble, speak clearly.|Đừng lầm bầm, nói rõ ra.
+imitate|imitate the speaker|bắt chước người nói|Listen and imitate the speaker.|Nghe và bắt chước người nói.
+correction|make a correction|sửa lỗi|Let me make a correction to the report.|Để tôi sửa lại bản báo cáo.
+preposition|preposition of place|giới từ chỉ nơi chốn|"In" is a preposition of place.|"In" là giới từ chỉ nơi chốn.
+pronoun|personal pronoun|đại từ nhân xưng|"She" is a personal pronoun.|"She" là đại từ nhân xưng.
+conjunction|use a conjunction|dùng liên từ|Use a conjunction to join two sentences.|Dùng liên từ để nối hai câu.
+alphabet|the English alphabet|bảng chữ cái tiếng Anh|The English alphabet has 26 letters.|Bảng chữ cái tiếng Anh có 26 chữ cái.
+context|in context|trong ngữ cảnh|Learn new words in context.|Học từ mới trong ngữ cảnh.
+phonetics|English phonetics|ngữ âm tiếng Anh|This course teaches English phonetics.|Khóa học này dạy ngữ âm tiếng Anh.
+vocal|vocal cords|dây thanh|Put your hand on your throat to feel your vocal cords.|Đặt tay lên cổ để cảm nhận dây thanh.
+recite|recite a poem|đọc thuộc bài thơ|Children recite a poem at the festival.|Trẻ em đọc thơ ở lễ hội.

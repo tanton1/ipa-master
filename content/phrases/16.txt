@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+accept|accept credit cards|nhận thẻ tín dụng|Do you accept credit cards?|Ở đây có nhận thẻ tín dụng không?
+add|add salt|thêm muối|Add salt to taste.|Thêm muối vừa ăn.
+admit|admit a mistake|thừa nhận sai lầm|It takes courage to admit a mistake.|Cần can đảm để thừa nhận sai lầm.
+advise|advise against|khuyên không nên|Doctors advise against smoking.|Bác sĩ khuyên không nên hút thuốc.
+apologize|apologize for|xin lỗi vì|I apologize for being late.|Tôi xin lỗi vì đến muộn.
+argue|argue with|cãi nhau với|Don't argue with your sister.|Đừng cãi nhau với em gái.
+arrange|arrange a meeting|sắp xếp cuộc họp|Can you arrange a meeting for Monday?|Bạn sắp xếp một cuộc họp vào thứ Hai được không?
+attend|attend a class|tham dự lớp học|I attend a class every Tuesday.|Tôi đi học một lớp vào mỗi thứ Ba.
+avoid|avoid traffic|tránh kẹt xe|We left early to avoid traffic.|Chúng tôi đi sớm để tránh kẹt xe.
+check|check in|làm thủ tục nhận phòng|What time can we check in?|Mấy giờ chúng tôi có thể nhận phòng?
+compare|compare prices|so sánh giá|Always compare prices before you buy.|Luôn so sánh giá trước khi mua.
+complain|complain about|phàn nàn về|He likes to complain about the weather.|Anh ấy hay phàn nàn về thời tiết.
+consider|consider the cost|cân nhắc chi phí|We need to consider the cost.|Chúng ta cần cân nhắc chi phí.
+continue|continue to grow|tiếp tục phát triển|The city will continue to grow.|Thành phố sẽ tiếp tục phát triển.
+describe|describe the man|mô tả người đàn ông|Can you describe the man you saw?|Bạn mô tả được người đàn ông bạn thấy không?
+discuss|discuss the plan|thảo luận kế hoạch|Let's discuss the plan tomorrow.|Mai chúng ta thảo luận kế hoạch nhé.
+expect|expect a baby|chờ sinh em bé|They expect a baby in May.|Họ chờ sinh em bé vào tháng Năm.
+fail|fail the exam|trượt kỳ thi|If you don't study, you will fail the exam.|Nếu không học, bạn sẽ trượt kỳ thi.
+forgive|forgive me|tha lỗi cho tôi|Please forgive me.|Xin hãy tha lỗi cho tôi.
+guess|guess what|đoán xem|Guess what! I got the job.|Đoán xem! Tôi được nhận việc rồi.
+imagine|imagine the future|hình dung tương lai|Try to imagine the future you want.|Hãy hình dung tương lai bạn muốn.
+improve|improve your English|cải thiện tiếng Anh|Reading helps you improve your English.|Đọc sách giúp bạn cải thiện tiếng Anh.
+include|include tax|bao gồm thuế|Does the price include tax?|Giá này đã bao gồm thuế chưa?
+introduce|introduce yourself|tự giới thiệu|Please introduce yourself.|Mời bạn tự giới thiệu.
+invite|invite friends|mời bạn bè|I want to invite friends for dinner.|Tôi muốn mời bạn bè ăn tối.
+mention|don't mention it|không có gì|"Thank you so much!" "Don't mention it."|"Cảm ơn nhiều nhé!" "Không có gì."
+notice|notice the difference|nhận ra sự khác biệt|Can you notice the difference?|Bạn có nhận ra sự khác biệt không?
+order|order food|đặt đồ ăn, gọi món|Let's order food online.|Mình đặt đồ ăn trên mạng nhé.
+prepare|prepare dinner|chuẩn bị bữa tối|I prepare dinner every evening.|Tối nào tôi cũng chuẩn bị bữa tối.
+pretend|pretend to sleep|giả vờ ngủ|The boy likes to pretend to sleep.|Cậu bé hay giả vờ ngủ.
+protect|protect the environment|bảo vệ môi trường|We must protect the environment.|Chúng ta phải bảo vệ môi trường.
+prove|prove it|chứng minh điều đó|You say you can swim? Prove it!|Bạn bảo biết bơi à? Chứng minh đi!
+realize|realize a dream|thực hiện ước mơ|She worked hard to realize a dream.|Cô ấy làm việc chăm chỉ để thực hiện ước mơ.
+recommend|recommend a restaurant|giới thiệu một nhà hàng|Can you recommend a restaurant near here?|Bạn giới thiệu giúp một nhà hàng gần đây được không?
+refuse|refuse to help|từ chối giúp|He would never refuse to help a friend.|Anh ấy không bao giờ từ chối giúp bạn bè.
+repeat|repeat after me|nhắc lại theo tôi|Repeat after me: thank you.|Nhắc lại theo tôi: thank you.
+reply|reply to an email|trả lời email|I need to reply to an email from my boss.|Tôi cần trả lời email của sếp.
+report|report a problem|báo cáo sự cố|Click here to report a problem.|Bấm vào đây để báo cáo sự cố.
+return|return home|trở về nhà|Many workers return home for Tet.|Nhiều người lao động về quê ăn Tết.
+share|share a room|ở chung phòng|I share a room with my brother.|Tôi ở chung phòng với anh trai.
+suggest|suggest an idea|đề xuất một ý tưởng|Can I suggest an idea?|Tôi đề xuất một ý được không?
+support|support each other|ủng hộ nhau|Good friends support each other.|Bạn tốt luôn ủng hộ nhau.
+suppose|supposed to|phải, được cho là|You are supposed to be here at eight.|Bạn phải có mặt ở đây lúc tám giờ.
+translate|translate this sentence|dịch câu này|Can you translate this sentence?|Bạn dịch câu này được không?
+trust|trust me|tin tôi đi|Trust me, it will work.|Tin tôi đi, sẽ được thôi.
+warn|warn you|cảnh báo bạn|I must warn you, the road is dangerous.|Tôi phải cảnh báo bạn, con đường rất nguy hiểm.
+waste|waste time|lãng phí thời gian|Don't waste time on your phone.|Đừng lãng phí thời gian vào điện thoại.
+deliver|deliver a package|giao một gói hàng|The shipper will deliver a package this afternoon.|Chiều nay người giao hàng sẽ giao một gói hàng.
+collect|collect stamps|sưu tầm tem|My grandfather likes to collect stamps.|Ông tôi thích sưu tầm tem.
+celebrate|celebrate a birthday|tổ chức sinh nhật|We usually celebrate a birthday with a cake.|Chúng tôi thường tổ chức sinh nhật bằng một chiếc bánh.

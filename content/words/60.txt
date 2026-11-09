@@ -1,0 +1,58 @@
+# Nhóm 60 – Đồng âm, cặp tối thiểu
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Đồng âm, cặp tối thiểu|Cặp dễ nhầm|Cặp tối thiểu nguyên âm, phụ âm đầu, âm cuối và các từ đồng âm|Nhóm cuối tổng hợp lỗi người Việt hay gặp: nhầm nguyên âm ngắn – dài, /l/ – /n/ – /ɹ/, /v/ – /w/ – /b/, âm cuối hữu thanh. Kèm các cặp đồng âm (bare – bear, tale – tail) để nghe phân biệt nghĩa theo ngữ cảnh.|mud,breeze,brake,thigh
+= Nguyên âm ngắn – dài|mud /ʌ/ – mad /æ/; leap /i/ – lip /ɪ/; men /ɛ/ – man /æ/
+mud|mʌd|n|bùn|My shoes are full of mud.|Giày tôi dính đầy bùn.|mad|/ʌ/ ngắn, miệng mở vừa.
+mad|mæd|adj|điên; tức giận|Don't be mad at me.|Đừng giận tôi.|mud|/æ/ mở miệng rộng, kéo khóe môi.
+leap|lip|v|nhảy vọt|The frog leaped into the water.|Con ếch nhảy xuống nước.|lip|/i/ dài, căng môi.
+peak|pik|n|đỉnh|We reached the peak.|Chúng tôi lên tới đỉnh.|pick|Đồng âm với peek.
+bug|bʌg|n|con bọ; lỗi phần mềm|There is a bug in the app.|Ứng dụng có lỗi.|bag|Âm cuối /g/ hữu thanh.
+dip|dɪp|v|nhúng, chấm|Dip the bread in the soup.|Chấm bánh mì vào súp.|deep|/ɪ/ ngắn; khác deep /dip/.
+seen|sin|v|đã thấy (quá khứ phân từ của see)|Have you seen my keys?|Bạn có thấy chìa khóa của tôi không?|sin|Đồng âm với scene.
+men|mɛn|n|đàn ông (số nhiều)|Three men came in.|Ba người đàn ông bước vào.|man|/ɛ/; số ít man /mæn/.
+dad|dæd|n|bố|My dad is a doctor.|Bố tôi là bác sĩ.|dead|/æ/; khác dead /dɛd/.
+sip|sɪp|v|nhấp, uống từng ngụm|Sip your tea slowly.|Nhấp trà từ từ.|ship|/s/ khác ship /ʃɪp/.
+= Phụ âm đầu dễ nhầm|jeep /dʒ/ – cheap /tʃ/; lime /l/ – rhyme /ɹ/; tin /t/ – thin /θ/
+jeep|dʒip|n|xe jeep|We rode in a jeep.|Chúng tôi đi xe jeep.|cheap|/dʒ/ hữu thanh; khác cheap /tʃip/.
+shell|ʃɛl|n|vỏ (sò, ốc, trứng)|I found a shell on the beach.|Tôi nhặt được vỏ sò trên bãi biển.|sell|/ʃ/ khác sell /sɛl/.
+lime|laɪm|n|chanh xanh|Add some lime.|Thêm ít chanh.|rhyme|/l/ khác rhyme /ɹaɪm/.
+lap|læp|n|lòng (đùi khi ngồi); vòng chạy|The baby sat on my lap.|Em bé ngồi trong lòng tôi.|nap|/l/ khác nap /næp/.
+peg|pɛg|n|cái móc, cái kẹp|Hang your coat on the peg.|Treo áo khoác lên móc.|pig|/ɛ/ khác pig /pɪg/.
+glow|gloʊ|v|phát sáng|The lamp glows at night.|Đèn phát sáng vào ban đêm.|grow|/gl/ khác grow /gɹ/.
+leak|lik|n|chỗ rò rỉ|There is a leak in the roof.|Mái nhà bị dột.|lick;lɪk|Đồng âm với leek.
+tin|tɪn|n|thiếc; hộp thiếc|The cookies are in a tin.|Bánh quy để trong hộp thiếc.|thin|/t/ khác thin /θɪn/.
+sin|sɪn|n|tội lỗi|Lying is a sin.|Nói dối là tội lỗi.|thin|/s/ khác thin /θɪn/.
+worse|wɝs|adj|tệ hơn|The weather is getting worse.|Thời tiết đang xấu đi.|worth|So sánh hơn của bad.
+= Hữu thanh – vô thanh, /v/ – /b/|vet /v/ – wet /w/; best /b/ – vest /v/; robe /b/ – rope /p/
+breeze|bɹiz|n|gió nhẹ|I love the evening breeze.|Tôi thích làn gió chiều.|breathe|Âm cuối /z/ hữu thanh.
+doze|doʊz|v|ngủ gà ngủ gật|Grandpa dozed in his chair.|Ông ngủ gật trên ghế.|those|/d/ khác those /ðoʊz/.
+vet|vɛt|n|bác sĩ thú y|Take the dog to the vet.|Đưa chó đi bác sĩ thú y.|wet|/v/ môi dưới chạm răng; khác wet /wɛt/.
+best|bɛst|adj|tốt nhất|You are the best!|Bạn là nhất!|vest|/b/ khác vest /vɛst/.
+ban|bæn|v|cấm|They banned plastic bags.|Họ cấm túi ni lông.|van|/b/ khác van /væn/.
+fool|ful|n|kẻ ngốc|Don't be a fool.|Đừng ngốc thế.|full|/u/ dài; khác full /fʊl/.
+cop|kɑp|n|cảnh sát (thân mật)|The cop stopped the car.|Viên cảnh sát chặn chiếc xe.|cup|/ɑ/ khác cup /kʌp/.
+dock|dɑk|n|bến tàu|The ship is at the dock.|Con tàu ở bến.|duck|/ɑ/ khác duck /dʌk/.
+hut|hʌt|n|túp lều|They live in a small hut.|Họ sống trong một túp lều nhỏ.|hot|/ʌ/ khác hot /hɑt/.
+robe|ɹoʊb|n|áo choàng|She wore a white robe.|Cô ấy mặc áo choàng trắng.|rope|Âm cuối /b/ khác rope /ɹoʊp/.
+= Đồng âm|bare = bear, dear = deer, tale = tail, brake = break, fare = fair
+cab|kæb|n|xe taxi|Let's take a cab.|Bắt taxi đi.|cap|Âm cuối /b/ khác cap /kæp/.
+jet|dʒɛt|n|máy bay phản lực|The jet flew over the city.|Máy bay phản lực bay qua thành phố.|yet|/dʒ/ khác yet /jɛt/.
+flesh|flɛʃ|n|thịt (cơ thể)|The fruit has soft flesh.|Trái cây có thịt mềm.|fresh|/fl/ khác fresh /fɹ/.
+blush|blʌʃ|v|đỏ mặt|She blushed when he smiled.|Cô ấy đỏ mặt khi anh ấy cười.|brush|/bl/ khác brush /bɹ/.
+chick|tʃɪk|n|gà con|The chick is yellow.|Gà con màu vàng.|cheek|/ɪ/ khác cheek /tʃik/.
+bare|bɛɹ|adj|trần, trống trơn|Don't walk in bare feet.|Đừng đi chân trần.|bear|Đồng âm với bear.
+dear|dɪɹ|adj|thân mến|Dear Lan, how are you?|Lan thân mến, bạn khỏe không?|deer|Đồng âm với deer.
+tale|teɪl|n|câu chuyện, truyện kể|Grandma told us a tale.|Bà kể chúng tôi nghe một câu chuyện.|tail|Đồng âm với tail.
+brake|bɹeɪk|n|cái phanh|The brakes don't work.|Phanh không ăn.|break|Đồng âm với break.
+fare|fɛɹ|n|tiền vé|How much is the fare?|Tiền vé bao nhiêu?|fair|Đồng âm với fair.
+= Đồng âm và so sánh|aloud = allowed, heel = heal, sight = site, blew = blue; worse – worst
+aloud|əˈlaʊd|adv|thành tiếng, to|Read it aloud.|Đọc to lên.||Đồng âm với allowed.
+heel|hil|n|gót chân|My heel hurts.|Gót chân tôi đau.|hill|Đồng âm với heal.
+sight|saɪt|n|thị lực; cảnh|My grandmother has poor sight.|Bà tôi mắt kém.||Đồng âm với site và cite.
+better|ˈbɛtɚ|adj|tốt hơn|This one is better.|Cái này tốt hơn.|butter|So sánh hơn của good; /ɛ/ khác butter /ʌ/.
+blew|blu|v|đã thổi (quá khứ của blow)|The wind blew all night.|Gió thổi suốt đêm.|blue|Đồng âm với blue.
+worn|wɔɹn|v|đã mặc, đã mòn (quá khứ phân từ của wear)|I have never worn a suit.|Tôi chưa bao giờ mặc com-lê.|warn|Đồng âm với warn.
+higher|ˈhaɪɚ|adj|cao hơn|The price is higher now.|Giờ giá cao hơn.|hire|Đồng âm với hire.
+worst|wɝst|adj|tệ nhất|It was the worst movie ever.|Đó là bộ phim tệ nhất từ trước đến nay.|worse|So sánh nhất của bad; cụm cuối /st/.
+mess|mɛs|n|sự bừa bộn|What a mess!|Bừa bộn quá!|mass|/ɛ/ khác mass /mæs/.
+thigh|θaɪ|n|bắp đùi|I hurt my thigh.|Tôi bị đau đùi.|tie|/θ/ khác tie /taɪ/; chữ gh không đọc.

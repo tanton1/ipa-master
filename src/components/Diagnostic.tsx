@@ -268,7 +268,7 @@ function DiagnosticResult({ res, region }: { res: Result; region?: Region }) {
               <li key={c}><Link href={`/errors/${c}`} className="card tap flex items-center gap-3 px-4 py-3"><span className="flex size-10 items-center justify-center rounded-2xl bg-danger-soft text-xs font-bold text-danger">{c}</span><span className="flex-1"><span className="block font-semibold">{getVei(c)?.title}</span><span className="block text-xs text-muted">Bài chữa lỗi 6 bước</span></span></Link></li>
             ))}
           </ul>
-        ) : <p className="card p-4 text-sm text-muted">Chưa thấy nhóm lỗi nổi bật. Bắt đầu lộ trình 500 từ; hệ thống sẽ tiếp tục cập nhật theo kết quả luyện.</p>}
+        ) : <p className="card p-4 text-sm text-muted">Chưa thấy nhóm lỗi nổi bật. Bắt đầu lộ trình 3000 từ; hệ thống sẽ tiếp tục cập nhật theo kết quả luyện.</p>}
       </section>
       <p className="text-xs text-muted">Kết quả dựa trên bài nghe và tự đánh giá của bạn, chưa có AI chấm. Bản đồ âm sẽ chính xác dần qua nhiều lần học.</p>
       <div className="flex flex-col gap-2">

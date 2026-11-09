@@ -1,6 +1,7 @@
 import type { WordGroup } from './types';
+import extra from './groups-extra.json';
 
-export const GROUPS: WordGroup[] = [
+const CORE: WordGroup[] = [
   { id: 1, slug: '01', title: 'Đại từ, mạo từ, giới từ', short: 'Từ chức năng', description: 'Những từ xuất hiện trong gần như mọi câu nói. Đọc nhẹ, đúng âm /ð/ và dạng yếu.', examples: ['the', 'a', 'this', 'with'], focus: 'Âm /ð/, dạng yếu và schwa', tone: 'indigo' },
   { id: 2, slug: '02', title: 'Động từ thiết yếu', short: 'Động từ', description: 'Động từ dùng hằng ngày. Chú ý âm cuối /v/, /k/, /z/ và cụm phụ âm.', examples: ['have', 'make', 'think', 'read'], focus: 'Âm cuối và /θ/', tone: 'violet' },
   { id: 3, slug: '03', title: 'Số đếm, thời gian', short: 'Số & thời gian', description: 'Số và các mốc thời gian. Luyện /θ/ trong three, thirty và trọng âm từ nhiều âm tiết.', examples: ['three', 'today', 'month'], focus: 'Trọng âm và /θ/', tone: 'sky' },
@@ -11,7 +12,12 @@ export const GROUPS: WordGroup[] = [
   { id: 8, slug: '08', title: 'Tính từ, cảm xúc', short: 'Tính từ', description: 'Tính từ miêu tả và cảm xúc. Nguyên âm dễ nhầm /æ/–/ɛ/ và cụm cuối /ld/, /ŋ/.', examples: ['happy', 'different', 'strong'], focus: '/æ/–/ɛ/', tone: 'orange' },
   { id: 9, slug: '09', title: 'Học tập, công nghệ', short: 'Học & công nghệ', description: 'Từ nhiều âm tiết về học tập và công nghệ. Luyện trọng âm và nguyên âm yếu.', examples: ['English', 'sentence', 'practice'], focus: 'Trọng âm từ dài', tone: 'cyan' },
   { id: 10, slug: '10', title: 'Giao tiếp, từ dễ nhầm', short: 'Từ dễ nhầm', description: 'Từ giao tiếp và các cặp từ tối thiểu kinh điển: ship–sheep, rice–rise, right–light.', examples: ['though', 'through', 'ship', 'sheep'], focus: 'Cặp từ tối thiểu', tone: 'fuchsia' },
-];
+].map((g) => ({ ...g, stage: 1 }));
+
+interface ExtraGroup extends WordGroup { units: { index: number; title: string; focus: string }[] }
+
+/** Nhóm 1–10 viết tay ở trên; nhóm 11+ khai báo bằng dòng @group trong content/words/NN.txt */
+export const GROUPS: WordGroup[] = [...CORE, ...(extra as ExtraGroup[]).map(({ units: _units, ...g }) => g)];
 
 export function getGroup(idOrSlug: number | string): WordGroup | undefined {
   return GROUPS.find((g) => g.id === Number(idOrSlug) || g.slug === idOrSlug);

@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+the|the same|giống nhau|We have the same shoes.|Chúng tôi có đôi giày giống nhau.
+a|a little|một chút|Can I have a little more rice?|Cho tôi thêm một chút cơm nhé?
+an|an hour|một giờ|I'll be back in an hour.|Một giờ nữa tôi sẽ quay lại.
+this|this morning|sáng nay|I went jogging this morning.|Sáng nay tôi đi chạy bộ.
+that|that's right|đúng rồi|"Is your name Lan?" "That's right."|"Bạn tên Lan à?" "Đúng rồi."
+these|these days|dạo này|These days, I work from home.|Dạo này tôi làm việc ở nhà.
+those|those days|những ngày ấy|I miss those days.|Tôi nhớ những ngày ấy.
+I|I think so|tôi nghĩ vậy|"Is it going to rain?" "I think so."|"Trời sắp mưa à?" "Tôi nghĩ vậy."
+you|you know|bạn biết đấy|You know, I really like her.|Bạn biết đấy, tôi rất thích cô ấy.
+he|he said|anh ấy nói|He said he was tired.|Anh ấy nói anh ấy mệt.
+she|she's from|cô ấy đến từ|She's from Da Nang.|Cô ấy đến từ Đà Nẵng.
+it|it's time to|đã đến lúc|It's time to go home.|Đến giờ về nhà rồi.
+we|we're late|chúng ta muộn rồi|Hurry, we're late!|Nhanh lên, chúng ta muộn rồi!
+they|they say|người ta nói|They say Hue is beautiful in spring.|Người ta nói Huế mùa xuân rất đẹp.
+me|excuse me|xin lỗi (khi gây chú ý)|Excuse me, where is the bank?|Xin lỗi, ngân hàng ở đâu?
+him|tell him|nói với anh ấy|Please tell him to call me.|Nhờ bạn bảo anh ấy gọi cho tôi.
+her|her name|tên cô ấy|What is her name?|Tên cô ấy là gì?
+us|let us know|cho chúng tôi biết|Please let us know if you need anything.|Nếu cần gì xin cho chúng tôi biết.
+them|thank them|cảm ơn họ|Let's thank them for their help.|Hãy cảm ơn họ vì đã giúp đỡ.
+my|my turn|đến lượt tôi|Is it my turn?|Đến lượt tôi chưa?
+your|your turn|đến lượt bạn|It's your turn now.|Giờ đến lượt bạn.
+his|his own|của riêng anh ấy|He has his own room.|Anh ấy có phòng riêng.
+our|our family|gia đình chúng tôi|There are four people in our family.|Gia đình chúng tôi có bốn người.
+their|their house|nhà của họ|Their house is near the river.|Nhà họ ở gần sông.
+who|who knows|ai mà biết được|Who knows what will happen?|Ai mà biết chuyện gì sẽ xảy ra?
+what|what about|còn … thì sao|What about you?|Còn bạn thì sao?
+which|which one|cái nào|Which one do you want?|Bạn muốn cái nào?
+where|where are you from|bạn đến từ đâu|Where are you from?|Bạn đến từ đâu?
+when|since when|từ khi nào|Since when do you drink coffee?|Bạn uống cà phê từ khi nào vậy?
+why|why not|sao lại không|"Let's go to the beach." "Why not?"|"Đi biển đi." "Sao lại không?"
+how|how about|… thì sao|How about a cup of tea?|Một tách trà nhé?
+in|in the morning|vào buổi sáng|I drink coffee in the morning.|Tôi uống cà phê vào buổi sáng.
+on|on time|đúng giờ|Please be on time.|Vui lòng đến đúng giờ.
+at|at home|ở nhà|I'm at home now.|Giờ tôi đang ở nhà.
+to|from Monday to Friday|từ thứ Hai đến thứ Sáu|I work from Monday to Friday.|Tôi làm việc từ thứ Hai đến thứ Sáu.
+from|from now on|từ nay về sau|From now on, I will get up early.|Từ nay tôi sẽ dậy sớm.
+with|with pleasure|rất sẵn lòng|"Can you help me?" "With pleasure."|"Bạn giúp tôi được không?" "Rất sẵn lòng."
+of|a cup of tea|một tách trà|Would you like a cup of tea?|Bạn uống một tách trà không?
+for|for example|ví dụ|I like fruit, for example mango.|Tôi thích trái cây, ví dụ như xoài.
+by|by bus|bằng xe buýt|I go to school by bus.|Tôi đi học bằng xe buýt.
+about|talk about|nói về|Let's talk about your plans.|Hãy nói về kế hoạch của bạn.
+and|and so on|vân vân|We sell pens, books, and so on.|Chúng tôi bán bút, sách, vân vân.
+but|but also|mà còn|She is not only smart but also kind.|Cô ấy không chỉ thông minh mà còn tốt bụng.
+or|or so|khoảng chừng|I'll be there in ten minutes or so.|Khoảng mười phút nữa tôi đến.
+not|not at all|không có gì|"Thank you!" "Not at all."|"Cảm ơn nhé!" "Không có gì."
+if|if so|nếu vậy|Are you hungry? If so, let's eat.|Bạn đói không? Nếu vậy thì đi ăn.
+there|there is|có|There is a cat on the roof.|Có một con mèo trên mái nhà.
+here|here you are|của bạn đây|Here you are, your coffee.|Cà phê của bạn đây.
+some|some more|thêm một chút|Would you like some more soup?|Bạn ăn thêm chút súp nhé?
+all|all day|cả ngày|It rained all day.|Trời mưa cả ngày.

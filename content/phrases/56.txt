@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+exhibition|art exhibition|triển lãm nghệ thuật|There is an art exhibition at the museum.|Bảo tàng đang có triển lãm nghệ thuật.
+sculpture|stone sculpture|tác phẩm điêu khắc đá|The park has a stone sculpture.|Công viên có một tác phẩm điêu khắc bằng đá.
+portrait|family portrait|ảnh chân dung gia đình|We took a family portrait at Tet.|Chúng tôi chụp ảnh gia đình dịp Tết.
+photograph|old photograph|bức ảnh cũ|I found an old photograph of my parents.|Tôi tìm thấy một bức ảnh cũ của bố mẹ.
+architecture|French architecture|kiến trúc Pháp|Hanoi has a lot of French architecture.|Hà Nội có nhiều công trình kiến trúc Pháp.
+drama|drama club|câu lạc bộ kịch|She joined the school drama club.|Cô ấy tham gia câu lạc bộ kịch của trường.
+opera|opera house|nhà hát lớn|The Hanoi Opera House is beautiful.|Nhà hát Lớn Hà Nội rất đẹp.
+ballet|ballet dancer|vũ công ba-lê|She wants to be a ballet dancer.|Cô bé muốn trở thành vũ công ba-lê.
+script|film script|kịch bản phim|He wrote the film script.|Anh ấy viết kịch bản phim.
+plot|the plot of|cốt truyện của|The plot of the movie is simple.|Cốt truyện của bộ phim đơn giản.
+villain|the villain in|nhân vật phản diện trong|The villain in this movie is scary.|Nhân vật phản diện trong phim này rất đáng sợ.
+comedy|romantic comedy|phim hài lãng mạn|Let's watch a romantic comedy.|Xem phim hài lãng mạn đi.
+tragedy|great tragedy|thảm kịch lớn|The flood was a great tragedy.|Trận lũ là một thảm kịch lớn.
+horror|horror story|truyện kinh dị|Don't tell me a horror story at night.|Đừng kể chuyện kinh dị lúc đêm.
+romance|holiday romance|mối tình trong kỳ nghỉ|It was just a holiday romance.|Đó chỉ là mối tình thoáng qua trong kỳ nghỉ.
+documentary|nature documentary|phim tài liệu thiên nhiên|I love watching a nature documentary.|Tôi thích xem phim tài liệu về thiên nhiên.
+animation|Japanese animation|phim hoạt hình Nhật|Japanese animation is popular with teenagers.|Phim hoạt hình Nhật được giới trẻ yêu thích.
+episode|the next episode|tập tiếp theo|I can't wait for the next episode.|Tôi nóng lòng chờ tập tiếp theo.
+author|favorite author|tác giả yêu thích|Who is your favorite author?|Tác giả yêu thích của bạn là ai?
+poet|national poet|đại thi hào dân tộc|Nguyen Du is a national poet of Vietnam.|Nguyễn Du là đại thi hào dân tộc Việt Nam.
+fiction|science fiction|khoa học viễn tưởng|He loves science fiction movies.|Anh ấy mê phim khoa học viễn tưởng.
+legend|old legend|truyền thuyết xưa|There is an old legend about this lake.|Có một truyền thuyết xưa về hồ này.
+myth|Greek myth|thần thoại Hy Lạp|We read a Greek myth in class.|Chúng tôi đọc một câu chuyện thần thoại Hy Lạp trong lớp.
+folk|folk song|bài dân ca|My grandmother sings folk songs.|Bà tôi hát dân ca.
+classical|classical music|nhạc cổ điển|I listen to classical music when I study.|Tôi nghe nhạc cổ điển khi học.
+jazz|jazz music|nhạc jazz|They play jazz music on Friday nights.|Họ chơi nhạc jazz vào tối thứ Sáu.
+pop|pop music|nhạc pop|Teenagers love pop music.|Thanh thiếu niên mê nhạc pop.
+rap|rap song|bài hát rap|He wrote a rap song about his city.|Anh ấy viết một bài rap về thành phố mình.
+lyrics|song lyrics|lời bài hát|I don't know the song lyrics.|Tôi không thuộc lời bài hát.
+melody|beautiful melody|giai điệu đẹp|This song has a beautiful melody.|Bài hát này có giai điệu đẹp.
+rhythm|sense of rhythm|cảm giác nhịp điệu|She has a good sense of rhythm.|Cô ấy có cảm giác nhịp điệu tốt.
+tune|out of tune|lạc điệu|The piano is out of tune.|Cây đàn piano bị lạc âm.
+choir|school choir|dàn hợp xướng của trường|She sings in the school choir.|Cô ấy hát trong dàn hợp xướng của trường.
+orchestra|symphony orchestra|dàn nhạc giao hưởng|We went to see a symphony orchestra.|Chúng tôi đi xem dàn nhạc giao hưởng.
+flute|play the flute|thổi sáo|He can play the flute.|Anh ấy biết thổi sáo.
+trumpet|play the trumpet|thổi kèn trumpet|I want to play the trumpet.|Tôi muốn thổi kèn trumpet.
+heritage|cultural heritage|di sản văn hóa|Hue is a cultural heritage site.|Huế là một di sản văn hóa.
+costume|traditional costume|trang phục truyền thống|They wore traditional costumes.|Họ mặc trang phục truyền thống.
+craft|craft village|làng nghề|Bat Trang is a famous craft village.|Bát Tràng là làng nghề nổi tiếng.
+pottery|pottery class|lớp làm gốm|We took a pottery class in Hoi An.|Chúng tôi học làm gốm ở Hội An.
+masterpiece|a true masterpiece|một kiệt tác thật sự|This painting is a true masterpiece.|Bức tranh này là một kiệt tác thật sự.
+artwork|original artwork|tác phẩm gốc|The gallery sells original artwork.|Phòng tranh bán tác phẩm gốc.
+sketch|quick sketch|bản phác thảo nhanh|She made a quick sketch of my face.|Cô ấy phác nhanh khuôn mặt tôi.
+canvas|oil on canvas|sơn dầu trên toan|The painting is oil on canvas.|Bức tranh là sơn dầu trên toan.
+chorus|sing the chorus|hát điệp khúc|Everyone, sing the chorus together!|Mọi người cùng hát điệp khúc nào!
+audition|go to an audition|đi thử vai|She will go to an audition tomorrow.|Mai cô ấy đi thử vai.
+rehearsal|dress rehearsal|buổi tổng duyệt|The dress rehearsal is on Friday.|Buổi tổng duyệt vào thứ Sáu.
+applause|round of applause|tràng pháo tay|Let's give them a round of applause.|Hãy dành cho họ một tràng pháo tay.
+celebrity|famous celebrity|người nổi tiếng|A famous celebrity came to our school.|Một người nổi tiếng đến thăm trường tôi.
+idol|teen idol|thần tượng tuổi teen|He was a teen idol in the 2000s.|Anh ấy từng là thần tượng tuổi teen những năm 2000.

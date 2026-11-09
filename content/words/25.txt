@@ -1,0 +1,58 @@
+# Nhóm 25 – Nhà cửa, đồ dùng 2
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Nhà cửa, đồ dùng 2|Đồ dùng 2|Chữ câm trong building, comb; garage, oven, drawer đọc khác chữ viết|Các phần của ngôi nhà, đồ nội thất, đồ bếp, đồ vệ sinh và dụng cụ. Nhiều từ đọc khác chữ viết: oven /ˈʌvən/, garage /gəˈɹɑʒ/, comb /koʊm/.|furniture,garage,toothbrush,scissors
+= Nhà và các phần của nhà|u câm trong building; c đọc /s/ trong ceiling
+furniture|ˈfɝnɪtʃɚ|n|đồ nội thất|We need new furniture.|Chúng tôi cần đồ nội thất mới.||Danh từ không đếm được.
+bedroom|ˈbɛdˌɹum|n|phòng ngủ|My bedroom is small.|Phòng ngủ của tôi nhỏ.||
+apartment|əˈpɑɹtmənt|n|căn hộ|I live in an apartment.|Tôi sống trong một căn hộ.||
+building|ˈbɪldɪŋ|n|tòa nhà|This building is very old.|Tòa nhà này rất cũ.||Chữ u không đọc.
+ceiling|ˈsilɪŋ|n|trần nhà|The ceiling is high.|Trần nhà cao.||Chữ c đọc /s/, ei đọc /i/.
+hall|hɔl|n|hành lang, sảnh|Wait in the hall.|Đợi ở sảnh.||
+yard|jɑɹd|n|sân|The kids play in the yard.|Bọn trẻ chơi ngoài sân.||Âm đầu /j/.
+fence|fɛns|n|hàng rào|There is a fence around the house.|Quanh nhà có hàng rào.||
+gate|geɪt|n|cổng|Close the gate.|Đóng cổng lại.||
+balcony|ˈbælkəni|n|ban công|We have a small balcony.|Chúng tôi có một ban công nhỏ.||
+= Đồ nội thất|garage đọc /gəˈɹɑʒ/; cụm cuối /lf/, /sk/
+garage|gəˈɹɑʒ|n|nhà để xe, ga-ra|The car is in the garage.|Xe ở trong ga-ra.||Giọng Mỹ: trọng âm âm tiết hai, âm cuối /ʒ/.
+closet|ˈklɑzɪt|n|tủ quần áo âm tường|Hang your coat in the closet.|Treo áo khoác vào tủ.||Chữ s đọc /z/.
+drawer|dɹɔɹ|n|ngăn kéo|The pen is in the drawer.|Bút ở trong ngăn kéo.||Thường đọc một âm tiết /dɹɔɹ/.
+shelf|ʃɛlf|n|kệ, giá|Put the book on the shelf.|Đặt sách lên kệ.||Cụm cuối /lf/.
+desk|dɛsk|n|bàn làm việc|My desk is messy.|Bàn làm việc của tôi bừa bộn.||Cụm cuối /sk/.
+carpet|ˈkɑɹpɪt|n|thảm|Don't walk on the carpet with shoes.|Đừng đi giày lên thảm.||
+curtain|ˈkɝtən|n|rèm cửa|Open the curtains.|Kéo rèm ra.||
+heater|ˈhitɚ|n|máy sưởi|Turn on the heater.|Bật máy sưởi lên.||
+fridge|fɹɪdʒ|n|tủ lạnh|The milk is in the fridge.|Sữa ở trong tủ lạnh.||
+oven|ˈʌvən|n|lò nướng|Bake it in the oven.|Nướng nó trong lò.||Chữ o đọc /ʌ/.
+= Bếp và nhà tắm|b câm trong comb; /θ/ trong toothbrush
+stove|stoʊv|n|bếp nấu|The soup is on the stove.|Nồi súp ở trên bếp.||
+microwave|ˈmaɪkɹoʊˌweɪv|n|lò vi sóng|Heat it in the microwave.|Hâm nó trong lò vi sóng.||
+tap|tæp|n|vòi nước|Turn off the tap.|Khóa vòi nước lại.||
+toilet|ˈtɔɪlət|n|nhà vệ sinh, bồn cầu|Where is the toilet?|Nhà vệ sinh ở đâu?||
+brush|bɹʌʃ|n|bàn chải, cọ|I need a new brush.|Tôi cần một cái bàn chải mới.||
+comb|koʊm|n|cái lược|Where is my comb?|Cái lược của tôi đâu?||Chữ b không đọc.
+toothbrush|ˈtuθˌbɹʌʃ|n|bàn chải đánh răng|Change your toothbrush often.|Hãy thay bàn chải đánh răng thường xuyên.||Cụm /θb/ giữa từ.
+toothpaste|ˈtuθˌpeɪst|n|kem đánh răng|We are out of toothpaste.|Hết kem đánh răng rồi.||
+shampoo|ʃæmˈpu|n|dầu gội|This shampoo smells nice.|Dầu gội này thơm.||Trọng âm âm tiết hai.
+scissors|ˈsɪzɚz|n|cái kéo|Pass me the scissors.|Đưa tôi cái kéo.||Chữ sc đọc /s/, ss đọc /z/.
+= Dụng cụ|/θɹ/ trong thread; trọng âm umbrella ở âm tiết hai
+needle|ˈnidəl|n|cây kim|Be careful with the needle.|Cẩn thận với cây kim.||
+thread|θɹɛd|n|sợi chỉ|I need black thread.|Tôi cần chỉ đen.||Chữ ea đọc /ɛ/.
+rope|ɹoʊp|n|dây thừng|Pull the rope.|Kéo sợi dây.||
+hammer|ˈhæmɚ|n|cái búa|Hand me the hammer.|Đưa tôi cái búa.||
+tool|tul|n|dụng cụ|I keep my tools in the garage.|Tôi để dụng cụ trong ga-ra.||
+ladder|ˈlædɚ|n|cái thang|Hold the ladder for me.|Giữ thang giúp tôi.||
+bucket|ˈbʌkɪt|n|cái xô|Fill the bucket with water.|Đổ đầy nước vào xô.||
+broom|bɹum|n|cái chổi|Where is the broom?|Cái chổi đâu rồi?||
+trash|tɹæʃ|n|rác|Don't leave trash on the beach.|Đừng vứt rác trên bãi biển.||
+umbrella|ʌmˈbɹɛlə|n|cái ô|Don't forget your umbrella.|Đừng quên ô.||
+= Đồ điện và vật dụng nhỏ|Cụm /sw/ trong switch; âm cuối /g/ trong plug
+wallet|ˈwɑlɪt|n|cái ví|I lost my wallet.|Tôi bị mất ví.||
+battery|ˈbætɚi|n|pin|The battery is dead.|Hết pin rồi.||
+charger|ˈtʃɑɹdʒɚ|n|bộ sạc|I forgot my charger.|Tôi quên bộ sạc.||
+plug|plʌg|n|phích cắm|Pull out the plug.|Rút phích cắm ra.||Âm cuối /g/ hữu thanh.
+switch|swɪtʃ|n|công tắc|Where is the switch?|Công tắc ở đâu?||
+wire|waɪɹ|n|dây điện, dây kim loại|Don't touch the wire.|Đừng chạm vào dây điện.||
+candle|ˈkændəl|n|cây nến|Blow out the candles.|Thổi nến đi.||
+vase|veɪs|n|bình hoa|Put the flowers in a vase.|Cắm hoa vào bình.||Giọng Mỹ đọc /veɪs/.
+handle|ˈhændəl|n|tay cầm, tay nắm|Hold the handle.|Cầm vào tay cầm.||
+lock|lɑk|n|ổ khóa|The lock is broken.|Ổ khóa bị hỏng.||Khác rock /ɹɑk/ và knock /nɑk/.

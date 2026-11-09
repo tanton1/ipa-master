@@ -1,0 +1,58 @@
+# Nhóm 32 – Động vật
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Động vật|Động vật|Âm cuối hữu thanh /g/, /d/ và ph đọc /f/|Vật nuôi, thú rừng, chim, côn trùng và các bộ phận của con vật. Nhiều tên con vật kết thúc bằng phụ âm hữu thanh (dog, pig, bird) mà người Việt hay đọc thành vô thanh.|elephant,mosquito,kangaroo,feather
+= Vật nuôi|Âm cuối /g/ trong dog, pig; /ɝ/ trong bird
+animal|ˈænəməl|n|động vật|Do you like animals?|Bạn có thích động vật không?||
+dog|dɔg|n|con chó|My dog is very friendly.|Con chó nhà tôi rất thân thiện.||Âm cuối /g/ hữu thanh; khác dock /dɑk/.
+pet|pɛt|n|thú cưng|Do you have a pet?|Bạn có nuôi thú cưng không?||
+bird|bɝd|n|con chim|A bird is singing.|Một con chim đang hót.||
+horse|hɔɹs|n|con ngựa|He rides a horse.|Anh ấy cưỡi ngựa.||
+cow|kaʊ|n|con bò|The cows are eating grass.|Những con bò đang ăn cỏ.||
+pig|pɪg|n|con lợn|We keep two pigs.|Chúng tôi nuôi hai con lợn.||Âm cuối /g/; khác pick /pɪk/.
+goat|goʊt|n|con dê|Goats can climb rocks.|Dê có thể leo đá.||
+rabbit|ˈɹæbɪt|n|con thỏ|The rabbit has long ears.|Con thỏ có đôi tai dài.||
+rat|ɹæt|n|con chuột (cống)|There is a rat in the kitchen!|Có con chuột trong bếp!||
+= Thú rừng|ph đọc /f/ trong elephant; cụm cuối /lf/ trong wolf
+monkey|ˈmʌŋki|n|con khỉ|Monkeys live in trees.|Khỉ sống trên cây.||Chữ o đọc /ʌ/.
+tiger|ˈtaɪgɚ|n|con hổ|Tigers are dangerous.|Hổ rất nguy hiểm.||
+lion|ˈlaɪən|n|sư tử|The lion is sleeping.|Con sư tử đang ngủ.||
+elephant|ˈɛləfənt|n|con voi|Elephants never forget.|Voi không bao giờ quên.||Chữ ph đọc /f/.
+bear|bɛɹ|n|con gấu|Bears love honey.|Gấu thích mật ong.||Đồng âm với bare.
+wolf|wʊlf|n|chó sói|The wolf howled at the moon.|Con sói tru dưới trăng.||Chữ o đọc /ʊ/; cụm cuối /lf/.
+fox|fɑks|n|con cáo|The fox is clever.|Con cáo rất ranh mãnh.||
+deer|dɪɹ|n|con hươu, nai|A deer ran across the road.|Một con nai chạy qua đường.||Đồng âm với dear.
+snake|sneɪk|n|con rắn|I'm afraid of snakes.|Tôi sợ rắn.||
+frog|fɹɑg|n|con ếch|Frogs sing after the rain.|Ếch kêu sau cơn mưa.||
+= Côn trùng và bò sát|qu đọc /k/ trong mosquito; trọng âm âm tiết hai
+turtle|ˈtɝtəl|n|con rùa|The turtle walks slowly.|Con rùa đi chậm.||
+insect|ˈɪnsɛkt|n|côn trùng|Bees are insects.|Ong là côn trùng.||
+bee|bi|n|con ong|A bee stung me.|Một con ong đốt tôi.||Đồng âm với be.
+ant|ænt|n|con kiến|Ants love sugar.|Kiến thích đường.||Đồng âm với aunt (giọng Mỹ).
+mosquito|məˈskitoʊ|n|con muỗi|Mosquitoes are everywhere in summer.|Mùa hè đâu đâu cũng có muỗi.||Chữ qu đọc /k/.
+butterfly|ˈbʌtɚˌflaɪ|n|con bướm|What a beautiful butterfly!|Con bướm đẹp quá!||
+spider|ˈspaɪdɚ|n|con nhện|There's a spider on the wall.|Có con nhện trên tường.||
+buffalo|ˈbʌfəˌloʊ|n|con trâu|Buffaloes work in the rice fields.|Trâu làm việc trên ruộng lúa.||
+camel|ˈkæməl|n|lạc đà|Camels can live without water for days.|Lạc đà có thể sống nhiều ngày không cần nước.||
+zebra|ˈzibɹə|n|ngựa vằn|Zebras have black and white stripes.|Ngựa vằn có sọc đen trắng.||
+= Thú lạ và chim|ph đọc /f/ trong dolphin; wh đọc /w/ trong whale
+giraffe|dʒəˈɹæf|n|hươu cao cổ|The giraffe has a long neck.|Hươu cao cổ có cái cổ dài.||Trọng âm âm tiết hai.
+kangaroo|ˌkæŋgəˈɹu|n|chuột túi|Kangaroos live in Australia.|Chuột túi sống ở Úc.||Trọng âm âm tiết cuối.
+panda|ˈpændə|n|gấu trúc|Pandas eat bamboo.|Gấu trúc ăn tre.||
+dolphin|ˈdɑlfɪn|n|cá heo|Dolphins are smart.|Cá heo rất thông minh.||
+whale|weɪl|n|cá voi|The whale is huge.|Cá voi rất to.||Chữ h không đọc; đồng âm với wail.
+shark|ʃɑɹk|n|cá mập|Sharks have sharp teeth.|Cá mập có răng sắc.||
+octopus|ˈɑktəpəs|n|bạch tuộc|An octopus has eight arms.|Bạch tuộc có tám xúc tu.||
+eagle|ˈigəl|n|đại bàng|The eagle flies high.|Đại bàng bay cao.||
+owl|aʊl|n|con cú|Owls hunt at night.|Cú săn mồi vào ban đêm.||
+parrot|ˈpɛɹət|n|con vẹt|The parrot can talk.|Con vẹt biết nói.||
+= Bộ phận và chỗ ở|/ð/ trong feather; /dʒ/ cuối trong cage
+penguin|ˈpɛŋgwɪn|n|chim cánh cụt|Penguins can't fly.|Chim cánh cụt không bay được.||
+goose|gus|n|con ngỗng|The goose chased me.|Con ngỗng đuổi theo tôi.||Số nhiều geese /gis/.
+dinosaur|ˈdaɪnəˌsɔɹ|n|khủng long|Kids love dinosaurs.|Trẻ con thích khủng long.||
+tail|teɪl|n|cái đuôi|The cat has a long tail.|Con mèo có cái đuôi dài.||Đồng âm với tale.
+wing|wɪŋ|n|cánh|The bird hurt its wing.|Con chim bị thương ở cánh.||
+feather|ˈfɛðɚ|n|lông vũ|The bird has blue feathers.|Con chim có bộ lông xanh.||Chữ ea đọc /ɛ/.
+fur|fɝ|n|bộ lông (thú)|My cat has soft fur.|Mèo của tôi có bộ lông mềm.||Đồng âm với fir.
+nest|nɛst|n|cái tổ|There are eggs in the nest.|Trong tổ có trứng.||
+cage|keɪdʒ|n|cái lồng|The bird is in a cage.|Con chim ở trong lồng.||
+puppy|ˈpʌpi|n|chó con|We got a new puppy.|Nhà tôi có một chú chó con mới.||

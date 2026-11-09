@@ -1,0 +1,58 @@
+# Nhóm 14 – Động từ quá khứ bất quy tắc
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Động từ quá khứ bất quy tắc|Quá khứ BQT|-ought/-aught đọc /ɔt/, cụm phụ âm cuối /lt/, /pt/, /nt/|50 dạng quá khứ bất quy tắc dùng nhiều nhất. Người Việt hay nuốt phụ âm cuối nên kept nghe thành keep, felt thành fell. Nhiều từ đồng âm: won–one, knew–new, rode–road.|said,bought,kept,won
+= Quá khứ của động từ cốt lõi|said đọc /sɛd/; ate đồng âm eight; âm cuối /t/, /d/
+went|wɛnt|v|đã đi (quá khứ của go)|I went to school by bus.|Tôi đi học bằng xe buýt.||Cụm cuối /nt/.
+saw|sɔ|v|đã thấy (quá khứ của see)|I saw her yesterday.|Hôm qua tôi thấy cô ấy.||
+ate|eɪt|v|đã ăn (quá khứ của eat)|We ate pho for breakfast.|Chúng tôi ăn phở sáng.||Đồng âm với eight.
+came|keɪm|v|đã đến (quá khứ của come)|He came late.|Anh ấy đến muộn.||
+got|gɑt|v|đã nhận, đã trở nên (quá khứ của get)|I got your message.|Tôi nhận được tin nhắn của bạn.||
+gave|geɪv|v|đã cho (quá khứ của give)|She gave me a book.|Cô ấy cho tôi một quyển sách.||Âm cuối /v/.
+took|tʊk|v|đã lấy, đã mất (thời gian)|The trip took two hours.|Chuyến đi mất hai tiếng.||
+made|meɪd|v|đã làm (quá khứ của make)|Mom made a cake.|Mẹ làm bánh.||Đồng âm với maid.
+said|sɛd|v|đã nói (quá khứ của say)|He said hello.|Anh ấy chào.||Chữ ai đọc /ɛ/, không đọc /eɪ/.
+told|toʊld|v|đã kể, đã bảo (quá khứ của tell)|She told me a story.|Cô ấy kể cho tôi một câu chuyện.||Cụm cuối /ld/.
+= Đuôi -ought, -aught và chữ câm|-ought và -aught đều đọc /ɔt/; k câm trong knew, w câm trong wrote
+bought|bɔt|v|đã mua (quá khứ của buy)|I bought some fruit.|Tôi mua ít trái cây.||-ought đọc /ɔt/, chữ gh không đọc.
+brought|bɹɔt|v|đã mang (quá khứ của bring)|He brought his guitar.|Anh ấy mang theo đàn ghi-ta.||
+caught|kɔt|v|đã bắt (quá khứ của catch)|The cat caught a mouse.|Con mèo bắt được chuột.||-aught đọc /ɔt/ giống -ought.
+taught|tɔt|v|đã dạy (quá khứ của teach)|My father taught me to swim.|Bố dạy tôi bơi.||Đồng âm với taut.
+fought|fɔt|v|đã đánh nhau, đã chiến đấu|The two boys fought.|Hai cậu bé đánh nhau.||
+knew|nu|v|đã biết (quá khứ của know)|I knew it!|Tôi biết mà!||Chữ k không đọc; đồng âm với new.
+wrote|ɹoʊt|v|đã viết (quá khứ của write)|She wrote a poem.|Cô ấy viết một bài thơ.||Chữ w không đọc.
+spoke|spoʊk|v|đã nói (quá khứ của speak)|He spoke slowly.|Anh ấy nói chậm.||
+broke|bɹoʊk|v|đã làm vỡ (quá khứ của break)|I broke a glass.|Tôi làm vỡ một cái ly.||
+chose|tʃoʊz|v|đã chọn (quá khứ của choose)|We chose the blue one.|Chúng tôi chọn cái màu xanh.||Âm cuối /z/; khác choose /tʃuz/.
+= Đổi nguyên âm i–a–u, ow–ew|Cụm đầu /dɹ/, /gɹ/, /θɹ/; /æ/ trong ran, swam, sang
+drove|dɹoʊv|v|đã lái (quá khứ của drive)|She drove me home.|Cô ấy chở tôi về nhà.||
+rode|ɹoʊd|v|đã cưỡi, đã đi (xe)|I rode my bike to work.|Tôi đạp xe đi làm.||Đồng âm với road.
+flew|flu|v|đã bay (quá khứ của fly)|The bird flew away.|Con chim bay mất.||Đồng âm với flu.
+drew|dɹu|v|đã vẽ (quá khứ của draw)|He drew a cat.|Cậu ấy vẽ một con mèo.||
+grew|gɹu|v|đã lớn, đã trồng (quá khứ của grow)|The tree grew tall.|Cái cây đã lớn cao.||
+threw|θɹu|v|đã ném (quá khứ của throw)|She threw the ball.|Cô ấy ném quả bóng.||Đồng âm với through.
+began|bɪˈgæn|v|đã bắt đầu (quá khứ của begin)|The class began at eight.|Lớp bắt đầu lúc tám giờ.||
+ran|ɹæn|v|đã chạy (quá khứ của run)|We ran to the bus.|Chúng tôi chạy ra xe buýt.||
+swam|swæm|v|đã bơi (quá khứ của swim)|They swam across the river.|Họ bơi qua sông.||
+sang|sæŋ|v|đã hát (quá khứ của sing)|She sang a love song.|Cô ấy hát một bản tình ca.||
+= Quá khứ tận cùng bằng /t/, /d/|Cụm cuối /lt/, /pt/, /ld/ không được nuốt
+drank|dɹæŋk|v|đã uống (quá khứ của drink)|I drank a lot of water.|Tôi đã uống nhiều nước.||Cụm cuối /ŋk/.
+sat|sæt|v|đã ngồi (quá khứ của sit)|He sat next to me.|Anh ấy ngồi cạnh tôi.||
+stood|stʊd|v|đã đứng (quá khứ của stand)|We stood at the door.|Chúng tôi đứng ở cửa.||Chữ oo đọc /ʊ/ ngắn.
+understood|ˌʌndɚˈstʊd|v|đã hiểu|I understood the lesson.|Tôi đã hiểu bài.||
+felt|fɛlt|v|đã cảm thấy (quá khứ của feel)|I felt happy.|Tôi thấy vui.||Cụm cuối /lt/: đọc đủ /l/ rồi /t/.
+kept|kɛpt|v|đã giữ (quá khứ của keep)|She kept the letter.|Cô ấy giữ lá thư.||Cụm cuối /pt/, không đọc thành keep.
+slept|slɛpt|v|đã ngủ (quá khứ của sleep)|I slept for ten hours.|Tôi ngủ mười tiếng.||
+met|mɛt|v|đã gặp (quá khứ của meet)|We met at school.|Chúng tôi gặp nhau ở trường.||
+paid|peɪd|v|đã trả (quá khứ của pay)|I paid by card.|Tôi trả bằng thẻ.||
+sold|soʊld|v|đã bán (quá khứ của sell)|He sold his car.|Anh ấy bán xe.||
+= Quá khứ dễ nhầm đồng âm|won = one, heard = herd, sent = cent; cụm cuối /nt/, /lt/
+sent|sɛnt|v|đã gửi (quá khứ của send)|I sent you a gift.|Tôi đã gửi bạn một món quà.||Đồng âm với cent.
+spent|spɛnt|v|đã tiêu, đã dành (quá khứ của spend)|We spent a week in Nha Trang.|Chúng tôi ở Nha Trang một tuần.||
+built|bɪlt|v|đã xây (quá khứ của build)|They built a bridge.|Họ xây một cây cầu.||Chữ u không đọc.
+heard|hɝd|v|đã nghe (quá khứ của hear)|I heard a noise.|Tôi nghe thấy một tiếng động.||Chữ ea đọc /ɝ/, khác hear /hɪɹ/.
+won|wʌn|v|đã thắng (quá khứ của win)|Vietnam won the match.|Việt Nam thắng trận.||Đồng âm với one.
+wore|wɔɹ|v|đã mặc (quá khứ của wear)|She wore a white ao dai.|Cô ấy mặc áo dài trắng.||Đồng âm với war.
+held|hɛld|v|đã cầm, đã tổ chức (quá khứ của hold)|He held the baby.|Anh ấy bế em bé.||
+fell|fɛl|v|đã ngã (quá khứ của fall)|The boy fell off his bike.|Cậu bé ngã xe đạp.||Khác felt /fɛlt/: không có /t/ cuối.
+forgot|fɚˈgɑt|v|đã quên (quá khứ của forget)|I forgot his birthday.|Tôi quên sinh nhật anh ấy.||
+hid|hɪd|v|đã giấu, đã trốn (quá khứ của hide)|The cat hid under the bed.|Con mèo trốn dưới gầm giường.||

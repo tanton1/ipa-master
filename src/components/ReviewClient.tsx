@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import { useMemo, useState } from 'react';
 import { useAppState, useHydrated, dueSlugs, needsPracticeSlugs, rateWord, type Rating } from '@/lib/store';
-import { getWord } from '@/lib/curriculum';
+import { getWord, withPositions } from '@/lib/curriculum';
 import { getPhoneme } from '@/data/phonemes';
 import { riskyPhonemes } from '@/lib/errors';
 import { buildFeedback, selfAssessments, codeForPhoneme, type CoachFeedback } from '@/lib/coach';
@@ -30,7 +30,8 @@ export function ReviewClient() {
   const [weakSel, setWeakSel] = useState<Set<string>>(new Set());
   const [results, setResults] = useState<Rating[]>([]);
   const [lastFeedback, setLastFeedback] = useState<{ word: string; fb: CoachFeedback } | null>(null);
-  const cur = session ? getWord(session[i] ?? '') : undefined;
+  const curLite = session ? getWord(session[i] ?? '') : undefined;
+  const cur = useMemo(() => (curLite ? withPositions(curLite) : undefined), [curLite]);
   const sessionDone = session !== null && i >= session.length;
 
   function start() {

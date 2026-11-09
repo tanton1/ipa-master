@@ -1,0 +1,54 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+can|can't wait|rất mong chờ|I can't wait to see you.|Tôi rất mong được gặp bạn.
+will|will be fine|sẽ ổn thôi|Don't worry, everything will be fine.|Đừng lo, mọi thứ sẽ ổn thôi.
+may|may I ask|cho tôi hỏi|May I ask a question?|Cho tôi hỏi một câu được không?
+might|might be late|có thể đến muộn|I might be late tonight.|Tối nay tôi có thể đến muộn.
+must|must be tired|chắc hẳn mệt|You must be tired after the trip.|Chắc bạn mệt sau chuyến đi.
+shall|shall we|chúng ta … nhé?|Shall we go now?|Chúng ta đi bây giờ nhé?
+ought|ought to|nên|You ought to call your mother.|Bạn nên gọi cho mẹ.
+as|as soon as possible|càng sớm càng tốt|Please reply as soon as possible.|Vui lòng trả lời càng sớm càng tốt.
+out|eat out|đi ăn ngoài|We often eat out on Sundays.|Chúng tôi hay đi ăn ngoài vào Chủ nhật.
+up|wake up|thức dậy|I wake up at six.|Tôi thức dậy lúc sáu giờ.
+down|slow down|chậm lại|Please slow down, I can't follow you.|Làm ơn chậm lại, tôi theo không kịp.
+off|turn off the light|tắt đèn|Turn off the light before you sleep.|Tắt đèn trước khi ngủ.
+well|well done|làm tốt lắm|Well done, you passed the test!|Làm tốt lắm, bạn đã qua bài kiểm tra!
+next|next week|tuần sau|We have a meeting next week.|Tuần sau chúng ta có cuộc họp.
+lot|a lot of|rất nhiều|She has a lot of friends.|Cô ấy có rất nhiều bạn.
+lot|parking lot|bãi đỗ xe|The parking lot is full.|Bãi đỗ xe đã kín chỗ.
+bit|a bit tired|hơi mệt|I'm a bit tired today.|Hôm nay tôi hơi mệt.
+bit|a little bit|một chút|Can you speak a little bit slower?|Bạn nói chậm lại một chút được không?
+sort|sort of|kiểu như, hơi hơi|It's sort of hard to explain.|Hơi khó giải thích.
+sort|all sorts of|đủ loại|The shop sells all sorts of fruit.|Cửa hàng bán đủ loại trái cây.
+per|per hour|mỗi giờ|The job pays ten dollars per hour.|Công việc trả mười đô mỗi giờ.
+despite|despite the rain|dù trời mưa|We went out despite the rain.|Chúng tôi vẫn ra ngoài dù trời mưa.
+unlike|unlike most people|không giống phần lớn mọi người|Unlike most people, he hates coffee.|Không giống phần lớn mọi người, anh ấy ghét cà phê.
+throughout|throughout the year|suốt cả năm|It is warm here throughout the year.|Ở đây ấm áp suốt cả năm.
+beneath|beneath the surface|bên dưới mặt nước|Fish swim beneath the surface.|Cá bơi bên dưới mặt nước.
+underneath|underneath the bed|dưới gầm giường|The cat is hiding underneath the bed.|Con mèo đang trốn dưới gầm giường.
+wherever|wherever you go|dù bạn đi đâu|Take your phone wherever you go.|Hãy mang điện thoại theo dù bạn đi đâu.
+whatever|whatever you want|bất cứ thứ gì bạn muốn|You can order whatever you want.|Bạn có thể gọi bất cứ món gì bạn muốn.
+whenever|whenever you like|bất cứ lúc nào bạn thích|Call me whenever you like.|Gọi tôi bất cứ lúc nào bạn thích.
+whoever|whoever comes first|ai đến trước|Whoever comes first opens the door.|Ai đến trước thì mở cửa.
+mine|a friend of mine|một người bạn của tôi|A friend of mine lives in Hanoi.|Một người bạn của tôi sống ở Hà Nội.
+yours|a friend of yours|một người bạn của bạn|Is he a friend of yours?|Anh ấy là bạn của bạn à?
+hers|a cousin of hers|một người họ hàng của cô ấy|A cousin of hers works here.|Một người họ hàng của cô ấy làm ở đây.
+ours|a neighbor of ours|một người hàng xóm của chúng tôi|A neighbor of ours has three dogs.|Một người hàng xóm của chúng tôi có ba con chó.
+theirs|a friend of theirs|một người bạn của họ|A friend of theirs is a doctor.|Một người bạn của họ là bác sĩ.
+yourself|take care of yourself|giữ gìn sức khỏe|Take care of yourself!|Giữ gìn sức khỏe nhé!
+himself|by himself|một mình (anh ấy)|He lives by himself.|Anh ấy sống một mình.
+herself|by herself|tự mình (cô ấy)|She fixed the bike by herself.|Cô ấy tự sửa xe đạp.
+itself|by itself|tự nó|The door closed by itself.|Cánh cửa tự đóng lại.
+ourselves|enjoy ourselves|vui hết mình|Let's enjoy ourselves tonight.|Tối nay chúng ta hãy vui hết mình.
+themselves|introduce themselves|tự giới thiệu|The students introduce themselves on the first day.|Học sinh tự giới thiệu vào ngày đầu tiên.
+everybody|everybody knows|ai cũng biết|Everybody knows his name.|Ai cũng biết tên anh ấy.
+somebody|somebody else|người khác|Please ask somebody else.|Vui lòng hỏi người khác.
+anybody|anybody home|có ai ở nhà|Is anybody home?|Có ai ở nhà không?
+nowhere|in the middle of nowhere|ở nơi hẻo lánh|The hotel is in the middle of nowhere.|Khách sạn nằm ở nơi hẻo lánh.
+anywhere|anywhere else|bất cứ nơi nào khác|I don't want to live anywhere else.|Tôi không muốn sống ở nơi nào khác.
+whom|to whom|cho ai, với ai|To whom should I send this letter?|Tôi nên gửi lá thư này cho ai?
+hey|hey there|chào nhé|Hey there, nice to see you!|Chào nhé, vui được gặp bạn!
+oh|oh no|ôi không|Oh no, I forgot my keys!|Ôi không, tôi quên chìa khóa rồi!
+wow|wow, look|ôi, nhìn kìa|Wow, look at the sky!|Ôi, nhìn bầu trời kìa!
+oops|oops, sorry|ối, xin lỗi|Oops, sorry, I dropped your pen.|Ối, xin lỗi, tôi làm rơi bút của bạn.
+cheers|cheers to|nâng ly chúc|Cheers to our new home!|Nâng ly chúc mừng ngôi nhà mới!
+bye|bye for now|tạm biệt nhé|Bye for now, see you tomorrow.|Tạm biệt nhé, mai gặp lại.

@@ -1,0 +1,58 @@
+# Nhóm 46 – Tính từ -ing/-ed và miêu tả
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Tính từ -ing/-ed và miêu tả|Tính từ 5|Phân biệt -ing (gây ra cảm xúc) và -ed (người cảm thấy)|Cặp tính từ -ing và -ed là lỗi kinh điển: the film is boring nhưng I am bored. Kèm theo các tính từ miêu tả thời tiết, vẻ ngoài và mức độ.|unique,embarrassing,exhausted,mysterious
+= Gần đây, có thể, độc đáo|que đọc /k/ trong unique; ea đọc /ɛ/ trong dead
+recent|ˈɹisənt|adj|gần đây|This is a recent photo.|Đây là ảnh mới chụp gần đây.||
+likely|ˈlaɪkli|adj|có khả năng|It's likely to rain.|Có khả năng trời mưa.||
+unlikely|ʌnˈlaɪkli|adj|không chắc xảy ra|He is unlikely to come.|Anh ấy chắc không đến.||
+dead|dɛd|adj|chết|The plant is dead.|Cái cây chết rồi.||Chữ ea đọc /ɛ/.
+alive|əˈlaɪv|adj|còn sống|Is the fish still alive?|Con cá còn sống không?||
+aware|əˈwɛɹ|adj|nhận thức được|Are you aware of the risk?|Bạn có biết rủi ro không?||
+unique|juˈnik|adj|độc nhất|Every person is unique.|Mỗi người là duy nhất.||Chữ que đọc /k/.
+religious|ɹɪˈlɪdʒəs|adj|thuộc tôn giáo, sùng đạo|My grandmother is religious.|Bà tôi sùng đạo.||
+cultural|ˈkʌltʃɚəl|adj|thuộc văn hóa|Hue is a cultural center.|Huế là một trung tâm văn hóa.||
+silent|ˈsaɪlənt|adj|im lặng|Please be silent.|Xin hãy im lặng.||
+= Ổn định và -ing|gh câm trong slight; aw đọc /ɔ/ trong awesome
+slight|slaɪt|adj|nhẹ, không đáng kể|I have a slight headache.|Tôi hơi nhức đầu.||Chữ gh không đọc.
+severe|səˈvɪɹ|adj|nghiêm trọng|The storm caused severe damage.|Cơn bão gây thiệt hại nặng nề.||
+steady|ˈstɛdi|adj|đều đặn, vững|Hold the ladder steady.|Giữ thang cho vững.||Chữ ea đọc /ɛ/.
+stable|ˈsteɪbəl|adj|ổn định|Prices are stable.|Giá cả ổn định.||
+brilliant|ˈbɹɪljənt|adj|xuất sắc, rực rỡ|She is a brilliant student.|Cô ấy là học sinh xuất sắc.||
+awesome|ˈɔsəm|adj|tuyệt vời|The concert was awesome!|Buổi hòa nhạc tuyệt vời!||
+boring|ˈbɔɹɪŋ|adj|nhàm chán (gây chán)|The lesson was boring.|Bài học chán quá.||Người thấy chán thì dùng bored.
+tiring|ˈtaɪɹɪŋ|adj|gây mệt mỏi|The trip was tiring.|Chuyến đi mệt mỏi.||
+exciting|ɪkˈsaɪtɪŋ|adj|thú vị, hào hứng|What an exciting match!|Trận đấu hấp dẫn quá!||
+relaxing|ɹɪˈlæksɪŋ|adj|thư giãn|A hot bath is relaxing.|Tắm nước nóng rất thư giãn.||
+= -ing (gây ra) và -ed (cảm thấy)|boring/bored, annoying/annoyed: -ing chỉ tính chất, -ed chỉ cảm xúc
+annoying|əˈnɔɪɪŋ|adj|gây khó chịu|That noise is annoying.|Tiếng ồn đó thật khó chịu.||
+confusing|kənˈfjuzɪŋ|adj|gây bối rối|The map is confusing.|Bản đồ khó hiểu quá.||
+embarrassing|ɪmˈbɛɹəsɪŋ|adj|gây xấu hổ|It was so embarrassing.|Thật là xấu hổ.||
+frightening|ˈfɹaɪtənɪŋ|adj|đáng sợ|The movie was frightening.|Bộ phim đáng sợ.||
+surprising|sɚˈpɹaɪzɪŋ|adj|đáng ngạc nhiên|The result is surprising.|Kết quả thật bất ngờ.||
+shocking|ˈʃɑkɪŋ|adj|gây sốc|The news is shocking.|Tin tức gây sốc.||
+fascinating|ˈfæsəˌneɪtɪŋ|adj|hấp dẫn, lôi cuốn|History is fascinating.|Lịch sử thật lôi cuốn.||Chữ sc đọc /s/.
+disgusting|dɪsˈgʌstɪŋ|adj|kinh tởm|This food is disgusting.|Đồ ăn này kinh khủng.||
+interested|ˈɪntɹəstɪd|adj|quan tâm, thích thú|I'm interested in art.|Tôi thích nghệ thuật.||Đuôi -ed đọc /ɪd/.
+annoyed|əˈnɔɪd|adj|bực mình|I'm annoyed.|Tôi bực mình.||Đuôi -ed đọc /d/.
+= Ấn tượng, quyến rũ|h câm trong exhausted; đuôi -ed: /d/ worried, /t/ impressed, /ɪd/ exhausted
+worried|ˈwɝid|adj|lo lắng|I'm worried about you.|Tôi lo cho bạn.||Đuôi -ed đọc /d/.
+terrified|ˈtɛɹəˌfaɪd|adj|khiếp sợ|She was terrified.|Cô ấy sợ khiếp vía.||
+impressed|ɪmˈpɹɛst|adj|ấn tượng|I'm very impressed.|Tôi rất ấn tượng.||Đuôi -ed đọc /t/.
+exhausted|ɪgˈzɔstɪd|adj|kiệt sức|I'm exhausted.|Tôi kiệt sức rồi.||Chữ h không đọc; đuôi -ed đọc /ɪd/.
+impressive|ɪmˈpɹɛsɪv|adj|gây ấn tượng|Your work is impressive.|Công việc của bạn thật ấn tượng.||
+attractive|əˈtɹæktɪv|adj|hấp dẫn, thu hút|She is very attractive.|Cô ấy rất cuốn hút.||
+charming|ˈtʃɑɹmɪŋ|adj|duyên dáng|What a charming village!|Ngôi làng duyên dáng quá!||
+elegant|ˈɛlɪgənt|adj|thanh lịch|She looks elegant.|Trông cô ấy thật thanh lịch.||
+tasty|ˈteɪsti|adj|ngon|This soup is tasty.|Canh này ngon.||
+cozy|ˈkoʊzi|adj|ấm cúng|What a cozy cafe!|Quán cà phê ấm cúng quá!||
+= Thời tiết và vẻ ngoài|/dʒ/ trong gorgeous, fragile; trọng âm mysterious ở âm tiết hai
+chilly|ˈtʃɪli|adj|se lạnh|It's chilly tonight.|Tối nay se lạnh.||
+freezing|ˈfɹizɪŋ|adj|lạnh cóng|I'm freezing!|Tôi lạnh cóng!||
+damp|dæmp|adj|ẩm ướt|The room is damp.|Căn phòng ẩm thấp.||
+mature|məˈtʃʊɹ|adj|trưởng thành, chín chắn|He is very mature.|Cậu ấy rất chín chắn.||
+gorgeous|ˈgɔɹdʒəs|adj|lộng lẫy, rất đẹp|You look gorgeous!|Trông bạn lộng lẫy quá!||
+stylish|ˈstaɪlɪʃ|adj|sành điệu|She is always stylish.|Cô ấy luôn sành điệu.||
+delicate|ˈdɛlɪkət|adj|mỏng manh, tinh tế|This flower is delicate.|Bông hoa này mỏng manh.||
+fragile|ˈfɹædʒəl|adj|dễ vỡ|Careful, it's fragile.|Cẩn thận, dễ vỡ đấy.||
+bold|boʊld|adj|táo bạo; đậm|She made a bold choice.|Cô ấy đã có một lựa chọn táo bạo.||
+mysterious|mɪˈstɪɹiəs|adj|bí ẩn|He is a mysterious man.|Anh ta là một người bí ẩn.||

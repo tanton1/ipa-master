@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+hello|hello again|lại xin chào|Hello again! Nice to see you.|Lại chào bạn! Vui được gặp lại.
+goodbye|say goodbye|chào tạm biệt|It's time to say goodbye.|Đến lúc chào tạm biệt rồi.
+please|yes, please|vâng, cho tôi xin|"More tea?" "Yes, please."|"Thêm trà nhé?" "Vâng, cho tôi xin."
+thank|thank you very much|cảm ơn rất nhiều|Thank you very much for your help.|Cảm ơn rất nhiều vì đã giúp đỡ.
+sorry|sorry for|xin lỗi vì|I'm sorry for being late.|Xin lỗi vì tôi đến muộn.
+excuse|no excuse|không có lý do biện hộ|There is no excuse for being rude.|Không có lý do gì để thô lỗ cả.
+welcome|you're welcome|không có gì|"Thank you!" "You're welcome."|"Cảm ơn nhé!" "Không có gì."
+yes|say yes|đồng ý|I hope she will say yes.|Tôi mong cô ấy sẽ đồng ý.
+no|no way|không đời nào|No way! I won't do that.|Không đời nào! Tôi không làm đâu.
+maybe|maybe later|để sau nhé|"Do you want to go now?" "Maybe later."|"Bạn muốn đi bây giờ không?" "Để sau nhé."
+sure|make sure|nhớ, đảm bảo|Make sure you lock the door.|Nhớ khóa cửa nhé.
+okay|it's okay|không sao|It's okay, don't worry.|Không sao, đừng lo.
+really|really good|ngon thật, tốt thật|This pho is really good.|Phở này ngon thật.
+very|very much|rất nhiều|Thank you very much.|Cảm ơn rất nhiều.
+also|also known as|còn được gọi là|Ho Chi Minh City, also known as Saigon, is very busy.|TP. Hồ Chí Minh, còn gọi là Sài Gòn, rất nhộn nhịp.
+because|because of|vì, do|We stayed home because of the rain.|Chúng tôi ở nhà vì trời mưa.
+though|even though|mặc dù|Even though it rained, we went out.|Mặc dù trời mưa, chúng tôi vẫn ra ngoài.
+through|go through|trải qua|We go through a lot together.|Chúng tôi cùng nhau trải qua nhiều chuyện.
+thought|on second thought|nghĩ lại thì|On second thought, I'll have tea.|Nghĩ lại thì tôi uống trà.
+tough|tough day|ngày vất vả|It was a tough day at work.|Hôm nay đi làm vất vả quá.
+enough|enough time|đủ thời gian|We don't have enough time.|Chúng ta không có đủ thời gian.
+would|would you like|bạn có muốn|Would you like some coffee?|Bạn có muốn uống cà phê không?
+could|could you|bạn có thể … không|Could you help me, please?|Bạn giúp tôi được không?
+should|you should|bạn nên|You should drink more water.|Bạn nên uống nhiều nước hơn.
+ship|cruise ship|tàu du lịch|A big cruise ship arrived in Ha Long.|Một con tàu du lịch lớn cập bến Hạ Long.
+sheep|count sheep|đếm cừu|When I can't sleep, I count sheep.|Khi không ngủ được, tôi đếm cừu.
+sink|kitchen sink|bồn rửa bát|The dishes are in the kitchen sink.|Bát đĩa ở trong bồn rửa.
+tree|Christmas tree|cây thông Noel|We put up a Christmas tree.|Chúng tôi dựng cây thông Noel.
+seat|take a seat|mời ngồi|Please take a seat.|Mời ngồi.
+leave|leave home|rời nhà|I leave home at seven.|Tôi rời nhà lúc bảy giờ.
+rise|rise and shine|dậy đi nào|Rise and shine! It's morning.|Dậy đi nào! Sáng rồi.
+price|price list|bảng giá|Can I see the price list?|Cho tôi xem bảng giá.
+prize|first prize|giải nhất|She won first prize.|Cô ấy đoạt giải nhất.
+bath|take a bath|tắm bồn|I take a bath before bed.|Tôi tắm trước khi ngủ.
+path|bike path|đường dành cho xe đạp|There is a bike path along the river.|Có đường xe đạp dọc bờ sông.
+breath|out of breath|hụt hơi|I'm out of breath after running.|Chạy xong tôi hụt hơi.
+vest|life vest|áo phao|Wear a life vest on the boat.|Mặc áo phao khi đi thuyền.
+fan|football fan|người hâm mộ bóng đá|He is a big football fan.|Anh ấy là fan bóng đá cuồng nhiệt.
+van|delivery van|xe tải giao hàng|A delivery van stopped outside.|Một chiếc xe giao hàng dừng bên ngoài.
+pull|pull over|tấp vào lề|Please pull over here.|Vui lòng tấp vào đây.
+pool|pool party|tiệc bể bơi|We're having a pool party.|Chúng tôi tổ chức tiệc bể bơi.
+fill|fill in|điền vào|Fill in the form, please.|Vui lòng điền vào mẫu đơn.
+feel|feel free|cứ tự nhiên|Feel free to ask questions.|Cứ tự nhiên đặt câu hỏi.
+cap|baseball cap|mũ lưỡi trai|He always wears a baseball cap.|Anh ấy luôn đội mũ lưỡi trai.
+cut|cut down|cắt giảm|I want to cut down on sugar.|Tôi muốn ăn bớt đường.
+cat|like cat and dog|như chó với mèo|They fight like cat and dog.|Họ cãi nhau như chó với mèo.
+then|since then|từ đó|We met in 2015 and have been friends since then.|Chúng tôi gặp nhau năm 2015 và là bạn từ đó.
+den|lion's den|hang cọp|He walked into the lion's den.|Anh ấy bước vào hang cọp.
+berry|berry juice|nước ép quả mọng|I'd like a berry juice.|Cho tôi một ly nước ép quả mọng.
+thin|on thin ice|ở thế nguy hiểm|You're on thin ice.|Bạn đang ở thế nguy hiểm đấy.

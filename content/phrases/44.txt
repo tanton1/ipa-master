@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+die|die of|chết vì|Thousands of people die of cancer every year.|Hàng nghìn người chết vì ung thư mỗi năm.
+receive|receive a letter|nhận thư|I was happy to receive a letter from you.|Tôi rất vui khi nhận được thư của bạn.
+enter|enter the password|nhập mật khẩu|Enter the password to log in.|Nhập mật khẩu để đăng nhập.
+seek|seek help|tìm sự giúp đỡ|Don't be afraid to seek help.|Đừng ngại tìm sự giúp đỡ.
+prevent|prevent accidents|phòng tránh tai nạn|Good roads help prevent accidents.|Đường tốt giúp phòng tránh tai nạn.
+act|act like|cư xử như|Don't act like a child.|Đừng cư xử như trẻ con.
+beat|beat the record|phá kỷ lục|She wants to beat the record.|Cô ấy muốn phá kỷ lục.
+operate|operate a machine|vận hành máy|Only trained workers can operate a machine like this.|Chỉ công nhân được đào tạo mới vận hành được máy như thế này.
+release|release a new album|phát hành album mới|The singer will release a new album in May.|Ca sĩ sẽ ra album mới vào tháng Năm.
+set|set an alarm|đặt báo thức|Set an alarm for six o'clock.|Đặt báo thức lúc sáu giờ.
+record|record a video|quay video|Can you record a video of the show?|Bạn quay video buổi diễn giúp được không?
+list|list your skills|liệt kê kỹ năng|List your skills on your CV.|Liệt kê các kỹ năng trong CV của bạn.
+belong|belong to|thuộc về|Who does this bag belong to?|Cái túi này của ai?
+slip|slip and fall|trượt ngã|Be careful, you might slip and fall.|Cẩn thận kẻo trượt ngã.
+attach|attach a file|đính kèm tệp|Please attach a file to the email.|Vui lòng đính kèm tệp vào email.
+clap|clap your hands|vỗ tay|If you're happy, clap your hands.|Nếu vui hãy vỗ tay.
+combine|combine exercise with diet|kết hợp tập luyện với ăn uống|It is best to combine exercise with diet.|Tốt nhất là kết hợp tập luyện với ăn uống hợp lý.
+concern|doesn't concern you|không liên quan đến bạn|This doesn't concern you.|Việc này không liên quan đến bạn.
+crack|crack a joke|pha trò|He likes to crack a joke at dinner.|Anh ấy thích pha trò trong bữa tối.
+damage|damage your health|hại sức khỏe|Smoking can damage your health.|Hút thuốc có thể hại sức khỏe.
+destroy|destroy the forest|phá rừng|We must not destroy the forest.|Chúng ta không được phá rừng.
+disappear|disappear completely|biến mất hoàn toàn|Some animals may disappear completely.|Một số loài động vật có thể biến mất hoàn toàn.
+end|in the end|cuối cùng|In the end, we chose the red car.|Cuối cùng chúng tôi chọn chiếc xe màu đỏ.
+gain|gain experience|tích lũy kinh nghiệm|Part-time jobs help you gain experience.|Làm thêm giúp bạn tích lũy kinh nghiệm.
+guard|guard the door|canh cửa|Two men guard the door at night.|Hai người canh cửa vào ban đêm.
+intend|intend to|định làm|I intend to study abroad.|Tôi định đi du học.
+land|land safely|hạ cánh an toàn|The plane will land safely in Hanoi.|Máy bay sẽ hạ cánh an toàn ở Hà Nội.
+launch|launch a product|ra mắt sản phẩm|The company will launch a product next month.|Tháng sau công ty sẽ ra mắt một sản phẩm.
+limit|limit your screen time|giới hạn thời gian dùng màn hình|Try to limit your screen time.|Hãy cố giới hạn thời gian dùng màn hình.
+load|load the truck|chất hàng lên xe|They load the truck every morning.|Sáng nào họ cũng chất hàng lên xe.
+locate|located in|nằm ở|The hotel is located in the city center.|Khách sạn nằm ở trung tâm thành phố.
+note|take notes|ghi chép|Take notes during the lecture.|Ghi chép trong giờ giảng.
+refer|refer to|tham khảo, xem|Please refer to page five.|Vui lòng xem trang năm.
+repair|repair shop|tiệm sửa chữa|Take your phone to a repair shop.|Mang điện thoại đến tiệm sửa chữa.
+scream|scream for help|la hét kêu cứu|She began to scream for help.|Cô ấy bắt đầu la hét kêu cứu.
+separate|separate the trash|phân loại rác|Please separate the trash.|Vui lòng phân loại rác.
+settle|settle down|ổn định cuộc sống|They want to settle down in Da Nang.|Họ muốn ổn định cuộc sống ở Đà Nẵng.
+spoil|spoil a child|nuông chiều con|Don't spoil a child with too many toys.|Đừng nuông chiều con bằng quá nhiều đồ chơi.
+strike|go on strike|đình công|The workers will go on strike.|Công nhân sẽ đình công.
+surround|surrounded by|được bao quanh bởi|The village is surrounded by mountains.|Ngôi làng được bao quanh bởi núi.
+wander|wander around|đi lang thang|We like to wander around the old town.|Chúng tôi thích đi lang thang quanh phố cổ.
+permit|weather permitting|nếu thời tiết cho phép|We'll have a picnic, weather permitting.|Chúng tôi sẽ đi dã ngoại nếu thời tiết cho phép.
+vary|vary from|khác nhau tùy|Prices vary from shop to shop.|Giá cả khác nhau tùy cửa hàng.
+observe|observe the stars|ngắm sao|We like to observe the stars at night.|Chúng tôi thích ngắm sao vào ban đêm.
+unite|unite the country|gắn kết cả nước|Football can unite the country.|Bóng đá có thể gắn kết cả nước.
+bounce|bounce back|vực dậy|She will bounce back after this failure.|Cô ấy sẽ vực dậy sau thất bại này.
+disagree|disagree with|không đồng ý với|I disagree with you.|Tôi không đồng ý với bạn.
+fetch|fetch the ball|nhặt bóng về|My dog loves to fetch the ball.|Con chó của tôi thích chạy nhặt bóng.
+nap|take a nap|chợp mắt|I take a nap after lunch.|Tôi chợp mắt sau bữa trưa.
+arrest|under arrest|bị bắt giữ|You are under arrest!|Anh đã bị bắt!

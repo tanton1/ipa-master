@@ -1,0 +1,58 @@
+# Nhóm 42 – Động từ thường dùng 4
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Động từ thường dùng 4|Động từ 5|Cụm ba phụ âm spl-, spr-, squ-, str- và cách đọc bất quy tắc của bury, sew|Động từ chỉ cử động và hành động hằng ngày: nâng, kéo, ép, quét, săn, may, cứu. Nhiều từ mở đầu bằng ba phụ âm liền nhau (split, spread, squeeze, stretch).|squeeze,stretch,bury,rescue
+= Nâng, dẫn, thổi|lead /lid/ (dẫn) khác lead /lɛd/ (chì); âm cuối /z/ trong raise
+raise|ɹeɪz|v|nâng lên; nuôi nấng|Raise your hand.|Giơ tay lên.||Âm cuối /z/; khác race /ɹeɪs/.
+lay|leɪ|v|đặt, để nằm; đẻ (trứng)|Lay the baby on the bed.|Đặt em bé lên giường.||Cũng là quá khứ của lie (nằm).
+lead|lid|v|dẫn dắt|Can you lead the team?|Bạn dẫn dắt đội được không?||Danh từ lead (chì) đọc /lɛd/.
+kill|kɪl|v|giết|Smoking can kill you.|Hút thuốc có thể giết chết bạn.||
+shoot|ʃut|v|bắn; quay phim, chụp ảnh|Don't shoot!|Đừng bắn!||
+float|floʊt|v|nổi|Wood floats on water.|Gỗ nổi trên nước.||
+flow|floʊ|v|chảy|The river flows to the sea.|Con sông chảy ra biển.||
+shine|ʃaɪn|v|chiếu sáng|The sun is shining.|Mặt trời đang chiếu sáng.||
+blow|bloʊ|v|thổi|The wind is blowing.|Gió đang thổi.||
+drag|dɹæg|v|kéo lê|Don't drag the chair.|Đừng kéo lê cái ghế.||Âm cuối /g/.
+= Cử động cơ thể|Âm cuối hữu thanh /g/, /d/, /b/ trong hug, nod, rub
+bend|bɛnd|v|cúi, uốn cong|Bend your knees.|Gập đầu gối lại.||
+hug|hʌg|v|ôm|She hugged her mother.|Cô ấy ôm mẹ.||Âm cuối /g/; khác hut /hʌt/.
+lean|lin|v|nghiêng, dựa|Don't lean on the door.|Đừng dựa vào cửa.||
+nod|nɑd|v|gật đầu|He nodded and smiled.|Anh ấy gật đầu và mỉm cười.||Âm cuối /d/; khác not /nɑt/.
+pray|pɹeɪ|v|cầu nguyện|We pray at the temple.|Chúng tôi cầu nguyện ở chùa.||Đồng âm với prey; khác play.
+rub|ɹʌb|v|chà, xoa|Rub your hands together.|Xoa hai tay vào nhau.||Âm cuối /b/.
+scratch|skɹætʃ|v|gãi, cào|Don't scratch the bite.|Đừng gãi vết cắn.||
+slide|slaɪd|v|trượt|Kids slide down the hill.|Bọn trẻ trượt xuống đồi.||
+spill|spɪl|v|làm đổ (chất lỏng)|I spilled my coffee.|Tôi làm đổ cà phê.||
+spin|spɪn|v|quay tròn|The wheel spins fast.|Bánh xe quay nhanh.||
+= Kéo, ép, quét|Cụm ba phụ âm /spl/, /spɹ/, /skw/, /stɹ/
+split|splɪt|v|chia, tách|Let's split the cake.|Chia bánh ra nhé.||Cụm đầu /spl/.
+spread|spɹɛd|v|lan truyền; phết|The news spread fast.|Tin lan nhanh.||Chữ ea đọc /ɛ/.
+squeeze|skwiz|v|vắt, bóp|Squeeze the orange.|Vắt cam.||Chữ squ đọc /skw/.
+stretch|stɹɛtʃ|v|duỗi, kéo căng|Stretch your arms.|Duỗi tay ra.||
+sweep|swip|v|quét|Sweep the floor.|Quét nhà đi.||
+swing|swɪŋ|v|đung đưa|The kids swing in the park.|Bọn trẻ chơi xích đu trong công viên.||
+tear|tɛɹ|v|xé|Don't tear the paper.|Đừng xé tờ giấy.||Danh từ tear (nước mắt) đọc /tɪɹ/.
+wipe|waɪp|v|lau, chùi|Wipe your feet.|Chùi chân đi.||
+yell|jɛl|v|la hét|Don't yell at me!|Đừng hét vào mặt tôi!||Âm đầu /j/.
+dig|dɪg|v|đào|Dig a hole here.|Đào một cái hố ở đây.||
+= Săn, đào, may|bury đọc /ˈbɛɹi/; sew đọc /soʊ/ (đồng âm so)
+dive|daɪv|v|lặn, nhảy xuống nước|Can you dive?|Bạn lặn được không?||
+chase|tʃeɪs|v|đuổi theo|The dog chased the cat.|Con chó đuổi con mèo.||
+grab|gɹæb|v|chộp lấy|Grab my hand!|Nắm lấy tay tôi!||
+bury|ˈbɛɹi|v|chôn|They buried the box.|Họ chôn cái hộp.||Chữ u đọc /ɛ/; đồng âm với berry.
+cover|ˈkʌvɚ|v|che, phủ|Cover the food.|Đậy thức ăn lại.||
+hunt|hʌnt|v|săn|Cats hunt mice.|Mèo săn chuột.||
+sew|soʊ|v|may, khâu|Can you sew?|Bạn biết may không?||Đọc /soʊ/, đồng âm với so.
+shave|ʃeɪv|v|cạo (râu)|He shaves every morning.|Sáng nào anh ấy cũng cạo râu.||
+stare|stɛɹ|v|nhìn chằm chằm|Don't stare.|Đừng nhìn chằm chằm.||Đồng âm với stair.
+gather|ˈgæðɚ|v|tụ tập, thu thập|People gathered in the square.|Mọi người tụ tập ở quảng trường.||
+= Chào, cứu, điều trị|qu đọc /kw/ trong quit; au đọc /ɔ/ trong pause
+greet|gɹit|v|chào hỏi|She greeted us with a smile.|Cô ấy chào chúng tôi bằng nụ cười.||
+harm|hɑɹm|v|làm hại|The sun can harm your skin.|Nắng có thể làm hại da.||
+injure|ˈɪndʒɚ|v|làm bị thương|Two people were injured.|Hai người bị thương.||
+paint|peɪnt|v|sơn, vẽ|I paint in my free time.|Lúc rảnh tôi vẽ tranh.||
+pause|pɔz|v|tạm dừng|Pause the movie.|Dừng phim lại.||Âm cuối /z/; đồng âm với paws.
+quit|kwɪt|v|bỏ, nghỉ (việc)|She quit her job.|Cô ấy nghỉ việc.||
+rescue|ˈɹɛskju|v|giải cứu|They rescued the cat.|Họ cứu con mèo.||
+sail|seɪl|v|đi thuyền buồm|We sailed around the bay.|Chúng tôi đi thuyền quanh vịnh.||Đồng âm với sale.
+suffer|ˈsʌfɚ|v|chịu đựng, đau khổ|He suffered a lot.|Anh ấy đã chịu nhiều khổ sở.||
+treat|tɹit|v|đối xử; chữa trị; đãi|Treat others kindly.|Hãy đối xử tử tế với người khác.||

@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+knot|tie a knot|thắt nút|Can you tie a knot in this rope?|Bạn thắt nút sợi dây này được không?
+knit|knit a scarf|đan khăn|My grandmother can knit a scarf in two days.|Bà tôi đan một chiếc khăn trong hai ngày.
+kneel|kneel down|quỳ xuống|He had to kneel down to fix the bike.|Anh ấy phải quỳ xuống để sửa xe đạp.
+knight|knight in shining armor|người hùng giải cứu|He was her knight in shining armor.|Anh ấy là người hùng giải cứu của cô.
+knuckle|crack your knuckles|bẻ khớp tay|Don't crack your knuckles.|Đừng bẻ khớp tay.
+wreck|car wreck|xác xe tai nạn|They pulled him out of the car wreck.|Họ kéo anh ấy ra khỏi xác xe.
+wrinkle|wrinkle cream|kem chống nhăn|My mother uses wrinkle cream.|Mẹ tôi dùng kem chống nhăn.
+sword|sword fight|màn đấu kiếm|The film has a great sword fight.|Phim có một màn đấu kiếm tuyệt vời.
+lamb|grilled lamb|thịt cừu nướng|I ordered grilled lamb.|Tôi gọi món thịt cừu nướng.
+tomb|royal tomb|lăng mộ hoàng gia|We visited a royal tomb in Hue.|Chúng tôi thăm một lăng vua ở Huế.
+bomb|bomb shelter|hầm trú bom|My grandparents hid in a bomb shelter.|Ông bà tôi từng trốn trong hầm trú bom.
+crumb|bread crumbs|vụn bánh mì|There are bread crumbs on the table.|Trên bàn có vụn bánh mì.
+palm|palm tree|cây cọ|There are palm trees on the beach.|Trên bãi biển có hàng cây cọ.
+salmon|grilled salmon|cá hồi nướng|I'd like the grilled salmon.|Cho tôi món cá hồi nướng.
+almond|almond milk|sữa hạnh nhân|I drink almond milk.|Tôi uống sữa hạnh nhân.
+yolk|egg yolk|lòng đỏ trứng|Mix the egg yolk with sugar.|Trộn lòng đỏ trứng với đường.
+fasten|fasten your seatbelt|thắt dây an toàn|Please fasten your seatbelt.|Vui lòng thắt dây an toàn.
+soften|soften the butter|làm mềm bơ|Soften the butter before you bake.|Làm mềm bơ trước khi nướng.
+reign|long reign|thời gian trị vì dài|The king had a long reign.|Nhà vua trị vì rất lâu.
+ghost|ghost story|chuyện ma|Tell us a ghost story!|Kể chúng tôi nghe chuyện ma đi!
+vehicle|electric vehicle|xe điện|Electric vehicles are getting cheaper.|Xe điện ngày càng rẻ.
+aisle|aisle seat|ghế cạnh lối đi|I'd like an aisle seat, please.|Cho tôi ghế cạnh lối đi.
+cupboard|kitchen cupboard|tủ bếp|The plates are in the kitchen cupboard.|Đĩa ở trong tủ bếp.
+raspberry|raspberry jam|mứt mâm xôi|I like raspberry jam on toast.|Tôi thích mứt mâm xôi phết bánh mì nướng.
+biscuit|tea and biscuits|trà và bánh quy|Would you like tea and biscuits?|Bạn dùng trà và bánh quy nhé?
+colonel|army colonel|đại tá quân đội|His grandfather was an army colonel.|Ông của anh ấy từng là đại tá quân đội.
+yacht|luxury yacht|du thuyền sang trọng|They rented a luxury yacht.|Họ thuê một chiếc du thuyền sang trọng.
+queue|wait in a queue|xếp hàng chờ|We had to wait in a queue for an hour.|Chúng tôi phải xếp hàng một tiếng.
+women|women's rights|quyền phụ nữ|She fights for women's rights.|Bà ấy đấu tranh cho quyền phụ nữ.
+chaos|total chaos|hỗn loạn hoàn toàn|The traffic was total chaos.|Giao thông hỗn loạn hoàn toàn.
+echo|hear an echo|nghe tiếng vọng|You can hear an echo in the cave.|Bạn có thể nghe thấy tiếng vọng trong hang.
+leopard|snow leopard|báo tuyết|The snow leopard lives in the mountains.|Báo tuyết sống trên núi.
+genre|music genre|thể loại nhạc|What is your favorite music genre?|Bạn thích thể loại nhạc nào?
+gauge|fuel gauge|đồng hồ xăng|Check the fuel gauge.|Kiểm tra đồng hồ xăng.
+dough|pizza dough|bột bánh pizza|Roll out the pizza dough.|Cán mỏng bột bánh pizza.
+thorough|thorough check|kiểm tra kỹ lưỡng|The doctor did a thorough check.|Bác sĩ kiểm tra rất kỹ.
+favorite|favorite food|món ăn yêu thích|What is your favorite food?|Món ăn yêu thích của bạn là gì?
+jewelry|gold jewelry|trang sức vàng|She wears gold jewelry at Tet.|Dịp Tết cô ấy đeo trang sức vàng.
+subtle|subtle difference|khác biệt tinh tế|There is a subtle difference between the two sounds.|Hai âm có khác biệt tinh tế.
+heir|heir to the throne|người thừa kế ngai vàng|The prince is heir to the throne.|Hoàng tử là người thừa kế ngai vàng.
+herb|fresh herbs|rau thơm|Vietnamese food uses fresh herbs.|Món Việt dùng nhiều rau thơm.
+rhyme|nursery rhyme|bài đồng dao|Children love nursery rhymes.|Trẻ em thích đồng dao.
+buffet|buffet breakfast|bữa sáng tự chọn|The hotel has a buffet breakfast.|Khách sạn có bữa sáng tự chọn.
+bouquet|bouquet of flowers|bó hoa|He gave her a bouquet of flowers.|Anh ấy tặng cô một bó hoa.
+debut|debut album|album đầu tay|Her debut album was a big success.|Album đầu tay của cô ấy rất thành công.
+asthma|asthma attack|cơn hen suyễn|Smoke can cause an asthma attack.|Khói có thể gây lên cơn hen.
+wrestle|wrestle with|vật lộn với|I wrestle with grammar every day.|Ngày nào tôi cũng vật lộn với ngữ pháp.
+handkerchief|white handkerchief|khăn tay trắng|He gave her a white handkerchief.|Anh ấy đưa cô một chiếc khăn tay trắng.
+campaign|election campaign|chiến dịch tranh cử|The election campaign starts next month.|Chiến dịch tranh cử bắt đầu tháng sau.
+resign|resign from|từ chức khỏi|The manager will resign from his job.|Người quản lý sẽ từ chức.

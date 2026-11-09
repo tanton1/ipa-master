@@ -24,7 +24,7 @@ export default async function GroupPage({ params }: { params: Promise<{ group: s
 
   return (
     <>
-      <TopBar back="/words" eyebrow={`Tuần ${g.id} / 10`} title={g.title} subtitle={`${words.length} từ • ${g.focus}`} />
+      <TopBar back="/words" eyebrow={`Tuần ${g.id} / ${GROUPS.length}`} title={g.title} subtitle={`${words.length} từ • ${g.focus}`} />
       <main className="flex flex-col gap-4 px-4 pt-4">
         <section className="rounded-3xl border border-primary/15 bg-primary-soft p-5">
           <p className="eyebrow text-primary">Trọng tâm tuần {g.id}</p>

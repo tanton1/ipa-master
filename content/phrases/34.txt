@@ -1,0 +1,59 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+journey|long journey|chuyến đi dài|It was a long journey from Hanoi to Ca Mau.|Đó là một chuyến đi dài từ Hà Nội đến Cà Mau.
+tour|tour guide|hướng dẫn viên|Our tour guide speaks good English.|Hướng dẫn viên của chúng tôi nói tiếng Anh giỏi.
+tour|city tour|chuyến tham quan thành phố|We took a city tour by bus.|Chúng tôi đi tham quan thành phố bằng xe buýt.
+tourist|tourist attraction|điểm du lịch|Ha Long Bay is a famous tourist attraction.|Vịnh Hạ Long là điểm du lịch nổi tiếng.
+passport|passport control|kiểm tra hộ chiếu|Go through passport control first.|Đi qua khu kiểm tra hộ chiếu trước.
+visa|apply for a visa|xin thị thực|I need to apply for a visa.|Tôi cần xin thị thực.
+luggage|hand luggage|hành lý xách tay|You can bring one piece of hand luggage.|Bạn được mang một kiện hành lý xách tay.
+suitcase|heavy suitcase|va li nặng|Let me carry your heavy suitcase.|Để tôi xách va li nặng giúp bạn.
+backpack|school backpack|ba lô đi học|My son needs a new school backpack.|Con trai tôi cần ba lô đi học mới.
+flight|direct flight|chuyến bay thẳng|Is there a direct flight to Tokyo?|Có chuyến bay thẳng đến Tokyo không?
+flight|book a flight|đặt vé máy bay|I want to book a flight to Da Nang.|Tôi muốn đặt vé máy bay đi Đà Nẵng.
+passenger|passenger seat|ghế phụ (cạnh tài xế)|Sit in the passenger seat.|Ngồi ghế phụ đi.
+pilot|airline pilot|phi công hãng bay|He is an airline pilot.|Anh ấy là phi công của một hãng bay.
+driver|taxi driver|tài xế taxi|The taxi driver was very kind.|Tài xế taxi rất tốt bụng.
+driver|driver's license|bằng lái xe|Do you have a driver's license?|Bạn có bằng lái xe không?
+motorbike|ride a motorbike|đi xe máy|Most people ride a motorbike to work.|Phần lớn mọi người đi xe máy đi làm.
+scooter|electric scooter|xe tay ga điện|Electric scooters are popular now.|Giờ xe tay ga điện rất phổ biến.
+truck|fire truck|xe cứu hỏa|A fire truck came quickly.|Xe cứu hỏa đến rất nhanh.
+subway|subway station|ga tàu điện ngầm|Where is the nearest subway station?|Ga tàu điện ngầm gần nhất ở đâu?
+ferry|take the ferry|đi phà|We need to take the ferry to Cat Ba.|Chúng ta phải đi phà ra Cát Bà.
+helicopter|by helicopter|bằng trực thăng|They took him to the hospital by helicopter.|Họ đưa anh ấy đến bệnh viện bằng trực thăng.
+wheel|steering wheel|vô lăng|Keep both hands on the steering wheel.|Giữ hai tay trên vô lăng.
+engine|search engine|công cụ tìm kiếm|Google is a search engine.|Google là một công cụ tìm kiếm.
+engine|start the engine|nổ máy|Start the engine and let's go.|Nổ máy rồi đi thôi.
+tire|flat tire|lốp xẹp|I got a flat tire on the way.|Tôi bị xẹp lốp trên đường.
+seatbelt|wear a seatbelt|thắt dây an toàn|Always wear a seatbelt in the car.|Luôn thắt dây an toàn khi đi ô tô.
+fuel|fuel price|giá xăng|The fuel price went up again.|Giá xăng lại tăng.
+speed|speed limit|giới hạn tốc độ|What is the speed limit here?|Giới hạn tốc độ ở đây là bao nhiêu?
+speed|at full speed|hết tốc lực|The car drove at full speed.|Chiếc xe chạy hết tốc lực.
+route|bus route|tuyến xe buýt|Which bus route goes to the airport?|Tuyến xe buýt nào đi sân bay?
+direction|ask for directions|hỏi đường|Let's stop and ask for directions.|Dừng lại hỏi đường đi.
+direction|wrong direction|sai hướng|We are going in the wrong direction.|Chúng ta đang đi sai hướng.
+destination|travel destination|điểm đến du lịch|Phu Quoc is a popular travel destination.|Phú Quốc là điểm đến du lịch được ưa chuộng.
+departure|departure time|giờ khởi hành|What is the departure time?|Mấy giờ khởi hành?
+arrival|arrival hall|sảnh đến|I'll wait for you in the arrival hall.|Tôi sẽ đợi bạn ở sảnh đến.
+cancel|cancel the trip|hủy chuyến đi|We may cancel the trip because of the storm.|Chúng tôi có thể hủy chuyến đi vì bão.
+reserve|reserve a table|đặt bàn|I'd like to reserve a table for four.|Tôi muốn đặt bàn cho bốn người.
+reservation|make a reservation|đặt chỗ|Do I need to make a reservation?|Tôi có cần đặt chỗ trước không?
+souvenir|souvenir shop|cửa hàng lưu niệm|Let's buy gifts at the souvenir shop.|Mua quà ở cửa hàng lưu niệm đi.
+guide|travel guide|sách hướng dẫn du lịch|I bought a travel guide to Japan.|Tôi mua một cuốn sách hướng dẫn du lịch Nhật Bản.
+vacation|on vacation|đang đi nghỉ|My boss is on vacation this week.|Tuần này sếp tôi đi nghỉ.
+vacation|summer vacation|kỳ nghỉ hè|What did you do on summer vacation?|Kỳ nghỉ hè bạn đã làm gì?
+abroad|study abroad|du học|I want to study abroad.|Tôi muốn đi du học.
+sightseeing|go sightseeing|đi tham quan|Let's go sightseeing in Hue.|Đi tham quan Huế nhé.
+adventure|great adventure|cuộc phiêu lưu tuyệt vời|The trip was a great adventure.|Chuyến đi là một cuộc phiêu lưu tuyệt vời.
+camp|summer camp|trại hè|My son goes to summer camp every year.|Năm nào con trai tôi cũng đi trại hè.
+tent|put up a tent|dựng lều|Let's put up a tent by the lake.|Dựng lều bên hồ đi.
+hike|go for a hike|đi bộ đường dài|Let's go for a hike this weekend.|Cuối tuần đi bộ đường dài nhé.
+explore|explore the city|khám phá thành phố|Rent a bike to explore the city.|Thuê xe đạp để khám phá thành phố.
+view|sea view|hướng nhìn ra biển|I want a room with a sea view.|Tôi muốn phòng có hướng nhìn ra biển.
+landscape|beautiful landscape|phong cảnh đẹp|Ha Giang has a beautiful landscape.|Hà Giang có phong cảnh tuyệt đẹp.
+border|cross the border|qua biên giới|You need a passport to cross the border.|Bạn cần hộ chiếu để qua biên giới.
+platform|platform 2|sân ga số 2|The train leaves from platform 2.|Tàu khởi hành từ sân ga số 2.
+accident|car accident|tai nạn ô tô|He was hurt in a car accident.|Anh ấy bị thương trong một vụ tai nạn ô tô.
+accident|by accident|vô tình|I deleted the file by accident.|Tôi vô tình xóa mất tệp.
+crash|plane crash|tai nạn máy bay|Nobody died in the plane crash.|Không ai chết trong vụ tai nạn máy bay.
+transport|means of transport|phương tiện đi lại|The bicycle is a cheap means of transport.|Xe đạp là phương tiện đi lại rẻ.
+rail|by rail|bằng đường sắt|You can travel from Hanoi to Saigon by rail.|Bạn có thể đi từ Hà Nội vào Sài Gòn bằng đường sắt.

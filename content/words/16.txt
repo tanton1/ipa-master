@@ -1,0 +1,58 @@
+# Nhóm 16 – Động từ giao tiếp và suy nghĩ
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Động từ giao tiếp và suy nghĩ|Động từ 4|Trọng âm âm tiết hai và tiền tố com-, con-, re-|Động từ dùng khi trao đổi, làm việc, học tập: đề nghị, giải thích, so sánh, từ chối. Phần lớn có trọng âm ở âm tiết hai, âm tiết đầu đọc nhẹ.|apologize,describe,recommend,suggest
+= Chấp nhận, xin lỗi, tham dự|Schwa đầu từ: accept, admit, arrange; advise /z/ khác advice /s/
+accept|əkˈsɛpt|v|chấp nhận|I accept your apology.|Tôi chấp nhận lời xin lỗi của bạn.||Chữ cc đọc /ks/; khác except /ɪkˈsɛpt/.
+add|æd|v|thêm, cộng|Add some milk.|Thêm ít sữa.||Âm cuối /d/; khác at /æt/.
+admit|ədˈmɪt|v|thừa nhận|He admitted his mistake.|Anh ấy thừa nhận sai lầm.||
+advise|ədˈvaɪz|v|khuyên|I advise you to rest.|Tôi khuyên bạn nên nghỉ ngơi.||Chữ s đọc /z/; danh từ advice đọc /s/.
+apologize|əˈpɑlədʒaɪz|v|xin lỗi|I want to apologize.|Tôi muốn xin lỗi.||Trọng âm âm tiết hai.
+argue|ˈɑɹgju|v|tranh cãi|They often argue.|Họ hay cãi nhau.||
+arrange|əˈɹeɪndʒ|v|sắp xếp|I'll arrange everything.|Tôi sẽ sắp xếp mọi thứ.||
+attend|əˈtɛnd|v|tham dự|Please attend the meeting.|Vui lòng tham dự cuộc họp.||
+avoid|əˈvɔɪd|v|tránh|Avoid sugar.|Tránh ăn đường.||
+check|tʃɛk|v|kiểm tra|Check your answers.|Kiểm tra lại câu trả lời.||
+= So sánh, phàn nàn, mô tả|Tiền tố com-/con- đọc /kəm/, /kən/; cụm /skɹ/ trong describe
+compare|kəmˈpɛɹ|v|so sánh|Don't compare yourself to others.|Đừng so sánh mình với người khác.||
+complain|kəmˈpleɪn|v|phàn nàn|Customers complain about the noise.|Khách phàn nàn về tiếng ồn.||
+consider|kənˈsɪdɚ|v|cân nhắc, xem xét|Please consider my idea.|Hãy cân nhắc ý của tôi.||
+continue|kənˈtɪnju|v|tiếp tục|Please continue.|Mời tiếp tục.||
+describe|dɪˈskɹaɪb|v|mô tả|Describe your house.|Mô tả ngôi nhà của bạn.||Cụm /skɹ/ ba phụ âm; âm cuối /b/.
+discuss|dɪˈskʌs|v|thảo luận|We need to discuss this.|Chúng ta cần thảo luận việc này.||
+expect|ɪkˈspɛkt|v|mong đợi, dự đoán|I expect good news.|Tôi mong tin tốt.||Cụm cuối /kt/.
+fail|feɪl|v|thất bại, trượt|Don't be afraid to fail.|Đừng sợ thất bại.||
+forgive|fɚˈgɪv|v|tha thứ|Please forgive me.|Xin hãy tha thứ cho tôi.||
+guess|gɛs|v|đoán|Guess who I met today.|Đoán xem hôm nay tôi gặp ai.||Chữ u không đọc.
+= Tưởng tượng, mời, chuẩn bị|Trọng âm âm tiết hai; -tion đọc /ʃən/
+imagine|ɪˈmædʒɪn|v|tưởng tượng|Imagine a world without war.|Hãy tưởng tượng một thế giới không có chiến tranh.||
+improve|ɪmˈpɹuv|v|cải thiện|My English is improving.|Tiếng Anh của tôi đang tiến bộ.||
+include|ɪnˈklud|v|bao gồm|Breakfast is included.|Đã bao gồm bữa sáng.||
+introduce|ˌɪntɹəˈdus|v|giới thiệu|Let me introduce my friend.|Để tôi giới thiệu bạn tôi.||Trọng âm âm tiết cuối.
+invite|ɪnˈvaɪt|v|mời|I invite you to my party.|Tôi mời bạn đến bữa tiệc.||
+mention|ˈmɛnʃən|v|nhắc đến|He didn't mention it.|Anh ấy không nhắc đến chuyện đó.||-tion đọc /ʃən/.
+notice|ˈnoʊtɪs|v|để ý, nhận thấy|Did you notice her new hair?|Bạn có để ý kiểu tóc mới của cô ấy không?||
+order|ˈɔɹdɚ|v|gọi món, đặt hàng|Are you ready to order?|Bạn sẵn sàng gọi món chưa?||
+prepare|pɹɪˈpɛɹ|v|chuẩn bị|Prepare for the test.|Chuẩn bị cho bài kiểm tra.||
+pretend|pɹɪˈtɛnd|v|giả vờ|He pretends to be busy.|Anh ấy giả vờ bận.||
+= Bảo vệ, từ chối, trả lời|Tiền tố re- đọc /ɹɪ/; refuse âm cuối /z/
+protect|pɹəˈtɛkt|v|bảo vệ|Sunscreen protects your skin.|Kem chống nắng bảo vệ da.||
+prove|pɹuv|v|chứng minh|Can you prove it?|Bạn chứng minh được không?||Chữ o đọc /u/.
+realize|ˈɹiəlaɪz|v|nhận ra|I realized my mistake.|Tôi nhận ra sai lầm của mình.||
+recommend|ˌɹɛkəˈmɛnd|v|giới thiệu, đề xuất|I recommend this book.|Tôi giới thiệu quyển sách này.||Trọng âm âm tiết cuối.
+refuse|ɹɪˈfjuz|v|từ chối|She refused to answer.|Cô ấy từ chối trả lời.||Âm cuối /z/.
+repeat|ɹɪˈpit|v|nhắc lại|Can you repeat that?|Bạn nhắc lại được không?||
+reply|ɹɪˈplaɪ|v|trả lời|Please reply soon.|Vui lòng trả lời sớm.||
+report|ɹɪˈpɔɹt|v|báo cáo|Report it to the police.|Hãy báo cảnh sát.||
+return|ɹɪˈtɝn|v|trở về, trả lại|Please return the book.|Vui lòng trả sách.||
+share|ʃɛɹ|v|chia sẻ|Share your ideas.|Chia sẻ ý tưởng của bạn.||
+= Đề nghị, ủng hộ, ăn mừng|Cụm /gdʒ/ trong suggest; warn đồng âm worn, waste đồng âm waist
+suggest|səgˈdʒɛst|v|đề nghị, gợi ý|I suggest we leave now.|Tôi đề nghị chúng ta đi ngay.||Cũng đọc /səˈdʒɛst/.
+support|səˈpɔɹt|v|ủng hộ, hỗ trợ|My family supports me.|Gia đình ủng hộ tôi.||
+suppose|səˈpoʊz|v|cho rằng|I suppose you're right.|Tôi cho là bạn đúng.||
+translate|ˈtɹænsleɪt|v|dịch|Translate this word.|Dịch từ này.||Cũng đọc /tɹænsˈleɪt/.
+trust|tɹʌst|v|tin tưởng|I trust you.|Tôi tin bạn.||Cụm đầu /tɹ/ và cụm cuối /st/.
+warn|wɔɹn|v|cảnh báo|They warned us about the storm.|Họ cảnh báo chúng tôi về cơn bão.||Đồng âm với worn.
+waste|weɪst|v|lãng phí|Don't waste food.|Đừng lãng phí thức ăn.||Đồng âm với waist.
+deliver|dɪˈlɪvɚ|v|giao (hàng)|We deliver to your door.|Chúng tôi giao tận nhà.||
+collect|kəˈlɛkt|v|thu thập, sưu tầm|I collect coins.|Tôi sưu tầm tiền xu.||
+celebrate|ˈsɛləbɹeɪt|v|ăn mừng, kỷ niệm|Let's celebrate!|Ăn mừng nào!||Trọng âm âm tiết đầu.

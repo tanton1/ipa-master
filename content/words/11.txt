@@ -1,0 +1,58 @@
+# Nhóm 11 – Động từ khuyết thiếu, đại từ, từ cảm thán
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Khuyết thiếu, đại từ, cảm thán|Từ chức năng 2|Dạng yếu của can, must, as; đại từ phản thân|Những từ ngắn xuất hiện liên tục trong hội thoại: can, will, must, out, up, đại từ phản thân và từ cảm thán. Chú ý dạng đọc nhẹ trong câu.|can,must,yourself,cheers
+= Động từ khuyết thiếu và as|Dạng yếu /kən/, /məst/, /əz/; gh câm trong might, ought
+can|kæn|modal|có thể, biết (làm gì)|I can swim.|Tôi biết bơi.||Trong câu thường đọc nhẹ /kən/; dạng phủ định can't /kænt/ đọc rõ /æ/ và /t/.
+will|wɪl|modal|sẽ|I will call you later.|Tôi sẽ gọi bạn sau.||Dạng rút gọn I'll đọc /aɪl/, giữ âm cuối /l/.
+may|meɪ|modal|có thể, được phép|May I come in?|Tôi vào được không?||
+might|maɪt|modal|có lẽ, có thể|It might rain tonight.|Tối nay có lẽ trời mưa.||Chữ gh không đọc.
+must|mʌst|modal|phải|You must wear a helmet.|Bạn phải đội mũ bảo hiểm.||Trong câu thường đọc nhẹ /məst/ hoặc /məs/.
+shall|ʃæl|modal|sẽ; nhé (đề nghị)|Shall I open the window?|Tôi mở cửa sổ nhé?||Âm đầu /ʃ/, không đọc thành /s/.
+ought|ɔt|modal|nên|You ought to rest.|Bạn nên nghỉ ngơi.||Chữ gh không đọc; ought to đọc nối /ˈɔtə/.
+as|æz|conj|như, khi, vì|She works as a nurse.|Cô ấy làm y tá.||Trong câu thường đọc nhẹ /əz/; âm cuối /z/.
+out|aʊt|adv|ra ngoài|Let's go out tonight.|Tối nay đi chơi nhé.||
+up|ʌp|adv|lên, dậy|Stand up, please.|Mời đứng lên.||Âm cuối /p/ bật nhẹ, không nuốt mất.
+= Trạng từ ngắn và giới từ|Cụm cuối /kst/ trong next; /ɔ/ trong off; /ɪ/ trong bit
+down|daʊn|adv|xuống|Please sit down.|Mời ngồi xuống.||
+off|ɔf|adv|tắt, rời khỏi|Turn off the TV.|Tắt ti vi đi.|of|Khác với of /ʌv/: off kết thúc bằng /f/ vô thanh.
+well|wɛl|adv|tốt, giỏi|She sings well.|Cô ấy hát hay.||Âm cuối /l/: cong lưỡi chạm lợi trên, không đọc thành "beo".
+next|nɛkst|adj|tiếp theo, kế bên|See you next week.|Hẹn gặp tuần sau.||Cụm cuối /kst/ có ba phụ âm.
+lot|lɑt|n|nhiều (a lot); lô, bãi|I have a lot of work.|Tôi có nhiều việc.||
+bit|bɪt|n|một chút, mẩu nhỏ|Wait a bit.|Đợi một chút.||/ɪ/ ngắn, khác beat /bit/.
+sort|sɔɹt|n|loại, kiểu|What sort of music do you like?|Bạn thích loại nhạc nào?||
+per|pɝ|prep|mỗi, cho mỗi|It costs five dollars per person.|Giá năm đô mỗi người.||
+despite|dɪˈspaɪt|prep|mặc dù|Despite the rain, we played.|Dù trời mưa, chúng tôi vẫn chơi.||Trọng âm âm tiết hai.
+unlike|ʌnˈlaɪk|prep|không giống|Unlike me, my sister is tall.|Khác với tôi, em gái tôi cao.||
+= Từ -ever và đại từ sở hữu|/θ/ trong throughout, beneath; âm cuối /z/ trong yours, hers
+throughout|θɹuˈaʊt|prep|suốt, khắp|It rained throughout the day.|Trời mưa suốt cả ngày.||Cụm đầu /θɹ/: đặt lưỡi giữa răng rồi chuyển sang /ɹ/.
+beneath|bɪˈniθ|prep|bên dưới|The cat sleeps beneath the table.|Con mèo ngủ dưới gầm bàn.||Âm cuối /θ/, đưa lưỡi ra giữa răng.
+underneath|ˌʌndɚˈniθ|prep|ở dưới, bên dưới|Look underneath the car.|Nhìn dưới gầm xe.||
+wherever|wɛɹˈɛvɚ|conj|bất cứ nơi đâu|Sit wherever you like.|Ngồi chỗ nào bạn thích.||
+whatever|wʌtˈɛvɚ|pron|bất cứ thứ gì|Eat whatever you want.|Ăn gì bạn muốn.||/t/ giữa hai nguyên âm thành âm vỗ /ɾ/.
+whenever|wɛnˈɛvɚ|conj|bất cứ khi nào|Come whenever you are free.|Đến bất cứ khi nào bạn rảnh.||
+whoever|huˈɛvɚ|pron|bất cứ ai|Whoever wins gets a prize.|Ai thắng sẽ được giải.||Chữ w không đọc.
+mine|maɪn|pron|của tôi|This pen is mine.|Cây bút này của tôi.||Âm cuối /n/ rõ.
+yours|jɔɹz|pron|của bạn|Is this bag yours?|Cái túi này của bạn à?||Âm cuối /z/ hữu thanh.
+hers|hɝz|pron|của cô ấy|The red car is hers.|Chiếc xe đỏ là của cô ấy.||
+= Đại từ phản thân|Trọng âm rơi vào -self; cụm cuối /lvz/ trong ourselves
+ours|aʊɹz|pron|của chúng tôi|That house is ours.|Ngôi nhà đó là của chúng tôi.||
+theirs|ðɛɹz|pron|của họ|The idea was theirs.|Ý tưởng đó là của họ.||Đồng âm với there's.
+yourself|jɔɹˈsɛlf|pron|chính bạn|Help yourself to some tea.|Bạn cứ tự nhiên dùng trà.||
+himself|hɪmˈsɛlf|pron|chính anh ấy|He cut himself.|Anh ấy tự làm mình bị đứt tay.||
+herself|hɚˈsɛlf|pron|chính cô ấy|She taught herself English.|Cô ấy tự học tiếng Anh.||
+itself|ɪtˈsɛlf|pron|chính nó|The machine turns itself off.|Máy tự tắt.||
+ourselves|aʊɹˈsɛlvz|pron|chính chúng tôi|We built it ourselves.|Chúng tôi tự xây nó.||Cụm cuối /lvz/: đủ /l/, /v/, /z/.
+themselves|ðəmˈsɛlvz|pron|chính họ|They cooked dinner themselves.|Họ tự nấu bữa tối.||
+everybody|ˈɛvɹiˌbɑdi|pron|mọi người|Everybody is here.|Mọi người đều ở đây.||Đọc 4 âm tiết, trọng âm ở đầu.
+somebody|ˈsʌmˌbɑdi|pron|ai đó|Somebody is at the door.|Có ai đó ở cửa.||
+= Từ cảm thán và giao tiếp|Nguyên âm đôi /eɪ/, /oʊ/, /aʊ/, /aɪ/ cần trượt đủ
+anybody|ˈɛniˌbɑdi|pron|bất kỳ ai|Did anybody call?|Có ai gọi không?||
+nowhere|ˈnoʊˌwɛɹ|adv|không nơi nào|There is nowhere to park.|Không có chỗ nào để đỗ xe.||
+anywhere|ˈɛniˌwɛɹ|adv|bất cứ đâu|You can sit anywhere.|Bạn ngồi đâu cũng được.||
+whom|hum|pron|ai (tân ngữ)|To whom did you give it?|Bạn đưa nó cho ai?||Chữ w không đọc.
+hey|heɪ|interj|này, chào|Hey, how are you?|Này, khỏe không?||
+oh|oʊ|interj|ồ, ôi|Oh, I see.|À, tôi hiểu rồi.||Nguyên âm đôi /oʊ/, tròn môi dần.
+wow|waʊ|interj|ồ, chà|Wow, this is beautiful!|Chà, đẹp quá!||
+oops|ʊps|interj|ối, úi|Oops, I dropped it.|Ối, tôi làm rơi rồi.||Cụm cuối /ps/.
+cheers|tʃɪɹz|interj|nâng ly; cảm ơn (thân mật)|Cheers, everyone!|Nâng ly nào mọi người!||
+bye|baɪ|interj|tạm biệt|Bye, see you soon.|Tạm biệt, sớm gặp lại.||Đồng âm với buy và by.

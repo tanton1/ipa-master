@@ -1,7 +1,8 @@
 import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { getGroup } from '@/data/groups';
-import { WORDS, getWord, nextInGroup, prevInGroup } from '@/lib/curriculum';
+import { WORDS, nextInGroup, prevInGroup } from '@/lib/curriculum';
+import { getFullWord } from '@/lib/words-full';
 import { TopBar } from '@/components/TopBar';
 import { WordLesson } from '@/components/WordLesson';
 
@@ -11,13 +12,13 @@ export function generateStaticParams() {
 
 export async function generateMetadata({ params }: { params: Promise<{ group: string; slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
-  const w = getWord(slug);
+  const w = getFullWord(slug);
   return { title: w ? `${w.word} /${w.ipa}/` : 'Từ' };
 }
 
 export default async function WordPage({ params }: { params: Promise<{ group: string; slug: string }> }) {
   const { group, slug } = await params;
-  const w = getWord(slug);
+  const w = getFullWord(slug);
   const g = getGroup(group);
   if (!w || !g || w.group !== g.id) notFound();
   const next = nextInGroup(w);

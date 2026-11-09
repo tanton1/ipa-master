@@ -1,0 +1,53 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+experiment|do an experiment|làm thí nghiệm|We do an experiment in every science class.|Giờ khoa học nào chúng tôi cũng làm thí nghiệm.
+theory|in theory|về lý thuyết|In theory, it should work.|Về lý thuyết thì phải chạy được.
+discovery|scientific discovery|phát hiện khoa học|It was a great scientific discovery.|Đó là một phát hiện khoa học lớn.
+discover|discover the truth|khám phá sự thật|She wanted to discover the truth.|Cô ấy muốn khám phá sự thật.
+invent|invent a machine|phát minh một cỗ máy|He wants to invent a machine that cleans the sea.|Anh ấy muốn phát minh một cỗ máy làm sạch biển.
+invention|great invention|phát minh vĩ đại|The internet is a great invention.|Internet là một phát minh vĩ đại.
+energy|save energy|tiết kiệm năng lượng|Turn off the lights to save energy.|Tắt đèn để tiết kiệm năng lượng.
+energy|solar energy|năng lượng mặt trời|Solar energy is clean.|Năng lượng mặt trời sạch.
+power|power cut|cúp điện|There was a power cut last night.|Đêm qua bị cúp điện.
+electricity|save electricity|tiết kiệm điện|We save electricity by using fans.|Chúng tôi tiết kiệm điện bằng cách dùng quạt.
+gas|gas station|cây xăng|Is there a gas station near here?|Gần đây có cây xăng không?
+coal|coal mine|mỏ than|Quang Ninh has many coal mines.|Quảng Ninh có nhiều mỏ than.
+solar|solar panel|tấm pin mặt trời|We put solar panels on the roof.|Chúng tôi lắp pin mặt trời trên mái nhà.
+nuclear|nuclear power|năng lượng hạt nhân|Some countries use nuclear power.|Một số nước dùng năng lượng hạt nhân.
+chemical|chemical reaction|phản ứng hóa học|Fire is a chemical reaction.|Lửa là một phản ứng hóa học.
+metal|heavy metal|kim loại nặng|Heavy metal in water is dangerous.|Kim loại nặng trong nước rất nguy hiểm.
+gold|gold ring|nhẫn vàng|He bought her a gold ring.|Anh ấy mua cho cô một chiếc nhẫn vàng.
+silver|silver medal|huy chương bạc|She won a silver medal.|Cô ấy giành huy chương bạc.
+iron|iron the clothes|là quần áo|Can you iron the clothes?|Bạn là quần áo giúp được không?
+steel|stainless steel|thép không gỉ|The pot is made of stainless steel.|Cái nồi làm bằng thép không gỉ.
+plastic|plastic bag|túi ni lông|Say no to plastic bags.|Hãy nói không với túi ni lông.
+material|building material|vật liệu xây dựng|Bamboo is a cheap building material.|Tre là vật liệu xây dựng rẻ.
+planet|planet Earth|hành tinh Trái Đất|We must protect planet Earth.|Chúng ta phải bảo vệ Trái Đất.
+space|outer space|không gian vũ trụ|He wants to travel to outer space.|Anh ấy muốn du hành vào vũ trụ.
+space|parking space|chỗ đỗ xe|I can't find a parking space.|Tôi không tìm được chỗ đỗ xe.
+universe|the universe|vũ trụ|The universe is very big.|Vũ trụ vô cùng rộng lớn.
+gravity|law of gravity|định luật hấp dẫn|Newton discovered the law of gravity.|Newton đã phát hiện ra định luật hấp dẫn.
+atom|split the atom|phân tách nguyên tử|Scientists learned to split the atom.|Các nhà khoa học đã học được cách phân tách nguyên tử.
+cell|cell phone|điện thoại di động|Turn off your cell phone.|Tắt điện thoại di động đi.
+gene|in your genes|do di truyền|Being tall is in your genes.|Chiều cao là do di truyền.
+species|endangered species|loài có nguy cơ tuyệt chủng|The tiger is an endangered species.|Hổ là loài có nguy cơ tuyệt chủng.
+environment|clean environment|môi trường sạch|Children need a clean environment.|Trẻ em cần một môi trường sạch.
+pollution|air pollution|ô nhiễm không khí|Air pollution is bad in Hanoi.|Ô nhiễm không khí ở Hà Nội rất tệ.
+pollute|pollute the river|làm ô nhiễm sông|Factories must not pollute the river.|Nhà máy không được làm ô nhiễm sông.
+recycle|recycle paper|tái chế giấy|We recycle paper at school.|Ở trường chúng tôi tái chế giấy.
+global|global warming|sự nóng lên toàn cầu|Global warming is a big problem.|Sự nóng lên toàn cầu là một vấn đề lớn.
+carbon|carbon dioxide|khí CO2|Trees take in carbon dioxide.|Cây xanh hấp thụ khí CO2.
+oxygen|oxygen mask|mặt nạ dưỡng khí|Put on your oxygen mask first.|Hãy đeo mặt nạ dưỡng khí của bạn trước.
+laboratory|science laboratory|phòng thí nghiệm khoa học|The school has a new science laboratory.|Trường có phòng thí nghiệm khoa học mới.
+evidence|no evidence|không có bằng chứng|There is no evidence.|Không có bằng chứng nào.
+method|teaching method|phương pháp giảng dạy|This teaching method is fun.|Phương pháp giảng dạy này rất vui.
+process|learning process|quá trình học|Mistakes are part of the learning process.|Mắc lỗi là một phần của quá trình học.
+sample|free sample|hàng mẫu miễn phí|They give free samples at the supermarket.|Siêu thị phát hàng mẫu miễn phí.
+substance|harmful substance|chất độc hại|Smoke contains harmful substances.|Khói chứa nhiều chất độc hại.
+motion|slow motion|quay chậm|Watch the goal in slow motion.|Xem bàn thắng ở chế độ quay chậm.
+liquid|liquid soap|xà phòng nước|Use liquid soap to wash your hands.|Dùng xà phòng nước để rửa tay.
+solid|solid food|thức ăn đặc|Babies start solid food at six months.|Em bé bắt đầu ăn dặm lúc sáu tháng.
+surface|on the surface|bề ngoài|On the surface, he looks calm.|Bề ngoài anh ấy có vẻ bình tĩnh.
+mass|mass media|truyền thông đại chúng|Mass media has a big influence.|Truyền thông đại chúng có ảnh hưởng lớn.
+volume|turn up the volume|vặn to âm lượng|Turn up the volume, please.|Vặn to lên giúp với.
+steam|let off steam|xả hơi|I go running to let off steam.|Tôi chạy bộ để xả hơi.
+resource|natural resources|tài nguyên thiên nhiên|Vietnam has many natural resources.|Việt Nam có nhiều tài nguyên thiên nhiên.

@@ -1,0 +1,55 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+center|shopping center|trung tâm mua sắm|The new shopping center opens next week.|Trung tâm mua sắm mới khai trương tuần sau.
+center|city center|trung tâm thành phố|The hotel is in the city center.|Khách sạn ở trung tâm thành phố.
+area|parking area|khu đỗ xe|The parking area is behind the building.|Khu đỗ xe ở phía sau tòa nhà.
+place|take place|diễn ra|The meeting will take place on Monday.|Cuộc họp sẽ diễn ra vào thứ Hai.
+place|my place|nhà tôi|Let's have dinner at my place.|Ăn tối ở nhà tôi nhé.
+neighborhood|quiet neighborhood|khu phố yên tĩnh|We live in a quiet neighborhood.|Chúng tôi sống ở một khu phố yên tĩnh.
+downtown|go downtown|vào khu trung tâm|Let's go downtown this evening.|Tối nay vào trung tâm chơi nhé.
+suburb|in the suburbs|ở ngoại ô|Many families live in the suburbs.|Nhiều gia đình sống ở ngoại ô.
+capital|capital city|thủ đô|Hanoi is the capital city of Vietnam.|Hà Nội là thủ đô của Việt Nam.
+address|email address|địa chỉ email|What is your email address?|Địa chỉ email của bạn là gì?
+museum|history museum|bảo tàng lịch sử|We visited the history museum.|Chúng tôi đã đến thăm bảo tàng lịch sử.
+theater|movie theater|rạp chiếu phim|Let's meet at the movie theater.|Gặp nhau ở rạp chiếu phim nhé.
+cinema|go to the cinema|đi xem phim|We go to the cinema every Friday.|Thứ Sáu nào chúng tôi cũng đi xem phim.
+stadium|football stadium|sân vận động bóng đá|My Dinh is a big football stadium.|Mỹ Đình là sân vận động bóng đá lớn.
+zoo|go to the zoo|đi sở thú|The kids want to go to the zoo.|Bọn trẻ muốn đi sở thú.
+gym|go to the gym|đi tập gym|I go to the gym three times a week.|Tôi đi tập gym ba lần một tuần.
+police|police station|đồn cảnh sát|Where is the police station?|Đồn cảnh sát ở đâu?
+police|call the police|gọi cảnh sát|Someone stole my bike. Call the police!|Có người trộm xe đạp của tôi. Gọi cảnh sát đi!
+prison|in prison|ở tù|He spent ten years in prison.|Ông ấy ngồi tù mười năm.
+factory|factory worker|công nhân nhà máy|My aunt is a factory worker.|Cô tôi là công nhân nhà máy.
+farm|farm animals|vật nuôi trang trại|Kids can feed farm animals here.|Ở đây trẻ em có thể cho vật nuôi ăn.
+temple|Temple of Literature|Văn Miếu|The Temple of Literature is in Hanoi.|Văn Miếu nằm ở Hà Nội.
+pagoda|One Pillar Pagoda|chùa Một Cột|We visited the One Pillar Pagoda.|Chúng tôi đến thăm chùa Một Cột.
+palace|royal palace|hoàng cung|The royal palace in Hue is very old.|Hoàng cung ở Huế rất cổ.
+castle|sand castle|lâu đài cát|The kids built a sand castle.|Bọn trẻ xây lâu đài cát.
+tower|clock tower|tháp đồng hồ|There is a clock tower in the square.|Ở quảng trường có một tháp đồng hồ.
+square|town square|quảng trường|People gather in the town square.|Mọi người tụ tập ở quảng trường.
+sidewalk|on the sidewalk|trên vỉa hè|Don't park on the sidewalk.|Đừng đỗ xe trên vỉa hè.
+traffic|traffic light|đèn giao thông|Turn left at the traffic light.|Rẽ trái ở đèn giao thông.
+traffic|heavy traffic|giao thông đông đúc|There is heavy traffic at rush hour.|Giờ cao điểm giao thông đông đúc.
+parking|parking fee|phí gửi xe|The parking fee is five thousand dong.|Phí gửi xe là năm nghìn đồng.
+lane|bus lane|làn xe buýt|Don't drive in the bus lane.|Đừng lái xe vào làn xe buýt.
+highway|on the highway|trên đường cao tốc|Drive carefully on the highway.|Lái xe cẩn thận trên đường cao tốc.
+avenue|Fifth Avenue|Đại lộ số Năm|Fifth Avenue is famous for shopping.|Đại lộ số Năm nổi tiếng về mua sắm.
+block|around the block|quanh dãy nhà|Let's walk around the block.|Đi dạo quanh dãy nhà đi.
+sign|road sign|biển báo giao thông|Look at the road sign.|Nhìn biển báo kìa.
+entrance|main entrance|lối vào chính|Meet me at the main entrance.|Gặp tôi ở lối vào chính.
+exit|emergency exit|lối thoát hiểm|Where is the emergency exit?|Lối thoát hiểm ở đâu?
+bookstore|second-hand bookstore|tiệm sách cũ|There is a second-hand bookstore near my school.|Gần trường tôi có một tiệm sách cũ.
+playground|school playground|sân trường|The kids play in the school playground.|Bọn trẻ chơi ở sân trường.
+campus|on campus|trong khuôn viên trường|I live on campus.|Tôi sống trong khuôn viên trường.
+port|port city|thành phố cảng|Hai Phong is a port city.|Hải Phòng là thành phố cảng.
+harbor|fishing harbor|cảng cá|Boats come back to the fishing harbor at dawn.|Thuyền về cảng cá lúc rạng sáng.
+gallery|art gallery|phòng tranh|Let's visit the art gallery.|Đi xem phòng tranh nhé.
+embassy|American embassy|đại sứ quán Mỹ|I need to go to the American embassy for a visa.|Tôi phải đến đại sứ quán Mỹ xin visa.
+salon|hair salon|tiệm làm tóc|She works at a hair salon.|Cô ấy làm ở tiệm làm tóc.
+laundry|do the laundry|giặt đồ|I do the laundry on Sunday.|Tôi giặt đồ vào Chủ nhật.
+studio|studio apartment|căn hộ một phòng|I rent a small studio apartment.|Tôi thuê một căn hộ một phòng nhỏ.
+warehouse|warehouse worker|công nhân kho|He is a warehouse worker.|Anh ấy là công nhân kho.
+statue|bronze statue|tượng đồng|There is a bronze statue in the park.|Trong công viên có một bức tượng đồng.
+fountain|water fountain|vòi nước uống|Is there a water fountain here?|Ở đây có vòi nước uống không?
+alley|narrow alley|con hẻm hẹp|My house is in a narrow alley.|Nhà tôi ở trong một con hẻm hẹp.
+crosswalk|use the crosswalk|qua đường ở vạch kẻ|Always use the crosswalk.|Luôn qua đường ở vạch dành cho người đi bộ.
+skyscraper|tall skyscraper|tòa nhà chọc trời|Landmark 81 is a tall skyscraper in Saigon.|Landmark 81 là một tòa nhà chọc trời ở Sài Gòn.

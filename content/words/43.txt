@@ -1,0 +1,58 @@
+# Nhóm 43 – Động từ thường dùng 5
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Động từ thường dùng 5|Động từ 6|Chữ câm trong doubt, sigh, whistle; trọng âm động từ ba âm tiết|Động từ chỉ cảm xúc, phản ứng và suy nghĩ: cảm kích, do dự, thuyết phục, hối tiếc, đổ lỗi. Đây cũng là nhóm có nhiều chữ câm: doubt, sigh, weigh, whistle.|appreciate,doubt,pronounce,calculate
+= Đánh giá và cư xử|b câm trong doubt; ci đọc /ʃ/ trong appreciate
+appreciate|əˈpɹiʃiˌeɪt|v|cảm kích, trân trọng|I appreciate it.|Tôi rất cảm kích.||Chữ c đọc /ʃ/.
+attempt|əˈtɛmpt|v|cố gắng, thử|He attempted to climb the wall.|Anh ấy cố trèo lên tường.||Cụm cuối /mpt/.
+behave|bɪˈheɪv|v|cư xử|Please behave.|Ngoan nào.||
+bother|ˈbɑðɚ|v|làm phiền|Sorry to bother you.|Xin lỗi đã làm phiền.||
+cheat|tʃit|v|gian lận|Don't cheat!|Đừng gian lận!||
+cheer|tʃɪɹ|v|cổ vũ|We cheered for our team.|Chúng tôi cổ vũ đội nhà.||
+deny|dɪˈnaɪ|v|phủ nhận|He denied everything.|Anh ta phủ nhận mọi thứ.||
+deserve|dɪˈzɝv|v|xứng đáng|You deserve it.|Bạn xứng đáng.||Chữ s đọc /z/.
+doubt|daʊt|v|nghi ngờ|I doubt it.|Tôi nghi ngờ điều đó.||Chữ b không đọc.
+entertain|ˌɛntɚˈteɪn|v|giải trí, tiếp đãi|The clown entertained the kids.|Chú hề làm bọn trẻ vui.||Trọng âm âm tiết cuối.
+= Ép buộc và thuyết phục|Trọng âm interrupt ở âm tiết cuối; gh câm trong frighten
+fit|fɪt|v|vừa (kích cỡ)|These shoes don't fit.|Giày này không vừa.||Khác feet /fit/.
+force|fɔɹs|v|ép buộc|Don't force him.|Đừng ép cậu ấy.||
+frighten|ˈfɹaɪtən|v|làm hoảng sợ|The noise frightened the baby.|Tiếng ồn làm em bé hoảng sợ.||Chữ gh không đọc.
+hesitate|ˈhɛzɪˌteɪt|v|do dự|Don't hesitate.|Đừng do dự.||
+insist|ɪnˈsɪst|v|khăng khăng, nhất định|She insisted on paying.|Cô ấy nhất định đòi trả tiền.||
+interrupt|ˌɪntəˈɹʌpt|v|ngắt lời|Don't interrupt me.|Đừng ngắt lời tôi.||Trọng âm âm tiết cuối.
+mind|maɪnd|v|phiền, bận tâm|Do you mind if I sit here?|Bạn có phiền nếu tôi ngồi đây không?||
+obey|oʊˈbeɪ|v|vâng lời|Children should obey their parents.|Trẻ con nên vâng lời bố mẹ.||
+owe|oʊ|v|nợ|I owe you ten dollars.|Tôi nợ bạn mười đô.||Đọc /oʊ/, chữ w và e không đọc.
+persuade|pɚˈsweɪd|v|thuyết phục|I persuaded him to stay.|Tôi thuyết phục anh ấy ở lại.||Chữ su đọc /sw/.
+= Phản ứng và cảm xúc|Tiền tố re- đọc /ɹɪ/; gh câm trong sigh
+pronounce|pɹəˈnaʊns|v|phát âm|How do you pronounce it?|Từ đó phát âm thế nào?||Danh từ pronunciation đọc /pɹəˌnʌnsiˈeɪʃən/.
+react|ɹiˈækt|v|phản ứng|How did she react?|Cô ấy phản ứng thế nào?||
+regret|ɹɪˈgɹɛt|v|hối tiếc|I don't regret it.|Tôi không hối tiếc.||
+relax|ɹɪˈlæks|v|thư giãn|Just relax.|Cứ thư giãn đi.||
+remind|ɹɪˈmaɪnd|v|nhắc nhở|Remind me tomorrow.|Nhắc tôi ngày mai nhé.||
+rob|ɹɑb|v|cướp|They robbed a bank.|Họ cướp ngân hàng.||Âm cuối /b/.
+satisfy|ˈsætɪsˌfaɪ|v|làm hài lòng|It's hard to satisfy everyone.|Khó làm vừa lòng tất cả mọi người.||
+scare|skɛɹ|v|làm sợ|You scared me!|Bạn làm tôi sợ đấy!||
+shock|ʃɑk|v|gây sốc|The news shocked everyone.|Tin đó khiến mọi người sốc.||
+sigh|saɪ|v|thở dài|She sighed and sat down.|Cô ấy thở dài rồi ngồi xuống.||Chữ gh không đọc.
+= Bất ngờ và đe dọa|t câm trong whistle; ea đọc /ɛ/ trong threaten
+stick|stɪk|v|dán, dính; bám|Stick the photo here.|Dán ảnh vào đây.||
+struggle|ˈstɹʌgəl|v|vật lộn, chật vật|He struggles with math.|Cậu ấy chật vật với môn toán.||
+surprise|sɚˈpɹaɪz|v|làm ngạc nhiên|Let's surprise Mom.|Mình làm mẹ bất ngờ nhé.||
+threaten|ˈθɹɛtən|v|đe dọa|He threatened me.|Hắn đe dọa tôi.||Cụm đầu /θɹ/; chữ ea đọc /ɛ/.
+trick|tɹɪk|v|lừa|Don't try to trick me.|Đừng cố lừa tôi.||
+weigh|weɪ|v|cân nặng; cân|How much do you weigh?|Bạn nặng bao nhiêu?||Chữ gh không đọc; đồng âm với way.
+whistle|ˈwɪsəl|v|huýt sáo|He whistles while he works.|Anh ấy huýt sáo khi làm việc.||Chữ h và t không đọc.
+yawn|jɔn|v|ngáp|Stop yawning!|Đừng ngáp nữa!||
+confuse|kənˈfjuz|v|làm bối rối, nhầm lẫn|I always confuse these two words.|Tôi luôn nhầm hai từ này.||
+convince|kənˈvɪns|v|thuyết phục, làm tin|You convinced me.|Bạn đã thuyết phục được tôi.||
+= Tính toán và trang trí|Trọng âm âm tiết đầu: multiply, calculate, decorate
+disappoint|ˌdɪsəˈpɔɪnt|v|làm thất vọng|Don't disappoint me.|Đừng làm tôi thất vọng.||
+divide|dɪˈvaɪd|v|chia|Divide ten by two.|Chia mười cho hai.||
+multiply|ˈmʌltəˌplaɪ|v|nhân|Multiply four by five.|Nhân bốn với năm.||
+calculate|ˈkælkjəˌleɪt|v|tính toán|Calculate the total.|Tính tổng đi.||Chữ l giữa đọc rõ.
+mark|mɑɹk|v|đánh dấu; chấm điểm|Mark the date on the calendar.|Đánh dấu ngày đó trên lịch.||
+decorate|ˈdɛkəˌɹeɪt|v|trang trí|We decorated the tree.|Chúng tôi trang trí cây thông.||
+beg|bɛg|v|cầu xin, ăn xin|I beg you, please help.|Tôi xin bạn, làm ơn giúp.||Âm cuối /g/; khác bag /bæg/.
+bet|bɛt|v|đánh cược, dám chắc|I bet he's late again.|Tôi dám chắc anh ấy lại muộn.||
+blame|bleɪm|v|đổ lỗi|Don't blame me.|Đừng đổ lỗi cho tôi.||
+admire|ədˈmaɪɹ|v|ngưỡng mộ|I admire your courage.|Tôi ngưỡng mộ lòng can đảm của bạn.||

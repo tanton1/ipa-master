@@ -1,0 +1,58 @@
+# Nhóm 52 – Xã hội, luật pháp
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Xã hội, luật pháp|Xã hội|Trọng âm đổi trong politics – political, democracy – democratic|Chính trị, luật pháp, quân sự, văn hóa và cộng đồng. Chú ý trọng âm di chuyển khi thêm hậu tố: politics → political, democracy → democratic.|government,political,community,democracy
+= Nhà nước và bầu cử|Trọng âm đổi: politics /ˈpɑl/ – political /pəˈlɪt/
+society|səˈsaɪəti|n|xã hội|We live in a modern society.|Chúng ta sống trong một xã hội hiện đại.||Trọng âm âm tiết hai.
+social|ˈsoʊʃəl|adj|thuộc xã hội|Humans are social animals.|Con người là động vật xã hội.||
+government|ˈgʌvɚnmənt|n|chính phủ|The government made a new law.|Chính phủ ban hành luật mới.||Chữ o đọc /ʌ/.
+politics|ˈpɑlɪtɪks|n|chính trị|I'm not interested in politics.|Tôi không quan tâm chính trị.||
+political|pəˈlɪtɪkəl|adj|thuộc chính trị|It's a political issue.|Đó là vấn đề chính trị.||Trọng âm âm tiết hai.
+president|ˈpɹɛzɪdənt|n|tổng thống, chủ tịch|The president gave a speech.|Tổng thống đã phát biểu.||Chữ s đọc /z/.
+minister|ˈmɪnɪstɚ|n|bộ trưởng|He is the minister of education.|Ông ấy là bộ trưởng giáo dục.||
+vote|voʊt|v|bỏ phiếu|Did you vote?|Bạn đã bỏ phiếu chưa?||Âm đầu /v/; khác boat.
+election|ɪˈlɛkʃən|n|cuộc bầu cử|The election is in May.|Cuộc bầu cử vào tháng Năm.||
+law|lɔ|n|luật pháp|It's against the law.|Điều đó trái luật.||
+= Hòa bình và quân sự|ea đọc /ɛ/ trong weapon; war /wɔɹ/ khác were /wɝ/
+rule|ɹul|n|quy tắc|Follow the rules.|Tuân theo quy tắc.||
+freedom|ˈfɹidəm|n|sự tự do|Freedom is precious.|Tự do là quý giá.||
+peace|pis|n|hòa bình|We want peace.|Chúng tôi muốn hòa bình.||Đồng âm với piece.
+war|wɔɹ|n|chiến tranh|War is terrible.|Chiến tranh thật khủng khiếp.||
+army|ˈɑɹmi|n|quân đội|My father was in the army.|Bố tôi từng ở trong quân đội.||
+military|ˈmɪlɪˌtɛɹi|adj|thuộc quân sự|He went to a military school.|Anh ấy học trường quân sự.||
+weapon|ˈwɛpən|n|vũ khí|Knives can be weapons.|Dao có thể là vũ khí.||Chữ ea đọc /ɛ/.
+gun|gʌn|n|khẩu súng|Guns are dangerous.|Súng rất nguy hiểm.||
+attack|əˈtæk|v|tấn công|The dog attacked the cat.|Con chó tấn công con mèo.||
+defend|dɪˈfɛnd|v|bảo vệ, phòng thủ|Defend your goal!|Bảo vệ khung thành!||
+= Luật pháp|/θ/ trong thief; u câm trong guilty
+crime|kɹaɪm|n|tội phạm, tội ác|Crime is rising.|Tội phạm đang gia tăng.||Khác climb /klaɪm/.
+criminal|ˈkɹɪmɪnəl|n|tội phạm (người)|The police caught the criminal.|Cảnh sát bắt được tên tội phạm.||
+thief|θif|n|kẻ trộm|A thief took my bag.|Kẻ trộm lấy túi của tôi.||Âm đầu /θ/.
+judge|dʒʌdʒ|n|thẩm phán|The judge was fair.|Vị thẩm phán rất công bằng.||Chữ dge đọc /dʒ/.
+court|kɔɹt|n|tòa án; sân (tennis)|See you in court.|Gặp nhau ở tòa.||
+trial|ˈtɹaɪəl|n|phiên tòa; sự thử|The trial starts tomorrow.|Phiên tòa bắt đầu ngày mai.||
+guilty|ˈgɪlti|adj|có tội|He is guilty.|Hắn có tội.||Chữ u không đọc.
+innocent|ˈɪnəsənt|adj|vô tội|She is innocent.|Cô ấy vô tội.||
+punish|ˈpʌnɪʃ|v|trừng phạt|Don't punish the child.|Đừng phạt đứa trẻ.||
+justice|ˈdʒʌstɪs|n|công lý|We want justice.|Chúng tôi muốn công lý.||
+= Văn hóa và cộng đồng|Trọng âm volunteer ở âm tiết cuối; qu đọc /kw/ trong equal
+culture|ˈkʌltʃɚ|n|văn hóa|I love Japanese culture.|Tôi yêu văn hóa Nhật.||
+religion|ɹɪˈlɪdʒən|n|tôn giáo|What is your religion?|Bạn theo tôn giáo gì?||
+tradition|tɹəˈdɪʃən|n|truyền thống|It's a Vietnamese tradition.|Đó là truyền thống Việt Nam.||
+custom|ˈkʌstəm|n|phong tục|Giving lucky money is a Tet custom.|Lì xì là phong tục ngày Tết.||
+population|ˌpɑpjəˈleɪʃən|n|dân số|Vietnam has a population of 100 million.|Việt Nam có dân số 100 triệu.||
+community|kəˈmjunɪti|n|cộng đồng|We help our community.|Chúng tôi giúp đỡ cộng đồng.||
+charity|ˈtʃɛɹɪti|n|tổ chức từ thiện; lòng nhân ái|She gives money to charity.|Cô ấy quyên tiền cho từ thiện.||
+volunteer|ˌvɑlənˈtɪɹ|n|tình nguyện viên|We need volunteers.|Chúng tôi cần tình nguyện viên.||Trọng âm âm tiết cuối.
+poverty|ˈpɑvɚti|n|sự nghèo đói|They grew up in poverty.|Họ lớn lên trong nghèo khó.||
+equal|ˈikwəl|adj|bằng nhau, bình đẳng|All people are equal.|Mọi người đều bình đẳng.||
+= Chính sách và an toàn|Trọng âm democracy ở âm tiết hai; cụm /sk/ trong escape
+protest|ˈpɹoʊˌtɛst|n|cuộc biểu tình; sự phản đối|There was a protest in the city.|Đã có một cuộc biểu tình trong thành phố.||Động từ protest nhấn âm tiết hai.
+nation|ˈneɪʃən|n|quốc gia, dân tộc|The whole nation celebrated.|Cả nước ăn mừng.||
+state|steɪt|n|bang; nhà nước; tình trạng|Texas is a big state.|Texas là một bang lớn.||
+official|əˈfɪʃəl|n|quan chức|A city official spoke to us.|Một quan chức thành phố nói chuyện với chúng tôi.||
+policy|ˈpɑləsi|n|chính sách|What is the school's policy?|Chính sách của trường là gì?||
+democracy|dɪˈmɑkɹəsi|n|nền dân chủ|Democracy means power of the people.|Dân chủ nghĩa là quyền lực thuộc về nhân dân.||Trọng âm âm tiết hai.
+safety|ˈseɪfti|n|sự an toàn|Safety first!|An toàn là trên hết!||
+violence|ˈvaɪələns|n|bạo lực|Say no to violence.|Hãy nói không với bạo lực.||
+victim|ˈvɪktɪm|n|nạn nhân|The victim is in hospital.|Nạn nhân đang nằm viện.||
+escape|ɪˈskeɪp|v|trốn thoát|The prisoner escaped.|Tù nhân đã trốn thoát.||

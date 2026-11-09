@@ -1,0 +1,77 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+adult|young adult|thanh niên|This book is for young adults.|Cuốn sách này dành cho thanh niên.
+adult|adult ticket|vé người lớn|An adult ticket costs ten dollars.|Vé người lớn giá mười đô.
+teenager|as a teenager|hồi tuổi teen|As a teenager, I loved rock music.|Hồi tuổi teen tôi mê nhạc rock.
+kid|kids' menu|thực đơn trẻ em|Do you have a kids' menu?|Có thực đơn cho trẻ em không?
+kid|just kidding|đùa thôi|Don't worry, I'm just kidding.|Đừng lo, tôi đùa thôi.
+grandmother|my grandmother|bà tôi|My grandmother is eighty years old.|Bà tôi tám mươi tuổi.
+grandfather|grandfather clock|đồng hồ quả lắc đứng|There is an old grandfather clock in the hall.|Ở sảnh có một chiếc đồng hồ quả lắc cũ.
+aunt|aunt and uncle|cô chú, dì dượng|My aunt and uncle live in Can Tho.|Cô chú tôi sống ở Cần Thơ.
+uncle|my uncle's house|nhà chú tôi|We had dinner at my uncle's house.|Chúng tôi ăn tối ở nhà chú.
+cousin|first cousin|anh chị em con chú con bác|Minh is my first cousin.|Minh là anh họ của tôi.
+nephew|my nephew|cháu trai tôi|My nephew is learning to walk.|Cháu trai tôi đang tập đi.
+niece|my niece|cháu gái tôi|My niece is getting married.|Cháu gái tôi sắp cưới.
+relative|close relative|người thân ruột thịt|Only a close relative can visit him now.|Lúc này chỉ người thân ruột thịt mới được thăm ông ấy.
+relative|visit relatives|thăm họ hàng|We visit relatives during Tet.|Chúng tôi đi thăm họ hàng dịp Tết.
+partner|business partner|đối tác kinh doanh|He is my business partner.|Anh ấy là đối tác kinh doanh của tôi.
+partner|life partner|người bạn đời|She found her life partner at university.|Cô ấy gặp người bạn đời ở trường đại học.
+boyfriend|new boyfriend|bạn trai mới|She has a new boyfriend.|Cô ấy có bạn trai mới.
+girlfriend|his girlfriend|bạn gái anh ấy|His girlfriend is a nurse.|Bạn gái anh ấy là y tá.
+guest|special guest|khách mời đặc biệt|We have a special guest tonight.|Tối nay chúng ta có một vị khách đặc biệt.
+guest|guest room|phòng cho khách|You can sleep in the guest room.|Bạn có thể ngủ ở phòng dành cho khách.
+host|host family|gia đình bản xứ|I lived with a host family in Canada.|Tôi sống với một gia đình bản xứ ở Canada.
+host|TV host|người dẫn chương trình|She is a famous TV host.|Cô ấy là người dẫn chương trình nổi tiếng.
+stranger|complete stranger|người hoàn toàn xa lạ|Don't give your address to a complete stranger.|Đừng cho người hoàn toàn xa lạ biết địa chỉ của bạn.
+stranger|talk to strangers|nói chuyện với người lạ|Children should not talk to strangers.|Trẻ em không nên nói chuyện với người lạ.
+member|family member|thành viên gia đình|Every family member helps at home.|Mọi thành viên gia đình đều giúp việc nhà.
+member|team member|thành viên nhóm|She is a new team member.|Cô ấy là thành viên mới của nhóm.
+owner|shop owner|chủ cửa hàng|The shop owner is very friendly.|Chủ cửa hàng rất thân thiện.
+owner|home owner|chủ nhà|Every home owner must pay this tax.|Mọi chủ nhà đều phải đóng thuế này.
+visitor|foreign visitors|khách nước ngoài|Hoi An is popular with foreign visitors.|Hội An được khách nước ngoài ưa chuộng.
+visitor|visitor center|trung tâm đón khách|Ask at the visitor center.|Hãy hỏi ở trung tâm đón khách.
+citizen|senior citizen|người cao tuổi|Every senior citizen can ride the bus for free.|Mọi người cao tuổi đều được đi xe buýt miễn phí.
+citizen|good citizen|công dân tốt|A good citizen follows the law.|Công dân tốt tuân thủ pháp luật.
+twin|twin brother|anh em trai sinh đôi|I have a twin brother.|Tôi có một người anh em sinh đôi.
+twin|twin beds|hai giường đơn|We'd like a room with twin beds.|Chúng tôi muốn phòng có hai giường đơn.
+gentleman|a real gentleman|một quý ông thực thụ|He is a real gentleman.|Anh ấy là một quý ông thực thụ.
+lady|old lady|bà cụ|An old lady sells flowers at the corner.|Một bà cụ bán hoa ở góc phố.
+lady|ladies and gentlemen|thưa quý vị|Ladies and gentlemen, welcome to the show!|Thưa quý vị, chào mừng đến với chương trình!
+guy|nice guy|anh chàng dễ mến|Nam is a really nice guy.|Nam là một anh chàng rất dễ mến.
+guy|you guys|các bạn|Thank you, you guys!|Cảm ơn các bạn nhé!
+crowd|big crowd|đám đông lớn|A big crowd waited outside the stadium.|Một đám đông lớn chờ bên ngoài sân vận động.
+crowd|in the crowd|trong đám đông|I lost my friend in the crowd.|Tôi lạc bạn trong đám đông.
+relationship|close relationship|mối quan hệ thân thiết|She has a close relationship with her mother.|Cô ấy rất thân với mẹ.
+relationship|in a relationship|đang hẹn hò|Are you in a relationship?|Bạn đang hẹn hò ai không?
+marriage|happy marriage|cuộc hôn nhân hạnh phúc|They have a happy marriage.|Họ có một cuộc hôn nhân hạnh phúc.
+wedding|wedding dress|váy cưới|She looks beautiful in her wedding dress.|Cô ấy mặc váy cưới trông thật đẹp.
+wedding|wedding party|tiệc cưới|The wedding party starts at six.|Tiệc cưới bắt đầu lúc sáu giờ.
+birth|date of birth|ngày sinh|Write your date of birth here.|Ghi ngày sinh của bạn ở đây.
+birth|give birth|sinh con|She will give birth next month.|Tháng sau cô ấy sinh.
+death|life and death|chuyện sống còn|It's a matter of life and death.|Đó là chuyện sống còn.
+death|scared to death|sợ chết khiếp|I was scared to death.|Tôi sợ chết khiếp.
+childhood|happy childhood|tuổi thơ hạnh phúc|I had a happy childhood in the countryside.|Tôi có một tuổi thơ hạnh phúc ở quê.
+childhood|childhood friend|bạn thời thơ ấu|Lan is my childhood friend.|Lan là bạn thời thơ ấu của tôi.
+generation|young generation|thế hệ trẻ|The young generation loves technology.|Thế hệ trẻ yêu công nghệ.
+generation|generation gap|khoảng cách thế hệ|There is a generation gap between us.|Giữa chúng tôi có khoảng cách thế hệ.
+boss|my boss|sếp tôi|My boss is very kind.|Sếp tôi rất tốt bụng.
+colleague|work colleague|đồng nghiệp|I went to lunch with a work colleague.|Tôi đi ăn trưa với một đồng nghiệp.
+classmate|old classmate|bạn học cũ|I met an old classmate yesterday.|Hôm qua tôi gặp một bạn học cũ.
+roommate|college roommate|bạn cùng phòng hồi đại học|He was my college roommate.|Anh ấy là bạn cùng phòng hồi đại học của tôi.
+enemy|worst enemy|kẻ thù tồi tệ nhất|Fear is your worst enemy.|Nỗi sợ là kẻ thù lớn nhất của bạn.
+hero|national hero|anh hùng dân tộc|Tran Hung Dao is a national hero.|Trần Hưng Đạo là anh hùng dân tộc.
+hero|my hero|người hùng của tôi|My father is my hero.|Bố là người hùng của tôi.
+king|the king of|vua của|The lion is the king of the jungle.|Sư tử là chúa sơn lâm.
+king|king size|cỡ lớn nhất|We bought a king size bed.|Chúng tôi mua một chiếc giường cỡ lớn.
+queen|beauty queen|hoa hậu|She was a beauty queen.|Cô ấy từng là hoa hậu.
+prince|Prince Charming|bạch mã hoàng tử|She is waiting for Prince Charming.|Cô ấy đang chờ bạch mã hoàng tử.
+princess|little princess|công chúa nhỏ|My daughter is my little princess.|Con gái là công chúa nhỏ của tôi.
+leader|team leader|trưởng nhóm|She is our team leader.|Cô ấy là trưởng nhóm của chúng tôi.
+leader|world leaders|lãnh đạo các nước|World leaders met in Hanoi.|Lãnh đạo các nước gặp nhau ở Hà Nội.
+human|human being|con người|Every human being needs love.|Con người ai cũng cần tình yêu.
+human|human rights|nhân quyền|We must respect human rights.|Chúng ta phải tôn trọng nhân quyền.
+male|male student|học sinh nam|There are ten male students in the class.|Lớp có mười học sinh nam.
+female|female doctor|bác sĩ nữ|I'd like to see a female doctor.|Tôi muốn khám với bác sĩ nữ.
+bride|bride and groom|cô dâu chú rể|The bride and groom look so happy.|Cô dâu chú rể trông thật hạnh phúc.
+grandchild|first grandchild|đứa cháu đầu tiên|My parents are waiting for their first grandchild.|Bố mẹ tôi đang chờ đứa cháu đầu tiên.
+youth|youth club|câu lạc bộ thanh niên|He joined a youth club.|Anh ấy tham gia câu lạc bộ thanh niên.
+youth|in my youth|thời trẻ|In my youth, I played football every day.|Thời trẻ, ngày nào tôi cũng đá bóng.

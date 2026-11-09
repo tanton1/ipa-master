@@ -1,0 +1,58 @@
+# Nhóm 37 – Giải trí, thể thao
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Giải trí, thể thao|Giải trí|Trọng âm từ ghép -ball, guitar, referee, magazine|Môn thể thao, thi đấu, âm nhạc, phim ảnh và sở thích. Chú ý trọng âm: guitar /gɪˈtɑɹ/, referee /ˌɹɛfəˈɹi/, magazine /ˌmægəˈzin/.|basketball,guitar,referee,photography
+= Môn thể thao|Trọng âm âm tiết đầu ở từ ghép -ball; cụm cuối /lf/ trong golf
+hobby|ˈhɑbi|n|sở thích|What are your hobbies?|Sở thích của bạn là gì?||
+game|geɪm|n|trò chơi; trận đấu|Let's play a game.|Chơi một trò đi.||
+sport|spɔɹt|n|môn thể thao|Do you play any sports?|Bạn có chơi môn thể thao nào không?||
+football|ˈfʊtˌbɔl|n|bóng đá|Football is popular in Vietnam.|Bóng đá rất phổ biến ở Việt Nam.||
+soccer|ˈsɑkɚ|n|bóng đá (Mỹ)|Americans call it soccer.|Người Mỹ gọi nó là soccer.||
+basketball|ˈbæskɪtˌbɔl|n|bóng rổ|He plays basketball.|Anh ấy chơi bóng rổ.||
+tennis|ˈtɛnɪs|n|quần vợt|Let's play tennis.|Chơi quần vợt đi.||
+volleyball|ˈvɑliˌbɔl|n|bóng chuyền|Volleyball is fun.|Bóng chuyền rất vui.||
+badminton|ˈbædmɪntən|n|cầu lông|I play badminton every morning.|Sáng nào tôi cũng chơi cầu lông.||
+golf|gɑlf|n|môn gôn|My boss plays golf.|Sếp tôi chơi gôn.||
+= Thi đấu|Trọng âm referee ở âm tiết cuối; /tʃ/ cuối trong match, coach
+yoga|ˈjoʊgə|n|yoga|Yoga helps me relax.|Yoga giúp tôi thư giãn.||
+chess|tʃɛs|n|cờ vua|Do you play chess?|Bạn chơi cờ vua không?||
+match|mætʃ|n|trận đấu; que diêm|Who won the match?|Ai thắng trận?||
+player|ˈpleɪɚ|n|người chơi, cầu thủ|He is a great player.|Anh ấy là một cầu thủ giỏi.||
+coach|koʊtʃ|n|huấn luyện viên|The coach is angry.|Huấn luyện viên đang giận.||
+referee|ˌɹɛfəˈɹi|n|trọng tài|The referee blew the whistle.|Trọng tài thổi còi.||Trọng âm âm tiết cuối.
+goal|goʊl|n|bàn thắng; mục tiêu|What a goal!|Bàn thắng đẹp quá!||
+ball|bɔl|n|quả bóng|Throw the ball.|Ném bóng đi.||
+race|ɹeɪs|n|cuộc đua|She won the race.|Cô ấy thắng cuộc đua.||
+medal|ˈmɛdəl|n|huy chương|He won a gold medal.|Anh ấy giành huy chương vàng.||Đồng âm với meddle.
+= Giải thưởng và âm nhạc|u câm trong guitar; cụm cuối /lm/ trong film
+champion|ˈtʃæmpiən|n|nhà vô địch|She is the champion.|Cô ấy là nhà vô địch.||
+competition|ˌkɑmpəˈtɪʃən|n|cuộc thi; sự cạnh tranh|I entered a singing competition.|Tôi tham gia một cuộc thi hát.||
+winner|ˈwɪnɚ|n|người chiến thắng|And the winner is…|Và người chiến thắng là…||
+concert|ˈkɑnsɚt|n|buổi hòa nhạc|The concert starts at eight.|Buổi hòa nhạc bắt đầu lúc tám giờ.||
+movie|ˈmuvi|n|bộ phim|What's your favorite movie?|Bộ phim yêu thích của bạn là gì?||Chữ o đọc /u/.
+film|fɪlm|n|phim|The film was great.|Bộ phim rất hay.||Cụm cuối /lm/, không chèn "ơ".
+song|sɔŋ|n|bài hát|Sing me a song.|Hát cho tôi một bài.||
+band|bænd|n|ban nhạc|I love this band.|Tôi mê ban nhạc này.||
+guitar|gɪˈtɑɹ|n|đàn ghi-ta|He plays the guitar.|Anh ấy chơi ghi-ta.||Chữ u không đọc; trọng âm âm tiết hai.
+piano|piˈænoʊ|n|đàn piano|She plays the piano well.|Cô ấy chơi piano giỏi.||
+= Nghệ thuật và đọc|/θl/ trong athlete; trọng âm magazine ở âm tiết cuối
+drum|dɹʌm|n|cái trống|He plays the drums.|Anh ấy chơi trống.||
+violin|ˌvaɪəˈlɪn|n|vĩ cầm|She plays the violin.|Cô ấy chơi vĩ cầm.||Trọng âm âm tiết cuối.
+painting|ˈpeɪntɪŋ|n|bức tranh; hội họa|I love this painting.|Tôi thích bức tranh này.||
+photography|fəˈtɑgɹəfi|n|nhiếp ảnh|Photography is my hobby.|Nhiếp ảnh là sở thích của tôi.||Trọng âm âm tiết hai; khác photograph.
+cartoon|kɑɹˈtun|n|phim hoạt hình|Kids love cartoons.|Trẻ con thích phim hoạt hình.||
+athlete|ˈæθˌlit|n|vận động viên|She is a great athlete.|Cô ấy là vận động viên xuất sắc.||Hai âm tiết, không chèn "ơ" giữa /θ/ và /l/.
+novel|ˈnɑvəl|n|tiểu thuyết|I'm reading a novel.|Tôi đang đọc một cuốn tiểu thuyết.||
+story|ˈstɔɹi|n|câu chuyện|Tell me a story.|Kể tôi nghe một câu chuyện.||
+poem|ˈpoʊəm|n|bài thơ|She wrote a poem.|Cô ấy viết một bài thơ.||Hai âm tiết.
+magazine|ˌmægəˈzin|n|tạp chí|I read a magazine on the plane.|Tôi đọc tạp chí trên máy bay.||Trọng âm âm tiết cuối.
+= Giải trí và vận động|/θ/ trong marathon; đuôi -ing đọc /ɪŋ/
+entertainment|ˌɛntɚˈteɪnmənt|n|sự giải trí|TV is my main entertainment.|Ti vi là thú giải trí chính của tôi.||
+fun|fʌn|n|niềm vui, sự vui vẻ|We had a lot of fun.|Chúng tôi rất vui.||
+joke|dʒoʊk|n|chuyện đùa|That's a funny joke.|Chuyện đùa đó buồn cười thật.||
+puzzle|ˈpʌzəl|n|câu đố, trò xếp hình|I like word puzzles.|Tôi thích trò chơi ô chữ.||
+workout|ˈwɝkˌaʊt|n|buổi tập luyện|I had a good workout.|Tôi vừa tập một buổi ra trò.||
+swimming|ˈswɪmɪŋ|n|bơi lội|Swimming is good exercise.|Bơi là bài tập tốt.||
+jogging|ˈdʒɑgɪŋ|n|chạy bộ|Jogging keeps me fit.|Chạy bộ giúp tôi khỏe.||
+fishing|ˈfɪʃɪŋ|n|câu cá|My father loves fishing.|Bố tôi mê câu cá.||
+cycling|ˈsaɪklɪŋ|n|đạp xe|Cycling is popular in Hoi An.|Đạp xe rất phổ biến ở Hội An.||
+marathon|ˈmɛɹəˌθɑn|n|cuộc chạy marathon|She ran a marathon.|Cô ấy đã chạy marathon.||Chữ th đọc /θ/.

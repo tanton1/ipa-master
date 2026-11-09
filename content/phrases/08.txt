@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+happy|happy ending|kết thúc có hậu|I like movies with a happy ending.|Tôi thích phim có kết thúc có hậu.
+sad|sad story|câu chuyện buồn|It's a sad story.|Đó là một câu chuyện buồn.
+angry|angry with|giận ai|Don't be angry with me.|Đừng giận tôi.
+afraid|afraid of|sợ|I'm afraid of dogs.|Tôi sợ chó.
+surprised|surprised at|ngạc nhiên về|I was surprised at the news.|Tôi ngạc nhiên về tin đó.
+excited|excited about|háo hức về|The kids are excited about the trip.|Bọn trẻ háo hức về chuyến đi.
+bored|bored with|chán|I'm bored with this game.|Tôi chán trò chơi này rồi.
+good|good at|giỏi về|She is good at math.|Cô ấy giỏi toán.
+bad|bad luck|xui xẻo|It was just bad luck.|Chỉ là xui thôi.
+big|big deal|chuyện to tát|It's not a big deal.|Có gì to tát đâu.
+small|small talk|chuyện xã giao|I'm not good at small talk.|Tôi không giỏi nói chuyện xã giao.
+long|long time no see|lâu quá không gặp|Long time no see!|Lâu quá không gặp!
+short|in short|tóm lại|In short, it was a great trip.|Tóm lại, đó là một chuyến đi tuyệt vời.
+tall|tall and thin|cao gầy|He is tall and thin.|Anh ấy cao gầy.
+new|brand new|mới tinh|I bought a brand new phone.|Tôi mua một chiếc điện thoại mới tinh.
+old|years old|tuổi|My son is five years old.|Con trai tôi năm tuổi.
+young|young at heart|tâm hồn trẻ trung|My grandmother is young at heart.|Bà tôi có tâm hồn trẻ trung.
+hot|hot weather|thời tiết nóng|I don't like hot weather.|Tôi không thích thời tiết nóng.
+cold|catch a cold|bị cảm lạnh|Wear a coat or you'll catch a cold.|Mặc áo khoác vào kẻo bị cảm.
+warm|warm welcome|sự đón tiếp nồng hậu|Thank you for the warm welcome.|Cảm ơn sự đón tiếp nồng hậu.
+fast|fast internet|mạng nhanh|This cafe has fast internet.|Quán cà phê này có mạng nhanh.
+slow|slow internet|mạng chậm|The slow internet makes me angry.|Mạng chậm làm tôi bực.
+easy|take it easy|cứ từ từ|Take it easy, there's no hurry.|Cứ từ từ, không có gì vội.
+hard|work hard|làm việc chăm chỉ|You need to work hard.|Bạn cần làm việc chăm chỉ.
+difficult|difficult question|câu hỏi khó|That's a difficult question.|Đó là một câu hỏi khó.
+beautiful|beautiful view|cảnh đẹp|The hotel has a beautiful view.|Khách sạn có cảnh đẹp.
+ugly|ugly duckling|vịt con xấu xí|She was an ugly duckling as a child.|Hồi nhỏ cô ấy là một chú vịt con xấu xí.
+rich|rich in vitamins|giàu vitamin|Fruit is rich in vitamins.|Trái cây giàu vitamin.
+poor|poor family|gia đình nghèo|He comes from a poor family.|Anh ấy xuất thân từ gia đình nghèo.
+cheap|cheap ticket|vé rẻ|I bought a cheap ticket online.|Tôi mua được vé rẻ trên mạng.
+expensive|expensive restaurant|nhà hàng đắt tiền|We can't eat at an expensive restaurant.|Chúng tôi không thể ăn ở nhà hàng đắt tiền.
+important|important meeting|cuộc họp quan trọng|I have an important meeting today.|Hôm nay tôi có cuộc họp quan trọng.
+interesting|interesting book|quyển sách thú vị|I'm reading an interesting book.|Tôi đang đọc một quyển sách thú vị.
+busy|busy street|con phố đông đúc|We live on a busy street.|Chúng tôi sống trên một con phố đông đúc.
+free|free time|thời gian rảnh|What do you do in your free time?|Lúc rảnh bạn làm gì?
+full|full name|họ và tên|Write your full name here.|Viết họ tên đầy đủ ở đây.
+empty|empty room|phòng trống|Is there an empty room?|Có phòng trống không?
+wrong|wrong number|nhầm số|Sorry, wrong number.|Xin lỗi, nhầm số.
+same|same time|cùng lúc|We arrived at the same time.|Chúng tôi đến cùng lúc.
+different|different from|khác với|My idea is different from yours.|Ý tưởng của tôi khác với của bạn.
+kind|kind of|hơi, kiểu như|I'm kind of tired.|Tôi hơi mệt.
+quiet|quiet place|nơi yên tĩnh|Let's find a quiet place to study.|Mình tìm chỗ yên tĩnh để học đi.
+loud|loud music|nhạc to|Please turn down the loud music.|Vặn nhỏ nhạc giúp với.
+dark|in the dark|trong bóng tối|I can't see in the dark.|Tôi không nhìn thấy trong bóng tối.
+bright|bright idea|ý tưởng sáng suốt|That's a bright idea!|Ý hay đấy!
+heavy|heavy bag|túi nặng|Let me carry your heavy bag.|Để tôi xách túi nặng giúp bạn.
+strong|strong coffee|cà phê đậm|I like strong coffee.|Tôi thích cà phê đậm.
+weak|weak tea|trà loãng|I prefer weak tea.|Tôi thích trà loãng.
+nice|have a nice day|chúc một ngày tốt lành|Have a nice day!|Chúc bạn một ngày tốt lành!
+funny|funny story|câu chuyện buồn cười|He told a funny story.|Anh ấy kể một câu chuyện buồn cười.

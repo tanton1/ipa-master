@@ -1,15 +1,17 @@
 'use client';
 
-import { IpaText } from './IpaText';
 import Link from 'next/link';
-import { useAppState, useHydrated, learnedSlugs, weakPhonemeIds, streakDays, todayKey } from '@/lib/store';
-import { lessonIndexFor, weekDay, WORDS, WORDS_PER_DAY } from '@/lib/curriculum';
+import { IpaText } from './IpaText';
+import { useAppState, useHydrated, learnedSlugs, weakPhonemeIds, streakDays, todayKey, dueSlugs, needsPracticeSlugs, evidenceOf } from '@/lib/store';
+import { lessonIndexFor, weekDay, WORDS, WORDS_PER_DAY, TOTAL_LESSONS } from '@/lib/curriculum';
 import { planToday, type PlanAction } from '@/lib/planner';
 import { getPhoneme } from '@/data/phonemes';
 import { getVei } from '@/data/vei';
 import { getUnit, WEEKDAY_ACTIVITY } from '@/data/units';
+import { CONTENT_VERSION } from '@/data/content-version';
 import { ProgressBar } from './ProgressBar';
-import { IconGrid, IconCompare, IconWrench, IconClipboard, IconFlame, IconArrowRight, IconRepeat, IconChevronRight, IconBook } from './icons';
+import { EvidencePill } from './EvidencePill';
+import { IconGrid, IconCompare, IconWrench, IconClipboard, IconFlame, IconArrowRight, IconRepeat, IconChevronRight, IconBook, IconClock } from './icons';
 
 const MODULES = [
   { href: '/ipa', title: 'Bảng IPA', desc: 'Âm theo nhóm và khẩu hình', icon: IconGrid, cls: 'bg-primary-soft text-primary' },
@@ -18,24 +20,42 @@ const MODULES = [
   { href: '/diagnostic', title: 'Kiểm tra đầu vào', desc: '5–8 phút, tìm điểm yếu', icon: IconClipboard, cls: 'bg-accent-soft text-accent' },
 ];
 
+interface Described { href: string; title: string; desc: string; minutes: number; Icon: typeof IconArrowRight; tone: string; cta: string }
+
+function wordHref(slug: string): string {
+  const w = WORDS.find((x) => x.slug === slug);
+  return w ? `/words/${String(w.group).padStart(2, '0')}/${w.slug}` : '/words';
+}
+
+/** Mô tả một việc trong kế hoạch: đường dẫn, tiêu đề, thời lượng ước tính. */
+function describe(a: PlanAction): Described {
+  switch (a.type) {
+    case 'diagnostic':
+      return { href: '/diagnostic', title: 'Làm bài kiểm tra đầu vào', desc: 'Nghe phân biệt, đọc từ, đọc câu. Kết quả quyết định lộ trình ưu tiên âm nào trước.', minutes: 7, Icon: IconClipboard, tone: 'bg-accent-soft text-accent', cta: 'Bắt đầu kiểm tra' };
+    case 'retest': {
+      const e = getVei(a.code);
+      return { href: `/errors/${a.code}?retest=${a.which}`, title: `Kiểm tra lại ${a.code}: ${e?.title ?? ''}`, desc: a.which === 'd1' ? 'Đã đến hạn kiểm tra sau 1 ngày.' : 'Đã đến hạn kiểm tra sau 3 ngày.', minutes: 3, Icon: IconRepeat, tone: 'bg-warn-soft text-warn', cta: 'Kiểm tra lại' };
+    }
+    case 'error-lesson': {
+      const e = getVei(a.code);
+      return { href: `/errors/${a.code}`, title: `Chữa lỗi ${a.code}: ${e?.title ?? ''}`, desc: a.reason, minutes: 8, Icon: IconWrench, tone: 'bg-danger-soft text-danger', cta: 'Vào bài sửa' };
+    }
+    case 'review':
+      return { href: '/review', title: `Ôn ${a.count} từ đến hạn`, desc: 'Từ cần luyện lại được đưa lên trước. Nói từ, nghe A/B, tự chấm.', minutes: Math.min(15, Math.max(2, Math.ceil(a.count * 1.5))), Icon: IconRepeat, tone: 'bg-primary-soft text-primary', cta: 'Ôn ngay' };
+    case 'learn':
+      return { href: wordHref(a.slug), title: `Học từ mới: ${a.word}`, desc: a.remaining > 0 ? `Còn ${a.remaining} từ để xong bài hôm nay.` : 'Đã đủ 10 từ hôm nay; có thể học trước.', minutes: 4, Icon: IconBook, tone: 'bg-primary-soft text-primary', cta: 'Học từ này' };
+  }
+}
+
 function ActionCard({ a }: { a: PlanAction }) {
-  let href = '/';
-  let title = '';
-  let desc = '';
-  let tone = 'bg-primary-soft text-primary';
-  let Icon = IconArrowRight;
-  if (a.type === 'diagnostic') { href = '/diagnostic'; title = 'Làm bài kiểm tra đầu vào'; desc = 'Xây hồ sơ âm ban đầu để lộ trình ưu tiên đúng lỗi của bạn.'; Icon = IconClipboard; tone = 'bg-accent-soft text-accent'; }
-  if (a.type === 'retest') { const e = getVei(a.code); href = `/errors/${a.code}?retest=${a.which}`; title = `Kiểm tra lại ${a.code}: ${e?.title}`; desc = a.which === 'd1' ? 'Đã đến hạn kiểm tra sau 1 ngày.' : 'Đã đến hạn kiểm tra sau 3 ngày.'; Icon = IconRepeat; tone = 'bg-warn-soft text-warn'; }
-  if (a.type === 'error-lesson') { const e = getVei(a.code); href = `/errors/${a.code}`; title = `Chữa lỗi ${a.code}: ${e?.title}`; desc = a.reason; Icon = IconWrench; tone = 'bg-danger-soft text-danger'; }
-  if (a.type === 'review') { href = '/review'; title = `Ôn ${a.count} từ đến hạn`; desc = 'Từ cần luyện lại được đưa lên trước.'; Icon = IconRepeat; }
-  if (a.type === 'learn') { const w = WORDS.find((x) => x.slug === a.slug); href = w ? `/words/${String(w.group).padStart(2, '0')}/${w.slug}` : '/words'; title = `Học từ mới: ${a.word}`; desc = a.remaining > 0 ? `Còn ${a.remaining} từ để xong bài hôm nay.` : 'Đã đủ 10 từ hôm nay; có thể học trước.'; Icon = IconBook; }
+  const d = describe(a);
   return (
     <li>
-      <Link href={href} className="card tap flex items-center gap-3 px-4 py-3.5">
-        <span className={`inline-flex size-11 shrink-0 items-center justify-center rounded-2xl ${tone}`}><Icon size={20} /></span>
+      <Link href={d.href} className="card tap flex items-center gap-3 px-4 py-3">
+        <span className={`inline-flex size-10 shrink-0 items-center justify-center rounded-2xl ${d.tone}`}><d.Icon size={18} /></span>
         <span className="min-w-0 flex-1">
-          <span className="block font-semibold leading-snug"><IpaText text={title} /></span>
-          <span className="block text-xs text-muted">{desc}</span>
+          <span className="block text-sm font-semibold leading-snug"><IpaText text={d.title} /></span>
+          <span className="block text-xs text-muted">≈ {d.minutes} phút</span>
         </span>
         <IconChevronRight size={18} className="shrink-0 text-muted" />
       </Link>
@@ -53,9 +73,11 @@ export function HomeClient() {
   const doneToday = Math.min(WORDS_PER_DAY, s.log[todayKey()]?.learned ?? 0);
   const streak = streakDays(s);
   const weak = weakPhonemeIds(s, 3);
+  const due = dueSlugs(s).length;
+  const needs = needsPracticeSlugs(s).length;
   const plan = hydrated ? planToday(s) : [];
-  const learnAction = plan.find((a) => a.type === 'learn');
-  const others = plan.filter((a) => a.type !== 'learn');
+  const primary = plan[0] ? describe(plan[0]) : null;
+  const rest = plan.slice(1, 4);
 
   return (
     <main className="px-4 pt-4">
@@ -64,7 +86,7 @@ export function HomeClient() {
           <p className="eyebrow text-primary">IPA Master • Phát âm thực chiến</p>
           <h1 className="mt-2 text-[34px] font-extrabold leading-[1.08] tracking-tight">Hôm nay<br />học gì?</h1>
           <p className="mt-2 text-sm text-muted">
-            {hydrated ? `Tuần ${week} • Ngày ${day}` : 'Đang tải tiến độ…'}
+            {hydrated ? `Tuần ${week} • Ngày ${day} • Bài ${idx + 1}/${TOTAL_LESSONS}` : 'Đang tải tiến độ…'}
             {hydrated && learned > 0 ? ` • ${learned}/${WORDS.length} từ` : ''}
           </p>
         </div>
@@ -82,43 +104,89 @@ export function HomeClient() {
         </Link>
       ) : null}
 
-      <section className="card p-5" aria-labelledby="today-title">
-        <div className="flex items-end justify-between gap-3">
-          <div>
-            <h2 id="today-title" className="eyebrow whitespace-nowrap text-muted">Tiến độ hôm nay</h2>
-            <p className="mt-1 font-display text-4xl font-extrabold tabular-nums">{hydrated ? doneToday : '–'}<span className="text-base font-medium text-muted">/{WORDS_PER_DAY} từ</span></p>
+      {/* Một việc chính duy nhất */}
+      <section className="card p-5" aria-labelledby="primary-title">
+        <p className="eyebrow text-primary">Việc chính hôm nay</p>
+        {primary ? (
+          <>
+            <h2 id="primary-title" className="mt-2 text-2xl font-extrabold leading-tight"><IpaText text={primary.title} /></h2>
+            <p className="mt-1.5 text-sm leading-relaxed text-muted">{primary.desc}</p>
+            <Link href={primary.href} className="tap mt-4 flex items-center justify-between gap-3 rounded-2xl bg-ink py-3 pl-5 pr-3 text-bg">
+              <span>
+                <span className="flex items-center gap-1 text-xs font-medium opacity-75"><IconClock size={12} /> ≈ {primary.minutes} phút</span>
+                <span className="font-display text-xl font-extrabold">{primary.cta}</span>
+              </span>
+              <span className="inline-flex size-11 shrink-0 items-center justify-center rounded-full bg-primary text-primary-ink"><IconArrowRight size={22} /></span>
+            </Link>
+          </>
+        ) : (
+          <h2 id="primary-title" className="mt-2 text-2xl font-extrabold text-muted">Đang tải…</h2>
+        )}
+
+        <dl className="mt-4 grid grid-cols-3 gap-2 text-center">
+          <div className="rounded-xl bg-surface p-2">
+            <dt className="text-[10px] font-semibold uppercase tracking-wide text-muted">Hôm nay</dt>
+            <dd className="font-display text-lg font-extrabold tabular-nums">{hydrated ? doneToday : '–'}<span className="text-xs font-medium text-muted">/{WORDS_PER_DAY} từ</span></dd>
           </div>
-          <span className="rounded-full bg-accent-soft px-2.5 py-1 text-xs font-bold text-accent">{hydrated ? Math.round((doneToday / WORDS_PER_DAY) * 100) : 0}%</span>
-        </div>
+          <Link href="/review" className="tap rounded-xl bg-surface p-2">
+            <dt className="text-[10px] font-semibold uppercase tracking-wide text-muted">Đến hạn ôn</dt>
+            <dd className={`font-display text-lg font-extrabold tabular-nums ${due ? 'text-primary' : ''}`}>{hydrated ? due : '–'}<span className="text-xs font-medium text-muted"> từ</span></dd>
+          </Link>
+          <Link href="/me" className="tap rounded-xl bg-surface p-2">
+            <dt className="text-[10px] font-semibold uppercase tracking-wide text-muted">Âm yếu</dt>
+            <dd className="ipa truncate font-display text-lg font-extrabold">{hydrated ? (weak.length ? weak.slice(0, 2).map((x) => `/${getPhoneme(x.id)?.symbol ?? ''}/`).join(' ') : '—') : '–'}</dd>
+          </Link>
+        </dl>
         <ProgressBar value={doneToday} max={WORDS_PER_DAY} color="accent" className="mt-3" label="Tiến độ bài học hôm nay" />
         {unit ? (
-          <p className="mt-3 text-xs text-muted">
-            <span className="font-semibold text-ink">{unit.title}</span> • {WEEKDAY_ACTIVITY[day - 1]}
+          <p className="mt-2 text-xs text-muted">
+            <span className="font-semibold text-ink">{unit.title}</span> • {WEEKDAY_ACTIVITY[day - 1]}{needs ? ` • ${needs} từ cần luyện lại` : ''}
           </p>
-        ) : null}
-        {learnAction && learnAction.type === 'learn' ? (
-          <Link
-            href={(() => { const w = WORDS.find((x) => x.slug === learnAction.slug); return w ? `/words/${String(w.group).padStart(2, '0')}/${w.slug}` : '/words'; })()}
-            className="tap mt-5 flex items-center justify-between gap-3 rounded-2xl bg-ink py-3 pl-5 pr-3 text-bg"
-          >
-            <span>
-              <span className="block text-xs font-medium opacity-75">{doneToday < WORDS_PER_DAY ? 'Tiếp tục bài học' : 'Học trước bài tiếp theo'}</span>
-              <span className="font-display text-xl font-extrabold">{learnAction.word}</span>
-            </span>
-            <span className="inline-flex size-11 items-center justify-center rounded-full bg-primary text-primary-ink"><IconArrowRight size={22} /></span>
-          </Link>
         ) : null}
       </section>
 
-      {others.length ? (
+      {rest.length ? (
         <section className="mt-7" aria-labelledby="plan-title">
-          <p className="eyebrow text-primary">Việc cần làm</p>
-          <h2 id="plan-title" className="mb-3 mt-1 text-xl font-extrabold">Kế hoạch được đề xuất</h2>
+          <p className="eyebrow text-primary">Sau đó</p>
+          <h2 id="plan-title" className="mb-3 mt-1 text-xl font-extrabold">Việc tiếp theo</h2>
           <ul className="flex flex-col gap-2">
-            {others.slice(0, 4).map((a, i) => <ActionCard key={i} a={a} />)}
+            {rest.map((a, i) => <ActionCard key={i} a={a} />)}
           </ul>
         </section>
       ) : null}
+
+      <section className="mt-7" aria-labelledby="weak-title">
+        <p className="eyebrow text-primary">Điểm yếu có bằng chứng</p>
+        <div className="mb-3 mt-1 flex items-baseline justify-between gap-3">
+          <h2 id="weak-title" className="text-xl font-extrabold">Âm cần luyện thêm</h2>
+          <Link href="/me" className="shrink-0 text-sm font-semibold text-primary underline decoration-primary/30 underline-offset-4">Bản đồ âm</Link>
+        </div>
+        {weak.length ? (
+          <ul className="flex flex-col gap-2">
+            {weak.map((x) => {
+              const p = getPhoneme(x.id);
+              if (!p) return null;
+              return (
+                <li key={x.id}>
+                  <Link href={p.contrastId ? `/contrast/${p.contrastId}` : `/ipa/${p.id}`} className="card tap flex items-center gap-3 px-4 py-3">
+                    <span className="ipa w-14 shrink-0 text-2xl font-semibold text-primary">/{p.symbol}/</span>
+                    <span className="min-w-0 flex-1">
+                      <EvidencePill level={evidenceOf(x)} className="mb-1" />
+                      <span className="block text-sm font-semibold leading-snug">{p.name}</span>
+                      <span className="mt-0.5 block text-xs text-muted">như trong <span className="font-medium text-ink">{p.examples[0]}</span> • {x.score}/100 sau {x.n} lượt</span>
+                    </span>
+                    <IconChevronRight size={18} className="shrink-0 text-muted" />
+                  </Link>
+                </li>
+              );
+            })}
+          </ul>
+        ) : (
+          <p className="card p-4 text-sm text-muted">
+            {hydrated ? 'Chưa có âm nào bị đánh dấu yếu. Chưa kiểm tra không có nghĩa là đã tốt: làm bài kiểm tra đầu vào hoặc luyện vài từ, danh sách sẽ cập nhật từ kết quả nghe và tự đánh giá của bạn.' : 'Đang tải…'}
+          </p>
+        )}
+      </section>
 
       <section className="mt-7" aria-labelledby="modules-title">
         <p className="eyebrow text-primary">Khám phá</p>
@@ -141,42 +209,8 @@ export function HomeClient() {
         </ul>
       </section>
 
-      <section className="mt-7" aria-labelledby="weak-title">
-        <p className="eyebrow text-primary">Điểm yếu của bạn</p>
-        <div className="mb-3 mt-1 flex items-baseline justify-between gap-3">
-          <h2 id="weak-title" className="text-xl font-extrabold">Âm cần luyện thêm</h2>
-          <Link href="/me" className="shrink-0 text-sm font-semibold text-primary underline decoration-primary/30 underline-offset-4">Bản đồ âm</Link>
-        </div>
-        {weak.length ? (
-          <ul className="flex flex-col gap-2">
-            {weak.map((x) => {
-              const p = getPhoneme(x.id);
-              if (!p) return null;
-              const tag = x.score < 55 ? ['Ưu tiên cao', 'bg-danger-soft text-danger'] : x.score < 75 ? ['Đang luyện', 'bg-warn-soft text-warn'] : ['Cần ôn', 'bg-primary-soft text-primary'];
-              return (
-                <li key={x.id}>
-                  <Link href={p.contrastId ? `/contrast/${p.contrastId}` : `/ipa/${p.id}`} className="card tap flex items-center gap-3 px-4 py-3">
-                    <span className="ipa w-14 shrink-0 text-2xl font-semibold text-primary">/{p.symbol}/</span>
-                    <span className="min-w-0 flex-1">
-                      <span className={`mb-1 inline-block rounded-full px-2 py-0.5 text-[11px] font-bold ${tag[1]}`}>{tag[0]}</span>
-                      <span className="block text-sm font-semibold leading-snug">{p.name}</span>
-                      <span className="mt-0.5 block text-xs text-muted">như trong <span className="font-medium text-ink">{p.examples[0]}</span> • {x.score}/100 sau {x.n} lượt</span>
-                    </span>
-                    <IconChevronRight size={18} className="shrink-0 text-muted" />
-                  </Link>
-                </li>
-              );
-            })}
-          </ul>
-        ) : (
-          <p className="card p-4 text-sm text-muted">
-            {hydrated ? 'Chưa có đủ dữ liệu. Làm bài kiểm tra đầu vào hoặc luyện vài từ, danh sách sẽ tự cập nhật từ kết quả nghe và tự đánh giá của bạn.' : 'Đang tải…'}
-          </p>
-        )}
-      </section>
-
       <p className="mt-8 text-center text-xs leading-relaxed text-muted">
-        Chuẩn dạy: Anh-Mỹ phổ thông. Nội dung đang ở trạng thái nháp, chưa qua kiểm duyệt ngữ âm. Giọng mẫu là giọng tổng hợp của trình duyệt.
+        Chuẩn dạy: Anh-Mỹ phổ thông. Nội dung bản {CONTENT_VERSION}, trạng thái nháp, chưa qua kiểm duyệt ngữ âm. Giọng mẫu là giọng tổng hợp của trình duyệt.
       </p>
     </main>
   );

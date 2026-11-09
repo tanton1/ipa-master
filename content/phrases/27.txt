@@ -1,0 +1,66 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+dress|dress code|quy định trang phục|What is the dress code for the party?|Bữa tiệc có quy định trang phục gì?
+dress|evening dress|váy dạ hội|She wore a long evening dress.|Cô ấy mặc một chiếc váy dạ hội dài.
+skirt|short skirt|váy ngắn|You can't wear a short skirt to the temple.|Không được mặc váy ngắn khi vào chùa.
+jacket|leather jacket|áo khoác da|He always wears a leather jacket.|Anh ấy luôn mặc áo khoác da.
+jacket|rain jacket|áo mưa|Take a rain jacket with you.|Mang theo áo mưa nhé.
+coat|winter coat|áo khoác mùa đông|You need a winter coat in Hanoi.|Ở Hà Nội bạn cần áo khoác mùa đông.
+sweater|wool sweater|áo len lông cừu|My grandmother knitted me a wool sweater.|Bà đan cho tôi một chiếc áo len.
+jeans|a pair of jeans|một chiếc quần jean|I bought a pair of jeans online.|Tôi mua một chiếc quần jean trên mạng.
+pants|long pants|quần dài|Wear long pants to the temple.|Mặc quần dài khi đi chùa.
+shorts|a pair of shorts|một chiếc quần đùi|Pack a pair of shorts for the beach.|Mang theo một chiếc quần đùi đi biển.
+socks|a pair of socks|một đôi tất|I need a pair of socks.|Tôi cần một đôi tất.
+boots|rain boots|ủng đi mưa|Wear rain boots in the flood.|Mang ủng khi trời ngập.
+hat|hard hat|mũ bảo hộ|Workers must wear a hard hat.|Công nhân phải đội mũ bảo hộ.
+hat|conical hat|nón lá|The conical hat is a symbol of Vietnam.|Nón lá là biểu tượng của Việt Nam.
+gloves|rubber gloves|găng tay cao su|Wear rubber gloves when you clean.|Đeo găng tay cao su khi dọn dẹp.
+scarf|silk scarf|khăn lụa|She bought a silk scarf in Hoi An.|Cô ấy mua một chiếc khăn lụa ở Hội An.
+belt|seat belt|dây an toàn|Fasten your seat belt.|Thắt dây an toàn.
+uniform|school uniform|đồng phục học sinh|Students wear a school uniform.|Học sinh mặc đồng phục.
+suit|business suit|com-lê công sở|He wears a business suit to work.|Anh ấy mặc com-lê đi làm.
+pocket|pocket money|tiền tiêu vặt|My parents give me pocket money every week.|Bố mẹ cho tôi tiền tiêu vặt mỗi tuần.
+pocket|in my pocket|trong túi tôi|My phone is in my pocket.|Điện thoại ở trong túi tôi.
+button|sew on a button|đơm cúc áo|Can you sew on a button for me?|Bạn đơm cúc áo giúp tôi được không?
+zipper|broken zipper|khóa kéo hỏng|My bag has a broken zipper.|Túi tôi bị hỏng khóa kéo.
+necklace|gold necklace|dây chuyền vàng|She wears a gold necklace.|Cô ấy đeo dây chuyền vàng.
+earring|a pair of earrings|một đôi bông tai|He gave her a pair of earrings.|Anh ấy tặng cô một đôi bông tai.
+bracelet|silver bracelet|vòng tay bạc|I lost my silver bracelet.|Tôi làm mất vòng tay bạc.
+glasses|reading glasses|kính đọc sách|My father needs reading glasses.|Bố tôi cần kính đọc sách.
+sunglasses|a pair of sunglasses|một cặp kính râm|Bring a pair of sunglasses to the beach.|Mang theo kính râm khi đi biển.
+fashion|fashion show|buổi trình diễn thời trang|We went to a fashion show.|Chúng tôi đi xem trình diễn thời trang.
+fashion|out of fashion|lỗi mốt|That color is out of fashion.|Màu đó lỗi mốt rồi.
+style|hair style|kiểu tóc|I like your new hair style.|Tôi thích kiểu tóc mới của bạn.
+style|in style|hợp mốt|Big bags are in style this year.|Năm nay túi to đang hợp mốt.
+color|favorite color|màu yêu thích|What is your favorite color?|Màu yêu thích của bạn là gì?
+color|bright color|màu sáng|Kids like bright colors.|Trẻ em thích màu sáng.
+sale|on sale|đang giảm giá|These shoes are on sale.|Đôi giày này đang giảm giá.
+sale|for sale|để bán|The house is for sale.|Ngôi nhà đang được rao bán.
+discount|student discount|giảm giá cho sinh viên|Do you have a student discount?|Có giảm giá cho sinh viên không?
+discount|get a discount|được giảm giá|Buy two and get a discount.|Mua hai cái để được giảm giá.
+cash|pay in cash|trả tiền mặt|Can I pay in cash?|Tôi trả tiền mặt được không?
+coin|flip a coin|tung đồng xu|Let's flip a coin to decide.|Tung đồng xu để quyết định nhé.
+credit|credit card|thẻ tín dụng|Can I pay by credit card?|Tôi trả bằng thẻ tín dụng được không?
+cost|cost of living|chi phí sinh hoạt|The cost of living in Hanoi is rising.|Chi phí sinh hoạt ở Hà Nội đang tăng.
+cost|at all costs|bằng mọi giá|We must win at all costs.|Chúng ta phải thắng bằng mọi giá.
+cashier|pay the cashier|trả tiền cho thu ngân|Please pay the cashier at the front.|Vui lòng trả tiền cho thu ngân ở phía trước.
+mall|shopping mall|trung tâm thương mại|Let's meet at the shopping mall.|Gặp nhau ở trung tâm thương mại nhé.
+supermarket|go to the supermarket|đi siêu thị|I go to the supermarket on Saturday.|Tôi đi siêu thị vào thứ Bảy.
+brand|brand name|hàng hiệu|She only buys brand name clothes.|Cô ấy chỉ mua quần áo hàng hiệu.
+brand|famous brand|thương hiệu nổi tiếng|Vinamilk is a famous brand.|Vinamilk là thương hiệu nổi tiếng.
+quality|high quality|chất lượng cao|This bag is high quality.|Cái túi này chất lượng cao.
+quality|quality of life|chất lượng cuộc sống|Exercise improves your quality of life.|Tập thể dục giúp nâng cao chất lượng cuộc sống.
+shopping|go shopping|đi mua sắm|Let's go shopping this weekend.|Cuối tuần đi mua sắm nhé.
+shopping|shopping list|danh sách đồ cần mua|Don't forget the shopping list.|Đừng quên danh sách đồ cần mua.
+afford|can't afford|không đủ tiền|I can't afford a new car.|Tôi không đủ tiền mua xe mới.
+rent|pay the rent|trả tiền thuê nhà|We pay the rent on the first day of the month.|Chúng tôi trả tiền nhà vào ngày đầu tháng.
+save|save money|tiết kiệm tiền|I'm trying to save money for a trip.|Tôi đang cố tiết kiệm tiền để đi du lịch.
+purse|coin purse|ví đựng tiền xu|She keeps coins in a small coin purse.|Cô ấy để tiền xu trong một chiếc ví nhỏ.
+bargain|good bargain|món hời|This shirt was a good bargain.|Chiếc áo này là một món hời.
+refund|full refund|hoàn tiền toàn bộ|You can get a full refund within seven days.|Bạn được hoàn tiền toàn bộ trong vòng bảy ngày.
+tax|income tax|thuế thu nhập|Everyone must pay income tax.|Mọi người đều phải nộp thuế thu nhập.
+budget|low budget|ngân sách thấp|We are travelling on a low budget.|Chúng tôi đi du lịch tiết kiệm.
+budget|family budget|ngân sách gia đình|My mother manages the family budget.|Mẹ tôi quản lý chi tiêu gia đình.
+debt|in debt|mắc nợ|He is in debt after buying a car.|Anh ấy mắc nợ sau khi mua xe.
+debt|pay off the debt|trả hết nợ|It took five years to pay off the debt.|Mất năm năm mới trả hết nợ.
+loan|bank loan|khoản vay ngân hàng|They took a bank loan to buy a house.|Họ vay ngân hàng để mua nhà.
+salary|high salary|lương cao|This job has a high salary.|Công việc này lương cao.

@@ -1,0 +1,71 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+moment|at the moment|lúc này|I'm busy at the moment.|Lúc này tôi đang bận.
+moment|wait a moment|đợi một lát|Wait a moment, please.|Vui lòng đợi một lát.
+century|the 21st century|thế kỷ 21|We live in the 21st century.|Chúng ta sống ở thế kỷ 21.
+century|half a century|nửa thế kỷ|The house is half a century old.|Ngôi nhà đã nửa thế kỷ tuổi.
+decade|the last decade|thập kỷ qua|The city changed a lot in the last decade.|Thành phố đã thay đổi nhiều trong thập kỷ qua.
+weekend|this weekend|cuối tuần này|What are you doing this weekend?|Cuối tuần này bạn làm gì?
+weekend|long weekend|kỳ nghỉ cuối tuần dài|We have a long weekend in April.|Tháng Tư chúng tôi có kỳ nghỉ cuối tuần dài.
+holiday|summer holiday|kỳ nghỉ hè|Where are you going for the summer holiday?|Kỳ nghỉ hè bạn đi đâu?
+holiday|public holiday|ngày nghỉ lễ|Monday is a public holiday.|Thứ Hai là ngày nghỉ lễ.
+birthday|happy birthday|chúc mừng sinh nhật|Happy birthday, Mom!|Chúc mừng sinh nhật mẹ!
+birthday|birthday party|tiệc sinh nhật|Are you coming to my birthday party?|Bạn có đến tiệc sinh nhật của tôi không?
+date|due date|hạn thanh toán, ngày dự sinh|What is the due date for this bill?|Hóa đơn này hạn thanh toán ngày nào?
+date|first date|buổi hẹn hò đầu tiên|They went to a cafe on their first date.|Họ đi cà phê trong buổi hẹn đầu tiên.
+calendar|lunar calendar|âm lịch|Tet follows the lunar calendar.|Tết tính theo âm lịch.
+calendar|on the calendar|trên lịch|I wrote the meeting on the calendar.|Tôi ghi cuộc họp lên lịch.
+season|rainy season|mùa mưa|The rainy season starts in May.|Mùa mưa bắt đầu từ tháng Năm.
+season|holiday season|mùa lễ hội|Hotels are full in the holiday season.|Khách sạn kín phòng vào mùa lễ hội.
+spring|in the spring|vào mùa xuân|Flowers bloom in the spring.|Hoa nở vào mùa xuân.
+spring|spring roll|chả giò, nem cuốn|Fresh spring rolls are popular in Vietnam.|Gỏi cuốn rất phổ biến ở Việt Nam.
+autumn|autumn leaves|lá mùa thu|Autumn leaves are red and yellow.|Lá mùa thu có màu đỏ và vàng.
+future|in the future|trong tương lai|What do you want to do in the future?|Trong tương lai bạn muốn làm gì?
+future|bright future|tương lai tươi sáng|You have a bright future.|Bạn có một tương lai tươi sáng.
+present|birthday present|quà sinh nhật|What did you get as a birthday present?|Bạn được quà sinh nhật gì?
+present|at present|hiện tại|At present, I live in Da Nang.|Hiện tại tôi sống ở Đà Nẵng.
+period|period of time|khoảng thời gian|We lived there for a short period of time.|Chúng tôi sống ở đó một thời gian ngắn.
+period|trial period|thời gian thử việc|The job has a two-month trial period.|Công việc có hai tháng thử việc.
+schedule|busy schedule|lịch trình bận rộn|She has a busy schedule this week.|Tuần này cô ấy có lịch trình bận rộn.
+schedule|on schedule|đúng tiến độ|The project is on schedule.|Dự án đang đúng tiến độ.
+deadline|meet the deadline|kịp hạn chót|We worked all night to meet the deadline.|Chúng tôi làm cả đêm để kịp hạn chót.
+deadline|tight deadline|hạn chót gấp|We have a tight deadline.|Chúng ta có hạn chót rất gấp.
+noon|at noon|vào buổi trưa|Let's meet at noon.|Gặp nhau lúc trưa nhé.
+midnight|at midnight|lúc nửa đêm|The party ended at midnight.|Bữa tiệc kết thúc lúc nửa đêm.
+sunrise|watch the sunrise|ngắm bình minh|We got up early to watch the sunrise.|Chúng tôi dậy sớm ngắm bình minh.
+sunset|beautiful sunset|hoàng hôn đẹp|There was a beautiful sunset over the sea.|Có một hoàng hôn tuyệt đẹp trên biển.
+daily|daily life|cuộc sống hằng ngày|English is useful in daily life.|Tiếng Anh hữu ích trong cuộc sống hằng ngày.
+weekly|weekly meeting|cuộc họp hằng tuần|We have a weekly meeting on Monday.|Chúng tôi họp hằng tuần vào thứ Hai.
+Tuesday|on Tuesday|vào thứ Ba|The class is on Tuesday.|Lớp học vào thứ Ba.
+Wednesday|next Wednesday|thứ Tư tuần sau|See you next Wednesday.|Hẹn gặp thứ Tư tuần sau.
+Thursday|every Thursday|mỗi thứ Năm|I play badminton every Thursday.|Tôi chơi cầu lông mỗi thứ Năm.
+Saturday|Saturday night|tối thứ Bảy|Let's go out on Saturday night.|Tối thứ Bảy mình đi chơi nhé.
+February|in February|vào tháng Hai|Tet is usually in February.|Tết thường rơi vào tháng Hai.
+March|the end of March|cuối tháng Ba|The course ends at the end of March.|Khóa học kết thúc vào cuối tháng Ba.
+April|early April|đầu tháng Tư|It gets hot in early April.|Đầu tháng Tư trời bắt đầu nóng.
+June|in June|vào tháng Sáu|Students finish school in June.|Học sinh nghỉ hè vào tháng Sáu.
+July|the middle of July|giữa tháng Bảy|We are going on holiday in the middle of July.|Chúng tôi đi nghỉ vào giữa tháng Bảy.
+August|last August|tháng Tám năm ngoái|I visited Sapa last August.|Tôi đã đến Sa Pa vào tháng Tám năm ngoái.
+September|in September|vào tháng Chín|The new school year starts in September.|Năm học mới bắt đầu vào tháng Chín.
+October|late October|cuối tháng Mười|The weather is cool in late October.|Cuối tháng Mười trời mát.
+November|this November|tháng Mười một này|My brother gets married this November.|Anh tôi cưới vào tháng Mười một này.
+December|in December|vào tháng Mười hai|It's cold in Hanoi in December.|Hà Nội lạnh vào tháng Mười hai.
+tonight|see you tonight|tối nay gặp nhé|See you tonight at eight.|Tám giờ tối nay gặp nhé.
+ago|a long time ago|cách đây rất lâu|A long time ago, there was a kind king.|Ngày xửa ngày xưa, có một ông vua tốt bụng.
+later|see you later|hẹn gặp lại sau|Bye, see you later!|Tạm biệt, gặp lại sau nhé!
+forever|friends forever|bạn bè mãi mãi|We will be friends forever.|Chúng ta sẽ là bạn mãi mãi.
+meanwhile|in the meanwhile|trong lúc đó|Dinner is cooking. In the meanwhile, let's set the table.|Bữa tối đang nấu. Trong lúc đó, mình dọn bàn đi.
+anniversary|wedding anniversary|kỷ niệm ngày cưới|Today is our wedding anniversary.|Hôm nay là kỷ niệm ngày cưới của chúng tôi.
+anniversary|the tenth anniversary|lễ kỷ niệm mười năm|The school celebrates the tenth anniversary this year.|Năm nay trường kỷ niệm mười năm thành lập.
+festival|film festival|liên hoan phim|The film festival is in Da Nang this year.|Năm nay liên hoan phim tổ chức ở Đà Nẵng.
+festival|Mid-Autumn Festival|Tết Trung thu|Children carry lanterns at the Mid-Autumn Festival.|Trẻ em rước đèn dịp Tết Trung thu.
+monthly|monthly salary|lương hằng tháng|What is your monthly salary?|Lương hằng tháng của bạn là bao nhiêu?
+annual|annual leave|nghỉ phép năm|I have twelve days of annual leave.|Tôi có mười hai ngày nghỉ phép năm.
+delay|without delay|không chậm trễ|Please answer without delay.|Vui lòng trả lời không chậm trễ.
+delay|flight delay|chuyến bay bị hoãn|There is a two-hour flight delay.|Chuyến bay bị hoãn hai tiếng.
+timetable|bus timetable|lịch xe buýt|Check the bus timetable before you go.|Xem lịch xe buýt trước khi đi.
+timetable|school timetable|thời khóa biểu|Math is on the school timetable every day.|Ngày nào thời khóa biểu cũng có môn Toán.
+lifetime|once in a lifetime|có một không hai|It was a once in a lifetime trip.|Đó là chuyến đi có một không hai.
+lifetime|in my lifetime|trong đời tôi|I have never seen snow in my lifetime.|Cả đời tôi chưa từng thấy tuyết.
+dawn|at dawn|lúc rạng sáng|Fishermen leave at dawn.|Ngư dân ra khơi lúc rạng sáng.
+alarm|alarm clock|đồng hồ báo thức|My alarm clock rings at six.|Đồng hồ báo thức của tôi reo lúc sáu giờ.
+alarm|fire alarm|chuông báo cháy|The fire alarm went off.|Chuông báo cháy đã reo.

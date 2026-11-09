@@ -27,8 +27,8 @@ const LEVELS = [
     examples: 'want to, did you', links: [{ href: '/words/01', label: 'Từ chức năng (G01)' }],
   },
   {
-    n: '06', title: 'Real-life Speaking', vi: 'Nói trong thực tế', desc: 'Áp dụng vào câu, hội thoại và tình huống. Mỗi từ trong 500 từ đều có câu ứng dụng; ngữ điệu câu ở E10.',
-    examples: 'I think this is better.', links: [{ href: '/errors/E10', label: 'Ngữ điệu E10' }, { href: '/words', label: '500 từ' }],
+    n: '06', title: 'Real-life Speaking', vi: 'Nói trong thực tế', desc: 'Áp dụng vào câu, hội thoại và tình huống. Mỗi từ trong 3000 từ đều có câu ví dụ và cụm từ hay dùng kèm câu mẫu; ngữ điệu câu ở E10.',
+    examples: 'I think this is better.', links: [{ href: '/errors/E10', label: 'Ngữ điệu E10' }, { href: '/words', label: '3000 từ' }],
   },
 ];
 

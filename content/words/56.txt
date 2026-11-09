@@ -1,0 +1,58 @@
+# Nhóm 56 – Nghệ thuật, văn hóa
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Nghệ thuật, văn hóa|Nghệ thuật|Chữ câm và ch đọc /k/: exhibition, ballet, choir, orchestra, chorus|Triển lãm, sân khấu, thể loại phim, âm nhạc và di sản văn hóa. Nhiều từ gốc Pháp, Hy Lạp đọc khác chữ viết: ballet /bæˈleɪ/, choir /ˈkwaɪɚ/, rhythm /ˈɹɪðəm/.|exhibition,architecture,choir,rhythm
+= Triển lãm và sân khấu|h câm trong exhibition; t câm trong ballet; ch đọc /k/ trong architecture
+exhibition|ˌɛksəˈbɪʃən|n|cuộc triển lãm|The exhibition opens on Monday.|Triển lãm khai mạc thứ Hai.||Chữ h không đọc.
+sculpture|ˈskʌlptʃɚ|n|tác phẩm điêu khắc|This sculpture is made of wood.|Bức tượng này làm bằng gỗ.||
+portrait|ˈpɔɹtɹət|n|bức chân dung|She painted my portrait.|Cô ấy vẽ chân dung tôi.||
+photograph|ˈfoʊtəˌgɹæf|n|bức ảnh|This photograph is very old.|Bức ảnh này rất cũ.||Trọng âm âm tiết đầu; photography nhấn âm tiết hai.
+architecture|ˈɑɹkɪˌtɛktʃɚ|n|kiến trúc|I love old architecture.|Tôi thích kiến trúc cổ.||Chữ ch đọc /k/.
+drama|ˈdɹɑmə|n|kịch; phim tâm lý|She studies drama.|Cô ấy học kịch nghệ.||
+opera|ˈɑpɹə|n|nhạc kịch, ô-pê-ra|We went to the opera.|Chúng tôi đi xem nhạc kịch.||
+ballet|bæˈleɪ|n|múa ba-lê|My daughter learns ballet.|Con gái tôi học múa ba-lê.||Chữ t không đọc; trọng âm âm tiết hai.
+script|skɹɪpt|n|kịch bản|Read the script carefully.|Đọc kỹ kịch bản.||Cụm đầu /skɹ/, cụm cuối /pt/.
+plot|plɑt|n|cốt truyện|The plot is interesting.|Cốt truyện hấp dẫn.||
+= Thể loại phim, truyện|th đọc /θ/ trong author; trọng âm documentary ở âm tiết ba
+villain|ˈvɪlən|n|nhân vật phản diện|The villain lost in the end.|Kẻ xấu cuối cùng đã thua.||
+comedy|ˈkɑmədi|n|hài kịch, phim hài|I like comedy.|Tôi thích phim hài.||
+tragedy|ˈtɹædʒədi|n|bi kịch|Romeo and Juliet is a tragedy.|Romeo và Juliet là một bi kịch.||
+horror|ˈhɔɹɚ|n|sự kinh dị|I don't watch horror films.|Tôi không xem phim kinh dị.||
+romance|ɹoʊˈmæns|n|chuyện tình; thể loại lãng mạn|She loves romance novels.|Cô ấy thích tiểu thuyết lãng mạn.||
+documentary|ˌdɑkjəˈmɛntəɹi|n|phim tài liệu|We watched a documentary about whales.|Chúng tôi xem phim tài liệu về cá voi.||
+animation|ˌænəˈmeɪʃən|n|phim hoạt hình|She works in animation.|Cô ấy làm phim hoạt hình.||
+episode|ˈɛpəˌsoʊd|n|tập phim|Did you see the last episode?|Bạn xem tập cuối chưa?||
+author|ˈɔθɚ|n|tác giả|Who is the author of this book?|Tác giả quyển sách này là ai?||Chữ th đọc /θ/.
+poet|ˈpoʊət|n|nhà thơ|Xuan Dieu was a famous poet.|Xuân Diệu là nhà thơ nổi tiếng.||
+= Văn học và âm nhạc|l câm trong folk; /θ/ cuối trong myth
+fiction|ˈfɪkʃən|n|tiểu thuyết hư cấu|I prefer fiction to history books.|Tôi thích truyện hư cấu hơn sách lịch sử.||
+legend|ˈlɛdʒənd|n|truyền thuyết; huyền thoại|He is a football legend.|Ông ấy là huyền thoại bóng đá.||
+myth|mɪθ|n|thần thoại; quan niệm sai|That's just a myth.|Đó chỉ là chuyện hoang đường.||Âm cuối /θ/.
+folk|foʊk|adj|dân gian|We love Vietnamese folk music.|Chúng tôi yêu nhạc dân gian Việt Nam.||Chữ l không đọc.
+classical|ˈklæsɪkəl|adj|cổ điển|She plays classical piano.|Cô ấy chơi piano cổ điển.||
+jazz|dʒæz|n|nhạc jazz|He loves jazz.|Anh ấy mê nhạc jazz.||
+pop|pɑp|n|nhạc pop|K-pop is very popular.|K-pop rất được ưa chuộng.||
+rap|ɹæp|n|nhạc rap|My son listens to rap.|Con trai tôi nghe nhạc rap.||Đồng âm với wrap.
+lyrics|ˈlɪɹɪks|n|lời bài hát|I love the lyrics of this song.|Tôi thích lời bài hát này.||
+melody|ˈmɛlədi|n|giai điệu|The melody is easy to remember.|Giai điệu dễ nhớ.||
+= Nhạc cụ và di sản|ch đọc /kw/ trong choir, /k/ trong orchestra; h câm trong rhythm
+rhythm|ˈɹɪðəm|n|nhịp điệu|Clap to the rhythm.|Vỗ tay theo nhịp.||Chữ h không đọc; th đọc /ð/.
+tune|tun|n|giai điệu|I can't get this tune out of my head.|Giai điệu này cứ lởn vởn trong đầu tôi.||
+choir|ˈkwaɪɚ|n|dàn hợp xướng|She sings in a choir.|Cô ấy hát trong dàn hợp xướng.||Chữ ch đọc /kw/.
+orchestra|ˈɔɹkɪstɹə|n|dàn nhạc|He plays in an orchestra.|Anh ấy chơi trong một dàn nhạc.||Chữ ch đọc /k/.
+flute|flut|n|ống sáo|She plays the flute.|Cô ấy thổi sáo.||
+trumpet|ˈtɹʌmpɪt|n|kèn trumpet|He plays the trumpet.|Anh ấy thổi kèn trumpet.||
+heritage|ˈhɛɹɪtɪdʒ|n|di sản|Hoi An is a world heritage site.|Hội An là di sản thế giới.||
+costume|ˈkɑstum|n|trang phục (biểu diễn)|The dancers wore beautiful costumes.|Các vũ công mặc trang phục đẹp.||
+craft|kɹæft|n|nghề thủ công|Making lanterns is a local craft.|Làm đèn lồng là nghề thủ công địa phương.||
+pottery|ˈpɑtəɹi|n|đồ gốm|Bat Trang is famous for pottery.|Bát Tràng nổi tiếng về đồ gốm.||
+= Biểu diễn và người nổi tiếng|ch đọc /k/ trong chorus; au đọc /ɔ/ trong audition, applause
+masterpiece|ˈmæstɚˌpis|n|kiệt tác|The Mona Lisa is a masterpiece.|Mona Lisa là một kiệt tác.||
+artwork|ˈɑɹtˌwɝk|n|tác phẩm nghệ thuật|The artwork is on the wall.|Tác phẩm nghệ thuật treo trên tường.||
+sketch|skɛtʃ|n|bản phác thảo|He drew a quick sketch.|Anh ấy vẽ một bản phác nhanh.||
+canvas|ˈkænvəs|n|vải bạt, toan vẽ|She paints on canvas.|Cô ấy vẽ trên toan.||
+chorus|ˈkɔɹəs|n|điệp khúc|Everyone sang the chorus.|Mọi người cùng hát điệp khúc.||Chữ ch đọc /k/.
+audition|ɔˈdɪʃən|n|buổi thử giọng, thử vai|She passed the audition.|Cô ấy vượt qua vòng thử giọng.||
+rehearsal|ɹɪˈhɝsəl|n|buổi tập dượt|We have rehearsal at six.|Sáu giờ chúng tôi tập dượt.||
+applause|əˈplɔz|n|tràng pháo tay|The applause was loud.|Tràng pháo tay vang dội.||Âm cuối /z/.
+celebrity|səˈlɛbɹəti|n|người nổi tiếng|She is a TV celebrity.|Cô ấy là người nổi tiếng trên truyền hình.||
+idol|ˈaɪdəl|n|thần tượng|He is my idol.|Anh ấy là thần tượng của tôi.||Đồng âm với idle.

@@ -1,7 +1,9 @@
 /**
- * 50 cụm học × 10 từ. Cụm thứ u của nhóm g = Tuần g, Ngày u (Thứ 2 → Thứ 6).
+ * Mỗi nhóm 5 cụm học × 10 từ. Cụm thứ u của nhóm g = Tuần g, Ngày u (Thứ 2 → Thứ 6).
  * Tên cụm đặt theo nội dung thật của 10 từ trong content/words/NN.txt.
  */
+import extra from './groups-extra.json';
+
 export interface Unit {
   id: string; // "G01-U1"
   group: number;
@@ -83,7 +85,11 @@ const RAW: [number, string, string][][] = [
   ],
 ];
 
-export const UNITS: Unit[] = RAW.flatMap((units, gi) =>
+const EXTRA: Unit[] = (extra as { id: number; slug: string; units: { index: number; title: string; focus: string }[] }[]).flatMap((g) =>
+  g.units.map((u) => ({ id: `G${g.slug}-U${u.index}`, group: g.id, index: u.index, title: u.title, focus: u.focus })),
+);
+
+const CORE_UNITS: Unit[] = RAW.flatMap((units, gi) =>
   units.map(([index, title, focus]) => ({
     id: `G${String(gi + 1).padStart(2, '0')}-U${index}`,
     group: gi + 1,
@@ -92,6 +98,9 @@ export const UNITS: Unit[] = RAW.flatMap((units, gi) =>
     focus,
   })),
 );
+
+/** Cụm 1–50 viết tay ở trên; cụm của nhóm 11+ khai báo bằng dòng "= tên|trọng tâm" trong content/words/NN.txt */
+export const UNITS: Unit[] = [...CORE_UNITS, ...EXTRA];
 
 export function getUnit(id: string): Unit | undefined {
   return UNITS.find((u) => u.id === id);

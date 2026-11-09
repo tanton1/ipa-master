@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+be|be quiet|giữ trật tự|Please be quiet in the library.|Vui lòng giữ trật tự trong thư viện.
+have|have breakfast|ăn sáng|I have breakfast at seven.|Tôi ăn sáng lúc bảy giờ.
+do|do homework|làm bài tập|I do homework after dinner.|Tôi làm bài tập sau bữa tối.
+make|make friends|kết bạn|It's easy to make friends here.|Ở đây dễ kết bạn.
+think|think about|nghĩ về|I often think about my hometown.|Tôi hay nghĩ về quê nhà.
+read|read the news|đọc tin tức|I read the news on my phone.|Tôi đọc tin tức trên điện thoại.
+go|go to bed|đi ngủ|I go to bed at eleven.|Tôi đi ngủ lúc mười một giờ.
+come|come in|mời vào|Come in, please.|Mời vào.
+get|get up|thức dậy|I get up at six every day.|Ngày nào tôi cũng dậy lúc sáu giờ.
+give|give up|bỏ cuộc|Never give up!|Đừng bao giờ bỏ cuộc!
+take|take a photo|chụp ảnh|Can you take a photo of us?|Bạn chụp giúp chúng tôi một tấm ảnh được không?
+see|see a doctor|đi khám bác sĩ|You should see a doctor.|Bạn nên đi khám bác sĩ.
+know|you never know|biết đâu đấy|Buy a ticket. You never know!|Mua vé đi. Biết đâu đấy!
+want|want to be|muốn trở thành|I want to be a pilot.|Tôi muốn trở thành phi công.
+need|need help|cần giúp đỡ|Do you need help?|Bạn có cần giúp không?
+like|feel like|muốn, thèm (làm gì)|I feel like eating pho.|Tôi thèm ăn phở.
+love|love story|chuyện tình|It's a sad love story.|Đó là một chuyện tình buồn.
+say|say hello|gửi lời chào|Say hello to your mother for me.|Cho tôi gửi lời chào mẹ bạn nhé.
+tell|tell a story|kể chuyện|Grandpa likes to tell a story after dinner.|Ông thích kể chuyện sau bữa tối.
+ask|ask a question|đặt câu hỏi|Can I ask a question?|Tôi hỏi một câu được không?
+speak|speak English|nói tiếng Anh|Do you speak English?|Bạn có nói tiếng Anh không?
+talk|talk to|nói chuyện với|I need to talk to you.|Tôi cần nói chuyện với bạn.
+listen|listen to music|nghe nhạc|I listen to music on the bus.|Tôi nghe nhạc trên xe buýt.
+hear|hear from|nhận tin từ|I hope to hear from you soon.|Mong sớm nhận được tin bạn.
+look|look for|tìm kiếm|Can you help me look for my keys?|Bạn giúp tôi tìm chìa khóa được không?
+watch|watch TV|xem ti vi|We watch TV after dinner.|Chúng tôi xem ti vi sau bữa tối.
+write|write down|ghi lại|Write down your phone number.|Ghi lại số điện thoại của bạn.
+learn|learn English|học tiếng Anh|It's never too late to learn English.|Học tiếng Anh không bao giờ là muộn.
+teach|teach English|dạy tiếng Anh|She wants to teach English in Hanoi.|Cô ấy muốn dạy tiếng Anh ở Hà Nội.
+work|work from home|làm việc ở nhà|I work from home on Fridays.|Thứ Sáu tôi làm việc ở nhà.
+play|play football|đá bóng|The boys play football after school.|Các cậu bé đá bóng sau giờ học.
+run|run away|bỏ chạy|The thief tried to run away.|Tên trộm cố bỏ chạy.
+walk|go for a walk|đi dạo|Let's go for a walk.|Đi dạo đi.
+sit|sit next to|ngồi cạnh|Can I sit next to you?|Tôi ngồi cạnh bạn được không?
+stand|stand in line|xếp hàng|Please stand in line.|Vui lòng xếp hàng.
+open|open the window|mở cửa sổ|Can you open the window?|Bạn mở cửa sổ giúp được không?
+close|close your eyes|nhắm mắt|Close your eyes and relax.|Nhắm mắt lại và thư giãn.
+start|start a business|khởi nghiệp|He wants to start a business.|Anh ấy muốn khởi nghiệp.
+stop|stop talking|ngừng nói chuyện|Please stop talking.|Làm ơn ngừng nói chuyện.
+help|help yourself|cứ tự nhiên|Help yourself to some fruit.|Cứ tự nhiên ăn trái cây nhé.
+try|try on|mặc thử|Can I try on this dress?|Tôi mặc thử chiếc váy này được không?
+use|use a computer|dùng máy tính|My grandmother can use a computer.|Bà tôi biết dùng máy tính.
+find|find out|tìm ra|I want to find out the truth.|Tôi muốn tìm ra sự thật.
+put|put on|mặc vào|Put on your coat.|Mặc áo khoác vào.
+buy|buy a ticket|mua vé|Where can I buy a ticket?|Tôi mua vé ở đâu?
+pay|pay by card|trả bằng thẻ|Can I pay by card?|Tôi trả bằng thẻ được không?
+bring|bring back|mang trả lại|Please bring back my book tomorrow.|Mai nhớ mang trả sách cho tôi nhé.
+call|call back|gọi lại|I'll call back later.|Tôi sẽ gọi lại sau.
+wait|wait for|chờ đợi|I'll wait for you at the gate.|Tôi sẽ đợi bạn ở cổng.
+live|live in|sống ở|I live in Ho Chi Minh City.|Tôi sống ở TP. Hồ Chí Minh.

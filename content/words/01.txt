@@ -1,8 +1,8 @@
 # Nhóm 01 – Đại từ, mạo từ, giới từ, từ chức năng
 # word|ipa|pos|meaning|example_en|example_vi|pair|note
-the|ðə|det|cái, con (mạo từ xác định)|The book is on the table.|Cuốn sách ở trên bàn.||Trước nguyên âm thường đọc /ði/ (the apple).
+the|ðə|det|cái, con (mạo từ xác định)|The book is on the table.|Cuốn sách ở trên bàn.||Trước âm nguyên âm đọc /ði/ (the apple); chọn theo âm đầu của từ sau, không theo chữ cái (the hour /ði/, the university /ðə/).
 a|ə|det|một (mạo từ không xác định)|I have a cat.|Tôi có một con mèo.||Dạng nhấn mạnh đọc /eɪ/.
-an|ən|det|một (dùng trước nguyên âm)|She eats an apple every day.|Cô ấy ăn một quả táo mỗi ngày.||Nối âm với từ sau: an apple → /ə ˈnæpəl/.
+an|ən|det|một (dùng trước âm nguyên âm)|She eats an apple every day.|Cô ấy ăn một quả táo mỗi ngày.||Dùng trước ÂM nguyên âm, không phải chữ cái: an hour (âm /aʊ/) nhưng a university (âm /j/). Nối âm với từ sau: an apple → /ə ˈnæpəl/.
 this|ðɪs|det|này, cái này|This is my phone.|Đây là điện thoại của tôi.|these|
 that|ðæt|det|đó, cái đó|That is a good idea.|Đó là một ý hay.||Khi là liên từ trong câu thường đọc nhẹ /ðət/.
 these|ðiz|det|những cái này|These shoes are new.|Những đôi giày này mới.|this|

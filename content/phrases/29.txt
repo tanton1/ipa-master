@@ -1,0 +1,52 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+red|red light|đèn đỏ|Stop at the red light.|Dừng lại khi đèn đỏ.
+blue|feel blue|thấy buồn|I feel blue today.|Hôm nay tôi thấy buồn.
+green|green tea|trà xanh|Would you like some green tea?|Bạn uống trà xanh không?
+yellow|yellow card|thẻ vàng|The player got a yellow card.|Cầu thủ bị thẻ vàng.
+black|black coffee|cà phê đen|I drink black coffee every morning.|Sáng nào tôi cũng uống cà phê đen.
+white|white rice|cơm trắng|We eat white rice with every meal.|Bữa nào chúng tôi cũng ăn cơm trắng.
+brown|brown rice|gạo lứt|Brown rice is good for your health.|Gạo lứt tốt cho sức khỏe.
+pink|pink dress|váy hồng|The girl in the pink dress is my daughter.|Cô bé mặc váy hồng là con gái tôi.
+purple|purple flowers|hoa tím|The garden is full of purple flowers.|Khu vườn đầy hoa tím.
+gray|gray hair|tóc bạc|My father has gray hair now.|Bố tôi giờ đã bạc tóc.
+golden|golden rule|nguyên tắc vàng|The golden rule is to listen first.|Nguyên tắc vàng là hãy lắng nghe trước.
+colorful|colorful lanterns|đèn lồng nhiều màu|Hoi An is full of colorful lanterns.|Hội An đầy những chiếc đèn lồng nhiều màu.
+pale|pale face|mặt tái nhợt|You have a pale face. Are you sick?|Mặt bạn tái quá. Bạn ốm à?
+circle|in a circle|thành vòng tròn|The children sat in a circle.|Bọn trẻ ngồi thành vòng tròn.
+triangle|right triangle|tam giác vuông|Draw a right triangle.|Vẽ một hình tam giác vuông.
+rectangle|long rectangle|hình chữ nhật dài|The table is a long rectangle.|Cái bàn có hình chữ nhật dài.
+line|wait in line|xếp hàng chờ|Please wait in line.|Vui lòng xếp hàng chờ.
+dot|on the dot|đúng giờ|The train left at nine on the dot.|Tàu chạy đúng chín giờ.
+curve|sharp curve|khúc cua gắt|Slow down, there is a sharp curve ahead.|Chạy chậm lại, phía trước có khúc cua gắt.
+narrow|narrow street|con phố hẹp|Our house is on a narrow street.|Nhà tôi nằm trên một con phố hẹp.
+shallow|shallow water|nước nông|Children can swim in shallow water.|Trẻ em có thể bơi ở chỗ nước nông.
+tight|tight schedule|lịch trình dày đặc|We have a tight schedule today.|Hôm nay lịch của chúng ta rất dày.
+loose|loose clothes|quần áo rộng|Wear loose clothes in hot weather.|Mặc quần áo rộng khi trời nóng.
+hollow|hollow tree|cây rỗng ruột|An owl lives in the hollow tree.|Một con cú sống trong cái cây rỗng.
+rough|rough day|một ngày vất vả|I had a rough day at work.|Hôm nay tôi có một ngày làm việc vất vả.
+sticky|sticky rice|xôi, gạo nếp|I eat sticky rice for breakfast.|Tôi ăn xôi vào bữa sáng.
+shiny|shiny new car|chiếc xe mới bóng loáng|He drives a shiny new car.|Anh ấy lái chiếc xe mới bóng loáng.
+wooden|wooden house|nhà gỗ|They live in an old wooden house.|Họ sống trong một ngôi nhà gỗ cũ.
+cotton|cotton shirt|áo cotton|A cotton shirt is cool in summer.|Áo cotton mặc mát vào mùa hè.
+silk|silk dress|váy lụa|She wore a silk dress to the party.|Cô ấy mặc váy lụa đi dự tiệc.
+wool|wool blanket|chăn len|We need a wool blanket in winter.|Mùa đông chúng tôi cần chăn len.
+leather|leather shoes|giày da|He wears leather shoes to work.|Anh ấy đi giày da đi làm.
+rubber|rubber band|dây chun|Put a rubber band around the cards.|Lấy dây chun buộc mấy tấm thẻ lại.
+stripe|white stripe|sọc trắng|The flag has a white stripe.|Lá cờ có một sọc trắng.
+plain|plain water|nước lọc|I only drink plain water.|Tôi chỉ uống nước lọc.
+oval|oval face|khuôn mặt trái xoan|She has an oval face.|Cô ấy có khuôn mặt trái xoan.
+edge|on the edge of|ở rìa|The house is on the edge of the forest.|Ngôi nhà nằm ở bìa rừng.
+side|side by side|cạnh nhau|They walked side by side.|Họ đi bên cạnh nhau.
+side|on my side|đứng về phía tôi|Are you on my side?|Bạn đứng về phía tôi chứ?
+top|on top of|ở trên|Put the book on top of the box.|Đặt quyển sách lên trên cái hộp.
+bottom|at the bottom of|ở dưới cùng|Sign your name at the bottom of the page.|Ký tên ở cuối trang.
+middle|in the middle of|ở giữa|There is a tree in the middle of the yard.|Có một cái cây ở giữa sân.
+front|in front of|phía trước|Meet me in front of the school.|Gặp tôi trước cổng trường.
+diamond|diamond ring|nhẫn kim cương|He bought her a diamond ring.|Anh ấy mua cho cô một chiếc nhẫn kim cương.
+cube|sugar cube|viên đường|Add one sugar cube to the tea.|Cho một viên đường vào trà.
+shade|in the shade|trong bóng râm|Let's sit in the shade.|Ngồi trong bóng râm đi.
+transparent|transparent bag|túi trong suốt|Put your liquids in a transparent bag.|Cho chất lỏng vào túi trong suốt.
+dusty|dusty road|con đường bụi bặm|We drove along a dusty road.|Chúng tôi lái xe trên một con đường bụi bặm.
+neat|neat handwriting|chữ viết gọn gàng|She has neat handwriting.|Cô ấy viết chữ rất gọn gàng.
+messy|messy room|căn phòng bừa bộn|My son has a messy room.|Phòng con trai tôi bừa bộn.
+fancy|fancy restaurant|nhà hàng sang trọng|We had dinner at a fancy restaurant.|Chúng tôi ăn tối ở một nhà hàng sang trọng.

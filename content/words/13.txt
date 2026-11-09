@@ -1,0 +1,58 @@
+# Nhóm 13 – Động từ thường dùng 2
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Động từ thường dùng 2|Động từ 2|Âm cuối và trọng âm của động từ hai âm tiết|50 động từ dùng hằng ngày tiếp theo: bắt đầu, thay đổi, gặp gỡ, đồng ý, cảm xúc. Chú ý âm cuối và trọng âm âm tiết hai.|become,change,remember,laugh
+= Bắt đầu, thay đổi, lựa chọn|Trọng âm âm tiết hai: become, begin, decide; /tʃ/ trong change, choose
+become|bɪˈkʌm|v|trở thành|I want to become a teacher.|Tôi muốn trở thành giáo viên.||
+begin|bɪˈgɪn|v|bắt đầu|The movie begins at eight.|Phim bắt đầu lúc tám giờ.||
+believe|bɪˈliv|v|tin|I believe you.|Tôi tin bạn.||Âm cuối /v/ hữu thanh.
+build|bɪld|v|xây dựng|They build a new school.|Họ xây một ngôi trường mới.||Chữ u không đọc: /bɪld/.
+carry|ˈkɛɹi|v|mang, xách|Can you carry this box?|Bạn mang cái hộp này được không?||
+change|tʃeɪndʒ|v|thay đổi|People change.|Con người thay đổi.||Nguyên âm đôi /eɪ/ và cụm cuối /ndʒ/.
+choose|tʃuz|v|chọn|Choose one answer.|Chọn một đáp án.||Âm cuối /z/; khác chose /tʃoʊz/.
+decide|dɪˈsaɪd|v|quyết định|I can't decide.|Tôi không quyết định được.||
+enjoy|ɪnˈdʒɔɪ|v|thích, tận hưởng|I enjoy reading.|Tôi thích đọc sách.||
+fall|fɔl|v|ngã, rơi|Be careful, don't fall.|Cẩn thận, đừng ngã.||
+= Giữ, mất, gặp gỡ|Âm cuối /ʃ/, /z/, /p/; lose /z/ khác loose /s/
+finish|ˈfɪnɪʃ|v|hoàn thành, kết thúc|I finish work at five.|Tôi tan làm lúc năm giờ.||
+follow|ˈfɑloʊ|v|đi theo, làm theo|Follow me, please.|Mời đi theo tôi.||
+forget|fɚˈgɛt|v|quên|I always forget his name.|Tôi luôn quên tên anh ấy.||
+grow|gɹoʊ|v|lớn lên, trồng|Children grow fast.|Trẻ con lớn nhanh.||Cụm đầu /gɹ/.
+happen|ˈhæpən|v|xảy ra|What happened?|Chuyện gì đã xảy ra?||
+hold|hoʊld|v|cầm, nắm, giữ|Hold my hand.|Nắm tay tôi.||Cụm cuối /ld/.
+hope|hoʊp|v|hy vọng|I hope you like it.|Hy vọng bạn thích nó.||
+keep|kip|v|giữ|Keep the change.|Cứ giữ tiền thừa.||
+lose|luz|v|mất, thua|Don't lose your ticket.|Đừng làm mất vé.|loose;lus|Âm cuối /z/; khác loose /lus/ (lỏng).
+meet|mit|v|gặp|Let's meet at the cafe.|Gặp nhau ở quán cà phê nhé.||Đồng âm với meat.
+= Cho đi, gửi, bán|Cụm cuối /nd/ trong send, spend; /ŋ/ trong sing
+move|muv|v|di chuyển, chuyển (nhà)|Please move your car.|Vui lòng dời xe của bạn.||Chữ o đọc /u/.
+offer|ˈɔfɚ|v|đề nghị, mời|Can I offer you a drink?|Tôi mời bạn đồ uống nhé?||
+remember|ɹɪˈmɛmbɚ|v|nhớ|I remember that day.|Tôi nhớ ngày hôm đó.||Cụm /mb/ giữa từ: khép môi hai lần.
+send|sɛnd|v|gửi|Send me the photo.|Gửi tôi bức ảnh nhé.||
+sell|sɛl|v|bán|They sell fruit here.|Ở đây bán trái cây.||Đồng âm với cell.
+show|ʃoʊ|v|cho xem, chỉ|Show me your ticket.|Cho tôi xem vé của bạn.||
+sing|sɪŋ|v|hát|She sings very well.|Cô ấy hát rất hay.||Âm cuối /ŋ/, không thêm /g/.
+smile|smaɪl|v|mỉm cười|Smile for the camera!|Cười lên nào!||Cụm đầu /sm/.
+spend|spɛnd|v|tiêu (tiền), dành (thời gian)|I spend too much money.|Tôi tiêu quá nhiều tiền.||
+stay|steɪ|v|ở lại|Stay here.|Ở lại đây nhé.||Sau /s/, âm /t/ không bật hơi.
+= Hiểu, đồng ý, xuất hiện|/ɝ/ trong turn, worry; schwa đầu từ agree, allow
+turn|tɝn|v|rẽ, xoay, bật|Turn right here.|Rẽ phải ở đây.||
+understand|ˌʌndɚˈstænd|v|hiểu|Do you understand?|Bạn hiểu không?||Trọng âm âm tiết cuối.
+visit|ˈvɪzɪt|v|thăm|Come and visit us.|Hãy đến thăm chúng tôi.||Chữ s đọc /z/.
+win|wɪn|v|thắng|Our team won.|Đội chúng tôi đã thắng.||
+wear|wɛɹ|v|mặc, đeo|I wear a uniform.|Tôi mặc đồng phục.||Đồng âm với where.
+worry|ˈwɝi|v|lo lắng|Don't worry.|Đừng lo.||Chữ o đọc /ɝ/.
+agree|əˈgɹi|v|đồng ý|We agree.|Chúng tôi đồng ý.||
+allow|əˈlaʊ|v|cho phép|Smoking is not allowed.|Không được hút thuốc.||Chữ ow đọc /aʊ/.
+appear|əˈpɪɹ|v|xuất hiện|A rainbow appeared.|Cầu vồng xuất hiện.||
+cry|kɹaɪ|v|khóc|The baby is crying.|Em bé đang khóc.||
+= Cảm xúc và kế hoạch|Cụm đầu /dɹ/, /pl/; gh đọc /f/ trong laugh
+dance|dæns|v|nhảy, múa|Can you dance?|Bạn biết nhảy không?||
+draw|dɹɔ|v|vẽ|Draw a circle.|Vẽ một hình tròn.||Cụm /dɹ/ nghe gần như "chr" nhẹ.
+dream|dɹim|v|mơ|I dream of flying.|Tôi mơ được bay.||
+explain|ɪkˈspleɪn|v|giải thích|Let me explain.|Để tôi giải thích.||Cụm /kspl/ bốn phụ âm.
+hate|heɪt|v|ghét|I hate the rain.|Tôi ghét mưa.||
+laugh|læf|v|cười (thành tiếng)|They laughed a lot.|Họ cười rất nhiều.||Chữ gh đọc /f/.
+mean|min|v|có nghĩa là, ý là|What does this word mean?|Từ này nghĩa là gì?||
+miss|mɪs|v|nhớ; lỡ|I miss you.|Tôi nhớ bạn.||
+plan|plæn|v|lên kế hoạch|We plan to travel.|Chúng tôi dự định đi du lịch.||
+seem|sim|v|có vẻ|She seems happy.|Cô ấy có vẻ vui.||

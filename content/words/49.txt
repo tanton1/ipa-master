@@ -1,0 +1,58 @@
+# Nhóm 49 – Địa lý và quốc gia
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Địa lý và quốc gia|Quốc gia|Trọng âm tên nước và quốc tịch: Japan – Japanese, China – Chinese|Châu lục, quốc gia, quốc tịch và vùng miền. Quy tắc: quốc tịch đuôi -ese nhấn âm tiết cuối (Vietnamese, Japanese); southern đọc /ˈsʌðɚn/ khác south /saʊθ/.|Vietnamese,Japanese,Australia,southern
+= Châu lục và Đông Á|/ʒ/ trong Asia; trọng âm Vietnamese, Chinese ở âm tiết cuối
+continent|ˈkɑntɪnənt|n|châu lục|Asia is the biggest continent.|Châu Á là châu lục lớn nhất.||
+Asia|ˈeɪʒə|n|châu Á|Vietnam is in Asia.|Việt Nam ở châu Á.||Chữ s đọc /ʒ/.
+Europe|ˈjʊɹəp|n|châu Âu|I want to visit Europe.|Tôi muốn đến châu Âu.||Âm đầu /j/.
+Africa|ˈæfɹɪkə|n|châu Phi|Lions live in Africa.|Sư tử sống ở châu Phi.||
+America|əˈmɛɹɪkə|n|châu Mỹ; nước Mỹ|She lives in America.|Cô ấy sống ở Mỹ.||Trọng âm âm tiết hai.
+Vietnam|ˌviɛtˈnɑm|n|Việt Nam|I'm from Vietnam.|Tôi đến từ Việt Nam.||Người Mỹ nhấn âm tiết cuối /nɑm/.
+Vietnamese|viˌɛtnəˈmiz|adj|thuộc Việt Nam; người, tiếng Việt|I speak Vietnamese.|Tôi nói tiếng Việt.||Đuôi -ese nhấn mạnh, âm cuối /z/.
+China|ˈtʃaɪnə|n|Trung Quốc|China is a big country.|Trung Quốc là một nước lớn.||
+Chinese|tʃaɪˈniz|adj|thuộc Trung Quốc; tiếng Trung|I'm learning Chinese.|Tôi đang học tiếng Trung.||
+Japan|dʒəˈpæn|n|Nhật Bản|Japan is famous for sushi.|Nhật Bản nổi tiếng với sushi.||Trọng âm âm tiết hai.
+= Quốc gia và quốc tịch 1|th đọc /t/ trong Thai, Thailand; g đọc /dʒ/ trong German
+Japanese|ˌdʒæpəˈniz|adj|thuộc Nhật; tiếng Nhật|She speaks Japanese.|Cô ấy nói tiếng Nhật.||Trọng âm âm tiết cuối.
+Korea|kəˈɹiə|n|Hàn Quốc, Triều Tiên|K-pop comes from Korea.|K-pop đến từ Hàn Quốc.||
+Korean|kəˈɹiən|adj|thuộc Hàn Quốc; tiếng Hàn|I love Korean food.|Tôi thích món Hàn.||
+Thailand|ˈtaɪˌlænd|n|Thái Lan|Thailand is near Vietnam.|Thái Lan gần Việt Nam.||Chữ th đọc /t/.
+Thai|taɪ|adj|thuộc Thái Lan; tiếng Thái|Thai people are friendly.|Người Thái thân thiện.||Chữ th đọc /t/, đồng âm với tie.
+France|fɹæns|n|nước Pháp|Paris is in France.|Paris ở Pháp.||
+French|fɹɛntʃ|adj|thuộc Pháp; tiếng Pháp|I like French films.|Tôi thích phim Pháp.||
+Germany|ˈdʒɝməni|n|nước Đức|Germany makes good cars.|Đức sản xuất ô tô tốt.||Chữ g đọc /dʒ/.
+German|ˈdʒɝmən|adj|thuộc Đức; tiếng Đức|He is learning German.|Anh ấy đang học tiếng Đức.||
+England|ˈɪŋglənd|n|nước Anh|London is in England.|Luân Đôn ở Anh.||Chữ E đọc /ɪ/.
+= Quốc gia và quốc tịch 2|Trọng âm Canada, Italy ở âm tiết đầu; g câm trong foreigner
+British|ˈbɹɪtɪʃ|adj|thuộc Anh|He has a British accent.|Anh ấy nói giọng Anh.||
+Canada|ˈkænədə|n|Ca-na-đa|Canada is very cold in winter.|Canada mùa đông rất lạnh.||Trọng âm âm tiết đầu.
+Australia|ɔˈstɹeɪljə|n|nước Úc|Kangaroos live in Australia.|Chuột túi sống ở Úc.||
+India|ˈɪndiə|n|Ấn Độ|India has many people.|Ấn Độ rất đông dân.||
+Russia|ˈɹʌʃə|n|nước Nga|Russia is the biggest country.|Nga là nước lớn nhất.||Chữ ss đọc /ʃ/.
+Italy|ˈɪtəli|n|nước Ý|Pizza comes from Italy.|Pizza đến từ Ý.||Trọng âm âm tiết đầu (khác Italian).
+Spain|speɪn|n|Tây Ban Nha|Spain is sunny.|Tây Ban Nha nhiều nắng.||
+Spanish|ˈspænɪʃ|adj|thuộc Tây Ban Nha; tiếng Tây Ban Nha|Spanish is easy to learn.|Tiếng Tây Ban Nha dễ học.||
+American|əˈmɛɹɪkən|adj|thuộc Mỹ; người Mỹ|My teacher is American.|Giáo viên của tôi là người Mỹ.||
+foreigner|ˈfɔɹənɚ|n|người nước ngoài|Many foreigners visit Hoi An.|Nhiều người nước ngoài đến Hội An.||Chữ g không đọc.
+= Vùng miền và phương hướng|/ð/ trong northern, southern; ou đọc /ʌ/ trong southern
+region|ˈɹidʒən|n|vùng, khu vực|This region is famous for tea.|Vùng này nổi tiếng về trà.||Chữ g đọc /dʒ/.
+province|ˈpɹɑvɪns|n|tỉnh|Vietnam has many provinces.|Việt Nam có nhiều tỉnh.||
+district|ˈdɪstɹɪkt|n|quận, huyện|I live in Binh Thanh district.|Tôi sống ở quận Bình Thạnh.||Cụm cuối /kt/.
+coast|koʊst|n|bờ biển|Nha Trang is on the coast.|Nha Trang nằm ven biển.||
+shore|ʃɔɹ|n|bờ (biển, hồ)|We walked along the shore.|Chúng tôi đi dạo dọc bờ biển.||
+bay|beɪ|n|vịnh|The bay is beautiful.|Vịnh rất đẹp.||
+western|ˈwɛstɚn|adj|thuộc phía tây|They live in western Canada.|Họ sống ở miền tây Canada.||
+eastern|ˈistɚn|adj|thuộc phía đông|Eastern Europe is cold.|Đông Âu lạnh.||
+northern|ˈnɔɹðɚn|adj|thuộc phía bắc|I'm from northern Vietnam.|Tôi người miền Bắc.||Chữ th đọc /ð/.
+southern|ˈsʌðɚn|adj|thuộc phía nam|Southern food is sweet.|Món miền Nam ngọt.||Chữ ou đọc /ʌ/, th đọc /ð/.
+= Thành thị, nông thôn, láng giềng|rural có hai âm /ɹ/; trọng âm nationality ở âm tiết ba
+overseas|ˌoʊvɚˈsiz|adv|ở nước ngoài|She works overseas.|Cô ấy làm việc ở nước ngoài.||
+nationality|ˌnæʃəˈnælɪti|n|quốc tịch|What is your nationality?|Bạn mang quốc tịch gì?||Trọng âm âm tiết ba.
+native|ˈneɪtɪv|adj|bản xứ, bản địa|English is not my native language.|Tiếng Anh không phải tiếng mẹ đẻ của tôi.||
+tropical|ˈtɹɑpɪkəl|adj|nhiệt đới|Vietnam has a tropical climate.|Việt Nam có khí hậu nhiệt đới.||
+countryside|ˈkʌntɹiˌsaɪd|n|nông thôn|I love the countryside.|Tôi yêu vùng quê.||
+urban|ˈɝbən|adj|thuộc đô thị|Urban life is busy.|Cuộc sống đô thị bận rộn.||
+rural|ˈɹʊɹəl|adj|thuộc nông thôn|They live in a rural area.|Họ sống ở vùng nông thôn.||Hai âm /ɹ/ liền nhau, rất khó.
+Singapore|ˈsɪŋəˌpɔɹ|n|Xin-ga-po|Singapore is very clean.|Singapore rất sạch.||
+Laos|laʊs|n|nước Lào|Laos is next to Vietnam.|Lào nằm cạnh Việt Nam.||
+Cambodia|kæmˈboʊdiə|n|Cam-pu-chia|Angkor Wat is in Cambodia.|Angkor Wat ở Campuchia.||

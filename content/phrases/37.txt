@@ -1,0 +1,56 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+hobby|favorite hobby|sở thích lớn nhất|Reading is my favorite hobby.|Đọc sách là sở thích lớn nhất của tôi.
+game|video game|trò chơi điện tử|My son plays video games too much.|Con trai tôi chơi điện tử quá nhiều.
+game|board game|trò chơi cờ bàn|Let's play a board game.|Chơi trò cờ bàn đi.
+sport|favorite sport|môn thể thao yêu thích|Football is my favorite sport.|Bóng đá là môn thể thao tôi thích nhất.
+football|football match|trận bóng đá|Let's watch the football match tonight.|Tối nay xem trận bóng đá nhé.
+soccer|soccer team|đội bóng|He plays on the school soccer team.|Anh ấy chơi cho đội bóng của trường.
+basketball|play basketball|chơi bóng rổ|Tall people often play basketball.|Người cao thường chơi bóng rổ.
+tennis|table tennis|bóng bàn|We play table tennis after school.|Chúng tôi chơi bóng bàn sau giờ học.
+volleyball|beach volleyball|bóng chuyền bãi biển|Let's play beach volleyball.|Chơi bóng chuyền bãi biển đi.
+badminton|play badminton|chơi cầu lông|My parents play badminton every morning.|Bố mẹ tôi chơi cầu lông mỗi sáng.
+golf|golf course|sân gôn|There is a golf course near Da Nang.|Gần Đà Nẵng có một sân gôn.
+yoga|yoga class|lớp yoga|I go to a yoga class on Sundays.|Chủ nhật tôi đi học yoga.
+chess|play chess|chơi cờ vua|My grandfather taught me to play chess.|Ông dạy tôi chơi cờ vua.
+match|win the match|thắng trận|We need to win the match.|Chúng ta phải thắng trận này.
+player|football player|cầu thủ bóng đá|He is a famous football player.|Anh ấy là cầu thủ bóng đá nổi tiếng.
+coach|football coach|huấn luyện viên bóng đá|Park Hang-seo was a famous football coach.|Park Hang-seo từng là huấn luyện viên bóng đá nổi tiếng.
+referee|football referee|trọng tài bóng đá|He works as a football referee.|Anh ấy làm trọng tài bóng đá.
+goal|score a goal|ghi bàn|It's hard to score a goal against this team.|Rất khó ghi bàn vào lưới đội này.
+ball|play ball|chơi bóng|The kids play ball in the park.|Bọn trẻ chơi bóng trong công viên.
+race|win the race|thắng cuộc đua|Who will win the race?|Ai sẽ thắng cuộc đua?
+medal|gold medal|huy chương vàng|She won a gold medal.|Cô ấy giành huy chương vàng.
+champion|world champion|nhà vô địch thế giới|He is a world champion in chess.|Anh ấy là nhà vô địch cờ vua thế giới.
+competition|singing competition|cuộc thi hát|She won a singing competition on TV.|Cô ấy thắng một cuộc thi hát trên truyền hình.
+winner|the winner of|người thắng|The winner of the game gets a prize.|Người thắng trò chơi được nhận quà.
+concert|live concert|buổi hòa nhạc trực tiếp|We went to a live concert.|Chúng tôi đi xem hòa nhạc trực tiếp.
+movie|watch a movie|xem phim|Let's watch a movie tonight.|Tối nay xem phim nhé.
+movie|horror movie|phim kinh dị|I don't like horror movies.|Tôi không thích phim kinh dị.
+film|film star|ngôi sao điện ảnh|She is a film star.|Cô ấy là ngôi sao điện ảnh.
+song|love song|bản tình ca|This is my favorite love song.|Đây là bản tình ca tôi thích nhất.
+band|rock band|ban nhạc rock|My brother plays in a rock band.|Anh tôi chơi trong một ban nhạc rock.
+guitar|play the guitar|chơi đàn ghi-ta|Can you play the guitar?|Bạn biết chơi ghi-ta không?
+piano|piano lessons|học đàn piano|My daughter takes piano lessons.|Con gái tôi đi học đàn piano.
+drum|play the drums|chơi trống|My son wants to play the drums.|Con trai tôi muốn chơi trống.
+violin|violin player|nghệ sĩ vĩ cầm|She is a talented violin player.|Cô ấy là nghệ sĩ vĩ cầm tài năng.
+painting|oil painting|tranh sơn dầu|This oil painting is very old.|Bức tranh sơn dầu này rất cổ.
+photography|wedding photography|chụp ảnh cưới|He does wedding photography.|Anh ấy làm nghề chụp ảnh cưới.
+cartoon|cartoon character|nhân vật hoạt hình|Doraemon is a famous cartoon character.|Doraemon là nhân vật hoạt hình nổi tiếng.
+athlete|professional athlete|vận động viên chuyên nghiệp|He trains like a professional athlete.|Anh ấy tập luyện như một vận động viên chuyên nghiệp.
+novel|romantic novel|tiểu thuyết lãng mạn|She likes to read romantic novels.|Cô ấy thích đọc tiểu thuyết lãng mạn.
+story|bedtime story|truyện kể trước giờ ngủ|Read me a bedtime story, please.|Kể con nghe một câu chuyện trước khi ngủ đi.
+story|true story|chuyện có thật|The film is based on a true story.|Bộ phim dựa trên một câu chuyện có thật.
+poem|write a poem|làm một bài thơ|Can you write a poem about the sea?|Bạn làm được một bài thơ về biển không?
+magazine|fashion magazine|tạp chí thời trang|She reads a fashion magazine every month.|Tháng nào cô ấy cũng đọc tạp chí thời trang.
+entertainment|entertainment industry|ngành giải trí|She works in the entertainment industry.|Cô ấy làm trong ngành giải trí.
+fun|have fun|vui vẻ|Have fun at the party!|Đi tiệc vui vẻ nhé!
+fun|for fun|cho vui|I learn Japanese for fun.|Tôi học tiếng Nhật cho vui.
+joke|tell a joke|kể chuyện cười|Can you tell a joke?|Bạn kể chuyện cười được không?
+puzzle|jigsaw puzzle|trò xếp hình|We did a jigsaw puzzle together.|Chúng tôi cùng chơi xếp hình.
+workout|morning workout|bài tập buổi sáng|A morning workout gives me energy.|Tập buổi sáng giúp tôi có năng lượng.
+swimming|go swimming|đi bơi|Let's go swimming this afternoon.|Chiều nay đi bơi nhé.
+swimming|swimming pool|hồ bơi|The hotel has a swimming pool.|Khách sạn có hồ bơi.
+jogging|go jogging|đi chạy bộ|I go jogging in the park every morning.|Sáng nào tôi cũng chạy bộ trong công viên.
+fishing|go fishing|đi câu cá|My grandfather likes to go fishing.|Ông tôi thích đi câu cá.
+cycling|cycling tour|chuyến đạp xe|We took a cycling tour around Hoi An.|Chúng tôi đạp xe tham quan quanh Hội An.
+marathon|run a marathon|chạy marathon|I want to run a marathon one day.|Tôi muốn chạy marathon một ngày nào đó.

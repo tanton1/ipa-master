@@ -1,0 +1,53 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+animal|animal lover|người yêu động vật|She is an animal lover.|Cô ấy là người yêu động vật.
+dog|walk the dog|dắt chó đi dạo|I walk the dog every evening.|Tối nào tôi cũng dắt chó đi dạo.
+dog|hot dog|bánh mì kẹp xúc xích|I'll have a hot dog, please.|Cho tôi một cái hot dog.
+pet|pet shop|cửa hàng thú cưng|We bought food at the pet shop.|Chúng tôi mua thức ăn ở cửa hàng thú cưng.
+bird|early bird|người dậy sớm|My father is an early bird.|Bố tôi là người hay dậy sớm.
+bird|bird's nest|tổ yến|Bird's nest soup is expensive.|Súp yến rất đắt.
+horse|ride a horse|cưỡi ngựa|Can you ride a horse?|Bạn biết cưỡi ngựa không?
+cow|dairy cow|bò sữa|Moc Chau has many dairy cows.|Mộc Châu có nhiều bò sữa.
+pig|guinea pig|chuột lang; vật thí nghiệm|I don't want to be a guinea pig.|Tôi không muốn làm vật thí nghiệm.
+goat|goat meat|thịt dê|Goat meat is popular in Ninh Binh.|Thịt dê rất nổi tiếng ở Ninh Bình.
+rabbit|pet rabbit|thỏ cưng|My daughter has a pet rabbit.|Con gái tôi nuôi một con thỏ.
+rat|rat race|cuộc sống bon chen|I want to leave the rat race.|Tôi muốn thoát khỏi cuộc sống bon chen.
+monkey|monkey business|trò nghịch ngợm|No monkey business in class!|Không được nghịch ngợm trong lớp!
+tiger|Year of the Tiger|năm Dần|I was born in the Year of the Tiger.|Tôi sinh năm Dần.
+lion|lion dance|múa lân|Children love the lion dance at Mid-Autumn.|Trẻ em thích múa lân dịp Trung thu.
+elephant|elephant ride|cưỡi voi|We took an elephant ride in Dak Lak.|Chúng tôi cưỡi voi ở Đắk Lắk.
+bear|teddy bear|gấu bông|She sleeps with a teddy bear.|Cô bé ngủ với gấu bông.
+wolf|lone wolf|người thích một mình|He is a lone wolf at work.|Anh ấy là người thích làm việc một mình.
+fox|sly fox|con cáo ranh mãnh|The sly fox tricked the crow.|Con cáo ranh mãnh lừa con quạ.
+deer|young deer|hươu non|We saw a young deer in the forest.|Chúng tôi thấy một con hươu non trong rừng.
+snake|snake bite|vết rắn cắn|A snake bite can be dangerous.|Bị rắn cắn có thể rất nguy hiểm.
+frog|frog legs|đùi ếch|Fried frog legs taste like chicken.|Đùi ếch chiên có vị như thịt gà.
+turtle|sea turtle|rùa biển|Sea turtles lay eggs on the beach.|Rùa biển đẻ trứng trên bãi cát.
+insect|insect bite|vết côn trùng cắn|Put cream on the insect bite.|Bôi kem lên vết côn trùng cắn.
+bee|busy as a bee|bận tối mắt|My mother is as busy as a bee before Tet.|Trước Tết mẹ tôi bận tối mắt.
+ant|red ant|kiến lửa|A red ant bit my leg.|Một con kiến lửa cắn chân tôi.
+mosquito|mosquito net|màn chống muỗi|Sleep under a mosquito net.|Ngủ trong màn chống muỗi.
+butterfly|butterflies in my stomach|bồn chồn, hồi hộp|I have butterflies in my stomach before the exam.|Tôi thấy bồn chồn trước kỳ thi.
+spider|spider web|mạng nhện|There is a spider web in the corner.|Có mạng nhện ở góc nhà.
+buffalo|water buffalo|con trâu|The farmer has two water buffaloes.|Người nông dân có hai con trâu.
+camel|ride a camel|cưỡi lạc đà|You can ride a camel in the desert.|Bạn có thể cưỡi lạc đà trên sa mạc.
+zebra|zebra crossing|vạch qua đường|Cross the street at the zebra crossing.|Qua đường ở vạch dành cho người đi bộ.
+giraffe|tall giraffe|hươu cao cổ|The tall giraffe eats leaves from the tree.|Con hươu cao cổ ăn lá trên cây.
+kangaroo|baby kangaroo|chuột túi con|A baby kangaroo lives in its mother's pouch.|Chuột túi con sống trong túi của mẹ.
+panda|giant panda|gấu trúc lớn|The giant panda eats bamboo.|Gấu trúc lớn ăn tre.
+dolphin|swim with dolphins|bơi cùng cá heo|I want to swim with dolphins.|Tôi muốn bơi cùng cá heo.
+whale|blue whale|cá voi xanh|The blue whale is the biggest animal.|Cá voi xanh là loài vật lớn nhất.
+shark|shark attack|cá mập tấn công|Shark attacks are rare here.|Ở đây hiếm khi có cá mập tấn công.
+octopus|grilled octopus|bạch tuộc nướng|Grilled octopus is a popular street food.|Bạch tuộc nướng là món ăn đường phố phổ biến.
+eagle|eagle eye|mắt tinh như đại bàng|My teacher has an eagle eye for mistakes.|Thầy tôi phát hiện lỗi rất tinh.
+owl|night owl|cú đêm, người hay thức khuya|I'm a night owl.|Tôi là cú đêm.
+parrot|talking parrot|con vẹt biết nói|My uncle has a talking parrot.|Chú tôi có một con vẹt biết nói.
+penguin|emperor penguin|chim cánh cụt hoàng đế|Emperor penguins live in Antarctica.|Chim cánh cụt hoàng đế sống ở Nam Cực.
+goose|wild goose|ngỗng trời|A wild goose flew over the lake.|Một con ngỗng trời bay qua hồ.
+dinosaur|dinosaur museum|bảo tàng khủng long|Kids love the dinosaur museum.|Trẻ con thích bảo tàng khủng long.
+tail|wag its tail|vẫy đuôi|My dog will wag its tail when it sees you.|Con chó nhà tôi sẽ vẫy đuôi khi thấy bạn.
+wing|chicken wings|cánh gà|I'd like some fried chicken wings.|Cho tôi ít cánh gà chiên.
+feather|light as a feather|nhẹ như lông hồng|This bag is light as a feather.|Cái túi này nhẹ như lông hồng.
+fur|fur coat|áo lông thú|She doesn't wear a fur coat.|Cô ấy không mặc áo lông thú.
+nest|empty nest|tổ ấm vắng con|My parents live in an empty nest now.|Giờ con cái đã đi hết, nhà bố mẹ tôi vắng vẻ.
+cage|bird cage|lồng chim|The bird cage hangs by the window.|Lồng chim treo cạnh cửa sổ.
+puppy|puppy love|tình yêu tuổi học trò|It was just puppy love.|Đó chỉ là tình yêu tuổi học trò.

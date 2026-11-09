@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+continent|on every continent|trên mọi châu lục|You can find Vietnamese food on every continent.|Bạn có thể tìm thấy món Việt trên mọi châu lục.
+Asia|Southeast Asia|Đông Nam Á|Vietnam is in Southeast Asia.|Việt Nam nằm ở Đông Nam Á.
+Europe|travel around Europe|du lịch khắp châu Âu|They want to travel around Europe by train.|Họ muốn đi tàu du lịch khắp châu Âu.
+Africa|South Africa|Nam Phi|My cousin works in South Africa.|Anh họ tôi làm việc ở Nam Phi.
+America|North America|Bắc Mỹ|Canada is in North America.|Canada nằm ở Bắc Mỹ.
+Vietnam|made in Vietnam|sản xuất tại Việt Nam|This shirt was made in Vietnam.|Chiếc áo này sản xuất tại Việt Nam.
+Vietnamese|Vietnamese coffee|cà phê Việt Nam|Vietnamese coffee is strong and sweet.|Cà phê Việt Nam đậm và ngọt.
+China|trip to China|chuyến đi Trung Quốc|My parents went on a trip to China.|Bố mẹ tôi đi một chuyến sang Trung Quốc.
+Chinese|Chinese New Year|Tết Âm lịch của Trung Quốc|Chinese New Year and Tet are on the same day.|Tết của Trung Quốc và Tết Việt Nam trùng ngày.
+Japan|study in Japan|du học Nhật Bản|Many Vietnamese students study in Japan.|Nhiều sinh viên Việt Nam du học ở Nhật.
+Japanese|Japanese food|món Nhật|I love Japanese food.|Tôi mê món Nhật.
+Korea|South Korea|Hàn Quốc|South Korea is famous for K-pop.|Hàn Quốc nổi tiếng với K-pop.
+Korean|Korean drama|phim truyền hình Hàn|My mother watches Korean dramas every night.|Mẹ tôi tối nào cũng xem phim Hàn.
+Thailand|holiday in Thailand|kỳ nghỉ ở Thái Lan|We spent a holiday in Thailand.|Chúng tôi đi nghỉ ở Thái Lan.
+Thai|Thai food|món Thái|Thai food is spicy.|Món Thái cay.
+France|in France|ở Pháp|She studied art in France.|Cô ấy học mỹ thuật ở Pháp.
+French|French bread|bánh mì Pháp|Banh mi comes from French bread.|Bánh mì có nguồn gốc từ bánh mì Pháp.
+Germany|made in Germany|sản xuất tại Đức|My father's watch was made in Germany.|Đồng hồ của bố tôi sản xuất tại Đức.
+German|German beer|bia Đức|German beer is famous.|Bia Đức rất nổi tiếng.
+England|the north of England|miền bắc nước Anh|Manchester is in the north of England.|Manchester ở miền bắc nước Anh.
+British|British English|tiếng Anh-Anh|British English is different from American English.|Tiếng Anh-Anh khác tiếng Anh-Mỹ.
+Canada|move to Canada|chuyển sang Canada|My uncle wants to move to Canada.|Chú tôi muốn chuyển sang Canada.
+Australia|study in Australia|du học Úc|She won a scholarship to study in Australia.|Cô ấy giành học bổng du học Úc.
+India|visit India|đến thăm Ấn Độ|I want to visit India one day.|Tôi muốn đến Ấn Độ một ngày nào đó.
+Russia|winter in Russia|mùa đông ở Nga|Winter in Russia is very cold.|Mùa đông ở Nga rất lạnh.
+Italy|trip to Italy|chuyến đi Ý|They went on a trip to Italy.|Họ đi một chuyến sang Ý.
+Spain|in Spain|ở Tây Ban Nha|People in Spain eat dinner late.|Ở Tây Ban Nha người ta ăn tối muộn.
+Spanish|speak Spanish|nói tiếng Tây Ban Nha|Can you speak Spanish?|Bạn nói được tiếng Tây Ban Nha không?
+American|American English|tiếng Anh-Mỹ|This app teaches American English.|Ứng dụng này dạy tiếng Anh-Mỹ.
+foreigner|talking to foreigners|nói chuyện với người nước ngoài|I practice English by talking to foreigners.|Tôi luyện tiếng Anh bằng cách nói chuyện với người nước ngoài.
+region|mountain region|vùng núi|Sapa is in a mountain region.|Sa Pa nằm ở vùng núi.
+province|Quang Nam province|tỉnh Quảng Nam|Hoi An is in Quang Nam province.|Hội An thuộc tỉnh Quảng Nam.
+district|District 1|Quận 1|Ben Thanh market is in District 1.|Chợ Bến Thành ở Quận 1.
+coast|along the coast|dọc bờ biển|We drove along the coast.|Chúng tôi lái xe dọc bờ biển.
+shore|on the shore|trên bờ|Children played on the shore.|Bọn trẻ chơi trên bờ.
+bay|Ha Long Bay|vịnh Hạ Long|Ha Long Bay is a world heritage site.|Vịnh Hạ Long là di sản thế giới.
+western|western food|đồ ăn Tây|Do you like western food?|Bạn thích đồ ăn Tây không?
+eastern|eastern side|phía đông|The sun rises on the eastern side.|Mặt trời mọc ở phía đông.
+northern|northern Vietnam|miền Bắc Việt Nam|It's cold in northern Vietnam in winter.|Mùa đông miền Bắc Việt Nam lạnh.
+southern|southern accent|giọng miền Nam|She has a southern accent.|Cô ấy nói giọng miền Nam.
+overseas|overseas students|du học sinh|The university has many overseas students.|Trường có nhiều du học sinh.
+nationality|dual nationality|hai quốc tịch|He has dual nationality.|Anh ấy có hai quốc tịch.
+native|native speaker|người bản xứ|Practice with a native speaker.|Luyện tập với người bản xứ.
+tropical|tropical fruit|trái cây nhiệt đới|Vietnam has many tropical fruits.|Việt Nam có nhiều trái cây nhiệt đới.
+countryside|in the countryside|ở nông thôn|My grandparents live in the countryside.|Ông bà tôi sống ở nông thôn.
+urban|urban area|khu đô thị|Most people now live in urban areas.|Giờ đa số người dân sống ở khu đô thị.
+rural|rural area|vùng nông thôn|Life in a rural area is quiet.|Cuộc sống ở nông thôn yên tĩnh.
+Singapore|fly to Singapore|bay sang Singapore|It takes two hours to fly to Singapore.|Bay sang Singapore mất hai tiếng.
+Laos|Vietnam and Laos|Việt Nam và Lào|Vietnam and Laos share a long border.|Việt Nam và Lào có chung đường biên giới dài.
+Cambodia|travel to Cambodia|du lịch Campuchia|You can travel to Cambodia by bus.|Bạn có thể đi xe buýt sang Campuchia.

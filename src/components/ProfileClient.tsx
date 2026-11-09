@@ -1,12 +1,16 @@
 'use client';
 
 import Link from 'next/link';
-import { useAppState, useHydrated, learnedSlugs, phonemeScore, errorScore, streakDays, setRate, updateProfile, resetProgress, mastery, STATUS_LABEL, MASTERY_WEIGHTS, MASTERY_THRESHOLD, INTERVALS, type WordStatus } from '@/lib/store';
-import { PHONEMES, getPhoneme } from '@/data/phonemes';
+import { useAppState, useHydrated, learnedSlugs, dueSlugs, phonemeScore, errorScore, evidenceOf, streakDays, setRate, updateProfile, resetProgress, mastery, STATUS_LABEL, MASTERY_WEIGHTS, MASTERY_THRESHOLD, MASTERY_MIN_COVERAGE, EVIDENCE_MIN_N, INTERVALS, type WordStatus } from '@/lib/store';
+import { EvidencePill } from './EvidencePill';
+import { CONTENT_VERSION, CONTENT_STATUS_LABEL } from '@/data/content-version';
+import { PHONEMES } from '@/data/phonemes';
 import { VEI } from '@/data/vei';
 import { WORDS, ROADMAP, wordsOfGroup } from '@/lib/curriculum';
+import { GROUPS } from '@/data/groups';
+import { UNITS } from '@/data/units';
 import { ProgressBar } from './ProgressBar';
-import { displayIpa } from './Ipa';
+import { displayIpa, Ipa } from './Ipa';
 import { IconFlame } from './icons';
 
 const BAND = (score: number) => (score >= 75 ? 'bg-accent-soft text-accent border-accent/30' : score >= 55 ? 'bg-warn-soft text-warn border-warn/30' : 'bg-danger-soft text-danger border-danger/30');
@@ -24,23 +28,25 @@ export function ProfileClient() {
   const bad = withData.filter((x) => x.sc!.score < 55).sort((a, b) => a.sc!.score - b.sc!.score).slice(0, 3);
   const counts = (Object.keys(STATUS_LABEL) as WordStatus[]).map((k) => ({ k, n: k === 'new' ? WORDS.length - Object.values(s.words).filter((w) => w.status !== 'new').length : Object.values(s.words).filter((w) => w.status === k).length }));
   const avgMastery = learned ? Math.round(learnedSlugs(s).reduce((n, slug) => n + mastery(s.words[slug]).total, 0) / learned) : 0;
+  const results = PHONEMES.map((p) => ({ p, st: s.phonemeStats[p.id] })).filter((x) => x.st && (x.st.lt > 0 || x.st.st > 0)).sort((a, b) => (b.st!.lt + b.st!.st) - (a.st!.lt + a.st!.st)).slice(0, 8);
+  const dueCount = dueSlugs(s).length;
 
   return (
     <div className="flex flex-col gap-5">
       <section className="grid grid-cols-3 gap-2">
         <div className="card p-3 text-center"><p className="font-display text-2xl font-extrabold tabular-nums">{hydrated ? learned : '–'}</p><p className="text-[11px] text-muted">Từ đã học</p></div>
         <div className="card p-3 text-center"><p className="inline-flex items-center gap-1 font-display text-2xl font-extrabold tabular-nums text-warn"><IconFlame size={18} />{hydrated ? streakDays(s) : '–'}</p><p className="text-[11px] text-muted">Ngày liên tiếp</p></div>
-        <div className="card p-3 text-center"><p className="font-display text-2xl font-extrabold tabular-nums text-primary">{hydrated ? avgMastery : '–'}</p><p className="text-[11px] text-muted">Điểm thành thạo TB</p></div>
+        <div className="card p-3 text-center"><p className="font-display text-2xl font-extrabold tabular-nums text-primary">{hydrated ? avgMastery : '–'}</p><p className="text-[11px] text-muted">Thành thạo TB (tự chấm)</p></div>
       </section>
 
       <section className="card p-4" aria-labelledby="map-title">
         <p className="eyebrow text-muted">Theo từng âm</p>
         <h2 id="map-title" className="font-bold">Bản đồ luyện âm</h2>
-        <p className="mt-1 text-xs text-muted">Điểm gộp từ bài nghe phân biệt và các lần tự đánh giá, làm mượt để một lần ghi âm (có thể bị ồn) không quyết định tất cả. Ô xám là chưa có dữ liệu.</p>
+        <p className="mt-1 text-xs text-muted">Điểm gộp từ bài nghe phân biệt và các lần tự đánh giá, làm mượt để một lần ghi âm (có thể bị ồn) không quyết định tất cả. Ô xám là chưa kiểm tra; ô viền đứt là mới có dưới {EVIDENCE_MIN_N} lượt, chưa kết luận.</p>
         <ul className="mt-3 grid grid-cols-5 gap-1.5">
           {scored.map(({ p, sc }) => (
             <li key={p.id}>
-              <Link href={`/ipa/${p.id}`} title={sc ? `${sc.score}/100 sau ${sc.n} lượt` : 'Chưa có dữ liệu'} className={`tap flex flex-col items-center rounded-xl border py-1.5 ${sc ? BAND(sc.score) : 'border-line bg-surface-2 text-muted'}`}>
+              <Link href={`/ipa/${p.id}`} title={sc ? `${sc.score}/100 sau ${sc.n} lượt` : 'Chưa có dữ liệu'} className={`tap flex flex-col items-center rounded-xl border py-1.5 ${!sc ? 'border-line bg-surface-2 text-muted' : sc.n < EVIDENCE_MIN_N ? 'border-dashed border-line bg-surface text-muted' : BAND(sc.score)}`}>
                 <span className="ipa text-lg font-semibold leading-tight">{displayIpa(p.symbol, s.profile.ipaStyle)}</span>
                 <span className="text-[10px] tabular-nums">{sc ? `${sc.score}%` : '–'}</span>
               </Link>
@@ -50,7 +56,9 @@ export function ProfileClient() {
         <ul className="mt-3 flex flex-wrap gap-3 text-[11px] text-muted">
           <li className="flex items-center gap-1"><span className="size-2 rounded-full bg-accent" /> Tương đối tốt (≥75)</li>
           <li className="flex items-center gap-1"><span className="size-2 rounded-full bg-warn" /> Đang luyện</li>
-          <li className="flex items-center gap-1"><span className="size-2 rounded-full bg-danger" /> Ưu tiên (&lt;55)</li>
+          <li className="flex items-center gap-1"><span className="size-2 rounded-full bg-danger" /> Lỗi đã quan sát (&lt;55)</li>
+          <li className="flex items-center gap-1"><span className="size-2 rounded-full border border-dashed border-muted" /> Đang đánh giá</li>
+          <li className="flex items-center gap-1"><span className="size-2 rounded-full bg-surface-2 ring-1 ring-line" /> Chưa kiểm tra</li>
         </ul>
         {hydrated ? (
           <p className="mt-3 rounded-xl bg-surface-2 p-3 text-sm">
@@ -64,8 +72,35 @@ export function ProfileClient() {
         ) : null}
       </section>
 
+      <section className="card p-4" aria-labelledby="results-title">
+        <p className="eyebrow text-muted">Kết quả có bằng chứng</p>
+        <h2 id="results-title" className="font-bold">Bạn đã làm được gì</h2>
+        {!hydrated ? null : results.length ? (
+          <ul className="mt-3 flex flex-col gap-2">
+            {results.map(({ p, st }) => {
+              const sc = phonemeScore(st);
+              return (
+                <li key={p.id} className="flex items-center gap-3 rounded-xl bg-surface-2 px-3 py-2">
+                  <Ipa value={p.symbol} className="w-12 shrink-0 text-xl font-semibold text-primary" />
+                  <span className="min-w-0 flex-1 text-sm leading-snug">
+                    {st!.lt ? <span>Nghe đúng <span className="font-semibold tabular-nums">{st!.lc}/{st!.lt}</span></span> : null}
+                    {st!.lt && st!.st ? <span className="text-muted"> · </span> : null}
+                    {st!.st ? <span className="text-muted">tự chấm đạt <span className="font-semibold tabular-nums text-ink">{st!.sg}/{st!.st}</span></span> : null}
+                  </span>
+                  <EvidencePill level={evidenceOf(sc)} />
+                </li>
+              );
+            })}
+          </ul>
+        ) : (
+          <p className="mt-2 text-sm text-muted">Chưa có kết quả kiểm tra nào. Làm bài kiểm tra đầu vào hoặc bài nghe phân biệt để có bằng chứng đầu tiên.</p>
+        )}
+        <p className="mt-3 text-[11px] text-muted">Kết quả nghe là đo được. Kết quả nói là bạn tự chấm sau khi nghe A/B; chưa có chấm phát âm tự động.</p>
+      </section>
+
       <section className="card p-4">
         <h2 className="text-lg font-extrabold">Bản đồ nhóm lỗi</h2>
+        <p className="mt-1 text-xs text-muted">Thanh màu chỉ hiện khi đã có từ {EVIDENCE_MIN_N} lượt. Trước đó là đang đánh giá, không phải đang yếu.</p>
         <ul className="mt-3 flex flex-col gap-2">
           {VEI.map((e) => {
             const sc = errorScore(s.errorStats[e.code]);
@@ -74,8 +109,8 @@ export function ProfileClient() {
                 <Link href={`/errors/${e.code}`} className="flex items-center gap-2 text-sm">
                   <span className="w-9 shrink-0 text-xs font-bold text-primary">{e.code}</span>
                   <span className="w-28 shrink-0 truncate text-xs">{e.short}</span>
-                  <span className="h-2 flex-1 overflow-hidden rounded-full bg-surface-2"><span className={`block h-full rounded-full ${sc ? (sc.score >= 75 ? 'bg-accent' : sc.score >= 55 ? 'bg-warn' : 'bg-danger') : ''}`} style={{ width: `${sc?.score ?? 0}%` }} /></span>
-                  <span className="w-12 shrink-0 text-right text-xs tabular-nums text-muted">{sc ? `${sc.score} (${sc.n})` : '–'}</span>
+                  <span className="h-2 flex-1 overflow-hidden rounded-full bg-surface-2"><span className={`block h-full rounded-full ${sc && sc.n >= EVIDENCE_MIN_N ? (sc.score >= 75 ? 'bg-accent' : sc.score >= 55 ? 'bg-warn' : 'bg-danger') : ''}`} style={{ width: `${sc && sc.n >= EVIDENCE_MIN_N ? sc.score : 0}%` }} /></span>
+                  <EvidencePill level={evidenceOf(sc)} detail={sc ? String(sc.score) : undefined} />
                 </Link>
               </li>
             );
@@ -84,21 +119,23 @@ export function ProfileClient() {
       </section>
 
       <section className="card p-4">
-        <h2 className="text-lg font-extrabold">Trạng thái 500 từ</h2>
+        <h2 className="text-lg font-extrabold">Trạng thái {WORDS.length} từ</h2>
         <ul className="mt-2 grid grid-cols-2 gap-2 text-sm">
           {counts.map(({ k, n }) => (
             <li key={k}><Link href={`/words?status=${k}`} className="flex justify-between rounded-xl bg-surface-2 px-3 py-2"><span>{STATUS_LABEL[k]}</span><span className="font-semibold tabular-nums">{hydrated ? n : '–'}</span></Link></li>
           ))}
+          <li><Link href="/words?due=1" className="flex justify-between rounded-xl bg-primary-soft px-3 py-2 text-primary"><span>Đến hạn ôn</span><span className="font-semibold tabular-nums">{hydrated ? dueCount : '–'}</span></Link></li>
+          <li><Link href="/words?saved=1" className="flex justify-between rounded-xl bg-surface-2 px-3 py-2"><span>Đã lưu</span><span className="font-semibold tabular-nums">{hydrated ? s.saved.length : '–'}</span></Link></li>
         </ul>
         <details className="mt-3 text-xs text-muted">
           <summary className="cursor-pointer font-semibold text-ink">Cách tính điểm thành thạo</summary>
-          <p className="mt-2">Điểm = Nghe phân biệt × {MASTERY_WEIGHTS.listen * 100}% + Phát âm từ × {MASTERY_WEIGHTS.pron * 100}% + Ghi nhớ sau ôn tập × {MASTERY_WEIGHTS.retention * 100}% + Dùng trong câu × {MASTERY_WEIGHTS.sentence * 100}%. Thành phần chưa có dữ liệu tính là 0.</p>
+          <p className="mt-2">Điểm = Nghe phân biệt × {MASTERY_WEIGHTS.listen * 100}% + Phát âm từ × {MASTERY_WEIGHTS.pron * 100}% + Ghi nhớ sau ôn tập × {MASTERY_WEIGHTS.retention * 100}% + Dùng trong câu × {MASTERY_WEIGHTS.sentence * 100}%. Thành phần chưa kiểm tra không tính vào điểm: điểm chỉ dựa trên phần đã có dữ liệu, và được xem là đủ tin cậy khi các phần đó chiếm ít nhất {Math.round(MASTERY_MIN_COVERAGE * 100)}% trọng số. Phát âm từ và dùng trong câu là tự đánh giá của bạn, chưa phải điểm đo khách quan.</p>
           <p className="mt-1">Một từ chỉ chuyển sang Thành thạo khi đạt {MASTERY_THRESHOLD}/100, đã qua bước ôn {INTERVALS[3]} ngày và ôn đạt ở ít nhất 3 ngày khác nhau. Lịch ôn: {INTERVALS.join(' → ')} ngày. Đây là công thức đề xuất cho tiến độ học, cần kiểm nghiệm với người học thật.</p>
         </details>
       </section>
 
       <section>
-        <h2 className="mb-2 text-lg font-extrabold">Lộ trình 10 tuần</h2>
+        <h2 className="mb-2 text-lg font-extrabold">Lộ trình {GROUPS.length} tuần</h2>
         <p className="mb-3 text-xs text-muted">Mỗi tuần 5 ngày học mới (10 từ/ngày), thứ 7 kiểm tra 50 từ, Chủ nhật ôn cá nhân hoá hoặc nghỉ. Học hết danh sách chưa có nghĩa là đã thành thạo.</p>
         <ol className="flex flex-col gap-2">
           {ROADMAP.map((st) => {
@@ -153,7 +190,7 @@ export function ProfileClient() {
         <button type="button" onClick={() => { if (window.confirm('Xoá toàn bộ tiến độ học trên thiết bị này? Không thể khôi phục.')) resetProgress(); }} className="tap mt-3 text-sm font-semibold text-danger">Xoá toàn bộ tiến độ</button>
       </section>
 
-      <p className="text-center text-[11px] text-muted">{WORDS.length} từ • 50 cụm học • {PHONEMES.length} âm • 10 nhóm lỗi • 30 bài chuẩn • {getPhoneme('th') ? 'nội dung nháp' : ''}</p>
+      <p className="text-center text-[11px] text-muted">{WORDS.length} từ • {UNITS.length} cụm học • {PHONEMES.length} âm • 10 nhóm lỗi • 30 bài chuẩn • nội dung bản {CONTENT_VERSION} • {CONTENT_STATUS_LABEL.toLowerCase()}</p>
     </div>
   );
 }

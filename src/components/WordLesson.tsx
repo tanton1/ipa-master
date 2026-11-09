@@ -9,6 +9,7 @@ import { getContrast } from '@/data/contrast';
 import { getVei } from '@/data/vei';
 import { getUnit, WEEKDAYS } from '@/data/units';
 import { getGold, GOLD_TYPE_LABEL } from '@/data/gold';
+import { getForms } from '@/data/forms';
 import { analyzeIpa, syllableText } from '@/lib/ipa';
 import { articulationSteps, wordIssues, riskyPhonemes } from '@/lib/errors';
 import { buildFeedback, selfAssessments, codeForPhoneme, type CoachFeedback } from '@/lib/coach';
@@ -16,13 +17,15 @@ import { DIFFICULTY_LABEL } from '@/lib/classify';
 import { formatDay } from '@/lib/format-day';
 import type { AudioQuality } from '@/lib/audio-quality';
 import { useTts } from '@/lib/tts';
-import { rateWord, markLearned, recordListen, recordSentence, mastery, useAppState, todayKey, STATUS_LABEL, MASTERY_WEIGHTS, MASTERY_THRESHOLD, type Rating } from '@/lib/store';
+import { rateWord, markLearned, recordListen, recordSentence, toggleSaved, mastery, useAppState, todayKey, STATUS_LABEL, MASTERY_WEIGHTS, MASTERY_THRESHOLD, MASTERY_MIN_COVERAGE, type Rating } from '@/lib/store';
 import { PlayButton } from './PlayButton';
 import { Recorder } from './Recorder';
 import { IpaChips } from './IpaChips';
 import { MouthDiagram } from './MouthDiagram';
+import { WordFormsCard } from './WordFormsCard';
+import { WordPhrasesCard } from './WordPhrasesCard';
 import { Ipa, displayIpa, useIpaStyle } from './Ipa';
-import { IconEar, IconBulb, IconMouth, IconMic, IconChat, IconCheck, IconChevronLeft, IconChevronRight, IconAlert, IconArrowRight, IconStar, IconWrench } from './icons';
+import { IconEar, IconBulb, IconMouth, IconMic, IconChat, IconCheck, IconChevronLeft, IconChevronRight, IconAlert, IconArrowRight, IconStar, IconWrench, IconBookmark } from './icons';
 
 interface Nav { slug: string; word: string }
 interface Props { w: WordEntry; groupSlug: string; next?: Nav; prev?: Nav }
@@ -46,7 +49,7 @@ const FEEDBACK_TONE: Record<CoachFeedback['kind'], string> = {
 function Meter({ label, value, weight }: { label: string; value: number | null; weight: number }) {
   return (
     <div>
-      <div className="flex justify-between text-xs"><span className="text-muted">{label} <span className="opacity-70">({Math.round(weight * 100)}%)</span></span><span className="font-semibold tabular-nums">{value === null ? 'chưa có' : value}</span></div>
+      <div className="flex justify-between text-xs"><span className="text-muted">{label} <span className="opacity-70">({Math.round(weight * 100)}%)</span></span><span className={`font-semibold tabular-nums ${value === null ? 'text-muted' : ''}`}>{value === null ? 'chưa kiểm tra' : value}</span></div>
       <div className="mt-1 h-1.5 overflow-hidden rounded-full bg-surface-2"><div className="h-full rounded-full bg-primary" style={{ width: `${value ?? 0}%` }} /></div>
     </div>
   );
@@ -71,6 +74,8 @@ export function WordLesson({ w, groupSlug, next, prev }: Props) {
   const { say } = useTts();
 
   const gold = getGold(w.slug);
+  const forms = getForms(w.slug);
+  const saved = state.saved.includes(w.slug);
   const unit = getUnit(w.unit);
   const analysis = useMemo(() => analyzeIpa(w.ipa), [w.ipa]);
   const steps = useMemo(() => articulationSteps(w), [w]);
@@ -122,7 +127,8 @@ export function WordLesson({ w, groupSlug, next, prev }: Props) {
     setQuizAnswer(side);
     const ok = side === quizTarget;
     if (ok) setQuizScore((x) => x + 1);
-    recordListen({ slug: w.slug, correct: ok, phonemes: diffPhonemes.length ? [diffPhonemes[0]] : risky.slice(0, 1), codes: w.errorCodes.slice(0, 2) });
+    // E10 (ngữ điệu) chỉ đánh giá ở cấp câu, không tính từ bài nghe từ đơn.
+    recordListen({ slug: w.slug, correct: ok, phonemes: diffPhonemes.length ? [diffPhonemes[0]] : risky.slice(0, 1), codes: w.errorCodes.filter((c) => c !== 'E10').slice(0, 2) });
   }
 
   function go(n: number) {
@@ -154,8 +160,11 @@ export function WordLesson({ w, groupSlug, next, prev }: Props) {
   return (
     <main className="flex flex-col gap-5 px-4 pt-4">
       {/* Word Identity */}
-      <section className="card p-5 text-center">
-        <div className="mb-2 flex flex-wrap items-center justify-center gap-1.5 text-[11px] font-semibold">
+      <section className="card relative p-5 text-center">
+        <button type="button" onClick={() => toggleSaved(w.slug)} aria-pressed={saved} aria-label={saved ? 'Bỏ lưu từ này' : 'Lưu từ này để xem lại'} className={`tap absolute right-3 top-3 inline-flex size-10 items-center justify-center rounded-full border ${saved ? 'border-primary bg-primary-soft text-primary' : 'border-line bg-surface text-muted'}`}>
+          <IconBookmark size={18} fill={saved ? 'currentColor' : 'none'} />
+        </button>
+        <div className="mb-2 flex flex-wrap items-center justify-center gap-1.5 pr-10 text-[11px] font-semibold">
           <span className="rounded-full bg-surface-2 px-2 py-0.5">{DIFFICULTY_LABEL[w.difficulty - 1]}</span>
           {gold ? <span className="inline-flex items-center gap-1 rounded-full bg-warn-soft px-2 py-0.5 text-warn"><IconStar size={11} /> Bài chuẩn • {GOLD_TYPE_LABEL[gold.type]}</span> : null}
           <span className="rounded-full bg-surface-2 px-2 py-0.5 text-muted" title="Nội dung chưa qua kiểm duyệt ngữ âm">Chưa duyệt</span>
@@ -172,9 +181,16 @@ export function WordLesson({ w, groupSlug, next, prev }: Props) {
             );
           })}/
         </p>
+        {forms ? (
+          <p className="mt-1.5 flex flex-wrap items-center justify-center gap-1.5 text-xs text-muted">
+            <span>Trong câu:</span>
+            {forms.forms.filter((f) => !f.emphasis && f.ipa !== w.ipa).map((f) => <Ipa key={f.ipa + f.label} value={f.ipa} className="rounded-full bg-primary-soft px-2 py-0.5 font-semibold text-primary" />)}
+          </p>
+        ) : null}
         <p className="mt-2 text-sm text-muted">{POS_LABEL[w.pos] ?? w.pos} • {w.meaning}</p>
         {gold ? <p className="mt-2 text-xs font-medium text-primary">Trọng tâm: {gold.focus}</p> : null}
-        <div className="mt-3 flex flex-wrap justify-center gap-1.5">
+        <div className="mt-3 flex flex-wrap items-center justify-center gap-1.5">
+          <span className="text-[11px] text-muted" title="Nhóm lỗi người Việt có thể gặp với từ này, dự đoán theo cấu trúc từ">Nguy cơ:</span>
           {w.errorCodes.map((c) => (
             <Link key={c} href={`/errors/${c}`} className="tap rounded-full border border-line bg-surface px-2 py-0.5 text-[11px] font-semibold" title={getVei(c)?.title}>{c} {getVei(c)?.short}</Link>
           ))}
@@ -213,6 +229,8 @@ export function WordLesson({ w, groupSlug, next, prev }: Props) {
               {w.syllables > 1 ? <> và trọng âm ở âm tiết thứ {w.stress + 1}</> : null}.
             </p>
           </section>
+
+          {forms ? <WordFormsCard w={w} forms={forms} mode="listen" /> : null}
 
           {distractor ? (
             <section className="card p-4" aria-labelledby="quiz-title">
@@ -333,6 +351,7 @@ export function WordLesson({ w, groupSlug, next, prev }: Props) {
               </div>
             ) : null}
           </section>
+          {w.phrases?.length ? <WordPhrasesCard w={w} phrases={w.phrases} mode="learn" /> : null}
         </>
       ) : null}
 
@@ -479,6 +498,8 @@ export function WordLesson({ w, groupSlug, next, prev }: Props) {
               </div>
             </section>
           ))}
+          {w.phrases?.length ? <WordPhrasesCard w={w} phrases={w.phrases} mode="apply" /> : null}
+          {forms ? <WordFormsCard w={w} forms={forms} mode="speak" /> : null}
           <section className="card p-4">
             <h3 className="font-bold">Nói cả câu và ghi âm</h3>
             <p className="mt-1 text-xs text-muted">Giữ đúng âm đã luyện khi nói liền. Từ mang nghĩa nói rõ, từ chức năng (a, the, to, of) nói nhẹ.</p>
@@ -517,13 +538,14 @@ export function WordLesson({ w, groupSlug, next, prev }: Props) {
             <p className="font-display text-2xl font-extrabold tabular-nums">{m.total}<span className="text-sm font-medium text-muted">/100</span></p>
           </div>
           <p className="text-xs text-muted">{STATUS_LABEL[progress.status]} • ôn lại {formatDay(progress.due, todayKey())} • {progress.goodDays.length}/3 ngày ôn đạt</p>
+          <p className="mt-1 text-xs text-muted">Điểm dựa trên {m.parts}/4 thành phần đã có dữ liệu{m.coverage < MASTERY_MIN_COVERAGE ? ' • chưa đủ để kết luận' : ''}.</p>
           <div className="mt-3 grid gap-2">
             <Meter label="Nghe phân biệt" value={m.listen} weight={MASTERY_WEIGHTS.listen} />
-            <Meter label="Phát âm từ" value={m.pron} weight={MASTERY_WEIGHTS.pron} />
+            <Meter label="Phát âm từ (tự chấm)" value={m.pron} weight={MASTERY_WEIGHTS.pron} />
             <Meter label="Ghi nhớ sau ôn tập" value={m.retention} weight={MASTERY_WEIGHTS.retention} />
-            <Meter label="Dùng trong câu" value={m.sentence} weight={MASTERY_WEIGHTS.sentence} />
+            <Meter label="Dùng trong câu (tự chấm)" value={m.sentence} weight={MASTERY_WEIGHTS.sentence} />
           </div>
-          <p className="mt-2 text-[11px] text-muted">Thành thạo khi đạt {MASTERY_THRESHOLD}/100 và ôn đạt ở ít nhất 3 ngày khác nhau. Công thức đề xuất, cần kiểm nghiệm với người học.</p>
+          <p className="mt-2 text-[11px] text-muted">Thành thạo khi đạt {MASTERY_THRESHOLD}/100 trên ít nhất {Math.round(MASTERY_MIN_COVERAGE * 100)}% trọng số đã kiểm tra, và ôn đạt ở ít nhất 3 ngày khác nhau. Thành phần chưa kiểm tra không bị tính là 0. Công thức đề xuất, cần kiểm nghiệm với người học.</p>
         </section>
       ) : null}
 

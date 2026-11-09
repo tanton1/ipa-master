@@ -1,0 +1,53 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+action|take action|hành động|We must take action now.|Chúng ta phải hành động ngay.
+action|action movie|phim hành động|My son loves action movies.|Con trai tôi thích phim hành động.
+activity|outdoor activity|hoạt động ngoài trời|Hiking is a great outdoor activity.|Đi bộ đường dài là hoạt động ngoài trời tuyệt vời.
+beauty|beauty salon|thẩm mỹ viện|She works at a beauty salon.|Cô ấy làm ở thẩm mỹ viện.
+care|take care|bảo trọng|Take care, see you soon.|Bảo trọng nhé, sớm gặp lại.
+care|health care|chăm sóc sức khỏe|Health care is expensive.|Chăm sóc sức khỏe rất tốn kém.
+comfort|comfort food|món ăn làm ấm lòng|Pho is my comfort food.|Phở là món ăn làm tôi thấy ấm lòng.
+confidence|self-confidence|sự tự tin|Sport helps build self-confidence.|Thể thao giúp xây dựng sự tự tin.
+courage|have the courage|có can đảm|I didn't have the courage to tell her.|Tôi không đủ can đảm để nói với cô ấy.
+danger|in danger|gặp nguy hiểm|The animals are in danger.|Những loài vật đang gặp nguy hiểm.
+desire|strong desire|khao khát mãnh liệt|She has a strong desire to travel.|Cô ấy khao khát đi du lịch.
+error|human error|lỗi do con người|The accident was caused by human error.|Tai nạn do lỗi con người gây ra.
+event|sports event|sự kiện thể thao|SEA Games is a big sports event.|SEA Games là sự kiện thể thao lớn.
+fame|fame and fortune|danh vọng và tiền tài|He came to the city for fame and fortune.|Anh ấy lên thành phố tìm danh vọng và tiền tài.
+fault|my fault|lỗi của tôi|Sorry, it's my fault.|Xin lỗi, lỗi của tôi.
+favor|do me a favor|giúp tôi một việc|Can you do me a favor?|Bạn giúp tôi một việc được không?
+fortune|good fortune|vận may|We wish you good fortune in the new year.|Chúc bạn năm mới nhiều may mắn.
+happiness|true happiness|hạnh phúc thật sự|Family is true happiness.|Gia đình là hạnh phúc thật sự.
+honor|in honor of|để tôn vinh|The party is in honor of our teacher.|Bữa tiệc để tôn vinh cô giáo.
+humor|sense of humor|khiếu hài hước|He has a good sense of humor.|Anh ấy có khiếu hài hước.
+identity|identity card|thẻ căn cước|Bring your identity card.|Mang theo căn cước.
+imagination|use your imagination|dùng trí tưởng tượng|Use your imagination and draw.|Dùng trí tưởng tượng mà vẽ đi.
+kindness|act of kindness|hành động tử tế|Every act of kindness matters.|Mỗi hành động tử tế đều có ý nghĩa.
+lack|lack of sleep|thiếu ngủ|Lack of sleep makes you tired.|Thiếu ngủ làm bạn mệt mỏi.
+laughter|burst into laughter|bật cười|Everyone burst into laughter.|Mọi người bật cười.
+luck|good luck|chúc may mắn|Good luck with your exam!|Chúc bạn thi tốt!
+manner|table manners|phép lịch sự khi ăn|Children should learn table manners.|Trẻ em nên học phép lịch sự khi ăn.
+meaning|the meaning of|nghĩa của|What is the meaning of this word?|Từ này nghĩa là gì?
+mystery|a mystery to me|điều khó hiểu với tôi|How he got the job is a mystery to me.|Làm sao anh ta được nhận việc vẫn là điều khó hiểu với tôi.
+panic|panic attack|cơn hoảng loạn|Breathe slowly during a panic attack.|Hãy thở chậm khi bị cơn hoảng loạn.
+patience|lose patience|mất kiên nhẫn|Don't lose patience with the kids.|Đừng mất kiên nhẫn với bọn trẻ.
+permission|ask for permission|xin phép|Ask for permission before you leave.|Xin phép trước khi về.
+praise|high praise|lời khen ngợi lớn|The film got high praise.|Bộ phim nhận được nhiều lời khen.
+progress|make progress|tiến bộ|Practice every day to make progress.|Luyện tập mỗi ngày để tiến bộ.
+reward|reward for|phần thưởng cho|This is a reward for your hard work.|Đây là phần thưởng cho sự chăm chỉ của bạn.
+sense|make sense|hợp lý|That doesn't make sense.|Điều đó không hợp lý.
+silence|in silence|trong im lặng|We ate in silence.|Chúng tôi ăn trong im lặng.
+spirit|in good spirits|tinh thần phấn chấn|My grandfather is in good spirits today.|Hôm nay ông tôi rất phấn chấn.
+strength|inner strength|sức mạnh nội tâm|She showed great inner strength.|Cô ấy cho thấy sức mạnh nội tâm lớn.
+talent|natural talent|tài năng bẩm sinh|He has a natural talent for music.|Anh ấy có năng khiếu âm nhạc bẩm sinh.
+threat|serious threat|mối đe dọa nghiêm trọng|Pollution is a serious threat.|Ô nhiễm là mối đe dọa nghiêm trọng.
+trouble|in trouble|gặp rắc rối|Am I in trouble?|Tôi gặp rắc rối à?
+victory|great victory|chiến thắng vang dội|The team celebrated a great victory.|Cả đội ăn mừng một chiến thắng vang dội.
+wealth|great wealth|khối tài sản lớn|The family has great wealth.|Gia đình đó có khối tài sản lớn.
+weakness|my biggest weakness|điểm yếu lớn nhất của tôi|My biggest weakness is time management.|Điểm yếu lớn nhất của tôi là quản lý thời gian.
+wisdom|wisdom tooth|răng khôn|I need to remove a wisdom tooth.|Tôi cần nhổ một chiếc răng khôn.
+loyalty|customer loyalty|lòng trung thành của khách hàng|Good service builds customer loyalty.|Dịch vụ tốt xây dựng lòng trung thành của khách hàng.
+respect|show respect|thể hiện sự tôn trọng|Show respect to older people.|Hãy tôn trọng người lớn tuổi.
+honesty|honesty is the best policy|thật thà là thượng sách|Remember, honesty is the best policy.|Hãy nhớ, thật thà là thượng sách.
+faith|have faith in|tin tưởng vào|I have faith in you.|Tôi tin tưởng bạn.
+depth|in depth|chuyên sâu|We studied the topic in depth.|Chúng tôi nghiên cứu chủ đề một cách chuyên sâu.
+relief|what a relief|nhẹ cả người|You're safe. What a relief!|Bạn an toàn rồi. Nhẹ cả người!

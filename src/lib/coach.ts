@@ -4,6 +4,9 @@
  * ghép vào hệ lỗi E01–E10 và tạo phản hồi tiếng Việt theo quy tắc mục 17.4.
  */
 import type { WordEntry } from '@/data/types';
+
+/** Các trường cần cho phản hồi: có ở bản đầy đủ, hoặc tính từ bản gọn bằng withPositions(). */
+export type CoachWord = Pick<WordEntry, 'word' | 'exampleEn' | 'errorCodes' | 'initial' | 'final'>;
 import { getPhoneme } from '@/data/phonemes';
 import { VEI, getVei, type ErrorCode } from '@/data/vei';
 import { QUALITY_MESSAGE, type AudioQuality } from './audio-quality';
@@ -34,7 +37,7 @@ export const WEAK_SCORE = 60;
 export const MAX_FOCUS = 2;
 
 /** Mã lỗi phù hợp nhất cho một âm trong một từ. */
-export function codeForPhoneme(id: string, word?: WordEntry): ErrorCode | undefined {
+export function codeForPhoneme(id: string, word?: CoachWord): ErrorCode | undefined {
   const candidates = VEI.filter((e) => e.phonemes.includes(id)).map((e) => e.code);
   if (word) {
     if (word.final.includes(id) && word.errorCodes.includes('E03') && ['s', 'z', 'v', 'f', 'l', 'd', 'g', 'k', 't'].includes(id)) {
@@ -56,7 +59,7 @@ function priorityOf(id: string): number {
   return getPhoneme(id)?.priority ?? 3;
 }
 
-export function buildFeedback(word: WordEntry, assessments: PhonemeAssessment[], quality?: AudioQuality | null): CoachFeedback {
+export function buildFeedback(word: CoachWord, assessments: PhonemeAssessment[], quality?: AudioQuality | null): CoachFeedback {
   // Quy tắc 1: bản ghi không đủ rõ → yêu cầu ghi lại, không chấm.
   if (quality && !quality.ok) {
     return {

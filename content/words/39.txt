@@ -1,0 +1,58 @@
+# Nhóm 39 – Giao tiếp, truyền thông
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Giao tiếp, truyền thông|Truyền thông|Trọng âm ngay trước đuôi -tion, -sion; advice /s/ khác advise /z/|Hội thoại, tin tức, báo chí, mạng xã hội và cách bày tỏ ý kiến. Quy tắc vàng: trọng âm rơi vào âm tiết ngay trước đuôi -tion (information, invitation).|conversation,advertisement,communication,subscribe
+= Trò chuyện và tin tức|news đọc /nuz/ với âm cuối /z/; -ssion đọc /ʃən/
+conversation|ˌkɑnvɚˈseɪʃən|n|cuộc trò chuyện|We had a nice conversation.|Chúng tôi đã có một cuộc trò chuyện vui.||
+discussion|dɪˈskʌʃən|n|cuộc thảo luận|The discussion was useful.|Cuộc thảo luận rất hữu ích.||
+speech|spitʃ|n|bài phát biểu; lời nói|His speech was short.|Bài phát biểu của ông ấy ngắn.||
+chat|tʃæt|n|cuộc tán gẫu|Let's have a quick chat.|Nói chuyện nhanh chút nhé.||
+sound|saʊnd|n|âm thanh|I heard a strange sound.|Tôi nghe thấy một âm thanh lạ.||
+noise|nɔɪz|n|tiếng ồn|Stop making noise!|Đừng làm ồn nữa!||Âm cuối /z/.
+news|nuz|n|tin tức|Have you heard the news?|Bạn nghe tin chưa?||Âm cuối /z/, không đọc /s/.
+newspaper|ˈnuzˌpeɪpɚ|n|tờ báo|I read the newspaper every day.|Tôi đọc báo mỗi ngày.||
+radio|ˈɹeɪdiˌoʊ|n|đài, ra-đi-ô|Turn on the radio.|Bật đài lên.||Chữ a đọc /eɪ/.
+channel|ˈtʃænəl|n|kênh|What channel is the game on?|Trận đấu chiếu kênh nào?||
+= Truyền thông|Trọng âm advertisement (Mỹ) ở âm tiết ba; advice /s/
+program|ˈpɹoʊˌgɹæm|n|chương trình|This program is for kids.|Chương trình này dành cho trẻ em.||
+advertisement|ˌædvɚˈtaɪzmənt|n|quảng cáo|I saw an advertisement on TV.|Tôi thấy một quảng cáo trên ti vi.||Giọng Anh nhấn âm tiết hai /ədˈvɜːtɪsmənt/.
+poster|ˈpoʊstɚ|n|áp phích|Put the poster on the wall.|Dán áp phích lên tường.||
+article|ˈɑɹtɪkəl|n|bài báo; mạo từ|I wrote an article.|Tôi đã viết một bài báo.||
+media|ˈmidiə|n|truyền thông|The media love this story.|Giới truyền thông thích câu chuyện này.||
+network|ˈnɛtˌwɝk|n|mạng lưới|The network is slow.|Mạng chậm quá.||
+post|poʊst|n|bài đăng; bưu điện|I liked your post.|Tôi đã thích bài đăng của bạn.||
+comment|ˈkɑmɛnt|n|bình luận|Thanks for your comment.|Cảm ơn bình luận của bạn.||
+opinion|əˈpɪnjən|n|ý kiến|What's your opinion?|Ý kiến của bạn thế nào?||
+advice|ədˈvaɪs|n|lời khuyên|Thanks for the advice.|Cảm ơn lời khuyên.||Âm cuối /s/; động từ advise đọc /z/.
+= Giao tiếp lịch sự|-tion đọc /ʃən/, trọng âm ngay trước -tion
+information|ˌɪnfɚˈmeɪʃən|n|thông tin|I need more information.|Tôi cần thêm thông tin.||Danh từ không đếm được.
+communication|kəˌmjunɪˈkeɪʃən|n|sự giao tiếp|Communication is key.|Giao tiếp là chìa khóa.||
+greeting|ˈgɹitɪŋ|n|lời chào|Say a greeting in English.|Nói một lời chào bằng tiếng Anh.||
+invitation|ˌɪnvɪˈteɪʃən|n|lời mời, thiệp mời|Thanks for the invitation.|Cảm ơn lời mời.||
+apology|əˈpɑlədʒi|n|lời xin lỗi|I owe you an apology.|Tôi nợ bạn một lời xin lỗi.||
+explanation|ˌɛkspləˈneɪʃən|n|lời giải thích|I need an explanation.|Tôi cần một lời giải thích.||
+description|dɪˈskɹɪpʃən|n|sự mô tả|Give a short description.|Mô tả ngắn gọn.||
+request|ɹɪˈkwɛst|n|lời yêu cầu|I have a request.|Tôi có một yêu cầu.||
+argument|ˈɑɹgjəmənt|n|cuộc tranh cãi; lập luận|They had an argument.|Họ đã cãi nhau.||
+agreement|əˈgɹimənt|n|sự đồng ý, thỏa thuận|We are in agreement.|Chúng tôi đồng ý với nhau.||
+= Thông báo và bày tỏ|Cụm /gn/ trong signal; cụm /kspɹ/ trong express
+secret|ˈsikɹət|n|bí mật|Can you keep a secret?|Bạn giữ bí mật được không?||
+rumor|ˈɹumɚ|n|tin đồn|It's just a rumor.|Đó chỉ là tin đồn.||
+gossip|ˈgɑsɪp|n|chuyện ngồi lê đôi mách|I don't like gossip.|Tôi không thích chuyện ngồi lê.||
+signal|ˈsɪgnəl|n|tín hiệu|There's no signal here.|Ở đây không có sóng.||
+contact|ˈkɑntækt|n|sự liên lạc; người liên hệ|Do you have his contact?|Bạn có thông tin liên lạc của anh ấy không?||
+attention|əˈtɛnʃən|n|sự chú ý|May I have your attention?|Xin mọi người chú ý.||
+announce|əˈnaʊns|v|thông báo|They announced the results.|Họ đã công bố kết quả.||
+inform|ɪnˈfɔɹm|v|thông báo cho|Please inform me.|Vui lòng báo cho tôi.||
+express|ɪkˈspɹɛs|v|bày tỏ|Express your feelings.|Bày tỏ cảm xúc của bạn.||
+communicate|kəˈmjunɪˌkeɪt|v|giao tiếp|We communicate by email.|Chúng tôi liên lạc qua email.||
+= Báo chí và mạng|wh đọc /w/ trong whisper; cụm /bskɹ/ trong subscribe
+whisper|ˈwɪspɚ|v|thì thầm|Don't whisper in class.|Đừng thì thầm trong lớp.||
+statement|ˈsteɪtmənt|n|lời tuyên bố; bản sao kê|The company made a statement.|Công ty đã ra thông cáo.||
+headline|ˈhɛdˌlaɪn|n|tiêu đề báo|Read the headlines.|Đọc các tiêu đề đi.||
+broadcast|ˈbɹɔdˌkæst|n|chương trình phát sóng|The broadcast starts at seven.|Chương trình phát sóng lúc bảy giờ.||Chữ oa đọc /ɔ/.
+audience|ˈɔdiəns|n|khán giả|The audience clapped.|Khán giả vỗ tay.||
+reporter|ɹɪˈpɔɹtɚ|n|phóng viên|She is a TV reporter.|Cô ấy là phóng viên truyền hình.||
+blog|blɑg|n|blog|I read her blog.|Tôi đọc blog của cô ấy.||Âm cuối /g/.
+podcast|ˈpɑdˌkæst|n|podcast|I love this podcast.|Tôi mê podcast này.||
+subscribe|səbˈskɹaɪb|v|đăng ký theo dõi|Subscribe for more videos.|Đăng ký để xem thêm video.||
+nickname|ˈnɪkˌneɪm|n|biệt danh|What's your nickname?|Biệt danh của bạn là gì?||

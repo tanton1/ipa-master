@@ -27,6 +27,9 @@ function makeQuiz(pairs: ContrastPair[], n = 8): Q[] {
 
 export function ContrastLesson({ lesson }: { lesson: Lesson }) {
   const sounds = lesson.sounds.map((id) => getPhoneme(id)).filter(Boolean);
+  // Nguyên âm luôn hữu thanh; chỉ phụ âm mới có cờ voiced riêng.
+  const voicedFlags = lesson.sounds.map((id) => { const p = getPhoneme(id); return p ? (p.type === 'consonant' ? !!p.voiced : true) : undefined; });
+  const voicingPair = voicedFlags.length === 2 && voicedFlags[0] !== voicedFlags[1];
   const subs = lesson.sounds.length === 1 ? (SUBSTITUTES[lesson.sounds[0]] ?? []) : [];
   const { say } = useTts();
 
@@ -186,7 +189,7 @@ export function ContrastLesson({ lesson }: { lesson: Lesson }) {
 
       <section className="card p-4" aria-labelledby="speak-title">
         <h2 id="speak-title" className="font-bold">Luyện nói và tự kiểm tra</h2>
-        <p className="mt-1 text-xs text-muted">Chọn một cặp từ, nghe mẫu, ghi âm cả hai từ rồi nghe lại. Để tay lên cổ để kiểm tra rung thanh.</p>
+        <p className="mt-1 text-xs text-muted">Chọn một cặp từ, nghe mẫu, ghi âm cả hai từ rồi nghe lại. {voicingPair ? 'Để tay lên cổ để kiểm tra rung thanh: một âm rung, một âm không.' : voicedFlags.length === 2 ? `Cả hai âm đều ${voicedFlags[0] ? 'rung' : 'không rung'} dây thanh nên tay trên cổ không giúp phân biệt. Hãy để ý: ${lesson.feel}` : `Hãy để ý: ${lesson.feel}`}</p>
         <div className="no-scrollbar mt-3 flex gap-2 overflow-x-auto pb-1">
           {lesson.pairs.map((pr, i) => (
             <button
@@ -211,7 +214,7 @@ export function ContrastLesson({ lesson }: { lesson: Lesson }) {
               <button type="button" onClick={() => rate(true)} className={`tap rounded-xl border-2 px-3 py-2 text-sm font-semibold ${selfRated === 'ok' ? 'border-accent bg-accent-soft text-accent' : 'border-line bg-surface'}`}>Đã phân biệt được</button>
             </div>
             {selfRated === 'bad' ? <p className="mt-2 text-xs text-muted">Đã ghi nhận vào bản đồ âm. Âm này sẽ được ưu tiên trong kế hoạch hôm nay.</p> : null}
-            {selfRated === 'ok' ? <p className="mt-2 text-xs text-muted">Tốt. Thử cặp khác hoặc đọc các từ này trong câu ở mục 500 từ.</p> : null}
+            {selfRated === 'ok' ? <p className="mt-2 text-xs text-muted">Tốt. Thử cặp khác hoặc đọc các từ này trong câu ở mục Từ vựng.</p> : null}
           </div>
         ) : null}
       </section>

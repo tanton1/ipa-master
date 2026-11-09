@@ -1,0 +1,58 @@
+# Nhóm 27 – Quần áo, mua sắm, tiền
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Quần áo, mua sắm, tiền|Mua sắm|Âm cuối số nhiều /s/, /z/, /ɪz/ và chữ câm trong debt|Quần áo, phụ kiện, mua sắm, giảm giá và tiền bạc. Luyện âm cuối của danh từ số nhiều: socks /s/, jeans /z/, glasses /ɪz/.|jeans,glasses,cashier,debt
+= Quần áo|Âm cuối số nhiều: /z/ trong jeans, /s/ trong socks, /ts/ trong shorts
+dress|dɹɛs|n|váy liền, đầm|She wore a red dress.|Cô ấy mặc váy đỏ.||
+skirt|skɝt|n|chân váy|I like your skirt.|Tôi thích chân váy của bạn.||
+jacket|ˈdʒækɪt|n|áo khoác|Take a jacket, it's cold.|Mang áo khoác đi, trời lạnh.||
+coat|koʊt|n|áo khoác dài, áo choàng|Hang up your coat.|Treo áo khoác lên.||
+sweater|ˈswɛtɚ|n|áo len|This sweater is warm.|Áo len này ấm.||Chữ ea đọc /ɛ/.
+jeans|dʒinz|n|quần jean|I always wear jeans.|Tôi luôn mặc quần jean.||Âm cuối /nz/.
+pants|pænts|n|quần dài|These pants are too long.|Quần này dài quá.||
+shorts|ʃɔɹts|n|quần đùi, quần soóc|He wears shorts in summer.|Mùa hè anh ấy mặc quần soóc.||Cụm cuối /ɹts/.
+socks|sɑks|n|tất, vớ|My socks are wet.|Tất của tôi bị ướt.||
+boots|buts|n|ủng, bốt|She bought new boots.|Cô ấy mua đôi bốt mới.||
+= Phụ kiện|o đọc /ʌ/ trong gloves; cụm cuối /lt/ trong belt
+hat|hæt|n|mũ, nón|Wear a hat in the sun.|Đội mũ khi ra nắng.||
+gloves|glʌvz|n|găng tay|Wear gloves when it's cold.|Đeo găng tay khi trời lạnh.||Chữ o đọc /ʌ/; cụm cuối /vz/.
+scarf|skɑɹf|n|khăn quàng|She has a silk scarf.|Cô ấy có một chiếc khăn lụa.||
+belt|bɛlt|n|thắt lưng|My belt is too tight.|Thắt lưng của tôi chật quá.||
+uniform|ˈjunəˌfɔɹm|n|đồng phục|Nurses wear a white uniform.|Y tá mặc đồng phục trắng.||Âm đầu /j/.
+suit|sut|n|bộ com-lê|He wore a black suit.|Anh ấy mặc com-lê đen.||Chữ ui đọc /u/.
+pocket|ˈpɑkɪt|n|túi (quần áo)|Check your pockets.|Kiểm tra túi áo đi.||
+button|ˈbʌtən|n|cúc áo; nút bấm|A button is missing.|Bị mất một cái cúc.||/t/ trước /ən/ thường bật nhẹ ở họng.
+zipper|ˈzɪpɚ|n|khóa kéo|My zipper is stuck.|Khóa kéo của tôi bị kẹt.||
+necklace|ˈnɛkləs|n|dây chuyền|What a beautiful necklace!|Dây chuyền đẹp quá!||Chữ ace đọc /əs/.
+= Thời trang và giảm giá|-es đọc /ɪz/ trong glasses; /ʃ/ trong fashion, cash
+earring|ˈɪɹɪŋ|n|bông tai|She lost an earring.|Cô ấy làm mất một chiếc bông tai.||
+bracelet|ˈbɹeɪslət|n|vòng tay|This bracelet is gold.|Chiếc vòng này bằng vàng.||
+glasses|ˈglæsɪz|n|kính mắt|Where are my glasses?|Kính của tôi đâu?||Đuôi -es đọc /ɪz/.
+sunglasses|ˈsʌnˌglæsɪz|n|kính râm|Don't forget your sunglasses.|Đừng quên kính râm.||
+fashion|ˈfæʃən|n|thời trang|She works in fashion.|Cô ấy làm trong ngành thời trang.||
+style|staɪl|n|phong cách, kiểu|I love your style.|Tôi thích phong cách của bạn.||
+color|ˈkʌlɚ|n|màu sắc|What color is it?|Nó màu gì?||Chữ o đầu đọc /ʌ/.
+sale|seɪl|n|đợt giảm giá; việc bán|There is a big sale today.|Hôm nay có đợt giảm giá lớn.||Đồng âm với sail.
+discount|ˈdɪskaʊnt|n|sự giảm giá|Can I get a discount?|Tôi được giảm giá không?||
+cash|kæʃ|n|tiền mặt|I have no cash.|Tôi không có tiền mặt.||
+= Mua sắm|Trọng âm cashier ở âm tiết hai; qu đọc /kw/ trong quality
+coin|kɔɪn|n|đồng xu|I collect old coins.|Tôi sưu tầm tiền xu cổ.||
+credit|ˈkɹɛdɪt|n|tín dụng|I don't use credit.|Tôi không dùng tín dụng.||
+cost|kɔst|n|chi phí|What is the cost?|Chi phí bao nhiêu?||
+cashier|kæˈʃɪɹ|n|thu ngân|Pay at the cashier.|Trả tiền ở quầy thu ngân.||Trọng âm âm tiết hai.
+mall|mɔl|n|trung tâm mua sắm|Let's go to the mall.|Đi trung tâm mua sắm đi.||
+supermarket|ˈsupɚˌmɑɹkɪt|n|siêu thị|The supermarket closes at ten.|Siêu thị đóng cửa lúc mười giờ.||
+brand|bɹænd|n|nhãn hiệu|What brand is your phone?|Điện thoại bạn hiệu gì?||
+quality|ˈkwɑləti|n|chất lượng|The quality is good.|Chất lượng tốt.||
+shopping|ˈʃɑpɪŋ|n|việc mua sắm|I love shopping.|Tôi thích mua sắm.||
+afford|əˈfɔɹd|v|đủ khả năng chi trả|I can't afford it.|Tôi không đủ tiền mua nó.||
+= Tiền bạc|b câm trong debt; x đọc /ks/ trong tax
+rent|ɹɛnt|n|tiền thuê|The rent is too high.|Tiền thuê quá cao.||
+save|seɪv|v|tiết kiệm; cứu|I save money every month.|Tháng nào tôi cũng tiết kiệm tiền.||Âm cuối /v/; khác safe /seɪf/.
+purse|pɝs|n|ví nữ, túi xách nhỏ|She keeps her phone in her purse.|Cô ấy để điện thoại trong túi xách.||
+bargain|ˈbɑɹgən|n|món hời|This dress was a bargain.|Chiếc váy này là món hời.||
+refund|ˈɹiˌfʌnd|n|tiền hoàn lại|I want a refund.|Tôi muốn được hoàn tiền.||Động từ refund nhấn âm tiết hai.
+tax|tæks|n|thuế|Is tax included?|Đã bao gồm thuế chưa?||
+budget|ˈbʌdʒɪt|n|ngân sách|We are on a tight budget.|Chúng tôi đang chi tiêu eo hẹp.||
+debt|dɛt|n|món nợ|He is trying to pay his debts.|Anh ấy đang cố trả nợ.||Chữ b không đọc.
+loan|loʊn|n|khoản vay|I need a loan.|Tôi cần một khoản vay.||Đồng âm với lone.
+salary|ˈsæləɹi|n|lương|The salary is good.|Lương khá.||

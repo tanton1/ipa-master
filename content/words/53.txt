@@ -1,0 +1,58 @@
+# Nhóm 53 – Động từ học thuật
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Động từ học thuật|Học thuật|Tiền tố re-, con-, de- đọc nhẹ, trọng âm âm tiết hai|Động từ thường gặp trong bài đọc, báo cáo và kỳ thi IELTS, TOEIC: phân tích, xác định, cung cấp, phát triển. Phần lớn có trọng âm ở âm tiết thứ hai.|analyze,concentrate,determine,represent
+= Đạt được và phân tích|affect (động từ) khác effect (danh từ); /ʒ/ trong measure
+achieve|əˈtʃiv|v|đạt được|You can achieve your dream.|Bạn có thể đạt được ước mơ.||
+affect|əˈfɛkt|v|ảnh hưởng đến|The weather affects my mood.|Thời tiết ảnh hưởng tâm trạng tôi.||Danh từ là effect.
+analyze|ˈænəˌlaɪz|v|phân tích|Analyze the results.|Phân tích kết quả.||
+assume|əˈsum|v|cho rằng, giả định|I assume you're tired.|Tôi đoán bạn mệt.||
+attract|əˈtɹækt|v|thu hút|Flowers attract bees.|Hoa thu hút ong.||
+claim|kleɪm|v|khẳng định; đòi|He claims he is right.|Anh ta khẳng định mình đúng.||
+compete|kəmˈpit|v|cạnh tranh, thi đấu|Ten teams will compete.|Mười đội sẽ thi đấu.||
+concentrate|ˈkɑnsənˌtɹeɪt|v|tập trung|I can't concentrate.|Tôi không tập trung được.||Trọng âm âm tiết đầu.
+confirm|kənˈfɝm|v|xác nhận|Please confirm your email.|Vui lòng xác nhận email của bạn.||
+measure|ˈmɛʒɚ|v|đo|Measure the table.|Đo cái bàn đi.||Chữ s đọc /ʒ/.
+= Tạo ra và phát triển|g câm trong design; trọng âm develop ở âm tiết hai
+contain|kənˈteɪn|v|chứa|This box contains books.|Thùng này chứa sách.||
+contribute|kənˈtɹɪbjut|v|đóng góp|Everyone contributed money.|Mọi người đều góp tiền.||
+create|kɹiˈeɪt|v|tạo ra|She creates beautiful art.|Cô ấy tạo ra những tác phẩm đẹp.||Hai âm tiết.
+define|dɪˈfaɪn|v|định nghĩa|Define the word "love".|Định nghĩa từ "tình yêu".||
+depend|dɪˈpɛnd|v|phụ thuộc|It depends on the weather.|Tùy thời tiết.||
+design|dɪˈzaɪn|v|thiết kế|He designs houses.|Anh ấy thiết kế nhà.||Chữ g không đọc, s đọc /z/.
+determine|dɪˈtɝmɪn|v|xác định, quyết định|Your effort determines your result.|Nỗ lực quyết định kết quả của bạn.||Chữ ine đọc /ɪn/.
+develop|dɪˈvɛləp|v|phát triển|The city is developing fast.|Thành phố đang phát triển nhanh.||
+establish|ɪˈstæblɪʃ|v|thành lập|The school was established in 1990.|Trường được thành lập năm 1990.||
+examine|ɪgˈzæmɪn|v|kiểm tra, khám|The doctor examined my eyes.|Bác sĩ khám mắt cho tôi.||Chữ x đọc /gz/.
+= Tồn tại và quản lý|x đọc /gz/ trong exist; cụm cuối /lv/ trong involve
+exist|ɪgˈzɪst|v|tồn tại|Do ghosts exist?|Ma có tồn tại không?||Chữ x đọc /gz/.
+expand|ɪkˈspænd|v|mở rộng|The company is expanding.|Công ty đang mở rộng.||
+identify|aɪˈdɛntəˌfaɪ|v|nhận dạng, xác định|Can you identify this bird?|Bạn nhận ra loài chim này không?||
+ignore|ɪgˈnɔɹ|v|phớt lờ|Don't ignore me.|Đừng phớt lờ tôi.||
+indicate|ˈɪndɪˌkeɪt|v|chỉ ra, cho thấy|The sign indicates the exit.|Biển báo chỉ lối ra.||
+involve|ɪnˈvɑlv|v|bao gồm, liên quan|The job involves travel.|Công việc phải đi lại nhiều.||
+maintain|meɪnˈteɪn|v|duy trì|Maintain a healthy diet.|Duy trì chế độ ăn lành mạnh.||
+manage|ˈmænɪdʒ|v|quản lý; xoay xở|She manages a hotel.|Cô ấy quản lý một khách sạn.||
+obtain|əbˈteɪn|v|có được|You must obtain permission.|Bạn phải được cho phép.||
+occur|əˈkɝ|v|xảy ra|The accident occurred at night.|Tai nạn xảy ra vào ban đêm.||
+= Tổ chức và nhận ra|Trọng âm âm tiết đầu: organize, recognize, publish
+organize|ˈɔɹgəˌnaɪz|v|tổ chức|Who organized the trip?|Ai tổ chức chuyến đi?||
+perform|pɚˈfɔɹm|v|biểu diễn; thực hiện|The band will perform tonight.|Ban nhạc sẽ biểu diễn tối nay.||
+predict|pɹɪˈdɪkt|v|dự đoán|Can you predict the weather?|Bạn đoán được thời tiết không?||
+provide|pɹəˈvaɪd|v|cung cấp|We provide free wifi.|Chúng tôi cung cấp wifi miễn phí.||
+publish|ˈpʌblɪʃ|v|xuất bản|They published my article.|Họ đã đăng bài báo của tôi.||
+recognize|ˈɹɛkəgˌnaɪz|v|nhận ra|I didn't recognize you.|Tôi không nhận ra bạn.||
+reflect|ɹɪˈflɛkt|v|phản chiếu; phản ánh|The lake reflects the trees.|Mặt hồ phản chiếu hàng cây.||
+relate|ɹɪˈleɪt|v|liên quan|This question relates to history.|Câu hỏi này liên quan đến lịch sử.||
+rely|ɹɪˈlaɪ|v|dựa vào|Don't rely on others.|Đừng ỷ lại vào người khác.||
+remain|ɹɪˈmeɪn|v|vẫn còn, ở lại|Please remain seated.|Vui lòng ngồi yên tại chỗ.||
+= Thay thế và đáp ứng|qu đọc /kw/ trong require; ou đọc /ɝ/ trong encourage
+remove|ɹɪˈmuv|v|gỡ bỏ, cởi|Remove your hat.|Bỏ mũ ra.||
+replace|ɹɪˈpleɪs|v|thay thế|Replace the old tires.|Thay lốp cũ.||
+represent|ˌɹɛpɹɪˈzɛnt|v|đại diện; tượng trưng|The red color represents luck.|Màu đỏ tượng trưng cho may mắn.||Trọng âm âm tiết ba.
+require|ɹɪˈkwaɪɹ|v|yêu cầu, cần|This job requires English.|Công việc này yêu cầu tiếng Anh.||
+respond|ɹɪˈspɑnd|v|đáp lại, phản hồi|She didn't respond.|Cô ấy không trả lời.||
+reveal|ɹɪˈvil|v|tiết lộ|He revealed the secret.|Anh ấy tiết lộ bí mật.||
+select|sɪˈlɛkt|v|lựa chọn|Select your seat.|Chọn chỗ ngồi của bạn.||
+survive|sɚˈvaɪv|v|sống sót|Few people survived the crash.|Ít người sống sót sau vụ tai nạn.||
+tend|tɛnd|v|có xu hướng|Old people tend to wake up early.|Người già thường dậy sớm.||
+encourage|ɪnˈkɝɪdʒ|v|khuyến khích, động viên|My parents encourage me.|Bố mẹ động viên tôi.||Chữ ou đọc /ɝ/.

@@ -1,0 +1,58 @@
+# Nhóm 38 – Cảm xúc, tính cách 2
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Cảm xúc, tính cách 2|Cảm xúc 2|Ba cách đọc đuôi -ed: /t/, /d/, /ɪd/|Danh từ và tính từ chỉ cảm xúc, thái độ, tính cách. Nhiều tính từ tận cùng -ed: relaxed /t/, confused /d/, disappointed /ɪd/. Người Việt hay bỏ âm cuối này.|embarrassed,disappointed,personality,character
+= Cảm xúc (danh từ)|/ʒ/ trong pleasure; /ŋg/ trong anger
+feeling|ˈfilɪŋ|n|cảm giác, cảm xúc|I have a bad feeling.|Tôi có linh cảm xấu.||
+emotion|ɪˈmoʊʃən|n|cảm xúc|She hides her emotions.|Cô ấy giấu cảm xúc.||
+mood|mud|n|tâm trạng|I'm not in the mood.|Tôi không có hứng.||Chữ oo đọc /u/.
+fear|fɪɹ|n|nỗi sợ|Face your fears.|Hãy đối mặt với nỗi sợ.||
+anger|ˈæŋgɚ|n|cơn giận|He couldn't hide his anger.|Anh ấy không giấu được cơn giận.||Có âm /g/ sau /ŋ/.
+joy|dʒɔɪ|n|niềm vui|Children bring us joy.|Con cái mang lại niềm vui.||
+pleasure|ˈplɛʒɚ|n|niềm vui thích|It's a pleasure to meet you.|Rất hân hạnh được gặp bạn.||Chữ s đọc /ʒ/.
+pride|pɹaɪd|n|niềm tự hào|She is the pride of her family.|Cô ấy là niềm tự hào của gia đình.||
+shame|ʃeɪm|n|sự xấu hổ; điều đáng tiếc|It's a shame you can't come.|Tiếc là bạn không đến được.||
+stress|stɹɛs|n|căng thẳng|Exercise reduces stress.|Tập thể dục giảm căng thẳng.||
+= Lo lắng và bối rối|Đuôi -ed: embarrassed /t/, confused /d/, disappointed /ɪd/
+pressure|ˈpɹɛʃɚ|n|áp lực|I work well under pressure.|Tôi làm việc tốt dưới áp lực.||Chữ ss đọc /ʃ/.
+nervous|ˈnɝvəs|adj|hồi hộp, lo lắng|I'm nervous about the test.|Tôi hồi hộp vì bài kiểm tra.||
+anxious|ˈæŋkʃəs|adj|lo âu|She looks anxious.|Trông cô ấy lo âu.||Chữ x đọc /kʃ/.
+upset|ʌpˈsɛt|adj|buồn bực|Why are you upset?|Sao bạn buồn vậy?||
+lonely|ˈloʊnli|adj|cô đơn|I feel lonely.|Tôi thấy cô đơn.||
+jealous|ˈdʒɛləs|adj|ghen tị|Don't be jealous.|Đừng ghen tị.||Chữ ea đọc /ɛ/.
+embarrassed|ɪmˈbɛɹəst|adj|xấu hổ, ngượng|I was so embarrassed.|Tôi ngượng chín mặt.||Đuôi -ed đọc /t/.
+confused|kənˈfjuzd|adj|bối rối|I'm confused.|Tôi bối rối quá.||Đuôi -ed đọc /d/: cụm cuối /zd/.
+disappointed|ˌdɪsəˈpɔɪntɪd|adj|thất vọng|I'm disappointed in you.|Tôi thất vọng về bạn.||Đuôi -ed đọc /ɪd/ sau /t/.
+satisfied|ˈsætɪsˌfaɪd|adj|hài lòng|Are you satisfied?|Bạn hài lòng chứ?||
+= Đuôi -ed và cảm xúc tích cực|relaxed /kst/, shocked /kt/, pleased /zd/, delighted /ɪd/
+relaxed|ɹɪˈlækst|adj|thư giãn|I feel relaxed.|Tôi thấy thư thái.||Đuôi -ed đọc /t/: cụm cuối /kst/.
+confident|ˈkɑnfɪdənt|adj|tự tin|Be confident!|Tự tin lên!||
+curious|ˈkjʊɹiəs|adj|tò mò|Cats are curious.|Mèo rất tò mò.||
+grateful|ˈgɹeɪtfəl|adj|biết ơn|I'm grateful for your help.|Tôi biết ơn sự giúp đỡ của bạn.||
+ashamed|əˈʃeɪmd|adj|hổ thẹn|You should be ashamed.|Bạn nên thấy xấu hổ.||Đuôi -ed đọc /d/.
+scared|skɛɹd|adj|sợ hãi|Don't be scared.|Đừng sợ.||
+frightened|ˈfɹaɪtənd|adj|hoảng sợ|The child was frightened.|Đứa trẻ hoảng sợ.||Chữ gh không đọc.
+shocked|ʃɑkt|adj|bị sốc|I was shocked by the news.|Tôi sốc vì tin đó.||Đuôi -ed đọc /t/.
+pleased|plizd|adj|hài lòng, vui|I'm pleased with the result.|Tôi hài lòng với kết quả.||Cụm cuối /zd/.
+delighted|dɪˈlaɪtɪd|adj|vui mừng|We are delighted.|Chúng tôi rất vui mừng.||
+= Tính cách 2|-tious đọc /ʃəs/ trong ambitious; trọng âm creative ở âm tiết hai
+cheerful|ˈtʃɪɹfəl|adj|vui vẻ|She is always cheerful.|Cô ấy lúc nào cũng vui vẻ.||
+miserable|ˈmɪzɚəbəl|adj|khổ sở|He looks miserable.|Trông anh ấy khổ sở.||Thường đọc 3 âm tiết /ˈmɪz·ɹə·bəl/.
+depressed|dɪˈpɹɛst|adj|chán nản, trầm cảm|She felt depressed.|Cô ấy thấy chán nản.||
+emotional|ɪˈmoʊʃənəl|adj|xúc động, đa cảm|It was an emotional day.|Đó là một ngày đầy xúc động.||
+sensitive|ˈsɛnsɪtɪv|adj|nhạy cảm|He is very sensitive.|Anh ấy rất nhạy cảm.||
+cruel|ˈkɹuəl|adj|tàn nhẫn|Don't be cruel to animals.|Đừng tàn nhẫn với động vật.||
+humble|ˈhʌmbəl|adj|khiêm tốn|He is rich but humble.|Anh ấy giàu nhưng khiêm tốn.||
+modest|ˈmɑdɪst|adj|khiêm tốn, giản dị|She is modest about her success.|Cô ấy khiêm tốn về thành công của mình.||
+ambitious|æmˈbɪʃəs|adj|có tham vọng|He is very ambitious.|Anh ấy rất tham vọng.||Chữ ti đọc /ʃ/.
+creative|kɹiˈeɪtɪv|adj|sáng tạo|She is a creative designer.|Cô ấy là nhà thiết kế sáng tạo.||Trọng âm âm tiết hai.
+= Thái độ và tính cách|ch đọc /k/ trong character; trọng âm personality ở âm tiết ba
+energetic|ˌɛnɚˈdʒɛtɪk|adj|năng nổ|Kids are energetic.|Trẻ con rất năng nổ.||
+active|ˈæktɪv|adj|năng động|My grandmother is still active.|Bà tôi vẫn còn năng động.||
+positive|ˈpɑzətɪv|adj|tích cực|Stay positive!|Hãy luôn tích cực!||
+negative|ˈnɛgətɪv|adj|tiêu cực; âm tính|Don't be so negative.|Đừng tiêu cực thế.||
+optimistic|ˌɑptəˈmɪstɪk|adj|lạc quan|I'm optimistic.|Tôi lạc quan.||
+passion|ˈpæʃən|n|niềm đam mê|Music is my passion.|Âm nhạc là đam mê của tôi.||
+attitude|ˈætɪˌtud|n|thái độ|Your attitude is important.|Thái độ của bạn rất quan trọng.||
+personality|ˌpɝsəˈnælɪti|n|tính cách|She has a great personality.|Cô ấy có tính cách tuyệt vời.||Trọng âm âm tiết ba.
+character|ˈkɛɹɪktɚ|n|tính cách; nhân vật; chữ|He has a strong character.|Anh ấy có tính cách mạnh mẽ.||Chữ ch đọc /k/.
+sympathy|ˈsɪmpəθi|n|sự cảm thông|I have sympathy for her.|Tôi cảm thông với cô ấy.||

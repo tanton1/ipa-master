@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+appreciate|appreciate your help|cảm kích sự giúp đỡ của bạn|I really appreciate your help.|Tôi thật sự cảm kích sự giúp đỡ của bạn.
+attempt|first attempt|lần thử đầu tiên|She passed on her first attempt.|Cô ấy đỗ ngay lần thi đầu.
+behave|behave yourself|cư xử đàng hoàng|Behave yourself at the party.|Cư xử đàng hoàng ở bữa tiệc nhé.
+bother|don't bother|khỏi phải bận tâm|Don't bother, I'll do it.|Bạn khỏi bận tâm, để tôi làm.
+cheat|cheat on a test|gian lận khi thi|Never cheat on a test.|Đừng bao giờ gian lận khi thi.
+cheer|cheer up|vui lên|Cheer up, it's not so bad.|Vui lên nào, đâu đến nỗi tệ.
+deny|deny it|phủ nhận điều đó|You can't deny it.|Bạn không thể phủ nhận điều đó.
+deserve|deserve a rest|xứng đáng được nghỉ|You worked hard. You deserve a rest.|Bạn làm việc chăm chỉ rồi. Bạn xứng đáng được nghỉ.
+doubt|no doubt|chắc chắn|No doubt she will win.|Chắc chắn cô ấy sẽ thắng.
+entertain|entertain guests|tiếp đãi khách|My mother loves to entertain guests.|Mẹ tôi thích tiếp đãi khách.
+fit|keep fit|giữ dáng|I swim to keep fit.|Tôi bơi để giữ dáng.
+force|force of habit|thói quen khó bỏ|I wake up at five out of force of habit.|Tôi dậy lúc năm giờ theo thói quen.
+frighten|frighten the children|làm bọn trẻ sợ|Don't frighten the children with ghost stories.|Đừng làm bọn trẻ sợ bằng chuyện ma.
+hesitate|don't hesitate|đừng ngần ngại|Don't hesitate to call me.|Đừng ngần ngại gọi tôi.
+insist|I insist|tôi nhất định|Let me pay. I insist!|Để tôi trả. Tôi nhất định đấy!
+interrupt|sorry to interrupt|xin lỗi đã ngắt lời|Sorry to interrupt, but you have a call.|Xin lỗi đã ngắt lời, có điện thoại cho bạn.
+mind|never mind|không sao đâu|"I forgot your book." "Never mind."|"Tôi quên sách của bạn rồi." "Không sao đâu."
+obey|obey the rules|tuân thủ luật lệ|Everyone must obey the rules.|Mọi người phải tuân thủ luật lệ.
+owe|owe you one|nợ bạn một lần|Thanks for your help. I owe you one.|Cảm ơn bạn đã giúp. Tôi nợ bạn một lần nhé.
+persuade|persuade him|thuyết phục anh ấy|Can you persuade him to come?|Bạn thuyết phục anh ấy đến được không?
+pronounce|pronounce this word|phát âm từ này|How do you pronounce this word?|Từ này phát âm thế nào?
+react|react quickly|phản ứng nhanh|Drivers must react quickly.|Tài xế phải phản ứng nhanh.
+regret|no regrets|không hối tiếc|I made my choice. No regrets.|Tôi đã chọn rồi. Không hối tiếc.
+relax|relax and enjoy|thư giãn và tận hưởng|Sit back, relax and enjoy the show.|Ngồi thoải mái, thư giãn và thưởng thức buổi diễn.
+remind|remind me|nhắc tôi|Please remind me to call my mother.|Nhắc tôi gọi điện cho mẹ nhé.
+rob|rob a bank|cướp ngân hàng|Two men tried to rob a bank.|Hai người đàn ông định cướp ngân hàng.
+satisfy|satisfy your hunger|thỏa cơn đói|A bowl of pho will satisfy your hunger.|Một bát phở sẽ giúp bạn hết đói.
+scare|scare away|làm sợ chạy mất|The dog will scare away the birds.|Con chó sẽ làm lũ chim sợ bay mất.
+shock|culture shock|sốc văn hóa|Many students feel culture shock abroad.|Nhiều sinh viên bị sốc văn hóa khi ra nước ngoài.
+sigh|sigh of relief|tiếng thở phào|She gave a sigh of relief.|Cô ấy thở phào nhẹ nhõm.
+stick|stick to the plan|bám sát kế hoạch|Let's stick to the plan.|Hãy bám sát kế hoạch.
+struggle|struggle with|vật lộn với|Many students struggle with grammar.|Nhiều học sinh vật lộn với ngữ pháp.
+surprise|surprise party|bữa tiệc bất ngờ|We are planning a surprise party for Lan.|Chúng tôi đang lên kế hoạch tiệc bất ngờ cho Lan.
+threaten|threaten to leave|dọa bỏ đi|Don't threaten to leave every time we argue.|Đừng lần nào cãi nhau cũng dọa bỏ đi.
+trick|trick question|câu hỏi mẹo|Is this a trick question?|Đây có phải câu hỏi mẹo không?
+weigh|weigh yourself|tự cân|Weigh yourself every morning.|Hãy tự cân mỗi sáng.
+whistle|blow the whistle|thổi còi|The referee will blow the whistle.|Trọng tài sẽ thổi còi.
+yawn|yawn loudly|ngáp to|Don't yawn loudly in class.|Đừng ngáp to trong lớp.
+confuse|confuse the two words|nhầm hai từ|Many people confuse the two words "lose" and "loose".|Nhiều người nhầm hai từ "lose" và "loose".
+convince|convince my parents|thuyết phục bố mẹ|I need to convince my parents to let me go.|Tôi cần thuyết phục bố mẹ cho tôi đi.
+disappoint|never disappoint|không bao giờ làm thất vọng|This restaurant will never disappoint you.|Nhà hàng này sẽ không bao giờ làm bạn thất vọng.
+divide|divide the class into groups|chia lớp thành nhóm|Let's divide the class into groups of four.|Mình chia lớp thành các nhóm bốn người nhé.
+multiply|multiply by three|nhân với ba|If you multiply by three, you get fifteen.|Nếu nhân với ba, bạn được mười lăm.
+calculate|calculate the cost|tính chi phí|Let's calculate the cost of the trip.|Mình tính chi phí chuyến đi nhé.
+mark|mark the answer|đánh dấu đáp án|Mark the answer with a tick.|Đánh dấu đáp án bằng dấu tích.
+decorate|decorate the house|trang trí nhà|We decorate the house before Tet.|Chúng tôi trang trí nhà trước Tết.
+beg|beg for money|xin tiền|It's sad to see children beg for money.|Thật buồn khi thấy trẻ em đi xin tiền.
+bet|I bet|tôi cá là|I bet you can't do it.|Tôi cá là bạn không làm được.
+blame|blame yourself|tự trách mình|Don't blame yourself.|Đừng tự trách mình.
+admire|admire the view|ngắm cảnh|We stopped to admire the view.|Chúng tôi dừng lại ngắm cảnh.

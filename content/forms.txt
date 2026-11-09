@@ -1,0 +1,125 @@
+# Dạng đọc theo ngữ cảnh của từ chức năng – Anh-Mỹ phổ thông. Bản nháp, cần giáo viên ngữ âm duyệt.
+# Dòng @slug|tóm tắt|quy tắc cần nhớ (tuỳ chọn)
+# Dòng dạng: ipa|nhãn|khi nào dùng|ví dụ 1; ví dụ 2|phiên âm ví dụ 1|E (nếu là dạng nhấn mạnh)
+
+@the|Nguyên âm của "the" đổi theo ÂM đầu của từ đi sau, không theo chữ cái.|the hour đọc /ði/ vì "hour" bắt đầu bằng âm nguyên âm; the university đọc /ðə/ vì "university" bắt đầu bằng âm /j/.
+ðə|Trước phụ âm|Từ sau bắt đầu bằng âm phụ âm. Đọc nhẹ, ngắn.|the book; the car; the phone|ðə bʊk|
+ði|Trước nguyên âm|Từ sau bắt đầu bằng âm nguyên âm.|the apple; the egg; the orange|ði ˈæpəl|
+ði|Nhấn mạnh|Khi muốn nói "duy nhất, nổi bật nhất"; kéo dài và nhấn.|It is the place to go.|ɪt ɪz ði pleɪs tə goʊ|E
+
+@a|"a" gần như luôn đọc nhẹ /ə/; chỉ đọc /eɪ/ khi nhấn mạnh hoặc đọc từng chữ.|
+ə|Dạng thường|Trong câu nói tự nhiên, trước danh từ.|a cat; a book; I have a car.|ə kæt|
+eɪ|Nhấn mạnh|Khi sửa lại hoặc nhấn "chỉ một".|I said a cat, not two cats.|aɪ sɛd eɪ kæt|E
+
+@an|"an" dùng trước ÂM nguyên âm, không phải trước chữ cái nguyên âm.|an hour đúng vì "hour" bắt đầu bằng âm /aʊ/; a university đúng vì "university" bắt đầu bằng âm /j/.
+ən|Dạng thường|Trước từ bắt đầu bằng âm nguyên âm; nối liền sang từ sau.|an apple; an hour; an egg|ən ˈæpəl|
+æn|Nhấn mạnh|Khi đọc chậm hoặc nhấn "một".|Just an apple, not two.|dʒʌst æn ˈæpəl|E
+
+@to|Giới từ "to" đọc nhẹ /tə/ trước phụ âm; giữ /tu/ trước nguyên âm hoặc cuối câu.|
+tə|Dạng yếu|Trước phụ âm, trong câu nói tự nhiên.|go to school; I want to go.; from Monday to Friday|goʊ tə skul|
+tu|Dạng mạnh|Trước nguyên âm hoặc ở cuối câu.|to open the door; Where are you going to?|tu ˈoʊpən ðə dɔɹ|
+
+@of|"of" hầu như luôn đọc nhẹ /əv/; dạng mạnh /ʌv/ chỉ ở cuối câu hoặc khi nhấn.|
+əv|Dạng yếu|Trong cụm danh từ, nói nhanh.|a cup of tea; one of them; the end of the day|ə kʌp əv ti|
+ʌv|Dạng mạnh|Cuối câu hoặc khi nhấn mạnh.|What are you thinking of?|wʌt ɑɹ ju ˈθɪŋkɪŋ ʌv|
+
+@and|"and" trong câu thường rút còn /ən/ hoặc /ənd/.|
+ən|Dạng yếu|Nối hai từ trong câu nói nhanh; /d/ thường mất.|bread and butter; you and me; black and white|bɹɛd ən ˈbʌtɚ|
+ænd|Dạng mạnh|Đầu câu, cuối câu hoặc khi nhấn mạnh.|And then?; I said and, not or.|ænd ðɛn|E
+
+@for|"for" đọc nhẹ /fɚ/ trong câu; /fɔɹ/ khi nhấn hoặc cuối câu.|
+fɚ|Dạng yếu|Trước danh từ hoặc đại từ trong câu.|for you; wait for me; a gift for my mother|fɚ ju|
+fɔɹ|Dạng mạnh|Cuối câu hoặc khi nhấn mạnh.|What is this for?|wʌt ɪz ðɪs fɔɹ|
+
+@from|"from" đọc nhẹ /fɹəm/ trong câu; /fɹʌm/ ở cuối câu hoặc khi nhấn.|
+fɹəm|Dạng yếu|Giữa câu, trước danh từ.|from Vietnam; a letter from my friend; from here to there|fɹəm ˌviɛtˈnɑm|
+fɹʌm|Dạng mạnh|Cuối câu hoặc khi nhấn mạnh.|Where are you from?|wɛɹ ɑɹ ju fɹʌm|
+
+@at|"at" đọc nhẹ /ət/ trong câu; /æt/ ở cuối câu.|
+ət|Dạng yếu|Trước danh từ chỉ nơi, thời gian.|at home; at school; at six o'clock|ət hoʊm|
+æt|Dạng mạnh|Cuối câu hoặc khi nhấn mạnh.|What are you looking at?|wʌt ɑɹ ju ˈlʊkɪŋ æt|
+
+@that|"that" đọc /ðæt/ khi chỉ định; đọc nhẹ /ðət/ khi là liên từ hoặc đại từ quan hệ.|
+ðæt|Chỉ định|Nghĩa "đó, cái đó", có thể đứng một mình.|That is my car.; I like that.|ðæt ɪz maɪ kɑɹ|
+ðət|Liên từ, quan hệ|Nối hai mệnh đề; không nhấn.|I think that it is good.; the book that I read|aɪ θɪŋk ðət ɪt ɪz gʊd|
+
+@them|"them" trong câu thường đọc /ðəm/.|
+ðəm|Dạng yếu|Sau động từ hoặc giới từ, không nhấn.|I see them every day.; tell them; with them|aɪ si ðəm ˈɛvɹi deɪ|
+ðɛm|Dạng mạnh|Khi đối lập hoặc nhấn mạnh.|Not us, them.|nɑt ʌs ðɛm|E
+
+@her|"her" trong câu thường đọc /hɚ/, nói nhanh sau phụ âm có thể mất /h/.|
+hɚ|Dạng yếu|Giữa câu, không nhấn.|I like her voice.; her book; give her the key|aɪ laɪk hɚ vɔɪs|
+ɚ|Mất /h/|Sau phụ âm khi nói nhanh; nối liền với từ trước.|tell her; ask her|ˈtɛlɚ|
+hɝ|Dạng mạnh|Đầu câu hoặc khi nhấn mạnh.|Her car is red.|hɝ kɑɹ ɪz ɹɛd|E
+
+@him|"him" sau phụ âm khi nói nhanh thường mất /h/.|
+ɪm|Mất /h/|Sau động từ, nối liền khi nói nhanh.|tell him; I know him.; give him the book|ˈtɛlɪm|
+hɪm|Dạng đầy đủ|Đầu câu, sau quãng nghỉ hoặc khi nhấn.|Him? I do not know.|hɪm aɪ du nɑt noʊ|
+
+@his|"his" giữa câu khi nói nhanh thường mất /h/.|
+ɪz|Mất /h/|Sau phụ âm khi nói nhanh.|I like his car.; take his bag|aɪ laɪkɪz kɑɹ|
+hɪz|Dạng đầy đủ|Đầu câu, sau quãng nghỉ hoặc khi nhấn.|His car is red.|hɪz kɑɹ ɪz ɹɛd|
+
+@you|"you" đọc nhẹ /jə/ trong câu nói nhanh; /ju/ khi nhấn hoặc cuối câu.|
+jə|Dạng yếu|Giữa câu, trước phụ âm, nói nhanh.|Thank you very much.; See you later.; Do you like it?|θæŋk jə ˈvɛɹi mʌtʃ|
+ju|Dạng mạnh|Cuối câu hoặc khi nhấn mạnh.|How are you?; It was you.|haʊ ɑɹ ju|
+
+@your|"your" đọc nhẹ /jɚ/ trong câu nói tự nhiên.|
+jɚ|Dạng yếu|Trước danh từ, không nhấn.|your name; your book; What is your name?|jɚ neɪm|
+jɔɹ|Dạng mạnh|Khi nhấn mạnh sở hữu.|It is your turn, not mine.|ɪt ɪz jɔɹ tɝn|E
+
+@us|"us" trong câu thường đọc nhẹ /əs/.|
+əs|Dạng yếu|Sau động từ hoặc giới từ.|help us; come with us; tell us|hɛlp əs|
+ʌs|Dạng mạnh|Khi nhấn mạnh hoặc đối lập.|Not them, us.|nɑt ðɛm ʌs|E
+
+@have|"have" là trợ động từ thì đọc nhẹ; là động từ chính (sở hữu) thì đọc /hæv/.|
+hæv|Động từ chính|Nghĩa "có", nhấn bình thường.|I have a car.; We have two cats.|aɪ hæv ə kɑɹ|
+həv|Trợ động từ|Trong thì hoàn thành, không nhấn; nói nhanh còn /əv/.|We have seen it.; They have gone home.|wi həv sin ɪt|
+
+@do|"do" là trợ động từ trong câu hỏi thì đọc nhẹ /də/.|
+də|Trợ động từ|Đầu câu hỏi hoặc sau từ hỏi, trước phụ âm.|Do you like it?; What do you want?|də jə laɪk ɪt|
+du|Động từ chính|Nghĩa "làm", hoặc cuối câu.|What do you do?; Yes, I do.|wʌt də jə du|
+
+@would|"would" đọc nhẹ /wəd/ trong câu; thường rút gọn thành 'd.|
+wəd|Dạng yếu|Giữa câu, không nhấn.|I would like some tea.; It would be nice.|aɪ wəd laɪk səm ti|
+wʊd|Dạng mạnh|Cuối câu hoặc khi nhấn mạnh.|Yes, I would.|jɛs aɪ wʊd|
+
+@could|"could" đọc nhẹ /kəd/ trong câu.|
+kəd|Dạng yếu|Giữa câu, không nhấn.|Could you help me?; We could go now.|kəd jə hɛlp mi|
+kʊd|Dạng mạnh|Cuối câu hoặc khi nhấn mạnh.|Yes, we could.|jɛs wi kʊd|
+
+@should|"should" đọc nhẹ /ʃəd/ trong câu.|
+ʃəd|Dạng yếu|Giữa câu, không nhấn.|You should go now.; We should try.|ju ʃəd goʊ naʊ|
+ʃʊd|Dạng mạnh|Cuối câu hoặc khi nhấn mạnh.|Yes, you should.|jɛs ju ʃʊd|
+
+@some|"some" nghĩa "một ít" trước danh từ thì đọc nhẹ /səm/; đứng một mình hoặc nghĩa "nào đó" thì đọc /sʌm/.|
+səm|Dạng yếu|Trước danh từ không đếm được hoặc số nhiều, nghĩa "một ít".|some water; some people; I need some help.|səm ˈwɔtɚ|
+sʌm|Dạng mạnh|Đứng một mình hoặc nghĩa "một … nào đó".|Some are here.; some day|sʌm ɑɹ hɪɹ|
+
+@there|"there" trong "there is / there are" đọc nhẹ /ðɚ/; chỉ nơi chốn thì đọc /ðɛɹ/.|
+ðɚ|Chủ ngữ giả|Trong "there is, there are, there was".|There is a cat.; There are two books.|ðɚ ɪz ə kæt|
+ðɛɹ|Chỉ nơi chốn|Nghĩa "ở đó", có nhấn.|Put it there.; over there|pʊt ɪt ðɛɹ|
+
+@but|"but" trong câu thường đọc nhẹ /bət/.|
+bət|Dạng yếu|Giữa câu, không nhấn.|small but strong; I tried, but I failed.|smɔl bət stɹɔŋ|
+bʌt|Dạng mạnh|Đầu câu sau quãng nghỉ hoặc khi nhấn mạnh.|But why?|bʌt waɪ|E
+
+@or|"or" trong câu thường đọc nhẹ /ɚ/.|
+ɚ|Dạng yếu|Nối hai lựa chọn khi nói nhanh.|tea or coffee; now or later|ti ɚ ˈkɔfi|
+ɔɹ|Dạng mạnh|Khi nhấn mạnh hoặc đọc chậm.|Yes or no?|jɛs ɔɹ noʊ|E
+
+@because|"because" nói nhanh thường rút thành /bɪˈkəz/ hoặc /kəz/.|
+bɪˈkəz|Dạng yếu|Giữa câu, nói nhanh.|I stayed home because I was tired.|aɪ steɪd hoʊm bɪˈkəz aɪ wəz ˈtaɪɚd|
+bɪˈkɔz|Dạng đầy đủ|Đọc chậm, đầu câu hoặc khi nhấn.|Because I said so.|bɪˈkɔz aɪ sɛd soʊ|
+
+@not|"not" đứng riêng đọc /nɑt/; trong dạng rút gọn n't chỉ còn /nt/ dính vào từ trước.|
+nɑt|Dạng đầy đủ|Đứng riêng, hoặc khi nhấn mạnh phủ định.|Not now.; I am not going.|nɑt naʊ|
+nt|Rút gọn n't|Dính vào trợ động từ; nguyên âm biến mất.|I don't know.; It isn't here.; She can't swim.|aɪ doʊnt noʊ|
+
+@he|"he" sau phụ âm khi nói nhanh thường mất /h/.|
+hi|Dạng đầy đủ|Đầu câu hoặc sau quãng nghỉ.|He is my brother.|hi ɪz maɪ ˈbɹʌðɚ|
+i|Mất /h/|Sau phụ âm, nối liền khi nói nhanh.|Is he here?; What did he say?|ɪzi hɪɹ|
+
+@with|Người Mỹ đọc "with" cả /wɪθ/ lẫn /wɪð/; hai cách đều được chấp nhận.|
+wɪθ|Biến thể 1|Phổ biến trong từ điển Mỹ.|with my family; come with me|wɪθ maɪ ˈfæməli|
+wɪð|Biến thể 2|Rất phổ biến trong lời nói hằng ngày, nhất là trước nguyên âm.|with us; with a friend|wɪð əs|

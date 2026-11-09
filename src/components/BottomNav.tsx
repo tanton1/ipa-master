@@ -7,7 +7,7 @@ import { IconHome, IconGrid, IconBook, IconMic, IconUser } from './icons';
 const ITEMS = [
   { href: '/', label: 'Hôm nay', icon: IconHome, match: (p: string) => p === '/' || p.startsWith('/onboarding') || p.startsWith('/diagnostic') },
   { href: '/ipa', label: 'IPA', icon: IconGrid, match: (p: string) => p.startsWith('/ipa') || p.startsWith('/contrast') || p.startsWith('/levels') },
-  { href: '/words', label: '500 từ', icon: IconBook, match: (p: string) => p.startsWith('/words') },
+  { href: '/words', label: 'Từ vựng', icon: IconBook, match: (p: string) => p.startsWith('/words') },
   { href: '/practice', label: 'Luyện nói', icon: IconMic, match: (p: string) => p.startsWith('/practice') || p.startsWith('/review') || p.startsWith('/errors') },
   { href: '/me', label: 'Cá nhân', icon: IconUser, match: (p: string) => p.startsWith('/me') },
 ];

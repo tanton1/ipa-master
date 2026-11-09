@@ -1,0 +1,58 @@
+# Nhóm 41 – Đời sống hằng ngày
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Đời sống hằng ngày|Đời sống|Chữ câm trong Christmas, plumber; /ʒ/ trong leisure|Việc nhà, lịch hẹn, lễ tết, hôn nhân, nhà ở và thói quen sinh hoạt. Có nhiều từ ghép hai phần (housework, hometown, bedtime) cần nhấn âm tiết đầu.|routine,Christmas,plumber,electrician
+= Việc nhà|Trọng âm routine ở âm tiết hai; -age đọc /ɪdʒ/ trong garbage
+routine|ɹuˈtin|n|thói quen hằng ngày|Exercise is part of my routine.|Tập thể dục là một phần thói quen của tôi.||Trọng âm âm tiết hai.
+chore|tʃɔɹ|n|việc vặt trong nhà|Washing dishes is my chore.|Rửa bát là việc của tôi.||
+housework|ˈhaʊsˌwɝk|n|việc nhà|I hate housework.|Tôi ghét làm việc nhà.||
+vacuum|ˈvækjum|n|máy hút bụi|Where is the vacuum?|Máy hút bụi đâu rồi?||
+mop|mɑp|n|cây lau nhà|Get the mop.|Lấy cây lau nhà đi.||
+garbage|ˈgɑɹbɪdʒ|n|rác|Take out the garbage.|Đổ rác đi.||
+appointment|əˈpɔɪntmənt|n|cuộc hẹn|I have a doctor's appointment.|Tôi có hẹn khám bác sĩ.||
+errand|ˈɛɹənd|n|việc vặt (đi ra ngoài)|I have some errands to run.|Tôi có vài việc vặt phải làm.||
+grocery|ˈgɹoʊsəɹi|n|hàng tạp hóa|I buy groceries on Sunday.|Chủ nhật tôi đi mua đồ ăn.||
+diary|ˈdaɪəɹi|n|nhật ký|She writes in her diary.|Cô ấy viết nhật ký.||Khác dairy /ˈdɛɹi/ (bơ sữa).
+= Gia đình và lễ|/ʒ/ trong leisure; t câm trong Christmas
+journal|ˈdʒɝnəl|n|nhật ký; tạp chí|I keep a food journal.|Tôi ghi chép những gì mình ăn.||
+mail|meɪl|n|thư từ|Did we get any mail?|Có thư không?||Đồng âm với male.
+delivery|dɪˈlɪvəɹi|n|sự giao hàng|Delivery takes two days.|Giao hàng mất hai ngày.||
+babysitter|ˈbeɪbiˌsɪtɚ|n|người trông trẻ|We need a babysitter tonight.|Tối nay chúng tôi cần người trông trẻ.||
+household|ˈhaʊsˌhoʊld|n|hộ gia đình|There are five people in my household.|Nhà tôi có năm người.||
+lifestyle|ˈlaɪfˌstaɪl|n|lối sống|City lifestyle is busy.|Lối sống thành phố bận rộn.||
+leisure|ˈliʒɚ|n|thời gian rảnh|I read in my leisure time.|Tôi đọc sách lúc rảnh.||Chữ s đọc /ʒ/.
+celebration|ˌsɛləˈbɹeɪʃən|n|lễ kỷ niệm, tiệc mừng|There was a big celebration.|Đã có một lễ ăn mừng lớn.||
+Christmas|ˈkɹɪsməs|n|Lễ Giáng sinh|Merry Christmas!|Giáng sinh vui vẻ!||Chữ h và t không đọc.
+ceremony|ˈsɛɹəˌmoʊni|n|nghi lễ|The opening ceremony was beautiful.|Lễ khai mạc rất đẹp.||
+= Đời sống và hôn nhân|Cụm /gn/ trong pregnant; đuôi -ed đọc /d/ trong engaged
+funeral|ˈfjunɚəl|n|đám tang|The funeral is on Monday.|Đám tang vào thứ Hai.||
+mask|mæsk|n|mặt nạ, khẩu trang|Wear a mask.|Đeo khẩu trang vào.||
+pension|ˈpɛnʃən|n|lương hưu|My grandmother gets a pension.|Bà tôi được hưởng lương hưu.||
+savings|ˈseɪvɪŋz|n|tiền tiết kiệm|I spent all my savings.|Tôi tiêu hết tiền tiết kiệm.||
+landlord|ˈlændˌlɔɹd|n|chủ nhà (cho thuê)|Call the landlord.|Gọi chủ nhà đi.||
+tenant|ˈtɛnənt|n|người thuê nhà|The tenants are quiet.|Người thuê nhà rất yên lặng.||
+toddler|ˈtɑdlɚ|n|trẻ mới biết đi|Toddlers are curious.|Trẻ mới biết đi rất tò mò.||
+pregnant|ˈpɹɛgnənt|adj|mang thai|She is pregnant.|Cô ấy đang mang thai.||
+divorce|dɪˈvɔɹs|n|sự ly hôn|They are getting a divorce.|Họ sắp ly hôn.||
+engaged|ɪnˈgeɪdʒd|adj|đã đính hôn|We are engaged!|Chúng tôi đã đính hôn!||Cụm cuối /dʒd/.
+= Ở nhà và ăn uống|b câm trong plumber; trọng âm electrician ở âm tiết ba
+honeymoon|ˈhʌniˌmun|n|tuần trăng mật|Where did you go on your honeymoon?|Tuần trăng mật bạn đi đâu?||
+bedtime|ˈbɛdˌtaɪm|n|giờ đi ngủ|It's bedtime.|Đến giờ đi ngủ rồi.||
+hometown|ˈhoʊmˌtaʊn|n|quê nhà|I miss my hometown.|Tôi nhớ quê.||
+homesick|ˈhoʊmˌsɪk|adj|nhớ nhà|I'm homesick.|Tôi nhớ nhà.||
+brunch|bɹʌntʃ|n|bữa sáng muộn|Let's have brunch.|Đi ăn bữa sáng muộn nhé.||
+leftovers|ˈlɛftˌoʊvɚz|n|đồ ăn thừa|Put the leftovers in the fridge.|Cho đồ ăn thừa vào tủ lạnh.||
+takeaway|ˈteɪkəˌweɪ|n|đồ ăn mang đi|Let's get a takeaway.|Mua đồ ăn mang về đi.||
+dishwasher|ˈdɪʃˌwɑʃɚ|n|máy rửa bát|Load the dishwasher.|Xếp bát vào máy rửa.||
+plumber|ˈplʌmɚ|n|thợ sửa ống nước|The plumber fixed the sink.|Thợ đã sửa bồn rửa.||Chữ b không đọc.
+electrician|ɪˌlɛkˈtɹɪʃən|n|thợ điện|We need an electrician.|Chúng ta cần thợ điện.||Trọng âm âm tiết ba; ci đọc /ʃ/.
+= Thói quen và lịch làm việc|Trọng âm commute ở âm tiết hai; s đọc /z/ trong housing
+cigarette|ˈsɪgəˌɹɛt|n|điếu thuốc lá|He smokes ten cigarettes a day.|Anh ấy hút mười điếu thuốc mỗi ngày.||
+alcohol|ˈælkəˌhɔl|n|rượu bia, cồn|I don't drink alcohol.|Tôi không uống rượu bia.||Chữ h không đọc.
+commute|kəˈmjut|v|đi lại (giữa nhà và nơi làm)|I commute by bus.|Tôi đi làm bằng xe buýt.||
+overtime|ˈoʊvɚˌtaɪm|n|giờ làm thêm|I worked overtime last week.|Tuần trước tôi làm thêm giờ.||
+weekday|ˈwikˌdeɪ|n|ngày thường|I work on weekdays.|Tôi làm việc vào ngày thường.||
+daytime|ˈdeɪˌtaɪm|n|ban ngày|I sleep in the daytime.|Tôi ngủ vào ban ngày.||
+reunion|ɹiˈjunjən|n|cuộc hội ngộ, đoàn tụ|We have a class reunion.|Lớp chúng tôi họp lớp.||
+housing|ˈhaʊzɪŋ|n|nhà ở|Housing is expensive here.|Nhà ở đây đắt.||Chữ s đọc /z/; khác house /haʊs/.
+nursery|ˈnɝsəɹi|n|nhà trẻ; vườn ươm|My son goes to nursery.|Con trai tôi đi nhà trẻ.||
+nutrition|nuˈtɹɪʃən|n|dinh dưỡng|Nutrition is important for kids.|Dinh dưỡng rất quan trọng với trẻ em.||

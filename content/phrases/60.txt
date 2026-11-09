@@ -1,0 +1,52 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+mud|covered in mud|dính đầy bùn|The kids came home covered in mud.|Bọn trẻ về nhà người dính đầy bùn.
+mad|go mad|phát điên|I will go mad if it rains again.|Tôi sẽ phát điên nếu trời lại mưa.
+leap|leap year|năm nhuận|February has 29 days in a leap year.|Năm nhuận tháng Hai có 29 ngày.
+peak|peak season|mùa cao điểm|Hotels are expensive in peak season.|Mùa cao điểm khách sạn đắt.
+bug|stomach bug|rối loạn tiêu hóa|I caught a stomach bug.|Tôi bị rối loạn tiêu hóa.
+dip|dip it into|chấm nó vào|Dip it into the fish sauce.|Chấm nó vào nước mắm.
+seen|never seen|chưa bao giờ thấy|I have never seen snow.|Tôi chưa bao giờ thấy tuyết.
+men|men's room|nhà vệ sinh nam|Where is the men's room?|Nhà vệ sinh nam ở đâu?
+dad|my dad|bố tôi|My dad is a taxi driver.|Bố tôi là tài xế taxi.
+sip|take a sip|nhấp một ngụm|Take a sip of this tea.|Nhấp thử một ngụm trà này.
+jeep|army jeep|xe jeep quân đội|An old army jeep is parked outside.|Một chiếc xe jeep quân đội cũ đỗ bên ngoài.
+shell|sea shell|vỏ sò|The children collect sea shells.|Bọn trẻ nhặt vỏ sò.
+lime|lime juice|nước cốt chanh|Add some lime juice to the soup.|Thêm ít nước cốt chanh vào canh.
+lap|on my lap|trong lòng tôi|The cat is sleeping on my lap.|Con mèo đang ngủ trong lòng tôi.
+peg|clothes peg|kẹp phơi quần áo|We need more clothes pegs.|Chúng ta cần thêm kẹp phơi quần áo.
+glow|glow in the dark|phát sáng trong bóng tối|These stars glow in the dark.|Những ngôi sao này phát sáng trong bóng tối.
+leak|gas leak|rò rỉ ga|Call for help if there is a gas leak.|Gọi cứu hộ nếu có rò rỉ ga.
+tin|tin can|lon thiếc|Put the tin can in the recycling bin.|Bỏ lon vào thùng tái chế.
+sin|it's a sin|thật có tội|It's a sin to waste food.|Lãng phí thức ăn là có tội.
+worse|even worse|còn tệ hơn|The traffic is even worse today.|Hôm nay giao thông còn tệ hơn.
+breeze|sea breeze|gió biển|I love the cool sea breeze.|Tôi thích làn gió biển mát.
+doze|doze off|ngủ gật|I often doze off on the bus.|Tôi hay ngủ gật trên xe buýt.
+vet|take the cat to the vet|đưa mèo đi thú y|We need to take the cat to the vet.|Chúng tôi cần đưa mèo đi khám thú y.
+best|best friend|bạn thân nhất|Lan is my best friend.|Lan là bạn thân nhất của tôi.
+best|do your best|cố gắng hết sức|Just do your best.|Cứ cố gắng hết sức là được.
+ban|smoking ban|lệnh cấm hút thuốc|There is a smoking ban in restaurants.|Nhà hàng có lệnh cấm hút thuốc.
+fool|April Fool|cá tháng Tư|April Fool! I was joking.|Cá tháng Tư! Tôi đùa thôi.
+cop|traffic cop|cảnh sát giao thông|A traffic cop stopped my car.|Một cảnh sát giao thông chặn xe tôi.
+dock|at the dock|ở bến tàu|The boat is waiting at the dock.|Con thuyền đang chờ ở bến.
+hut|wooden hut|túp lều gỗ|They live in a small wooden hut.|Họ sống trong một túp lều gỗ nhỏ.
+robe|bath robe|áo choàng tắm|The hotel gives you a bath robe.|Khách sạn có áo choàng tắm cho khách.
+cab|take a cab|bắt taxi|Let's take a cab to the airport.|Mình bắt taxi ra sân bay nhé.
+jet|jet lag|mệt do lệch múi giờ|I have jet lag after the flight.|Tôi bị mệt do lệch múi giờ sau chuyến bay.
+flesh|flesh and blood|máu mủ ruột thịt|He is my own flesh and blood.|Nó là máu mủ ruột thịt của tôi.
+blush|blush easily|dễ đỏ mặt|Shy people blush easily.|Người nhút nhát dễ đỏ mặt.
+chick|baby chick|gà con|The baby chick follows its mother.|Gà con chạy theo mẹ.
+bare|bare feet|chân trần|Kids run on the sand in bare feet.|Trẻ con chạy chân trần trên cát.
+dear|Dear Sir|Kính gửi ông|Start the letter with "Dear Sir".|Bắt đầu thư bằng "Dear Sir".
+tale|fairy tale|truyện cổ tích|Tell me a fairy tale.|Kể con nghe truyện cổ tích.
+brake|hit the brake|đạp phanh|Hit the brake, quickly!|Đạp phanh, nhanh lên!
+fare|bus fare|tiền vé xe buýt|The bus fare is seven thousand dong.|Vé xe buýt là bảy nghìn đồng.
+aloud|read aloud|đọc thành tiếng|Please read aloud for the class.|Hãy đọc to cho cả lớp nghe.
+heel|high heels|giày cao gót|She can't walk in high heels.|Cô ấy không đi được giày cao gót.
+sight|at first sight|ngay từ cái nhìn đầu tiên|It was love at first sight.|Đó là tình yêu sét đánh.
+better|get better|khỏe lại, khá hơn|I hope you get better soon.|Mong bạn sớm khỏe lại.
+blew|blew away|thổi bay|The wind blew away my hat.|Gió thổi bay mũ của tôi.
+worn|worn out|mòn hết; kiệt sức|My shoes are worn out.|Đôi giày của tôi mòn hết rồi.
+higher|higher price|giá cao hơn|Good quality means a higher price.|Chất lượng tốt thì giá cao hơn.
+worst|the worst|tệ nhất|That was the worst day of my life.|Đó là ngày tệ nhất đời tôi.
+mess|in a mess|bừa bộn|The kitchen is in a mess.|Bếp bừa bộn quá.
+thigh|chicken thigh|đùi gà|I'll have a grilled chicken thigh.|Cho tôi một cái đùi gà nướng.

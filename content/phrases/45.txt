@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+ancient|ancient town|phố cổ|Hoi An is an ancient town.|Hội An là một phố cổ.
+broken|broken heart|trái tim tan vỡ|She has a broken heart.|Cô ấy đang đau khổ vì tình.
+central|central Vietnam|miền Trung Việt Nam|Hue is in central Vietnam.|Huế nằm ở miền Trung Việt Nam.
+chief|chief executive|giám đốc điều hành|She is the chief executive of the company.|Bà ấy là giám đốc điều hành của công ty.
+common|common sense|lẽ thường|Use your common sense.|Hãy suy xét theo lẽ thường.
+cool|cool down|nguội bớt; bình tĩnh lại|Let the soup cool down.|Để súp nguội bớt.
+crowded|crowded bus|xe buýt chật kín|I don't like crowded buses.|Tôi không thích xe buýt chật kín.
+curly|curly hair|tóc xoăn|She has long curly hair.|Cô ấy có mái tóc xoăn dài.
+dull|dull color|màu xỉn|I don't like this dull color.|Tôi không thích màu xỉn này.
+electric|electric car|ô tô điện|VinFast makes electric cars.|VinFast sản xuất ô tô điện.
+entire|the entire world|cả thế giới|The news spread to the entire world.|Tin tức lan ra cả thế giới.
+extra|extra time|hiệp phụ, thời gian thêm|The match went into extra time.|Trận đấu bước vào hiệp phụ.
+familiar|familiar face|gương mặt quen thuộc|It is nice to see a familiar face.|Thật vui khi thấy một gương mặt quen thuộc.
+fluent|fluent English|tiếng Anh trôi chảy|She speaks fluent English.|Cô ấy nói tiếng Anh trôi chảy.
+former|former president|cựu tổng thống|The former president visited Hanoi.|Cựu tổng thống đã thăm Hà Nội.
+frozen|frozen food|đồ đông lạnh|We buy frozen food at the supermarket.|Chúng tôi mua đồ đông lạnh ở siêu thị.
+handsome|handsome man|người đàn ông đẹp trai|He is a handsome man.|Anh ấy là một người đàn ông đẹp trai.
+helpful|helpful advice|lời khuyên hữu ích|Thank you for the helpful advice.|Cảm ơn lời khuyên hữu ích.
+ill|feel ill|thấy ốm|I feel ill today.|Hôm nay tôi thấy ốm.
+lost|get lost|bị lạc|It's easy to get lost in the old town.|Rất dễ bị lạc trong phố cổ.
+magic|magic trick|trò ảo thuật|He showed us a magic trick.|Anh ấy biểu diễn cho chúng tôi một trò ảo thuật.
+mild|mild weather|thời tiết ôn hòa|Da Lat has mild weather all year.|Đà Lạt có khí hậu ôn hòa quanh năm.
+mixed|mixed feelings|cảm xúc lẫn lộn|I have mixed feelings about moving.|Tôi có cảm xúc lẫn lộn về việc chuyển nhà.
+nearby|nearby shop|cửa hàng gần đó|Buy some water at a nearby shop.|Mua nước ở một cửa hàng gần đó.
+noisy|noisy street|con phố ồn ào|We live on a noisy street.|Chúng tôi sống trên một con phố ồn ào.
+opposite|the opposite direction|hướng ngược lại|The car went in the opposite direction.|Chiếc xe đi theo hướng ngược lại.
+peaceful|peaceful place|nơi yên bình|The village is a peaceful place.|Ngôi làng là một nơi yên bình.
+pure|pure water|nước tinh khiết|Drink pure water.|Uống nước tinh khiết.
+rare|rare disease|bệnh hiếm|She has a rare disease.|Cô ấy mắc một bệnh hiếm.
+regular|regular exercise|tập thể dục đều đặn|Regular exercise is good for your heart.|Tập thể dục đều đặn tốt cho tim.
+sleepy|sleepy town|thị trấn yên ả|We stayed in a sleepy town by the sea.|Chúng tôi ở một thị trấn yên ả bên biển.
+slim|slim chance|cơ hội mong manh|There is a slim chance of rain.|Khả năng mưa rất thấp.
+spare|spare time|thời gian rảnh|What do you do in your spare time?|Lúc rảnh bạn làm gì?
+sudden|all of a sudden|đột nhiên|All of a sudden, the lights went out.|Đột nhiên đèn tắt.
+tidy|tidy up|dọn dẹp|Tidy up your room.|Dọn dẹp phòng của con đi.
+urgent|urgent call|cuộc gọi khẩn|I have an urgent call.|Tôi có cuộc gọi khẩn.
+vast|vast majority|đại đa số|The vast majority of people agree.|Đại đa số mọi người đồng ý.
+weird|weird dream|giấc mơ kỳ lạ|What a weird dream!|Giấc mơ lạ thật!
+worth|worth it|đáng giá|The trip was long but worth it.|Chuyến đi dài nhưng đáng giá.
+elderly|elderly people|người cao tuổi|Elderly people need care.|Người cao tuổi cần được chăm sóc.
+enormous|enormous house|ngôi nhà khổng lồ|They live in an enormous house.|Họ sống trong một ngôi nhà khổng lồ.
+instant|instant noodles|mì ăn liền|Students often eat instant noodles.|Sinh viên hay ăn mì gói.
+harmful|harmful effects|tác hại|Smoking has many harmful effects.|Hút thuốc có nhiều tác hại.
+useless|useless information|thông tin vô ích|The internet is full of useless information.|Internet đầy thông tin vô ích.
+careless|careless mistake|lỗi bất cẩn|Check again to avoid a careless mistake.|Kiểm tra lại để tránh lỗi bất cẩn.
+homeless|homeless people|người vô gia cư|The charity helps homeless people.|Tổ chức từ thiện giúp người vô gia cư.
+direct|direct contact|tiếp xúc trực tiếp|Avoid direct contact with the sun.|Tránh tiếp xúc trực tiếp với nắng.
+fake|fake news|tin giả|Don't share fake news.|Đừng chia sẻ tin giả.
+distant|distant relative|họ hàng xa|He is a distant relative of mine.|Anh ấy là họ hàng xa của tôi.
+lively|lively market|khu chợ nhộn nhịp|Ben Thanh is a lively market.|Bến Thành là một khu chợ nhộn nhịp.

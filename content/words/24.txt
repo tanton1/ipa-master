@@ -1,0 +1,58 @@
+# Nhóm 24 – Cơ thể và sức khỏe 2
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Cơ thể và sức khỏe 2|Sức khỏe 2|Chữ câm trong wrist, thumb, muscle; ch đọc /k/ trong stomach|Bộ phận cơ thể, bệnh thường gặp và từ vựng đi khám bệnh. Nhiều chữ câm (thumb, muscle, wrist) và cách viết khác cách đọc (blood, cough, stomach).|stomach,thumb,muscle,emergency
+= Bên trong cơ thể và khuôn mặt|oo đọc /ʌ/ trong blood; ch đọc /k/ trong stomach; /θɹ/ trong throat
+brain|bɹeɪn|n|não|The brain needs sleep.|Não cần được ngủ.||
+blood|blʌd|n|máu|He lost a lot of blood.|Anh ấy mất nhiều máu.||Chữ oo đọc /ʌ/.
+bone|boʊn|n|xương|I broke a bone in my arm.|Tôi bị gãy xương tay.||
+chest|tʃɛst|n|ngực|I have a pain in my chest.|Tôi bị đau ngực.||
+stomach|ˈstʌmək|n|dạ dày, bụng|My stomach hurts.|Tôi bị đau bụng.||Chữ ch đọc /k/, chữ o đọc /ʌ/.
+throat|θɹoʊt|n|cổ họng|My throat is dry.|Cổ họng tôi khô.||
+tongue|tʌŋ|n|lưỡi|Show me your tongue.|Lè lưỡi cho tôi xem.||Chữ ue không đọc; o đọc /ʌ/.
+lip|lɪp|n|môi|My lips are dry.|Môi tôi bị khô.||
+chin|tʃɪn|n|cằm|He has a beard on his chin.|Anh ấy để râu ở cằm.||
+cheek|tʃik|n|má|She kissed him on the cheek.|Cô ấy hôn lên má anh.||
+= Tay chân|w câm trong wrist, b câm trong thumb, c câm trong muscle
+forehead|ˈfɔɹˌhɛd|n|trán|Feel his forehead.|Sờ trán thằng bé xem.||Cũng đọc /ˈfɔɹɪd/.
+sore|sɔɹ|adj|đau, nhức|My legs are sore.|Chân tôi bị nhức.||
+wrist|ɹɪst|n|cổ tay|I hurt my wrist.|Tôi bị đau cổ tay.||Chữ w không đọc.
+elbow|ˈɛlboʊ|n|khuỷu tay|Don't put your elbows on the table.|Đừng chống khuỷu tay lên bàn.||
+ankle|ˈæŋkəl|n|mắt cá chân|My ankle is swollen.|Mắt cá chân tôi bị sưng.||
+toe|toʊ|n|ngón chân|I hurt my toe.|Tôi bị đau ngón chân.||Đồng âm với tow.
+thumb|θʌm|n|ngón tay cái|Hold it with your thumb.|Giữ nó bằng ngón cái.||Chữ b không đọc.
+nail|neɪl|n|móng tay; cái đinh|Cut your nails.|Cắt móng tay đi.||
+muscle|ˈmʌsəl|n|cơ bắp|He has strong muscles.|Anh ấy có cơ bắp khỏe.||Chữ c không đọc; đồng âm với mussel.
+lung|lʌŋ|n|phổi|Smoking hurts your lungs.|Hút thuốc hại phổi.||
+= Bệnh và điều trị|gh đọc /f/ trong cough; ou đọc /u/ trong wound
+vaccine|vækˈsin|n|vắc-xin|Children need this vaccine.|Trẻ em cần loại vắc-xin này.||Trọng âm âm tiết hai.
+surgery|ˈsɝdʒɚi|n|phẫu thuật|She needs surgery.|Cô ấy cần phẫu thuật.||
+waist|weɪst|n|eo|She has a small waist.|Cô ấy có vòng eo nhỏ.||Đồng âm với waste.
+beard|bɪɹd|n|râu (cằm)|My father has a beard.|Bố tôi để râu.||
+cough|kɔf|n|cơn ho|I have a bad cough.|Tôi bị ho nặng.||Chữ gh đọc /f/.
+flu|flu|n|cúm|I've got the flu.|Tôi bị cúm.||Đồng âm với flew.
+injury|ˈɪndʒɚi|n|chấn thương|It's a minor injury.|Đó chỉ là chấn thương nhẹ.||
+wound|wund|n|vết thương|Clean the wound.|Rửa sạch vết thương.||Chữ ou đọc /u/.
+cancer|ˈkænsɚ|n|ung thư|Smoking can cause cancer.|Hút thuốc có thể gây ung thư.||
+disease|dɪˈziz|n|bệnh|It's a rare disease.|Đó là một căn bệnh hiếm.||Hai chữ s đều đọc /z/.
+= Khám chữa bệnh|ph đọc /f/ trong pharmacy; cụm /mpt/ trong symptom
+illness|ˈɪlnəs|n|sự ốm, bệnh|He missed school because of illness.|Cậu ấy nghỉ học vì ốm.||
+allergy|ˈælɚdʒi|n|dị ứng|I have an allergy to seafood.|Tôi dị ứng hải sản.||
+virus|ˈvaɪɹəs|n|vi-rút|It's just a virus.|Chỉ là do vi-rút thôi.||Chữ i đọc /aɪ/.
+symptom|ˈsɪmptəm|n|triệu chứng|What are your symptoms?|Bạn có triệu chứng gì?||
+nurse|nɝs|n|y tá|The nurse is very kind.|Cô y tá rất tốt bụng.||
+dentist|ˈdɛntɪst|n|nha sĩ|I'm afraid of the dentist.|Tôi sợ nha sĩ.||
+clinic|ˈklɪnɪk|n|phòng khám|The clinic opens at seven.|Phòng khám mở cửa lúc bảy giờ.||
+pharmacy|ˈfɑɹməsi|n|nhà thuốc|Is there a pharmacy near here?|Gần đây có nhà thuốc không?||Chữ ph đọc /f/.
+pill|pɪl|n|viên thuốc|Take two pills a day.|Uống hai viên mỗi ngày.||Khác peel /pil/.
+vitamin|ˈvaɪtəmɪn|n|vitamin|Fruit has many vitamins.|Trái cây có nhiều vitamin.||Giọng Mỹ đọc /ˈvaɪ/.
+= Sơ cứu và hồi phục|ea đọc /ɛ/ trong sweat; /ɝ/ trong hurt, emergency
+diet|ˈdaɪət|n|chế độ ăn|I'm on a diet.|Tôi đang ăn kiêng.||
+sweat|swɛt|n|mồ hôi|He was covered in sweat.|Người anh ấy đầy mồ hôi.||Chữ ea đọc /ɛ/.
+sneeze|sniz|v|hắt hơi|Cover your mouth when you sneeze.|Che miệng khi hắt hơi.||
+bleed|blid|v|chảy máu|Your nose is bleeding.|Mũi bạn đang chảy máu.||
+hurt|hɝt|v|làm đau, bị đau|My back hurts.|Lưng tôi đau.||
+heal|hil|v|lành (vết thương)|The cut will heal soon.|Vết cắt sẽ sớm lành.||Đồng âm với heel.
+recover|ɹɪˈkʌvɚ|v|hồi phục|He is recovering well.|Anh ấy đang hồi phục tốt.||
+cure|kjʊɹ|n|cách chữa, thuốc chữa|There is no cure yet.|Hiện chưa có cách chữa.||
+ambulance|ˈæmbjələns|n|xe cứu thương|The ambulance arrived quickly.|Xe cứu thương đến nhanh.||
+emergency|ɪˈmɝdʒənsi|n|trường hợp khẩn cấp|This is an emergency!|Đây là trường hợp khẩn cấp!||

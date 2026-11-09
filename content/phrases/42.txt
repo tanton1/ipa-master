@@ -1,0 +1,51 @@
+# word|cụm từ hay dùng|nghĩa|câu mẫu|dịch câu mẫu
+raise|raise your hand|giơ tay|Raise your hand if you have a question.|Giơ tay nếu bạn có câu hỏi.
+lay|lay the table|bày bàn ăn|Can you lay the table for dinner?|Bạn bày bàn ăn tối giúp được không?
+lead|lead the way|dẫn đường|You lead the way, I'll follow.|Bạn dẫn đường, tôi đi theo.
+kill|kill time|giết thời gian|I read a book to kill time.|Tôi đọc sách để giết thời gian.
+shoot|shoot a film|quay phim|They will shoot a film in Ninh Binh.|Họ sẽ quay phim ở Ninh Bình.
+float|float on the water|nổi trên mặt nước|Leaves float on the water.|Lá cây nổi trên mặt nước.
+flow|go with the flow|thuận theo dòng chảy|Relax and go with the flow.|Thư giãn và cứ để mọi việc diễn ra tự nhiên.
+shine|rain or shine|dù mưa hay nắng|We'll go, rain or shine.|Dù mưa hay nắng chúng tôi cũng đi.
+blow|blow out the candles|thổi nến|Make a wish and blow out the candles.|Ước một điều rồi thổi nến đi.
+drag|drag and drop|kéo và thả|Drag and drop the file here.|Kéo và thả tệp vào đây.
+bend|bend down|cúi xuống|Bend down and touch your toes.|Cúi xuống chạm vào ngón chân.
+hug|give me a hug|ôm tôi một cái|Come here and give me a hug.|Lại đây ôm tôi một cái nào.
+lean|lean on|dựa vào|You can always lean on me.|Bạn luôn có thể dựa vào tôi.
+nod|nod your head|gật đầu|Nod your head if you agree.|Gật đầu nếu bạn đồng ý.
+pray|pray for|cầu nguyện cho|We pray for peace.|Chúng tôi cầu nguyện cho hòa bình.
+rub|rub your eyes|dụi mắt|Don't rub your eyes.|Đừng dụi mắt.
+scratch|from scratch|làm từ đầu|I made this cake from scratch.|Tôi tự làm chiếc bánh này từ đầu.
+slide|slide show|bài trình chiếu|She made a slide show for the class.|Cô ấy làm một bài trình chiếu cho lớp.
+spill|spill the beans|để lộ bí mật|Don't spill the beans about the party!|Đừng để lộ chuyện bữa tiệc nhé!
+spin|spin around|xoay vòng|The dancer can spin around many times.|Vũ công có thể xoay nhiều vòng.
+split|split the bill|chia tiền|Let's split the bill.|Mình chia tiền nhé.
+spread|spread the news|loan tin|Please spread the news.|Hãy loan tin này nhé.
+squeeze|squeeze a lemon|vắt chanh|Squeeze a lemon into the water.|Vắt một quả chanh vào nước.
+stretch|stretch your legs|duỗi chân cho đỡ mỏi|Get out of the car and stretch your legs.|Ra khỏi xe và duỗi chân cho đỡ mỏi.
+sweep|sweep the floor|quét nhà|Please sweep the floor.|Quét nhà giúp với.
+swing|mood swing|tâm trạng thất thường|She has a mood swing every day.|Ngày nào tâm trạng cô ấy cũng thất thường.
+tear|tear up|xé vụn|Tear up the old letters.|Xé vụn mấy lá thư cũ đi.
+wipe|wipe the table|lau bàn|Wipe the table after dinner.|Lau bàn sau bữa tối.
+yell|yell at|quát mắng|Don't yell at your brother.|Đừng quát em trai.
+dig|dig a hole|đào hố|The dog likes to dig a hole in the garden.|Con chó thích đào hố trong vườn.
+dive|dive into|lặn xuống|We dive into the sea from the boat.|Chúng tôi lặn xuống biển từ trên thuyền.
+chase|chase your dreams|theo đuổi ước mơ|You should chase your dreams.|Bạn nên theo đuổi ước mơ.
+grab|grab a coffee|đi uống cà phê nhanh|Let's grab a coffee.|Đi uống cà phê nhé.
+bury|bury the treasure|chôn kho báu|The pirates bury the treasure on an island.|Bọn cướp biển chôn kho báu trên đảo.
+cover|cover your mouth|che miệng|Cover your mouth when you cough.|Che miệng khi ho.
+hunt|job hunt|cuộc tìm việc|My brother is on a job hunt.|Anh tôi đang đi tìm việc.
+sew|sew a dress|may váy|My mother can sew a dress in a day.|Mẹ tôi có thể may một chiếc váy trong một ngày.
+shave|shave your beard|cạo râu|Shave your beard before the interview.|Cạo râu trước buổi phỏng vấn.
+stare|stare at|nhìn chằm chằm|It's rude to stare at people.|Nhìn chằm chằm người khác là bất lịch sự.
+gather|gather together|tụ họp|Families gather together at Tet.|Các gia đình tụ họp dịp Tết.
+greet|greet the guests|chào đón khách|The host stands at the door to greet the guests.|Chủ nhà đứng ở cửa đón khách.
+harm|no harm done|không sao cả|Don't worry, no harm done.|Đừng lo, không sao cả.
+injure|injure yourself|làm bản thân bị thương|Be careful not to injure yourself.|Cẩn thận kẻo bị thương.
+paint|paint the wall|sơn tường|We will paint the wall blue.|Chúng tôi sẽ sơn tường màu xanh.
+pause|pause the video|tạm dừng video|Pause the video and repeat after the speaker.|Tạm dừng video và nhắc lại theo người nói.
+quit|quit smoking|bỏ thuốc lá|My father wants to quit smoking.|Bố tôi muốn bỏ thuốc lá.
+rescue|rescue team|đội cứu hộ|The rescue team arrived quickly.|Đội cứu hộ đến rất nhanh.
+sail|set sail|ra khơi|The ship will set sail at dawn.|Con tàu sẽ ra khơi lúc bình minh.
+suffer|suffer from|bị (bệnh, đau)|Many old people suffer from back pain.|Nhiều người già bị đau lưng.
+treat|treat yourself|tự thưởng cho mình|Treat yourself to a nice dinner.|Tự thưởng cho mình một bữa tối ngon.

@@ -1,0 +1,58 @@
+# Nhóm 34 – Du lịch, phương tiện 2
+# word|ipa|pos|meaning|example_en|example_vi|pair|note
+@group|Du lịch, phương tiện 2|Du lịch 2|-tion, -ture, -age và trọng âm từ dài khi đi du lịch|Chuẩn bị chuyến đi, phương tiện, sân bay, đặt chỗ và tham quan. Nhiều từ dài cần đúng trọng âm: destination, reservation, souvenir.|passport,helicopter,destination,souvenir
+= Chuẩn bị chuyến đi|-age đọc /ɪdʒ/ trong luggage; gh câm trong flight
+journey|ˈdʒɝni|n|chuyến đi, hành trình|Have a safe journey!|Thượng lộ bình an!||Chữ ou đọc /ɝ/.
+tour|tʊɹ|n|chuyến tham quan|We took a boat tour.|Chúng tôi đi tham quan bằng thuyền.||
+tourist|ˈtʊɹɪst|n|khách du lịch|Hoi An has many tourists.|Hội An có nhiều khách du lịch.||
+passport|ˈpæsˌpɔɹt|n|hộ chiếu|Don't lose your passport.|Đừng làm mất hộ chiếu.||
+visa|ˈvizə|n|thị thực|Do I need a visa?|Tôi có cần thị thực không?||Chữ s đọc /z/.
+luggage|ˈlʌgɪdʒ|n|hành lý|How much luggage do you have?|Bạn có bao nhiêu hành lý?||Danh từ không đếm được.
+suitcase|ˈsutˌkeɪs|n|va li|My suitcase is too heavy.|Va li của tôi nặng quá.||
+backpack|ˈbækˌpæk|n|ba lô|I travel with a backpack.|Tôi đi du lịch với một cái ba lô.||
+flight|flaɪt|n|chuyến bay|My flight is at six.|Chuyến bay của tôi lúc sáu giờ.||Chữ gh không đọc.
+passenger|ˈpæsəndʒɚ|n|hành khách|All passengers, please board now.|Mời tất cả hành khách lên máy bay.||
+= Phương tiện|Trọng âm helicopter ở âm tiết đầu; wh đọc /w/ trong wheel
+pilot|ˈpaɪlət|n|phi công|He wants to be a pilot.|Cậu ấy muốn làm phi công.||
+driver|ˈdɹaɪvɚ|n|tài xế|The driver is waiting.|Tài xế đang đợi.||
+motorbike|ˈmoʊtɚˌbaɪk|n|xe máy|I ride a motorbike to work.|Tôi đi xe máy đi làm.||
+scooter|ˈskutɚ|n|xe tay ga|She has a pink scooter.|Cô ấy có chiếc xe tay ga màu hồng.||
+truck|tɹʌk|n|xe tải|A big truck blocked the road.|Một chiếc xe tải lớn chặn đường.||
+subway|ˈsʌbˌweɪ|n|tàu điện ngầm|Take the subway to the center.|Đi tàu điện ngầm vào trung tâm.||
+ferry|ˈfɛɹi|n|phà|We took the ferry to the island.|Chúng tôi đi phà ra đảo.||
+helicopter|ˈhɛlɪˌkɑptɚ|n|trực thăng|A helicopter flew over the city.|Một chiếc trực thăng bay qua thành phố.||Trọng âm âm tiết đầu.
+wheel|wil|n|bánh xe|The car has four wheels.|Ô tô có bốn bánh.||Chữ h không đọc.
+engine|ˈɛndʒɪn|n|động cơ|The engine won't start.|Máy không nổ.||
+= Hành trình|-tion đọc /ʃən/; -ture đọc /tʃɚ/ trong departure
+tire|taɪɹ|n|lốp xe|Check the tires before the trip.|Kiểm tra lốp trước chuyến đi.||
+seatbelt|ˈsitˌbɛlt|n|dây an toàn|Fasten your seatbelt.|Thắt dây an toàn.||
+fuel|ˈfjuəl|n|nhiên liệu|We need fuel.|Chúng ta cần đổ xăng.||
+speed|spid|n|tốc độ|Slow down your speed.|Giảm tốc độ.||
+route|ɹut|n|tuyến đường|This is the fastest route.|Đây là đường nhanh nhất.||Cũng đọc /ɹaʊt/.
+direction|dəˈɹɛkʃən|n|phương hướng|Which direction is the beach?|Bãi biển ở hướng nào?||
+destination|ˌdɛstəˈneɪʃən|n|điểm đến|We arrived at our destination.|Chúng tôi đã đến nơi.||Trọng âm âm tiết ba.
+departure|dɪˈpɑɹtʃɚ|n|sự khởi hành|Departure is at ten.|Khởi hành lúc mười giờ.||
+arrival|əˈɹaɪvəl|n|sự đến nơi|Wait in the arrival area.|Đợi ở khu vực đến.||
+cancel|ˈkænsəl|v|hủy|They cancelled the flight.|Họ đã hủy chuyến bay.||
+= Đặt chỗ và tham quan|Trọng âm souvenir ở âm tiết cuối; u câm trong guide
+reserve|ɹɪˈzɝv|v|đặt trước|I reserved a room.|Tôi đã đặt phòng.||Chữ s đọc /z/.
+reservation|ˌɹɛzɚˈveɪʃən|n|sự đặt chỗ|I have a reservation.|Tôi đã đặt chỗ trước.||
+souvenir|ˌsuvəˈnɪɹ|n|quà lưu niệm|I bought a souvenir for you.|Tôi mua quà lưu niệm cho bạn.||Trọng âm âm tiết cuối.
+guide|gaɪd|n|hướng dẫn viên; sách hướng dẫn|Our guide was funny.|Hướng dẫn viên của chúng tôi rất vui tính.||Chữ u không đọc.
+vacation|veɪˈkeɪʃən|n|kỳ nghỉ|We went on vacation to Da Lat.|Chúng tôi đi nghỉ ở Đà Lạt.||
+abroad|əˈbɹɔd|adv|ở nước ngoài|She lives abroad.|Cô ấy sống ở nước ngoài.||Chữ oa đọc /ɔ/.
+sightseeing|ˈsaɪtˌsiɪŋ|n|việc tham quan|We did some sightseeing.|Chúng tôi đi tham quan một chút.||
+adventure|ədˈvɛntʃɚ|n|cuộc phiêu lưu|Life is an adventure.|Cuộc sống là một cuộc phiêu lưu.||
+camp|kæmp|v|cắm trại|We camped by the river.|Chúng tôi cắm trại bên sông.||
+tent|tɛnt|n|cái lều|We slept in a tent.|Chúng tôi ngủ trong lều.||
+= Cảnh quan và sự cố|Cụm /kspl/ trong explore; cc đọc /ks/ trong accident
+hike|haɪk|v|đi bộ đường dài|We hiked up the mountain.|Chúng tôi leo bộ lên núi.||
+explore|ɪkˈsplɔɹ|v|khám phá|Let's explore the old town.|Đi khám phá phố cổ nhé.||
+view|vju|n|quang cảnh|The view is amazing.|Quang cảnh tuyệt đẹp.||
+landscape|ˈlændˌskeɪp|n|phong cảnh|Sapa has beautiful landscapes.|Sa Pa có phong cảnh đẹp.||
+border|ˈbɔɹdɚ|n|biên giới|We crossed the border into Laos.|Chúng tôi qua biên giới sang Lào.||
+platform|ˈplætˌfɔɹm|n|sân ga; nền tảng|The train is at platform 3.|Tàu ở sân ga số 3.||
+accident|ˈæksɪdənt|n|tai nạn|There was an accident on the highway.|Có tai nạn trên đường cao tốc.||Chữ cc đọc /ks/.
+crash|kɹæʃ|n|vụ va chạm|Nobody was hurt in the crash.|Không ai bị thương trong vụ va chạm.||
+transport|ˈtɹænsˌpɔɹt|n|giao thông vận tải|Public transport is cheap.|Giao thông công cộng rẻ.||Động từ transport nhấn âm tiết hai.
+rail|ɹeɪl|n|đường sắt; lan can|Hold the rail.|Bám vào tay vịn.||
