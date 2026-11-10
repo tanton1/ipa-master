@@ -49,3 +49,53 @@ then|since then|từ đó|We met in 2015 and have been friends since then.|Chún
 den|lion's den|hang cọp|He walked into the lion's den.|Anh ấy bước vào hang cọp.
 berry|berry juice|nước ép quả mọng|I'd like a berry juice.|Cho tôi một ly nước ép quả mọng.
 thin|on thin ice|ở thế nguy hiểm|You're on thin ice.|Bạn đang ở thế nguy hiểm đấy.
+hello|say hello|chào hỏi|Say hello to your parents for me.|Cho tôi gửi lời chào bố mẹ bạn.
+goodbye|wave goodbye|vẫy tay tạm biệt|The kids wave goodbye to their dad.|Bọn trẻ vẫy tay tạm biệt bố.
+please|please help|xin hãy giúp|Please help me with this box.|Xin hãy giúp tôi cái hộp này.
+thank|thank you for|cảm ơn bạn vì|Thank you for coming.|Cảm ơn bạn đã đến.
+sorry|feel sorry for|thấy thương|I feel sorry for him.|Tôi thấy thương anh ấy.
+excuse|excuse me|xin lỗi, cho hỏi|Excuse me, where is the exit?|Xin lỗi, lối ra ở đâu?
+welcome|welcome to|chào mừng đến|Welcome to Vietnam!|Chào mừng đến Việt Nam!
+yes|yes, of course|vâng, tất nhiên|Yes, of course you can come.|Vâng, tất nhiên bạn đến được.
+no|no problem|không vấn đề gì|No problem, I can wait.|Không vấn đề gì, tôi chờ được.
+maybe|maybe not|có lẽ là không|Maybe not today, but soon.|Có lẽ không phải hôm nay, nhưng sẽ sớm thôi.
+sure|for sure|chắc chắn|I will be there for sure.|Chắc chắn tôi sẽ có mặt.
+okay|okay with|ổn với|Is Friday okay with you?|Thứ Sáu có ổn với bạn không?
+really|not really|không hẳn|Do you like it? Not really.|Bạn có thích không? Không hẳn.
+very|very well|rất tốt|She speaks English very well.|Cô ấy nói tiếng Anh rất tốt.
+also|but also|mà còn|He is smart but also very kind.|Anh ấy thông minh mà còn rất tốt bụng.
+because|just because|chỉ vì|Don't buy it just because it's cheap.|Đừng mua chỉ vì nó rẻ.
+though|as though|như thể|He looks as though he is tired.|Trông anh ấy như thể đang mệt.
+through|get through|vượt qua|We will get through this together.|Chúng ta sẽ cùng nhau vượt qua chuyện này.
+thought|I thought so|tôi cũng nghĩ vậy|It's closed? I thought so.|Đóng cửa rồi à? Tôi cũng nghĩ vậy.
+tough|tough question|câu hỏi khó|That is a tough question.|Đó là một câu hỏi khó.
+enough|good enough|đủ tốt|My English is good enough to travel.|Tiếng Anh của tôi đủ tốt để đi du lịch.
+would|would rather|thà, thích hơn|I would rather stay home.|Tôi thích ở nhà hơn.
+could|could be|có thể là|It could be a mistake.|Có thể đó là một sự nhầm lẫn.
+should|should have|lẽ ra nên|I should have called you.|Lẽ ra tôi nên gọi cho bạn.
+ship|by ship|bằng tàu thủy|They sent the car by ship.|Họ gửi chiếc xe bằng tàu thủy.
+sheep|a flock of sheep|một đàn cừu|We saw a flock of sheep on the hill.|Chúng tôi thấy một đàn cừu trên đồi.
+sink|sink in|ngấm, thấm vào|Give the news time to sink in.|Hãy để tin đó có thời gian ngấm.
+tree|under the tree|dưới gốc cây|Let's sit under the tree.|Ngồi dưới gốc cây đi.
+seat|window seat|ghế cạnh cửa sổ|I'd like a window seat, please.|Cho tôi ghế cạnh cửa sổ.
+leave|leave a message|để lại lời nhắn|Would you like to leave a message?|Bạn có muốn để lại lời nhắn không?
+rise|on the rise|đang tăng|Prices are on the rise again.|Giá cả lại đang tăng.
+price|half price|nửa giá|Everything is half price today.|Hôm nay mọi thứ đều giảm nửa giá.
+prize|win a prize|đoạt giải|You can win a prize in this game.|Bạn có thể đoạt giải trong trò chơi này.
+bath|bath time|giờ tắm|It's bath time for the baby.|Đến giờ tắm cho em bé rồi.
+path|follow the path|đi theo lối mòn|Follow the path to the lake.|Đi theo lối mòn để đến hồ.
+breath|take a deep breath|hít một hơi sâu|Take a deep breath before you speak.|Hít một hơi sâu trước khi nói.
+vest|wear a vest|mặc áo ghi-lê|He likes to wear a vest to work.|Anh ấy thích mặc áo ghi-lê đi làm.
+fan|big fan|người hâm mộ cuồng nhiệt|I'm a big fan of this band.|Tôi rất hâm mộ ban nhạc này.
+van|drive a van|lái xe tải nhỏ|My uncle can drive a van.|Chú tôi lái được xe tải nhỏ.
+pull|pull the door|kéo cửa|Pull the door to open it.|Kéo cửa để mở.
+pool|swimming pool|hồ bơi|The kids are at the swimming pool.|Bọn trẻ đang ở hồ bơi.
+fill|fill up|đổ đầy|Fill up the tank, please.|Làm ơn đổ đầy bình.
+feel|feel better|thấy khỏe hơn|I hope you feel better soon.|Mong bạn sớm khỏe lại.
+cap|bottle cap|nắp chai|I can't open the bottle cap.|Tôi không mở được nắp chai.
+cut|cut the cake|cắt bánh|It's time to cut the cake.|Đến lúc cắt bánh rồi.
+cat|feed the cat|cho mèo ăn|Don't forget to feed the cat.|Đừng quên cho mèo ăn.
+then|back then|hồi đó|Life was simple back then.|Hồi đó cuộc sống đơn giản.
+den|in the den|trong phòng nhỏ|Dad is reading in the den.|Bố đang đọc sách trong phòng nhỏ.
+berry|berry pie|bánh nướng quả mọng|She baked a berry pie.|Cô ấy nướng một cái bánh quả mọng.
+thin|thin slice|lát mỏng|Cut me a thin slice of bread.|Cắt cho tôi một lát bánh mì mỏng.

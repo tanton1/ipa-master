@@ -56,3 +56,46 @@ cure|no cure|không có thuốc chữa|There is no cure for the common cold.|Kh�
 ambulance|call an ambulance|gọi xe cứu thương|Call an ambulance, quickly!|Gọi xe cứu thương, nhanh lên!
 emergency|in an emergency|trong trường hợp khẩn cấp|In an emergency, call 115.|Trường hợp khẩn cấp, hãy gọi 115.
 emergency|emergency room|phòng cấp cứu|They took him to the emergency room.|Họ đưa anh ấy vào phòng cấp cứu.
+brain|brain training|rèn luyện trí não|Puzzles are good brain training.|Giải đố là cách rèn luyện trí não tốt.
+bone|strong bones|xương chắc khỏe|Milk helps build strong bones.|Sữa giúp xương chắc khỏe.
+chest|chest X-ray|chụp X-quang ngực|The doctor ordered a chest X-ray.|Bác sĩ cho chụp X-quang ngực.
+throat|clear your throat|hắng giọng|Clear your throat before you speak.|Hãy hắng giọng trước khi nói.
+lip|bite your lip|cắn môi|Don't bite your lip when you're nervous.|Đừng cắn môi khi hồi hộp.
+chin|on your chin|trên cằm bạn|You have some rice on your chin.|Bạn dính cơm trên cằm kìa.
+cheek|kiss on the cheek|hôn lên má|She gave her son a kiss on the cheek.|Cô ấy hôn lên má con trai.
+forehead|on your forehead|trên trán bạn|Put a cool cloth on your forehead.|Đắp khăn mát lên trán đi.
+sore|sore muscles|cơ bị đau nhức|I have sore muscles after the gym.|Tập gym xong tôi bị đau nhức cơ.
+wrist|broken wrist|gãy cổ tay|She has a broken wrist.|Cô ấy bị gãy cổ tay.
+elbow|bend your elbow|gập khuỷu tay|Bend your elbow slowly.|Gập khuỷu tay chậm thôi.
+ankle|sprained ankle|bong gân mắt cá chân|He can't play with a sprained ankle.|Anh ấy bị bong gân mắt cá nên không chơi được.
+toe|big toe|ngón chân cái|I hurt my big toe.|Tôi bị đau ngón chân cái.
+thumb|rule of thumb|quy tắc kinh nghiệm|As a rule of thumb, drink water before meals.|Theo kinh nghiệm, hãy uống nước trước bữa ăn.
+nail|cut your nails|cắt móng tay|You need to cut your nails.|Bạn cần cắt móng tay đi.
+muscle|build muscle|tăng cơ|He eats a lot of eggs to build muscle.|Anh ấy ăn nhiều trứng để tăng cơ.
+lung|lung disease|bệnh phổi|Smoking can cause lung disease.|Hút thuốc có thể gây bệnh phổi.
+vaccine|get a vaccine|tiêm vắc-xin|Children get a vaccine at the clinic.|Trẻ em được tiêm vắc-xin ở phòng khám.
+surgery|knee surgery|phẫu thuật đầu gối|My dad needs knee surgery.|Bố tôi cần phẫu thuật đầu gối.
+waist|around your waist|quanh eo|Tie the jacket around your waist.|Buộc áo khoác quanh eo đi.
+beard|long beard|bộ râu dài|My grandfather has a long beard.|Ông tôi có bộ râu dài.
+flu|flu season|mùa cúm|Wash your hands often in flu season.|Mùa cúm hãy rửa tay thường xuyên.
+injury|head injury|chấn thương đầu|A helmet protects you from a head injury.|Mũ bảo hiểm bảo vệ bạn khỏi chấn thương đầu.
+wound|clean the wound|rửa vết thương|Clean the wound with water first.|Rửa vết thương bằng nước trước.
+cancer|cancer patient|bệnh nhân ung thư|She works with cancer patients.|Cô ấy làm việc với các bệnh nhân ung thư.
+illness|mental illness|bệnh tâm thần|Mental illness needs proper care.|Bệnh tâm thần cần được chăm sóc đúng cách.
+allergy|have an allergy|bị dị ứng|Do you have an allergy to any medicine?|Bạn có bị dị ứng với thuốc nào không?
+virus|flu virus|vi-rút cúm|The flu virus spreads fast in winter.|Vi-rút cúm lây nhanh vào mùa đông.
+symptom|symptoms of|triệu chứng của|What are the symptoms of the flu?|Triệu chứng của bệnh cúm là gì?
+nurse|school nurse|y tá trường học|The school nurse checked my eyes.|Y tá trường kiểm tra mắt cho tôi.
+dentist|dentist appointment|lịch hẹn nha sĩ|I have a dentist appointment at three.|Tôi có lịch hẹn nha sĩ lúc ba giờ.
+clinic|dental clinic|phòng khám nha khoa|There is a dental clinic near my house.|Gần nhà tôi có một phòng khám nha khoa.
+pharmacy|at the pharmacy|ở nhà thuốc|You can buy it at the pharmacy.|Bạn mua được ở nhà thuốc.
+pill|take a pill|uống một viên thuốc|Take a pill after each meal.|Uống một viên sau mỗi bữa ăn.
+vitamin|vitamin D|vitamin D|Sunlight gives you vitamin D.|Ánh nắng cung cấp vitamin D cho bạn.
+sweat|break a sweat|toát mồ hôi|I break a sweat just walking upstairs.|Chỉ leo cầu thang thôi tôi đã toát mồ hôi.
+sneeze|sneeze into|hắt hơi vào|Sneeze into a tissue, please.|Hãy hắt hơi vào khăn giấy.
+bleed|bleed easily|dễ chảy máu|My gums bleed easily.|Lợi tôi dễ chảy máu.
+hurt|hurt my back|làm đau lưng tôi|I hurt my back lifting a box.|Tôi bị đau lưng do nhấc một cái hộp.
+heal|heal faster|lành nhanh hơn|Rest helps you heal faster.|Nghỉ ngơi giúp bạn lành nhanh hơn.
+recover|recover quickly|hồi phục nhanh|Young people recover quickly.|Người trẻ hồi phục nhanh.
+cure|cure for|cách chữa cho|There is no cure for a cold.|Không có cách chữa cảm lạnh.
+ambulance|ambulance driver|tài xế xe cứu thương|The ambulance driver arrived in five minutes.|Tài xế xe cứu thương đến sau năm phút.

@@ -56,3 +56,46 @@ spice|five spice|ngũ vị hương|Add five spice to the pork.|Cho ngũ vị hư
 steak|beef steak|bít tết bò|I'd like the beef steak, medium.|Cho tôi bít tết bò, chín vừa.
 seafood|seafood restaurant|nhà hàng hải sản|There is a good seafood restaurant by the beach.|Có một nhà hàng hải sản ngon gần biển.
 seafood|fresh seafood|hải sản tươi|Nha Trang has fresh seafood.|Nha Trang có hải sản tươi.
+beef|ground beef|thịt bò xay|I need some ground beef for the sauce.|Tôi cần ít thịt bò xay để làm nước xốt.
+pork|pork chop|sườn heo cốt lết|I'll have the pork chop with rice.|Cho tôi sườn cốt lết ăn với cơm.
+shrimp|shrimp paste|mắm tôm|Some people don't like shrimp paste.|Một số người không thích mắm tôm.
+crab|crab meat|thịt cua|The soup has real crab meat.|Món súp có thịt cua thật.
+duck|duck egg|trứng vịt|A duck egg is bigger than a chicken egg.|Trứng vịt to hơn trứng gà.
+sausage|grilled sausage|xúc xích nướng|The kids want grilled sausage.|Bọn trẻ muốn ăn xúc xích nướng.
+ham|ham and cheese|giăm bông và phô mai|I'd like a ham and cheese roll.|Cho tôi một ổ bánh giăm bông phô mai.
+cheese|a slice of cheese|một lát phô mai|Put a slice of cheese on the bread.|Đặt một lát phô mai lên bánh mì.
+butter|peanut butter|bơ đậu phộng|I love peanut butter on toast.|Tôi thích bơ đậu phộng phết lên bánh mì nướng.
+yogurt|frozen yogurt|sữa chua đông lạnh|Let's get some frozen yogurt.|Đi ăn sữa chua đông lạnh đi.
+honey|a spoon of honey|một thìa mật ong|Add a spoon of honey to your tea.|Thêm một thìa mật ong vào trà.
+oil|olive oil|dầu ô liu|Cook the fish in olive oil.|Nấu cá bằng dầu ô liu.
+pepper|black pepper|tiêu đen|Add a little black pepper.|Thêm chút tiêu đen.
+garlic|garlic bread|bánh mì bơ tỏi|We ordered garlic bread and soup.|Chúng tôi gọi bánh mì bơ tỏi và súp.
+onion|onion rings|hành tây chiên vòng|I'll have a burger and onion rings.|Cho tôi một bánh burger và hành tây chiên vòng.
+potato|potato chips|khoai tây chiên lát|Don't eat too many potato chips.|Đừng ăn quá nhiều khoai tây chiên.
+tomato|tomato soup|súp cà chua|I made tomato soup for lunch.|Tôi nấu súp cà chua cho bữa trưa.
+carrot|carrot cake|bánh cà rốt|She baked a carrot cake.|Cô ấy nướng một cái bánh cà rốt.
+cabbage|boiled cabbage|bắp cải luộc|We often eat boiled cabbage with rice.|Chúng tôi hay ăn bắp cải luộc với cơm.
+corn|corn soup|súp ngô|Corn soup is my son's favorite.|Súp ngô là món con trai tôi thích nhất.
+bean|coffee beans|hạt cà phê|These coffee beans are from Da Lat.|Hạt cà phê này đến từ Đà Lạt.
+mushroom|mushroom pizza|pizza nấm|Let's share a mushroom pizza.|Mình ăn chung một cái pizza nấm đi.
+lemon|lemon juice|nước cốt chanh|Add some lemon juice to the fish.|Thêm ít nước cốt chanh vào cá.
+grape|a bunch of grapes|một chùm nho|I ate a bunch of grapes.|Tôi đã ăn một chùm nho.
+mango|ripe mango|xoài chín|A ripe mango is very sweet.|Xoài chín rất ngọt.
+pineapple|pineapple slices|lát dứa|Put pineapple slices on the plate.|Xếp các lát dứa lên đĩa.
+watermelon|watermelon juice|nước ép dưa hấu|I'd like a watermelon juice, please.|Cho tôi một ly nước ép dưa hấu.
+strawberry|strawberry jam|mứt dâu|I put strawberry jam on my bread.|Tôi phết mứt dâu lên bánh mì.
+peach|peach tree|cây đào|We have a peach tree in the yard.|Nhà tôi có một cây đào trong sân.
+pear|apples and pears|táo và lê|We bought apples and pears.|Chúng tôi mua táo và lê.
+nut|mixed nuts|các loại hạt trộn|I eat mixed nuts as a snack.|Tôi ăn hạt trộn làm bữa phụ.
+cookie|bake cookies|nướng bánh quy|Let's bake cookies this afternoon.|Chiều nay nướng bánh quy đi.
+candy|candy bar|thanh kẹo|He bought a candy bar at the shop.|Cậu ấy mua một thanh kẹo ở cửa hàng.
+pizza|order pizza|gọi pizza|Let's order pizza for dinner.|Gọi pizza ăn tối đi.
+sandwich|make a sandwich|làm bánh mì kẹp|I'll make a sandwich for lunch.|Tôi sẽ làm bánh mì kẹp cho bữa trưa.
+hamburger|eat a hamburger|ăn bánh hamburger|I could eat a hamburger right now.|Bây giờ tôi ăn được cả một cái hamburger.
+salad|green salad|salad rau xanh|I'll start with a green salad.|Tôi sẽ ăn salad rau xanh trước.
+pasta|cook pasta|nấu mì Ý|I cook pasta when I'm in a hurry.|Lúc vội tôi nấu mì Ý.
+cereal|a bowl of cereal|một bát ngũ cốc|I have a bowl of cereal every morning.|Sáng nào tôi cũng ăn một bát ngũ cốc.
+dessert|dessert menu|thực đơn tráng miệng|Can we see the dessert menu?|Cho chúng tôi xem thực đơn tráng miệng được không?
+flour|a cup of flour|một cốc bột mì|Add a cup of flour to the bowl.|Thêm một cốc bột mì vào tô.
+spice|spice up|thêm gia vị, làm thú vị hơn|Chili will spice up the soup.|Ớt sẽ làm món canh đậm đà hơn.
+steak|steak and fries|bít tết và khoai tây chiên|He ordered steak and fries.|Anh ấy gọi bít tết và khoai tây chiên.

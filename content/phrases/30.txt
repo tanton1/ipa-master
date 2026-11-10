@@ -53,3 +53,49 @@ context|in context|trong ngữ cảnh|Learn new words in context.|Học từ m�
 phonetics|English phonetics|ngữ âm tiếng Anh|This course teaches English phonetics.|Khóa học này dạy ngữ âm tiếng Anh.
 vocal|vocal cords|dây thanh|Put your hand on your throat to feel your vocal cords.|Đặt tay lên cổ để cảm nhận dây thanh.
 recite|recite a poem|đọc thuộc bài thơ|Children recite a poem at the festival.|Trẻ em đọc thơ ở lễ hội.
+consonant|consonant sound|âm phụ âm|The word ends with a consonant sound.|Từ này kết thúc bằng một âm phụ âm.
+syllable|first syllable|âm tiết đầu|Stress the first syllable.|Nhấn vào âm tiết đầu.
+intonation|falling intonation|ngữ điệu xuống|Use falling intonation at the end of a statement.|Dùng ngữ điệu xuống ở cuối câu trần thuật.
+phrase|common phrase|cụm từ thông dụng|This is a common phrase in English.|Đây là một cụm từ thông dụng trong tiếng Anh.
+symbol|symbol of|biểu tượng của|The lotus is a symbol of Vietnam.|Hoa sen là biểu tượng của Việt Nam.
+noun|proper noun|danh từ riêng|A proper noun starts with a capital letter.|Danh từ riêng bắt đầu bằng chữ in hoa.
+verb|main verb|động từ chính|Find the main verb in the sentence.|Tìm động từ chính trong câu.
+adjective|use an adjective|dùng một tính từ|Use an adjective to describe the cat.|Dùng một tính từ để tả con mèo.
+adverb|adverb of time|trạng từ chỉ thời gian|"Yesterday" is an adverb of time.|"Yesterday" là một trạng từ chỉ thời gian.
+tense|present tense|thì hiện tại|Write the story in the present tense.|Viết câu chuyện ở thì hiện tại.
+plural|plural ending|đuôi số nhiều|The plural ending can sound like s or z.|Đuôi số nhiều có thể đọc là s hoặc z.
+singular|singular form|dạng số ít|What is the singular form of "teeth"?|Dạng số ít của "teeth" là gì?
+prefix|common prefix|tiền tố thông dụng|"Un" is a common prefix in English.|"Un" là một tiền tố thông dụng trong tiếng Anh.
+suffix|common suffix|hậu tố thông dụng|"Ness" is a common suffix for nouns.|"Ness" là một hậu tố thông dụng của danh từ.
+synonym|find a synonym|tìm từ đồng nghĩa|Find a synonym for "happy."|Tìm một từ đồng nghĩa với "happy."
+antonym|find an antonym|tìm từ trái nghĩa|Find an antonym for "hot."|Tìm một từ trái nghĩa với "hot."
+fluency|fluency in English|sự trôi chảy tiếng Anh|The job needs fluency in English.|Công việc này cần nói trôi chảy tiếng Anh.
+dialect|southern dialect|phương ngữ miền Nam|She speaks a southern dialect.|Cô ấy nói phương ngữ miền Nam.
+slang|use slang|dùng tiếng lóng|Don't use slang in a job interview.|Đừng dùng tiếng lóng trong buổi phỏng vấn xin việc.
+idiom|common idiom|thành ngữ thông dụng|"Break a leg" is a common idiom.|"Break a leg" là một thành ngữ thông dụng.
+proverb|Vietnamese proverb|tục ngữ Việt Nam|My grandmother loves this Vietnamese proverb.|Bà tôi rất thích câu tục ngữ Việt Nam này.
+quote|favorite quote|câu trích dẫn yêu thích|What is your favorite quote?|Câu trích dẫn yêu thích của bạn là gì?
+listener|native listener|người nghe bản ngữ|A native listener can hear the difference.|Người nghe bản ngữ có thể nghe ra sự khác biệt.
+mispronounce|mispronounce my name|phát âm sai tên tôi|People often mispronounce my name.|Mọi người hay phát âm sai tên tôi.
+clause|relative clause|mệnh đề quan hệ|This sentence has a relative clause.|Câu này có một mệnh đề quan hệ.
+abbreviation|abbreviation for|chữ viết tắt của|"Dr." is the abbreviation for "doctor."|"Dr." là chữ viết tắt của "doctor."
+comma|comma after|dấu phẩy sau|Put a comma after the first word.|Đặt dấu phẩy sau từ đầu tiên.
+punctuation|check your punctuation|kiểm tra dấu câu|Check your punctuation before you send it.|Kiểm tra dấu câu trước khi gửi.
+quotation|famous quotation|câu trích dẫn nổi tiếng|That is a famous quotation from a movie.|Đó là một câu trích dẫn nổi tiếng trong phim.
+bilingual|bilingual dictionary|từ điển song ngữ|I use a bilingual dictionary.|Tôi dùng một cuốn từ điển song ngữ.
+interpreter|need an interpreter|cần phiên dịch viên|Do you need an interpreter at the hospital?|Bạn có cần phiên dịch viên ở bệnh viện không?
+subtitle|turn on subtitles|bật phụ đề|Turn on subtitles for the movie.|Bật phụ đề cho bộ phim đi.
+caption|write a caption|viết chú thích|Write a caption for this picture.|Viết chú thích cho bức ảnh này.
+text|text me|nhắn tin cho tôi|Text me when you get there.|Đến nơi thì nhắn tin cho tôi.
+gesture|kind gesture|cử chỉ tử tế|That was a kind gesture.|Đó là một cử chỉ tử tế.
+mumble|mumble something|lầm bầm điều gì đó|I heard him mumble something.|Tôi nghe anh ấy lầm bầm điều gì đó.
+imitate|imitate the sound|bắt chước âm thanh|Listen and imitate the sound.|Nghe và bắt chước âm thanh.
+correction|correction pen|bút xóa|Can I borrow your correction pen?|Tôi mượn bút xóa của bạn được không?
+preposition|preposition of time|giới từ chỉ thời gian|"At" is a preposition of time here.|Ở đây "at" là giới từ chỉ thời gian.
+pronoun|subject pronoun|đại từ chủ ngữ|"She" is a subject pronoun.|"She" là một đại từ chủ ngữ.
+conjunction|conjunction like|liên từ như|Join the sentences with a conjunction like "and."|Nối các câu bằng một liên từ như "and."
+alphabet|letters of the alphabet|các chữ cái trong bảng chữ cái|There are 26 letters of the alphabet.|Bảng chữ cái có 26 chữ.
+context|out of context|tách khỏi ngữ cảnh|His words were taken out of context.|Lời anh ấy bị tách khỏi ngữ cảnh.
+phonetics|study phonetics|học ngữ âm|We study phonetics in the first year.|Chúng tôi học ngữ âm vào năm nhất.
+vocal|vocal training|luyện thanh|Singers need vocal training.|Ca sĩ cần luyện thanh.
+recite|recite the alphabet|đọc thuộc bảng chữ cái|Can you recite the alphabet?|Bạn đọc thuộc bảng chữ cái được không?

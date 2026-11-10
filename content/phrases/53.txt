@@ -49,3 +49,53 @@ select|select a language|chọn ngôn ngữ|Select a language to continue.|Chọ
 survive|survive the winter|sống qua mùa đông|Bears sleep to survive the winter.|Gấu ngủ đông để sống qua mùa đông.
 tend|tend to|thường hay|I tend to eat too much at Tet.|Tôi hay ăn quá nhiều dịp Tết.
 encourage|encourage children|khuyến khích trẻ|Parents should encourage children to read.|Cha mẹ nên khuyến khích con đọc sách.
+achieve|achieve success|đạt được thành công|Hard work helps you achieve success.|Chăm chỉ giúp bạn đạt được thành công.
+affect|affect your sleep|ảnh hưởng đến giấc ngủ|Coffee can affect your sleep.|Cà phê có thể ảnh hưởng đến giấc ngủ của bạn.
+analyze|analyze the results|phân tích kết quả|We need a week to analyze the results.|Chúng tôi cần một tuần để phân tích kết quả.
+assume|assume the worst|nghĩ đến điều tệ nhất|Don't assume the worst.|Đừng nghĩ đến điều tệ nhất.
+attract|attract attention|thu hút sự chú ý|Bright colors attract attention.|Màu sáng thu hút sự chú ý.
+claim|claim that|khẳng định rằng|They claim that the tea helps you sleep.|Họ khẳng định loại trà này giúp ngủ ngon.
+compete|compete in|thi đấu ở|She will compete in the national games.|Cô ấy sẽ thi đấu ở đại hội thể thao toàn quốc.
+concentrate|can't concentrate|không thể tập trung|I can't concentrate with that noise.|Ồn như vậy tôi không thể tập trung.
+confirm|confirm your email|xác nhận email của bạn|Please confirm your email address.|Xin xác nhận địa chỉ email của bạn.
+measure|measure the temperature|đo nhiệt độ|Nurses measure the temperature of each patient.|Y tá đo nhiệt độ cho từng bệnh nhân.
+contain|contain nuts|có chứa hạt|These cookies may contain nuts.|Bánh quy này có thể chứa hạt.
+contribute|contribute money|góp tiền|We all contribute money for the gift.|Tất cả chúng tôi góp tiền mua quà.
+create|create a file|tạo một tệp|Create a file and name it Notes.|Tạo một tệp và đặt tên là Notes.
+define|define the word|định nghĩa từ|Can you define the word in English?|Bạn định nghĩa từ đó bằng tiếng Anh được không?
+depend|depend on|phụ thuộc vào|Children depend on their parents.|Trẻ em phụ thuộc vào bố mẹ.
+design|design a house|thiết kế một ngôi nhà|They asked him to design a house.|Họ nhờ anh ấy thiết kế một ngôi nhà.
+determine|determine the price|quyết định giá|Supply and demand determine the price.|Cung và cầu quyết định giá.
+develop|develop a habit|hình thành thói quen|It takes weeks to develop a habit.|Hình thành một thói quen mất nhiều tuần.
+establish|establish a rule|đặt ra quy tắc|Parents should establish a rule about phones.|Cha mẹ nên đặt ra quy tắc về điện thoại.
+examine|examine the evidence|xem xét bằng chứng|The police will examine the evidence.|Cảnh sát sẽ xem xét bằng chứng.
+exist|exist without|tồn tại mà không có|We can't exist without water.|Chúng ta không thể tồn tại nếu thiếu nước.
+expand|expand your vocabulary|mở rộng vốn từ|Reading helps expand your vocabulary.|Đọc sách giúp mở rộng vốn từ của bạn.
+identify|identify the sound|nhận ra âm thanh|Listen and identify the sound.|Nghe và nhận ra âm thanh.
+ignore|ignore him|phớt lờ anh ấy|Just ignore him and keep working.|Cứ phớt lờ anh ấy và làm việc tiếp đi.
+indicate|indicate the way|chỉ đường|The signs indicate the way to the beach.|Các biển báo chỉ đường ra bãi biển.
+involve|involve a lot of|đòi hỏi nhiều|The job does involve a lot of travel.|Công việc này đúng là phải đi lại nhiều.
+maintain|maintain a car|bảo dưỡng xe|It costs a lot to maintain a car.|Bảo dưỡng một chiếc xe tốn rất nhiều tiền.
+manage|manage to|xoay xở để|Did you manage to find the keys?|Bạn có tìm được chìa khóa không?
+obtain|obtain permission|xin được phép|You must obtain permission first.|Bạn phải xin được phép trước.
+occur|occur again|xảy ra lần nữa|We hope it will not occur again.|Chúng tôi hy vọng chuyện đó không xảy ra lần nữa.
+organize|organize a trip|tổ chức một chuyến đi|Let's organize a trip to the mountains.|Tổ chức một chuyến đi lên núi đi.
+perform|perform well|thể hiện tốt|The team did perform well today.|Hôm nay đội đã thể hiện tốt.
+predict|predict the weather|dự báo thời tiết|It is hard to predict the weather here.|Ở đây khó dự báo thời tiết.
+provide|provide food|cung cấp thức ăn|The school will provide food for the trip.|Trường sẽ cung cấp thức ăn cho chuyến đi.
+publish|publish an article|đăng một bài báo|The newspaper will publish an article about her.|Tờ báo sẽ đăng một bài về cô ấy.
+recognize|recognize you|nhận ra bạn|I didn't recognize you with short hair.|Bạn cắt tóc ngắn tôi không nhận ra.
+reflect|reflect the light|phản chiếu ánh sáng|White walls reflect the light.|Tường trắng phản chiếu ánh sáng.
+relate|relate a story|kể lại một câu chuyện|She loves to relate a story from her childhood.|Bà ấy thích kể lại một câu chuyện thời thơ ấu.
+rely|rely too much on|dựa quá nhiều vào|Don't rely too much on your phone.|Đừng dựa quá nhiều vào điện thoại.
+remain|remain silent|giữ im lặng|He chose to remain silent.|Anh ấy chọn giữ im lặng.
+remove|remove the stain|tẩy vết bẩn|Use lemon to remove the stain.|Dùng chanh để tẩy vết bẩn.
+replace|replace the light bulb|thay bóng đèn|Can you replace the light bulb?|Bạn thay giúp cái bóng đèn được không?
+represent|represent the company|đại diện công ty|She will represent the company in Japan.|Cô ấy sẽ đại diện công ty ở Nhật.
+require|require a password|yêu cầu mật khẩu|Does the wifi require a password?|Wifi có yêu cầu mật khẩu không?
+respond|respond quickly|phản hồi nhanh|They always respond quickly to emails.|Họ luôn phản hồi email nhanh.
+reveal|reveal the answer|tiết lộ đáp án|The teacher will reveal the answer tomorrow.|Mai giáo viên sẽ tiết lộ đáp án.
+select|select a seat|chọn chỗ ngồi|Please select a seat on the screen.|Xin chọn chỗ ngồi trên màn hình.
+survive|survive without|sống sót mà không có|Camels can survive without water for days.|Lạc đà có thể sống nhiều ngày không cần nước.
+tend|tend to be|thường có xu hướng|Mondays tend to be busy.|Thứ Hai thường bận rộn.
+encourage|encourage each other|động viên nhau|Good teams encourage each other.|Đội tốt thì biết động viên nhau.

@@ -49,3 +49,53 @@ name|first name|tên|What is your first name?|Tên của bạn là gì?
 age|at the age of|ở tuổi|She started school at the age of six.|Cô bé đi học năm sáu tuổi.
 life|real life|đời thực|He is very funny in real life.|Ngoài đời anh ấy rất vui tính.
 neighbor|next-door neighbor|hàng xóm sát vách|Our next-door neighbor is very kind.|Hàng xóm sát vách nhà tôi rất tốt.
+man|young man|chàng trai trẻ|That young man is very polite.|Chàng trai trẻ đó rất lịch sự.
+woman|business woman|nữ doanh nhân|She is a successful business woman.|Cô ấy là một nữ doanh nhân thành đạt.
+child|only child|con một|I am an only child.|Tôi là con một.
+children|children's books|sách thiếu nhi|She writes children's books.|Cô ấy viết sách thiếu nhi.
+boy|little boy|cậu bé con|The little boy is crying.|Cậu bé con đang khóc.
+girl|little girl|cô bé con|The little girl has a red hat.|Cô bé con đội mũ đỏ.
+baby|have a baby|sinh em bé|They are going to have a baby.|Họ sắp có em bé.
+mother|single mother|mẹ đơn thân|She is a single mother.|Cô ấy là mẹ đơn thân.
+father|like father, like son|cha nào con nấy|He loves football too. Like father, like son.|Cậu ấy cũng mê bóng đá. Cha nào con nấy.
+parents|live with my parents|sống cùng bố mẹ tôi|I still live with my parents.|Tôi vẫn sống cùng bố mẹ.
+brother|younger brother|em trai|My younger brother is ten.|Em trai tôi mười tuổi.
+sister|older sister|chị gái|My older sister lives in Da Nang.|Chị gái tôi sống ở Đà Nẵng.
+son|youngest son|con trai út|Their youngest son is a student.|Con trai út của họ là sinh viên.
+daughter|only daughter|con gái duy nhất|She is their only daughter.|Cô ấy là con gái duy nhất của họ.
+husband|her husband|chồng cô ấy|Her husband works at a bank.|Chồng cô ấy làm ở ngân hàng.
+wife|his wife|vợ anh ấy|I met his wife at the party.|Tôi gặp vợ anh ấy ở bữa tiệc.
+family|family dinner|bữa tối gia đình|We have a family dinner every Sunday.|Chủ nhật nào chúng tôi cũng ăn tối cả nhà.
+friend|best friend|bạn thân nhất|My best friend lives next door.|Bạn thân nhất của tôi sống ngay bên cạnh.
+people|a lot of people|rất nhiều người|A lot of people live here.|Rất nhiều người sống ở đây.
+person|nice person|người tốt bụng|He is a really nice person.|Anh ấy là người rất tốt bụng.
+teacher|math teacher|giáo viên toán|My math teacher is very kind.|Giáo viên toán của tôi rất hiền.
+student|college student|sinh viên đại học|My sister is a college student.|Chị tôi là sinh viên đại học.
+doctor|go to the doctor|đi khám bác sĩ|You should go to the doctor.|Bạn nên đi khám bác sĩ.
+head|shake your head|lắc đầu|Shake your head if you disagree.|Lắc đầu nếu bạn không đồng ý.
+face|wash your face|rửa mặt|Wash your face before bed.|Rửa mặt trước khi đi ngủ.
+eye|eye contact|giao tiếp bằng mắt|Make eye contact when you speak.|Hãy nhìn vào mắt người nghe khi nói.
+ear|ear infection|viêm tai|The baby has an ear infection.|Em bé bị viêm tai.
+nose|blow your nose|xì mũi|Use a tissue to blow your nose.|Dùng khăn giấy để xì mũi.
+mouth|open your mouth|mở miệng ra|Open your mouth, please.|Mời mở miệng ra.
+tooth|tooth decay|sâu răng|Sugar causes tooth decay.|Đường gây sâu răng.
+teeth|white teeth|hàm răng trắng|She has beautiful white teeth.|Cô ấy có hàm răng trắng đẹp.
+hair|cut my hair|cắt tóc|I need to cut my hair.|Tôi cần cắt tóc.
+hand|shake hands|bắt tay|They shake hands and smile.|Họ bắt tay và mỉm cười.
+arm|broken arm|gãy tay|He has a broken arm.|Anh ấy bị gãy tay.
+leg|left leg|chân trái|My left leg hurts.|Chân trái tôi bị đau.
+foot|foot massage|mát-xa chân|I love a good foot massage.|Tôi thích được mát-xa chân.
+feet|on your feet|đứng suốt|I'm on my feet all day, and you're on your feet too.|Tôi đứng cả ngày, và bạn cũng vậy.
+finger|ring finger|ngón đeo nhẫn|She wears a ring on her ring finger.|Cô ấy đeo nhẫn ở ngón áp út.
+heart|heart attack|cơn đau tim|He had a heart attack last year.|Năm ngoái ông ấy bị đau tim.
+body|whole body|toàn thân|My whole body is tired.|Toàn thân tôi mệt mỏi.
+neck|stiff neck|cứng cổ|I woke up with a stiff neck.|Tôi ngủ dậy bị cứng cổ.
+shoulder|shoulder pain|đau vai|I have shoulder pain after work.|Tôi bị đau vai sau giờ làm.
+back|come back|quay lại|When will you come back?|Khi nào bạn quay lại?
+knee|on your knees|quỳ gối|Get down on your knees and look under the bed.|Quỳ xuống rồi nhìn dưới gầm giường xem.
+skin|dry skin|da khô|This cream is good for dry skin.|Kem này tốt cho da khô.
+voice|low voice|giọng nhỏ, giọng trầm|He spoke in a low voice.|Anh ấy nói bằng giọng nhỏ.
+name|last name|họ|What is your last name?|Họ của bạn là gì?
+age|the same age|cùng tuổi|We are the same age.|Chúng tôi cùng tuổi.
+life|daily life|cuộc sống hằng ngày|Phones are part of daily life now.|Điện thoại giờ là một phần của cuộc sống hằng ngày.
+neighbor|new neighbor|hàng xóm mới|Our new neighbor is friendly.|Hàng xóm mới của chúng tôi thân thiện.

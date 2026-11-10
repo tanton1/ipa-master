@@ -49,3 +49,53 @@ held|held a meeting|đã tổ chức cuộc họp|The company held a meeting on 
 fell|fell in love|đã phải lòng nhau|They fell in love in Paris.|Họ yêu nhau ở Paris.
 forgot|forgot my keys|đã quên chìa khóa|I forgot my keys at home.|Tôi để quên chìa khóa ở nhà.
 hid|hid the money|đã giấu tiền|She hid the money under the bed.|Cô ấy giấu tiền dưới gầm giường.
+went|went to bed|đã đi ngủ|I went to bed early last night.|Tối qua tôi đi ngủ sớm.
+saw|saw a doctor|đã đi khám bác sĩ|I saw a doctor about my back.|Tôi đã đi khám bác sĩ vì đau lưng.
+ate|ate out|đã đi ăn ngoài|We ate out last night.|Tối qua chúng tôi đi ăn ngoài.
+came|came home|đã về nhà|He came home very late.|Anh ấy về nhà rất muộn.
+got|got up|đã thức dậy|I got up at six this morning.|Sáng nay tôi dậy lúc sáu giờ.
+gave|gave up|đã bỏ cuộc|He never gave up.|Anh ấy chưa bao giờ bỏ cuộc.
+took|took a taxi|đã đi taxi|We took a taxi to the airport.|Chúng tôi đi taxi ra sân bay.
+made|made dinner|đã nấu bữa tối|My dad made dinner tonight.|Tối nay bố tôi nấu bữa tối.
+said|said yes|đã đồng ý|She said yes right away.|Cô ấy đồng ý ngay.
+told|told me|đã nói với tôi|He told me about the trip.|Anh ấy kể cho tôi về chuyến đi.
+bought|bought a ticket|đã mua vé|I bought a ticket online.|Tôi đã mua vé trên mạng.
+brought|brought a gift|đã mang quà đến|She brought a gift for the baby.|Cô ấy mang quà đến cho em bé.
+caught|caught the bus|đã bắt kịp xe buýt|I caught the bus just in time.|Tôi vừa kịp bắt xe buýt.
+taught|taught me|đã dạy tôi|My mother taught me to cook.|Mẹ đã dạy tôi nấu ăn.
+fought|fought with|đã cãi nhau với|He fought with his brother.|Cậu ấy đã cãi nhau với anh trai.
+knew|knew about|đã biết về|Nobody knew about the plan.|Không ai biết về kế hoạch đó.
+wrote|wrote a book|đã viết một cuốn sách|She wrote a book about her life.|Bà ấy đã viết một cuốn sách về đời mình.
+spoke|spoke to|đã nói chuyện với|I spoke to the manager.|Tôi đã nói chuyện với quản lý.
+broke|broke down|đã bị hỏng|Our car broke down on the highway.|Xe chúng tôi bị hỏng trên đường cao tốc.
+chose|chose to stay|đã chọn ở lại|They chose to stay at home.|Họ đã chọn ở nhà.
+drove|drove home|đã lái xe về nhà|We drove home after the party.|Sau bữa tiệc chúng tôi lái xe về nhà.
+rode|rode a horse|đã cưỡi ngựa|I rode a horse on the beach.|Tôi đã cưỡi ngựa trên bãi biển.
+flew|flew back|đã bay về|We flew back on Sunday.|Chúng tôi bay về vào Chủ nhật.
+drew|drew a picture|đã vẽ một bức tranh|My son drew a picture of me.|Con trai tôi đã vẽ một bức tranh về tôi.
+grew|grew vegetables|đã trồng rau|My grandma grew vegetables in her garden.|Bà tôi trồng rau trong vườn.
+threw|threw away|đã vứt đi|I threw away the old shoes.|Tôi đã vứt đôi giày cũ.
+began|began to cry|bắt đầu khóc|The baby began to cry.|Em bé bắt đầu khóc.
+ran|ran away|đã chạy mất|The dog ran away from home.|Con chó đã chạy khỏi nhà.
+swam|swam across|đã bơi qua|He swam across the river.|Anh ấy đã bơi qua sông.
+sang|sang a song|đã hát một bài|She sang a song for her mother.|Cô ấy hát một bài tặng mẹ.
+drank|drank water|đã uống nước|I drank water after the run.|Chạy xong tôi uống nước.
+sat|sat next to|đã ngồi cạnh|I sat next to her in class.|Tôi ngồi cạnh cô ấy trong lớp.
+stood|stood up|đã đứng dậy|Everyone stood up and clapped.|Mọi người đứng dậy vỗ tay.
+understood|understood the lesson|đã hiểu bài|I finally understood the lesson.|Cuối cùng tôi đã hiểu bài.
+felt|felt tired|đã thấy mệt|I felt tired after the trip.|Sau chuyến đi tôi thấy mệt.
+kept|kept going|đã tiếp tục đi|We were tired, but we kept going.|Chúng tôi mệt nhưng vẫn tiếp tục đi.
+slept|slept late|đã ngủ dậy muộn|I slept late on Sunday.|Chủ nhật tôi ngủ dậy muộn.
+met|met my wife|đã gặp vợ tôi|I met my wife at university.|Tôi gặp vợ tôi ở trường đại học.
+paid|paid in cash|đã trả bằng tiền mặt|I paid in cash at the market.|Ở chợ tôi trả bằng tiền mặt.
+sold|sold the car|đã bán xe|He sold the car last month.|Tháng trước anh ấy bán xe rồi.
+sent|sent a message|đã gửi tin nhắn|I sent a message to the group.|Tôi đã gửi tin nhắn vào nhóm.
+spent|spent the weekend|đã dành cuối tuần|We spent the weekend at the beach.|Chúng tôi dành cuối tuần ở biển.
+built|built a house|đã xây nhà|They built a house near the lake.|Họ xây nhà gần hồ.
+heard|heard about|đã nghe về|I heard about your new job.|Tôi đã nghe về công việc mới của bạn.
+won|won a prize|đã đoạt giải|My sister won a prize at school.|Chị tôi đoạt giải ở trường.
+wore|wore a dress|đã mặc váy|She wore a dress to the party.|Cô ấy mặc váy đi dự tiệc.
+held|held hands|đã nắm tay nhau|They held hands in the park.|Họ nắm tay nhau trong công viên.
+fell|fell asleep|đã ngủ thiếp đi|I fell asleep on the sofa.|Tôi ngủ thiếp đi trên ghế sofa.
+forgot|forgot to|đã quên làm gì|I forgot to call my mom.|Tôi quên gọi cho mẹ.
+hid|hid behind|đã trốn sau|The cat hid behind the sofa.|Con mèo trốn sau ghế sofa.

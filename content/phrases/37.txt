@@ -54,3 +54,48 @@ jogging|go jogging|đi chạy bộ|I go jogging in the park every morning.|Sáng
 fishing|go fishing|đi câu cá|My grandfather likes to go fishing.|Ông tôi thích đi câu cá.
 cycling|cycling tour|chuyến đạp xe|We took a cycling tour around Hoi An.|Chúng tôi đạp xe tham quan quanh Hội An.
 marathon|run a marathon|chạy marathon|I want to run a marathon one day.|Tôi muốn chạy marathon một ngày nào đó.
+hobby|new hobby|sở thích mới|I want to try a new hobby.|Tôi muốn thử một sở thích mới.
+sport|play sports|chơi thể thao|I play sports to stay healthy.|Tôi chơi thể thao để giữ sức khỏe.
+football|play football|đá bóng|We play football after school.|Chúng tôi đá bóng sau giờ học.
+soccer|soccer ball|quả bóng đá|He got a soccer ball for his birthday.|Cậu ấy được tặng một quả bóng đá vào sinh nhật.
+basketball|basketball court|sân bóng rổ|There is a basketball court near my house.|Gần nhà tôi có một sân bóng rổ.
+tennis|play tennis|chơi quần vợt|They play tennis on Sundays.|Họ chơi quần vợt vào Chủ nhật.
+volleyball|volleyball team|đội bóng chuyền|She is on the school volleyball team.|Cô ấy ở trong đội bóng chuyền của trường.
+badminton|badminton racket|vợt cầu lông|I need a new badminton racket.|Tôi cần một cái vợt cầu lông mới.
+golf|play golf|chơi gôn|My boss likes to play golf.|Sếp tôi thích chơi gôn.
+yoga|do yoga|tập yoga|I do yoga every morning.|Sáng nào tôi cũng tập yoga.
+chess|chess board|bàn cờ vua|Set up the chess board, please.|Xếp bàn cờ vua giúp tôi.
+match|watch the match|xem trận đấu|Let's watch the match together.|Cùng xem trận đấu đi.
+player|tennis player|vận động viên quần vợt|She is a great tennis player.|Cô ấy là một vận động viên quần vợt giỏi.
+coach|swimming coach|huấn luyện viên bơi lội|My swimming coach is very strict.|Huấn luyện viên bơi lội của tôi rất nghiêm.
+referee|the referee's decision|quyết định của trọng tài|Players must accept the referee's decision.|Cầu thủ phải chấp nhận quyết định của trọng tài.
+goal|set a goal|đặt mục tiêu|Set a goal and work hard.|Hãy đặt mục tiêu và nỗ lực.
+ball|throw the ball|ném bóng|Throw the ball to me.|Ném bóng cho tôi đi.
+race|boat race|cuộc đua thuyền|The boat race is on the river.|Cuộc đua thuyền diễn ra trên sông.
+medal|win a medal|giành huy chương|She hopes to win a medal.|Cô ấy hy vọng giành được huy chương.
+champion|national champion|nhà vô địch quốc gia|He is the national champion in chess.|Anh ấy là nhà vô địch cờ vua quốc gia.
+competition|enter a competition|tham gia cuộc thi|I want to enter a competition this year.|Năm nay tôi muốn tham gia một cuộc thi.
+winner|lucky winner|người thắng may mắn|You are the lucky winner today.|Hôm nay bạn là người thắng may mắn.
+concert|concert ticket|vé hòa nhạc|I bought a concert ticket online.|Tôi mua vé hòa nhạc trên mạng.
+film|watch a film|xem phim|Let's watch a film at home.|Xem phim ở nhà đi.
+song|sing a song|hát một bài|Can you sing a song for us?|Bạn hát cho chúng tôi một bài được không?
+band|school band|ban nhạc của trường|He plays in the school band.|Cậu ấy chơi trong ban nhạc của trường.
+guitar|guitar lesson|buổi học ghi-ta|I have a guitar lesson at five.|Tôi có buổi học ghi-ta lúc năm giờ.
+piano|play the piano|chơi đàn piano|My daughter can play the piano.|Con gái tôi biết chơi đàn piano.
+drum|drum set|bộ trống|He got a drum set for his birthday.|Cậu ấy được tặng một bộ trống vào sinh nhật.
+violin|play the violin|chơi vĩ cầm|She started to play the violin at six.|Cô bé bắt đầu chơi vĩ cầm lúc sáu tuổi.
+painting|painting class|lớp học vẽ|I take a painting class on Saturdays.|Thứ Bảy tôi đi học vẽ.
+photography|photography class|lớp nhiếp ảnh|I joined a photography class.|Tôi đã tham gia một lớp nhiếp ảnh.
+cartoon|watch cartoons|xem phim hoạt hình|Kids watch cartoons on Sunday morning.|Bọn trẻ xem phim hoạt hình vào sáng Chủ nhật.
+athlete|Olympic athlete|vận động viên Olympic|She trains like an Olympic athlete.|Cô ấy tập luyện như một vận động viên Olympic.
+novel|read a novel|đọc tiểu thuyết|I read a novel every month.|Mỗi tháng tôi đọc một cuốn tiểu thuyết.
+poem|short poem|bài thơ ngắn|She read a short poem to the class.|Cô ấy đọc một bài thơ ngắn cho cả lớp.
+magazine|read a magazine|đọc tạp chí|I read a magazine at the dentist.|Tôi đọc tạp chí ở phòng khám nha khoa.
+entertainment|for entertainment|để giải trí|What do you do for entertainment?|Bạn làm gì để giải trí?
+joke|just a joke|chỉ là đùa thôi|Don't be angry. It was just a joke.|Đừng giận. Chỉ là đùa thôi mà.
+puzzle|crossword puzzle|trò chơi ô chữ|My dad does a crossword puzzle every day.|Ngày nào bố tôi cũng giải ô chữ.
+workout|workout clothes|quần áo tập|I packed my workout clothes.|Tôi đã xếp quần áo tập vào túi.
+jogging|jogging shoes|giày chạy bộ|I need new jogging shoes.|Tôi cần giày chạy bộ mới.
+fishing|fishing rod|cần câu cá|He bought a new fishing rod.|Anh ấy mua một cái cần câu mới.
+cycling|go cycling|đi đạp xe|We go cycling on weekends.|Cuối tuần chúng tôi đi đạp xe.
+marathon|marathon runner|vận động viên chạy marathon|My uncle is a marathon runner.|Chú tôi là vận động viên chạy marathon.

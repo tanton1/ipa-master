@@ -49,3 +49,53 @@ attitude|positive attitude|thái độ tích cực|A positive attitude helps a l
 personality|strong personality|cá tính mạnh|My sister has a strong personality.|Chị tôi có cá tính mạnh.
 character|main character|nhân vật chính|Who is the main character in the book?|Nhân vật chính trong sách là ai?
 sympathy|deepest sympathy|lời chia buồn sâu sắc|You have my deepest sympathy.|Xin gửi bạn lời chia buồn sâu sắc nhất.
+feeling|have a feeling|có linh cảm|I have a feeling it will rain.|Tôi có linh cảm trời sẽ mưa.
+emotion|full of emotion|đầy cảm xúc|Her voice was full of emotion.|Giọng cô ấy đầy cảm xúc.
+mood|in a bad mood|tâm trạng không tốt|He is in a bad mood today.|Hôm nay anh ấy tâm trạng không tốt.
+fear|fear of failure|nỗi sợ thất bại|Don't let fear of failure stop you.|Đừng để nỗi sợ thất bại cản bước bạn.
+anger|full of anger|đầy giận dữ|His voice was full of anger.|Giọng anh ấy đầy giận dữ.
+joy|jump for joy|nhảy lên vì vui|The kids jump for joy when school ends.|Bọn trẻ nhảy lên vì vui khi tan học.
+pleasure|with pleasure|rất sẵn lòng|I will help you with pleasure.|Tôi rất sẵn lòng giúp bạn.
+pride|pride and joy|niềm tự hào và niềm vui|His garden is his pride and joy.|Khu vườn là niềm tự hào và niềm vui của ông ấy.
+shame|feel shame|thấy xấu hổ|There is no need to feel shame.|Không cần phải thấy xấu hổ.
+stress|reduce stress|giảm căng thẳng|Exercise helps reduce stress.|Tập thể dục giúp giảm căng thẳng.
+pressure|blood pressure|huyết áp|The nurse checked my blood pressure.|Y tá đo huyết áp cho tôi.
+nervous|feel nervous|thấy hồi hộp|I feel nervous before every exam.|Trước kỳ thi nào tôi cũng thấy hồi hộp.
+anxious|feel anxious|thấy lo âu|I feel anxious when I fly.|Tôi thấy lo âu khi đi máy bay.
+upset|upset stomach|đau bụng, khó chịu dạ dày|I have an upset stomach today.|Hôm nay tôi bị khó chịu dạ dày.
+lonely|lonely place|nơi hiu quạnh|The beach is a lonely place in winter.|Mùa đông bãi biển là một nơi hiu quạnh.
+jealous|get jealous|nổi ghen|My cat will get jealous of the new puppy.|Con mèo nhà tôi sẽ ghen với chú chó con mới.
+embarrassed|so embarrassed|ngượng quá|I was so embarrassed when I fell.|Tôi ngượng quá khi bị ngã.
+confused|get confused|bị rối|I get confused by long words.|Tôi bị rối trước những từ dài.
+disappointed|disappointed in|thất vọng về|I'm disappointed in myself.|Tôi thất vọng về bản thân.
+satisfied|satisfied with|hài lòng với|Are you satisfied with the result?|Bạn có hài lòng với kết quả không?
+relaxed|relaxed atmosphere|không khí thoải mái|The cafe has a relaxed atmosphere.|Quán cà phê có không khí thoải mái.
+confident|confident speaker|người nói tự tin|Practice makes you a confident speaker.|Luyện tập giúp bạn nói tự tin.
+curious|curious child|đứa trẻ tò mò|A curious child asks many questions.|Đứa trẻ tò mò hỏi rất nhiều câu.
+grateful|grateful to|biết ơn ai|I am grateful to my teachers.|Tôi biết ơn các thầy cô của mình.
+ashamed|feel ashamed|thấy hổ thẹn|Don't feel ashamed of your accent.|Đừng thấy hổ thẹn về giọng của mình.
+scared|get scared|bị sợ|I get scared in the dark.|Trong bóng tối tôi hay bị sợ.
+frightened|frightened of|hoảng sợ trước|She is frightened of dogs.|Cô ấy sợ chó.
+shocked|shocked by|bị sốc vì|We were shocked by the news.|Chúng tôi bị sốc vì tin đó.
+pleased|pleased with|hài lòng với|My boss is pleased with my work.|Sếp hài lòng với công việc của tôi.
+delighted|delighted with|rất vui với|She was delighted with the gift.|Cô ấy rất vui với món quà.
+cheerful|cheerful voice|giọng vui vẻ|She answered in a cheerful voice.|Cô ấy trả lời bằng giọng vui vẻ.
+miserable|feel miserable|thấy khổ sở|I feel miserable when I have a cold.|Bị cảm tôi thấy rất khổ sở.
+depressed|get depressed|bị chán nản|Some people get depressed in winter.|Một số người bị chán nản vào mùa đông.
+emotional|get emotional|xúc động|I get emotional at weddings.|Ở đám cưới tôi hay xúc động.
+sensitive|sensitive teeth|răng ê buốt|I can't eat ice cream with my sensitive teeth.|Răng tôi ê buốt nên không ăn được kem.
+cruel|cruel to|tàn nhẫn với|The older boys were cruel to him at school.|Ở trường mấy cậu lớn hơn đối xử tàn nhẫn với cậu ấy.
+humble|stay humble|giữ khiêm tốn|Work hard and stay humble.|Hãy làm việc chăm chỉ và giữ khiêm tốn.
+modest|modest about|khiêm tốn về|He is always modest about his work.|Anh ấy lúc nào cũng khiêm tốn về công việc của mình.
+ambitious|ambitious young|trẻ tuổi nhiều tham vọng|He is an ambitious young lawyer.|Anh ấy là một luật sư trẻ nhiều tham vọng.
+creative|creative writing|viết sáng tạo|I took a class in creative writing.|Tôi đã học một lớp viết sáng tạo.
+energetic|feel energetic|thấy tràn đầy năng lượng|I feel energetic after a good sleep.|Ngủ ngon xong tôi thấy tràn đầy năng lượng.
+active|stay active|duy trì vận động|Walk every day to stay active.|Hãy đi bộ mỗi ngày để duy trì vận động.
+positive|stay positive|giữ tinh thần tích cực|Stay positive and keep trying.|Hãy giữ tinh thần tích cực và tiếp tục cố gắng.
+negative|negative thoughts|suy nghĩ tiêu cực|Try to let go of negative thoughts.|Hãy cố buông bỏ những suy nghĩ tiêu cực.
+optimistic|feel optimistic|thấy lạc quan|I feel optimistic about next year.|Tôi thấy lạc quan về năm tới.
+passion|with passion|bằng sự đam mê|She sings with passion.|Cô ấy hát bằng cả niềm đam mê.
+attitude|bad attitude|thái độ không tốt|He lost his job because of his bad attitude.|Anh ấy mất việc vì thái độ không tốt.
+personality|friendly personality|tính cách thân thiện|Everyone likes her friendly personality.|Ai cũng thích tính cách thân thiện của cô ấy.
+character|cartoon character|nhân vật hoạt hình|Which cartoon character do you like?|Bạn thích nhân vật hoạt hình nào?
+sympathy|feel sympathy|thấy cảm thông|I feel sympathy for the family.|Tôi thấy cảm thông với gia đình đó.

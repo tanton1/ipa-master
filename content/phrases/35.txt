@@ -51,3 +51,51 @@ position|apply for the position|ứng tuyển vị trí|Why do you want to apply
 shift|night shift|ca đêm|Nurses often work the night shift.|Y tá thường làm ca đêm.
 profession|medical profession|ngành y|She is proud of the medical profession.|Cô ấy tự hào về ngành y.
 workplace|safe workplace|nơi làm việc an toàn|Everyone deserves a safe workplace.|Ai cũng xứng đáng có một nơi làm việc an toàn.
+career|career change|chuyển hướng nghề nghiệp|She made a career change at forty.|Cô ấy chuyển hướng nghề nghiệp năm bốn mươi tuổi.
+company|run a company|điều hành công ty|It's hard to run a company.|Điều hành một công ty rất khó.
+manager|store manager|quản lý cửa hàng|I want to speak to the store manager.|Tôi muốn nói chuyện với quản lý cửa hàng.
+employee|full-time employee|nhân viên toàn thời gian|She became a full-time employee in May.|Cô ấy trở thành nhân viên toàn thời gian vào tháng Năm.
+employer|former employer|chủ cũ|I got a letter from my former employer.|Tôi nhận được thư từ chủ cũ.
+worker|office worker|nhân viên văn phòng|My sister is an office worker.|Chị tôi là nhân viên văn phòng.
+staff|staff room|phòng nhân viên|The teachers eat lunch in the staff room.|Các giáo viên ăn trưa trong phòng nhân viên.
+team|team member|thành viên nhóm|Every team member has a job to do.|Mỗi thành viên trong nhóm đều có việc phải làm.
+meeting|meeting room|phòng họp|The meeting room is on the third floor.|Phòng họp ở tầng ba.
+interview|job interview|phỏng vấn xin việc|She did well in the job interview.|Cô ấy làm tốt trong buổi phỏng vấn xin việc.
+project|project manager|quản lý dự án|She is the project manager.|Cô ấy là quản lý dự án.
+task|complete a task|hoàn thành nhiệm vụ|It took an hour to complete a task like that.|Hoàn thành một nhiệm vụ như thế mất một tiếng.
+document|print a document|in tài liệu|I need to print a document.|Tôi cần in một tài liệu.
+contract|contract worker|nhân viên hợp đồng|He started as a contract worker.|Anh ấy bắt đầu làm với tư cách nhân viên hợp đồng.
+client|important client|khách hàng quan trọng|She is having lunch with an important client.|Cô ấy đang ăn trưa với một khách hàng quan trọng.
+service|customer service|dịch vụ khách hàng|This shop has great customer service.|Cửa hàng này có dịch vụ khách hàng rất tốt.
+product|product quality|chất lượng sản phẩm|We care about product quality.|Chúng tôi quan tâm đến chất lượng sản phẩm.
+profit|profit margin|biên lợi nhuận|The profit margin on rice is small.|Biên lợi nhuận của gạo thấp.
+engineer|civil engineer|kỹ sư xây dựng|My brother is a civil engineer.|Anh tôi là kỹ sư xây dựng.
+lawyer|hire a lawyer|thuê luật sư|You should hire a lawyer.|Bạn nên thuê luật sư.
+farmer|farmer's market|chợ nông sản|We buy eggs at the farmer's market.|Chúng tôi mua trứng ở chợ nông sản.
+officer|army officer|sĩ quan quân đội|His father was an army officer.|Bố anh ấy từng là sĩ quan quân đội.
+soldier|former soldier|cựu chiến binh|My grandfather is a former soldier.|Ông tôi là cựu chiến binh.
+artist|local artist|nghệ sĩ địa phương|A local artist painted this wall.|Một nghệ sĩ địa phương đã vẽ bức tường này.
+singer|pop singer|ca sĩ nhạc pop|She is a famous pop singer.|Cô ấy là một ca sĩ nhạc pop nổi tiếng.
+actor|movie actor|diễn viên điện ảnh|He dreams of being a movie actor.|Anh ấy mơ làm diễn viên điện ảnh.
+writer|travel writer|cây bút du lịch|She works as a travel writer.|Cô ấy là một cây bút viết về du lịch.
+journalist|news journalist|phóng viên thời sự|A news journalist asked me some questions.|Một phóng viên thời sự hỏi tôi vài câu.
+designer|graphic designer|nhà thiết kế đồ họa|I work as a graphic designer.|Tôi làm thiết kế đồ họa.
+programmer|game programmer|lập trình viên trò chơi|He wants to be a game programmer.|Cậu ấy muốn làm lập trình viên trò chơi.
+secretary|school secretary|thư ký trường học|Ask the school secretary for the form.|Hãy hỏi thư ký trường để lấy mẫu đơn.
+mechanic|motorbike mechanic|thợ sửa xe máy|There is a motorbike mechanic on the corner.|Có một thợ sửa xe máy ở góc đường.
+captain|ship's captain|thuyền trưởng|The ship's captain welcomed us.|Thuyền trưởng chào đón chúng tôi.
+firefighter|firefighter training|huấn luyện lính cứu hỏa|He finished firefighter training last year.|Năm ngoái anh ấy hoàn thành khóa huấn luyện lính cứu hỏa.
+scientist|famous scientist|nhà khoa học nổi tiếng|She became a famous scientist.|Bà ấy trở thành một nhà khoa học nổi tiếng.
+accountant|company accountant|kế toán công ty|Send the bill to the company accountant.|Gửi hóa đơn cho kế toán công ty.
+assistant|personal assistant|trợ lý riêng|The director has a personal assistant.|Giám đốc có một trợ lý riêng.
+director|managing director|giám đốc điều hành|The managing director will speak first.|Giám đốc điều hành sẽ phát biểu trước.
+hire|hire new staff|tuyển nhân viên mới|We need to hire new staff.|Chúng tôi cần tuyển nhân viên mới.
+retire|retire from|nghỉ hưu khỏi|My father will retire from the army next year.|Năm sau bố tôi sẽ nghỉ hưu khỏi quân đội.
+earn|earn money|kiếm tiền|Students earn money with part-time jobs.|Sinh viên kiếm tiền bằng việc làm thêm.
+apply|apply to|nộp đơn vào|I will apply to three universities.|Tôi sẽ nộp đơn vào ba trường đại học.
+experience|years of experience|số năm kinh nghiệm|She has ten years of experience.|Cô ấy có mười năm kinh nghiệm.
+skill|language skills|kỹ năng ngôn ngữ|Good language skills help you find a job.|Kỹ năng ngôn ngữ tốt giúp bạn tìm được việc.
+position|in a good position|ở vị thế tốt|We are in a good position to win.|Chúng ta đang ở vị thế tốt để thắng.
+shift|day shift|ca ngày|I work the day shift this week.|Tuần này tôi làm ca ngày.
+profession|teaching profession|nghề dạy học|She joined the teaching profession in 2010.|Cô ấy vào nghề dạy học năm 2010.
+workplace|workplace safety|an toàn nơi làm việc|We had a class on workplace safety.|Chúng tôi có một buổi học về an toàn nơi làm việc.

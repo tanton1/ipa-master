@@ -49,3 +49,53 @@ strong|strong coffee|cà phê đậm|I like strong coffee.|Tôi thích cà phê 
 weak|weak tea|trà loãng|I prefer weak tea.|Tôi thích trà loãng.
 nice|have a nice day|chúc một ngày tốt lành|Have a nice day!|Chúc bạn một ngày tốt lành!
 funny|funny story|câu chuyện buồn cười|He told a funny story.|Anh ấy kể một câu chuyện buồn cười.
+happy|happy birthday|chúc mừng sinh nhật|Happy birthday to you!|Chúc mừng sinh nhật bạn!
+sad|feel sad|cảm thấy buồn|I feel sad when it rains.|Trời mưa tôi thấy buồn.
+angry|get angry|nổi giận|Don't get angry with the kids.|Đừng nổi giận với bọn trẻ.
+afraid|I'm afraid|tôi e là|I'm afraid I can't come.|Tôi e là tôi không đến được.
+surprised|look surprised|trông ngạc nhiên|You look surprised to see me.|Bạn trông ngạc nhiên khi gặp tôi.
+excited|so excited|rất hào hứng|The kids are so excited today.|Hôm nay bọn trẻ rất hào hứng.
+bored|get bored|thấy chán|I get bored easily at home.|Ở nhà tôi dễ thấy chán.
+good|good luck|chúc may mắn|Good luck in your new job!|Chúc bạn may mắn với công việc mới!
+bad|not bad|không tệ|The food here is not bad.|Đồ ăn ở đây không tệ.
+big|big brother|anh trai|My big brother drives me to school.|Anh trai chở tôi đi học.
+small|small size|cỡ nhỏ|The small size fits me well.|Cỡ nhỏ vừa với tôi.
+long|long hair|tóc dài|My sister has long hair.|Chị tôi có mái tóc dài.
+short|short break|giờ nghỉ ngắn|Let's take a short break.|Nghỉ ngắn một chút đi.
+tall|how tall|cao bao nhiêu|How tall are you?|Bạn cao bao nhiêu?
+new|new job|công việc mới|How is your new job?|Công việc mới của bạn thế nào?
+old|old friend|bạn cũ|He is an old friend of mine.|Anh ấy là bạn cũ của tôi.
+young|young people|giới trẻ|Young people love this song.|Giới trẻ thích bài hát này.
+hot|hot water|nước nóng|There is no hot water today.|Hôm nay không có nước nóng.
+cold|cold drink|đồ uống lạnh|I want a cold drink.|Tôi muốn một ly đồ uống lạnh.
+warm|warm clothes|quần áo ấm|Bring warm clothes for the trip.|Mang quần áo ấm cho chuyến đi nhé.
+fast|fast food|đồ ăn nhanh|I try not to eat fast food.|Tôi cố không ăn đồ ăn nhanh.
+slow|slow down|chậm lại|Slow down, you're driving too fast.|Chậm lại, bạn lái nhanh quá.
+easy|easy question|câu hỏi dễ|That was an easy question.|Đó là một câu hỏi dễ.
+hard|hard to say|khó nói|It's hard to say who will win.|Khó nói ai sẽ thắng.
+difficult|difficult time|giai đoạn khó khăn|She is having a difficult time.|Cô ấy đang trải qua giai đoạn khó khăn.
+beautiful|beautiful day|ngày đẹp trời|What a beautiful day!|Thật là một ngày đẹp trời!
+ugly|ugly building|tòa nhà xấu xí|They want to tear down that ugly building.|Họ muốn phá tòa nhà xấu xí đó.
+rich|get rich|trở nên giàu|He wants to get rich fast.|Anh ấy muốn giàu nhanh.
+poor|poor people|người nghèo|The city helps poor people in winter.|Thành phố giúp đỡ người nghèo vào mùa đông.
+cheap|cheap price|giá rẻ|I got it at a cheap price.|Tôi mua được với giá rẻ.
+expensive|too expensive|đắt quá|This phone is too expensive.|Điện thoại này đắt quá.
+important|important thing|điều quan trọng|Health is the most important thing.|Sức khỏe là điều quan trọng nhất.
+interesting|interesting story|câu chuyện thú vị|He told us an interesting story.|Anh ấy kể cho chúng tôi một câu chuyện thú vị.
+busy|busy day|ngày bận rộn|I had a busy day at work.|Hôm nay tôi có một ngày bận rộn ở chỗ làm.
+free|for free|miễn phí|Kids can enter for free.|Trẻ em được vào miễn phí.
+full|full of|đầy|The bus is full of people.|Xe buýt đầy người.
+empty|empty bottle|chai rỗng|Put the empty bottle in the bin.|Bỏ chai rỗng vào thùng rác.
+wrong|what's wrong|có chuyện gì vậy|What's wrong with your phone?|Điện thoại bạn bị sao vậy?
+same|the same thing|điều giống vậy|I was thinking the same thing.|Tôi cũng đang nghĩ như vậy.
+different|different colors|màu khác nhau|The shirt comes in different colors.|Áo này có nhiều màu khác nhau.
+kind|kind to|tốt với|Be kind to animals.|Hãy tử tế với động vật.
+quiet|keep quiet|giữ yên lặng|Please keep quiet in the library.|Xin giữ yên lặng trong thư viện.
+loud|loud noise|tiếng ồn lớn|A loud noise woke me up.|Một tiếng ồn lớn làm tôi tỉnh giấc.
+dark|get dark|trời tối|It will get dark soon.|Trời sắp tối rồi.
+bright|bright color|màu sáng|She likes to wear a bright color.|Cô ấy thích mặc màu sáng.
+heavy|heavy rain|mưa to|There was heavy rain last night.|Tối qua mưa to.
+strong|strong wind|gió mạnh|A strong wind is blowing.|Gió đang thổi mạnh.
+weak|feel weak|thấy yếu người|I feel weak after the flu.|Sau trận cúm tôi thấy yếu người.
+nice|nice to meet you|rất vui được gặp bạn|Hi, nice to meet you.|Chào bạn, rất vui được gặp bạn.
+funny|funny joke|câu đùa hài hước|He told a funny joke.|Anh ấy kể một câu đùa hài hước.

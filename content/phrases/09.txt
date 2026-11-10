@@ -49,3 +49,53 @@ machine|washing machine|máy giặt|The washing machine is broken.|Máy giặt b
 robot|robot vacuum|robot hút bụi|We bought a robot vacuum.|Chúng tôi mua robot hút bụi.
 number|a number of|một số|A number of students were late.|Một số học sinh đến muộn.
 study|study hard|học chăm chỉ|Study hard and you will pass.|Học chăm chỉ thì sẽ đỗ.
+English|speak English|nói tiếng Anh|I speak English at work.|Tôi nói tiếng Anh ở chỗ làm.
+word|new word|từ mới|I learn a new word every day.|Mỗi ngày tôi học một từ mới.
+sentence|make a sentence|đặt câu|Make a sentence with this word.|Hãy đặt câu với từ này.
+letter|write a letter|viết thư|I want to write a letter to my grandma.|Tôi muốn viết thư cho bà.
+language|foreign language|ngoại ngữ|Learning a foreign language takes time.|Học ngoại ngữ cần thời gian.
+question|ask a question|hỏi một câu|Raise your hand to ask a question.|Giơ tay nếu muốn hỏi.
+answer|right answer|câu trả lời đúng|Do you know the right answer?|Bạn có biết câu trả lời đúng không?
+lesson|take a lesson|học một buổi|I take a lesson twice a week.|Tôi học hai buổi mỗi tuần.
+class|after class|sau giờ học|Let's talk after class.|Sau giờ học nói chuyện nhé.
+test|pass the test|qua bài kiểm tra|I hope I pass the test.|Hy vọng tôi qua bài kiểm tra.
+exam|final exam|kỳ thi cuối kỳ|The final exam is in June.|Kỳ thi cuối kỳ vào tháng Sáu.
+homework|do my homework|làm bài tập về nhà|I do my homework after dinner.|Tôi làm bài tập sau bữa tối.
+grammar|English grammar|ngữ pháp tiếng Anh|English grammar is not so hard.|Ngữ pháp tiếng Anh không khó lắm.
+vocabulary|vocabulary list|danh sách từ vựng|Review the vocabulary list tonight.|Tối nay ôn lại danh sách từ vựng nhé.
+pronunciation|pronunciation practice|luyện phát âm|We do pronunciation practice every day.|Ngày nào chúng tôi cũng luyện phát âm.
+practice|practice speaking|luyện nói|I practice speaking with a friend.|Tôi luyện nói với một người bạn.
+idea|have no idea|không biết gì|I have no idea where he is.|Tôi không biết anh ấy ở đâu.
+problem|solve a problem|giải quyết vấn đề|We need to solve a problem first.|Chúng ta cần giải quyết một vấn đề trước.
+example|for example|ví dụ|I like fruit, for example, mangoes.|Tôi thích trái cây, ví dụ như xoài.
+page|turn the page|lật trang|Turn the page, please.|Mời lật sang trang.
+library|school library|thư viện trường|I study in the school library.|Tôi học ở thư viện trường.
+university|go to university|học đại học|She wants to go to university.|Cô ấy muốn học đại học.
+science|science teacher|giáo viên khoa học|Our science teacher is funny.|Giáo viên khoa học của chúng tôi rất vui tính.
+history|history book|sách lịch sử|I'm reading a history book.|Tôi đang đọc một cuốn sách lịch sử.
+music|listen to music|nghe nhạc|I listen to music when I cook.|Tôi nghe nhạc khi nấu ăn.
+art|art museum|bảo tàng nghệ thuật|We visited an art museum.|Chúng tôi đã đi thăm một bảo tàng nghệ thuật.
+internet|internet connection|kết nối mạng|The internet connection is slow.|Kết nối mạng chậm.
+website|company website|trang web công ty|Check the company website for details.|Xem chi tiết trên trang web công ty.
+email|email address|địa chỉ email|Please write your email address here.|Xin viết địa chỉ email của bạn vào đây.
+message|text message|tin nhắn văn bản|I sent you a text message.|Tôi đã gửi cho bạn một tin nhắn.
+video|watch a video|xem video|Let's watch a video about cooking.|Xem một video về nấu ăn đi.
+photo|take a photo|chụp ảnh|Let's take a photo together.|Chụp chung một tấm ảnh đi.
+camera|phone camera|máy ảnh điện thoại|My phone camera is broken.|Máy ảnh điện thoại của tôi bị hỏng.
+screen|phone screen|màn hình điện thoại|My phone screen is cracked.|Màn hình điện thoại của tôi bị nứt.
+keyboard|wireless keyboard|bàn phím không dây|I bought a wireless keyboard.|Tôi mua một bàn phím không dây.
+mouse|click the mouse|bấm chuột|Click the mouse twice.|Bấm chuột hai lần.
+software|install software|cài phần mềm|I need to install software on my laptop.|Tôi cần cài phần mềm lên máy tính xách tay.
+app|phone app|ứng dụng điện thoại|I use a phone app to learn English.|Tôi dùng một ứng dụng điện thoại để học tiếng Anh.
+password|forget my password|quên mật khẩu|I always forget my password.|Tôi lúc nào cũng quên mật khẩu.
+download|download a file|tải một tệp xuống|It takes a minute to download a file.|Tải một tệp xuống mất một phút.
+online|online class|lớp học trực tuyến|I have an online class tonight.|Tối nay tôi có lớp học trực tuyến.
+search|search the internet|tìm trên mạng|I search the internet for recipes.|Tôi tìm công thức nấu ăn trên mạng.
+click|click on|bấm vào|Click on the link to start.|Bấm vào đường liên kết để bắt đầu.
+type|type your name|gõ tên của bạn|Type your name in the box.|Gõ tên của bạn vào ô.
+data|mobile data|dữ liệu di động|I ran out of mobile data.|Tôi hết dữ liệu di động rồi.
+technology|information technology|công nghệ thông tin|He works in information technology.|Anh ấy làm trong ngành công nghệ thông tin.
+machine|coffee machine|máy pha cà phê|The coffee machine is broken.|Máy pha cà phê bị hỏng.
+robot|toy robot|rô-bốt đồ chơi|My son wants a toy robot.|Con trai tôi muốn một con rô-bốt đồ chơi.
+number|phone number|số điện thoại|Can I have your phone number?|Cho tôi xin số điện thoại của bạn được không?
+study|study English|học tiếng Anh|I study English every night.|Tối nào tôi cũng học tiếng Anh.

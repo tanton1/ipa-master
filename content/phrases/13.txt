@@ -49,3 +49,53 @@ mean|mean it|cố ý, nói thật lòng|I'm sorry, I didn't mean it.|Xin lỗi, 
 miss|miss the bus|lỡ xe buýt|Hurry, or we will miss the bus.|Nhanh lên, kẻo lỡ xe buýt.
 plan|plan a trip|lên kế hoạch cho chuyến đi|Let's plan a trip to Da Lat.|Mình lên kế hoạch đi Đà Lạt đi.
 seem|seem tired|có vẻ mệt|You seem tired today.|Hôm nay trông bạn có vẻ mệt.
+become|become friends|trở thành bạn bè|We quickly become friends.|Chúng tôi nhanh chóng trở thành bạn bè.
+begin|begin with|bắt đầu bằng|Let's begin with an easy question.|Hãy bắt đầu bằng một câu hỏi dễ.
+believe|believe it or not|tin hay không tùy bạn|Believe it or not, I can cook.|Tin hay không tùy bạn, tôi biết nấu ăn.
+build|build a team|xây dựng đội nhóm|It takes time to build a team.|Xây dựng một đội nhóm cần thời gian.
+carry|carry on|tiếp tục|Carry on with your work.|Cứ tiếp tục công việc của bạn.
+change|change clothes|thay quần áo|I need to change clothes first.|Tôi cần thay quần áo trước.
+choose|choose between|chọn giữa|You must choose between the two jobs.|Bạn phải chọn giữa hai công việc.
+decide|decide to stay|quyết định ở lại|We decide to stay one more night.|Chúng tôi quyết định ở lại thêm một đêm.
+enjoy|enjoy the weekend|tận hưởng cuối tuần|Enjoy the weekend with your family.|Chúc bạn cuối tuần vui vẻ bên gia đình.
+fall|fall down|ngã xuống|Be careful not to fall down.|Cẩn thận kẻo ngã.
+finish|finish school|học xong|I finish school at four.|Tôi tan học lúc bốn giờ.
+follow|follow me|đi theo tôi|Follow me, I know the way.|Đi theo tôi, tôi biết đường.
+forget|forget about|quên chuyện|Let's forget about work today.|Hôm nay quên chuyện công việc đi.
+grow|grow up|lớn lên|Children grow up so fast.|Trẻ con lớn nhanh quá.
+happen|happen to|xảy ra với|What did happen to your car?|Xe bạn đã bị sao vậy?
+hold|hold on|chờ chút|Hold on, I'll check.|Chờ chút, tôi kiểm tra đã.
+hope|hope to see|mong được gặp|I hope to see you soon.|Tôi mong sớm gặp lại bạn.
+keep|keep going|tiếp tục đi|Don't stop. Keep going.|Đừng dừng lại. Cứ tiếp tục đi.
+lose|lose my keys|làm mất chìa khóa|I often lose my keys.|Tôi hay làm mất chìa khóa.
+meet|meet up|gặp nhau|Let's meet up for coffee.|Gặp nhau uống cà phê đi.
+move|move to|chuyển đến|They plan to move to Da Nang.|Họ định chuyển đến Đà Nẵng.
+offer|job offer|lời mời làm việc|She got a job offer yesterday.|Hôm qua cô ấy nhận được lời mời làm việc.
+remember|remember to|nhớ làm gì|Remember to lock the door.|Nhớ khóa cửa nhé.
+send|send a letter|gửi thư|I want to send a letter to Japan.|Tôi muốn gửi một lá thư sang Nhật.
+sell|sell well|bán chạy|These shoes sell well.|Những đôi giày này bán chạy.
+show|show up|xuất hiện, có mặt|He didn't show up at the meeting.|Anh ấy không có mặt ở cuộc họp.
+sing|sing along|hát theo|Everyone began to sing along.|Mọi người bắt đầu hát theo.
+smile|big smile|nụ cười rạng rỡ|She gave me a big smile.|Cô ấy cười rạng rỡ với tôi.
+spend|spend money|tiêu tiền|I spend money on books.|Tôi tiêu tiền vào sách.
+stay|stay up late|thức khuya|Don't stay up late tonight.|Tối nay đừng thức khuya nhé.
+turn|turn on|bật lên|Turn on the fan, please.|Bật quạt giúp tôi.
+understand|easy to understand|dễ hiểu|Her English is easy to understand.|Tiếng Anh của cô ấy dễ hiểu.
+visit|visit a friend|thăm một người bạn|I'm going to visit a friend.|Tôi sắp đi thăm một người bạn.
+win|win the game|thắng trận đấu|I hope we win the game.|Tôi hy vọng chúng ta thắng trận đấu.
+wear|wear a mask|đeo khẩu trang|Please wear a mask in the hospital.|Xin hãy đeo khẩu trang trong bệnh viện.
+worry|don't worry|đừng lo|Don't worry, it will be fine.|Đừng lo, sẽ ổn thôi.
+agree|agree to|đồng ý làm gì|Did they agree to help?|Họ có đồng ý giúp không?
+allow|allow me to|cho phép tôi|Please allow me to explain.|Xin cho phép tôi giải thích.
+appear|appear to be|có vẻ là|They appear to be happy.|Họ có vẻ hạnh phúc.
+cry|cry out|kêu lên|I heard someone cry out.|Tôi nghe thấy ai đó kêu lên.
+dance|dance class|lớp học nhảy|I go to dance class on Mondays.|Thứ Hai tôi đi học nhảy.
+draw|draw a line|kẻ một đường|Draw a line under the word.|Kẻ một đường dưới từ đó.
+dream|dream about|mơ về|I often dream about the sea.|Tôi hay mơ về biển.
+explain|explain why|giải thích vì sao|Can you explain why you are late?|Bạn giải thích vì sao đến muộn được không?
+hate|hate to say|ngại phải nói|I hate to say it, but you're wrong.|Tôi ngại phải nói ra, nhưng bạn sai rồi.
+laugh|laugh out loud|cười thành tiếng|The joke made me laugh out loud.|Câu đùa làm tôi cười thành tiếng.
+mean|what do you mean|ý bạn là gì|What do you mean by that?|Ý bạn nói vậy là sao?
+miss|miss you|nhớ bạn|I miss you so much.|Tôi nhớ bạn rất nhiều.
+plan|plan to|dự định|We plan to leave early.|Chúng tôi dự định đi sớm.
+seem|seem to be|có vẻ như|You seem to be busy today.|Hôm nay bạn có vẻ bận.

@@ -49,3 +49,53 @@ typical|typical day|một ngày điển hình|Tell me about a typical day at wor
 various|various reasons|nhiều lý do|People move to cities for various reasons.|Người ta lên thành phố vì nhiều lý do.
 available|available now|đã có bán, có ngay|The new phone is available now.|Điện thoại mới đã có bán.
 necessary|if necessary|nếu cần|Call me if necessary.|Gọi tôi nếu cần.
+polite|polite to|lịch sự với|Be polite to older people.|Hãy lịch sự với người lớn tuổi.
+rude|rude to|thô lỗ với|Don't be rude to the waiter.|Đừng thô lỗ với người phục vụ.
+honest|to be honest|thành thật mà nói|To be honest, I don't like it.|Thành thật mà nói, tôi không thích nó.
+brave|brave enough|đủ dũng cảm|Are you brave enough to try?|Bạn có đủ dũng cảm để thử không?
+shy|too shy|quá nhút nhát|He is too shy to speak.|Cậu ấy quá nhút nhát nên không dám nói.
+lazy|lazy day|ngày lười biếng|I had a lazy day at home.|Tôi có một ngày lười biếng ở nhà.
+friendly|friendly people|người dân thân thiện|This town has friendly people.|Thị trấn này có người dân thân thiện.
+gentle|gentle touch|cái chạm nhẹ nhàng|The nurse has a gentle touch.|Cô y tá rất nhẹ tay.
+calm|calm down|bình tĩnh lại|Calm down and tell me what happened.|Bình tĩnh lại và kể tôi nghe chuyện gì xảy ra.
+patient|patient with|kiên nhẫn với|She is patient with her students.|Cô ấy kiên nhẫn với học sinh.
+generous|generous with|rộng rãi về|He is generous with his time.|Anh ấy không tiếc thời gian cho người khác.
+selfish|don't be selfish|đừng ích kỷ|Don't be selfish, share the cake.|Đừng ích kỷ, chia bánh ra đi.
+smart|smart phone|điện thoại thông minh|Almost everyone has a smart phone.|Gần như ai cũng có điện thoại thông minh.
+stupid|stupid question|câu hỏi ngớ ngẩn|There is no stupid question.|Không có câu hỏi nào là ngớ ngẩn.
+silly|silly mistake|lỗi ngớ ngẩn|I made a silly mistake on the test.|Tôi mắc một lỗi ngớ ngẩn trong bài kiểm tra.
+famous|famous singer|ca sĩ nổi tiếng|She wants to be a famous singer.|Cô ấy muốn trở thành ca sĩ nổi tiếng.
+strange|feel strange|thấy lạ|I feel strange in this hat.|Đội cái mũ này tôi thấy lạ lạ.
+usual|than usual|hơn thường lệ|I woke up earlier than usual.|Tôi dậy sớm hơn thường lệ.
+unusual|nothing unusual|không có gì bất thường|The doctor found nothing unusual.|Bác sĩ không thấy gì bất thường.
+certain|make certain|đảm bảo chắc chắn|Make certain the door is locked.|Hãy chắc chắn là cửa đã khóa.
+correct|correct spelling|cách viết đúng|What is the correct spelling?|Viết thế nào mới đúng chính tả?
+exact|exact change|tiền lẻ vừa đủ|Please have the exact change ready.|Xin chuẩn bị sẵn tiền lẻ vừa đủ.
+fair|not fair|không công bằng|That's not fair to the others.|Như vậy là không công bằng với những người khác.
+false|false alarm|báo động giả|Don't worry, it was a false alarm.|Đừng lo, đó là báo động giả.
+true|true story|câu chuyện có thật|The movie is based on a true story.|Bộ phim dựa trên một câu chuyện có thật.
+final|final decision|quyết định cuối cùng|Is that your final decision?|Đó là quyết định cuối cùng của bạn à?
+complete|complete list|danh sách đầy đủ|Here is the complete list of names.|Đây là danh sách tên đầy đủ.
+whole|the whole family|cả gia đình|The whole family came to the wedding.|Cả gia đình đến dự đám cưới.
+excellent|excellent idea|ý tưởng xuất sắc|That is an excellent idea.|Đó là một ý tưởng xuất sắc.
+fantastic|fantastic job|làm rất tuyệt|You did a fantastic job.|Bạn đã làm rất tuyệt.
+amazing|amazing view|khung cảnh tuyệt đẹp|The room has an amazing view.|Căn phòng có khung cảnh tuyệt đẹp.
+awful|feel awful|thấy rất tệ|I feel awful about being late.|Tôi thấy rất tệ vì đến muộn.
+horrible|horrible weather|thời tiết tồi tệ|We had horrible weather all week.|Cả tuần thời tiết tồi tệ.
+pleasant|pleasant evening|buổi tối dễ chịu|We had a pleasant evening together.|Chúng tôi có một buổi tối dễ chịu bên nhau.
+comfortable|make yourself comfortable|cứ tự nhiên|Sit down and make yourself comfortable.|Ngồi xuống và cứ tự nhiên nhé.
+convenient|convenient for|tiện cho|Is Monday convenient for you?|Thứ Hai có tiện cho bạn không?
+lovely|lovely day|ngày đẹp trời|What a lovely day for a walk!|Thật là một ngày đẹp trời để đi dạo!
+cute|so cute|dễ thương quá|That little dog is so cute.|Con chó nhỏ đó dễ thương quá.
+ordinary|ordinary day|ngày bình thường|It started as an ordinary day.|Hôm đó bắt đầu như một ngày bình thường.
+private|private room|phòng riêng|Can we have a private room?|Chúng tôi lấy phòng riêng được không?
+public|in public|ở nơi công cộng|I get nervous when I speak in public.|Tôi hồi hộp khi nói trước đám đông.
+local|local people|người địa phương|Ask the local people for directions.|Hãy hỏi đường người địa phương.
+foreign|foreign country|nước ngoài|I have never lived in a foreign country.|Tôi chưa bao giờ sống ở nước ngoài.
+international|international school|trường quốc tế|Their kids go to an international school.|Con họ học trường quốc tế.
+national|national park|vườn quốc gia|We visited a national park.|Chúng tôi đã đi thăm một vườn quốc gia.
+traditional|traditional food|món ăn truyền thống|Pho is a traditional food of Vietnam.|Phở là món ăn truyền thống của Việt Nam.
+typical|typical of|đặc trưng của|This weather is typical of April.|Thời tiết này đặc trưng của tháng Tư.
+various|various kinds|nhiều loại khác nhau|The shop sells various kinds of tea.|Cửa hàng bán nhiều loại trà khác nhau.
+available|available for|rảnh cho; sẵn có cho|Are you available for a call?|Bạn có rảnh để nói chuyện điện thoại không?
+necessary|not necessary|không cần thiết|A tie is not necessary.|Không cần đeo cà vạt.

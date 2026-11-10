@@ -49,3 +49,53 @@ ribbon|red ribbon|dải ruy băng đỏ|Tie a red ribbon on the gift.|Buộc m�
 balloon|blow up a balloon|thổi bóng bay|Help me blow up a balloon.|Giúp tôi thổi bóng bay.
 kite|fly a kite|thả diều|Let's fly a kite on the beach.|Thả diều trên bãi biển đi.
 bell|ring a bell|nghe quen quen|Does this name ring a bell?|Cái tên này nghe có quen không?
+object|strange object|vật thể lạ|We saw a strange object in the sky.|Chúng tôi thấy một vật thể lạ trên trời.
+item|menu item|món trong thực đơn|Every menu item has a photo.|Món nào trong thực đơn cũng có ảnh.
+stuff|a lot of stuff|rất nhiều đồ|I have a lot of stuff to pack.|Tôi có rất nhiều đồ phải xếp.
+equipment|kitchen equipment|dụng cụ nhà bếp|The shop sells kitchen equipment.|Cửa hàng bán dụng cụ nhà bếp.
+instrument|play an instrument|chơi một nhạc cụ|Can you play an instrument?|Bạn biết chơi nhạc cụ nào không?
+container|food container|hộp đựng thức ăn|Put the rice in a food container.|Cho cơm vào hộp đựng thức ăn.
+package|open the package|mở gói hàng|I can't wait to open the package.|Tôi nóng lòng muốn mở gói hàng.
+parcel|collect a parcel|nhận bưu kiện|I need to collect a parcel from the post office.|Tôi cần ra bưu điện nhận một bưu kiện.
+envelope|open the envelope|mở phong bì|She was afraid to open the envelope.|Cô ấy sợ mở phong bì.
+stamp|collect stamps|sưu tầm tem|My grandfather used to collect stamps.|Ông tôi từng sưu tầm tem.
+label|read the label|đọc nhãn|Read the label before you wash it.|Đọc nhãn trước khi giặt.
+tag|price tag|thẻ giá|I can't find the price tag.|Tôi không tìm thấy thẻ giá.
+sticker|put a sticker|dán nhãn|Put a sticker on each box.|Dán nhãn lên từng hộp.
+board|notice board|bảng thông báo|Check the notice board for the schedule.|Xem lịch trên bảng thông báo.
+sheet|bed sheet|ga trải giường|I change the bed sheet every week.|Tuần nào tôi cũng thay ga trải giường.
+glue|a tube of glue|một tuýp keo|I need a tube of glue to fix this cup.|Tôi cần một tuýp keo để dán cái cốc này.
+tape|sticky tape|băng dính|Close the box with sticky tape.|Dán kín hộp bằng băng dính.
+string|tie with string|buộc bằng dây|Tie with string so it doesn't open.|Buộc bằng dây để nó không bung ra.
+chain|bike chain|xích xe đạp|My bike chain came off.|Xích xe đạp của tôi bị tuột.
+net|mosquito net|màn chống muỗi|We sleep under a mosquito net.|Chúng tôi ngủ trong màn.
+pipe|broken pipe|ống nước vỡ|A broken pipe flooded the kitchen.|Một ống nước vỡ làm ngập bếp.
+tube|a tube of|một tuýp|I bought a tube of sunscreen.|Tôi mua một tuýp kem chống nắng.
+tank|gas tank|bình xăng|The gas tank is almost empty.|Bình xăng gần cạn.
+brick|brick house|nhà gạch|They built a small brick house.|Họ xây một ngôi nhà gạch nhỏ.
+cement|mix cement|trộn xi măng|The workers mix cement by hand.|Thợ trộn xi măng bằng tay.
+concrete|concrete wall|tường bê tông|A concrete wall surrounds the school.|Một bức tường bê tông bao quanh trường.
+tile|roof tile|ngói lợp|A roof tile fell during the storm.|Một viên ngói rơi trong cơn bão.
+column|stone column|cột đá|The temple has tall stone columns.|Ngôi đền có những cột đá cao.
+elevator|elevator button|nút thang máy|Press the elevator button for me.|Bấm nút thang máy giúp tôi.
+escalator|take the escalator|đi thang cuốn|Take the escalator to the second floor.|Đi thang cuốn lên tầng hai.
+screw|tighten the screw|siết ốc|Tighten the screw on the chair.|Siết con ốc trên ghế lại.
+lid|take off the lid|mở nắp|Take off the lid and stir.|Mở nắp ra và khuấy.
+sack|a sack of potatoes|một bao khoai tây|He carried a sack of potatoes.|Anh ấy vác một bao khoai tây.
+pile|pile of clothes|đống quần áo|There is a pile of clothes on the bed.|Có một đống quần áo trên giường.
+row|front row|hàng ghế đầu|We sat in the front row.|Chúng tôi ngồi hàng ghế đầu.
+bin|in the bin|vào thùng rác|Throw it in the bin.|Vứt nó vào thùng rác đi.
+mat|door mat|thảm chùi chân|Leave your shoes on the door mat.|Để giày trên thảm chùi chân.
+cushion|seat cushion|đệm ngồi|This chair needs a seat cushion.|Cái ghế này cần một tấm đệm ngồi.
+hook|hang it on the hook|treo nó lên móc|Take your coat and hang it on the hook.|Lấy áo khoác của bạn rồi treo lên móc.
+cabinet|medicine cabinet|tủ thuốc|The pills are in the medicine cabinet.|Thuốc ở trong tủ thuốc.
+mattress|new mattress|nệm mới|We bought a new mattress.|Chúng tôi mua một tấm nệm mới.
+jug|a jug of water|một bình nước|Put a jug of water on the table.|Đặt một bình nước lên bàn.
+cart|golf cart|xe điện sân gôn|We rode a golf cart around the resort.|Chúng tôi đi xe điện quanh khu nghỉ dưỡng.
+trolley|shopping trolley|xe đẩy mua sắm|Get a shopping trolley at the door.|Lấy một chiếc xe đẩy mua sắm ở cửa.
+wheelchair|wheelchair access|lối đi cho xe lăn|Does the museum have wheelchair access?|Bảo tàng có lối đi cho xe lăn không?
+flag|raise the flag|kéo cờ|Students raise the flag on Monday morning.|Học sinh chào cờ vào sáng thứ Hai.
+ribbon|cut the ribbon|cắt băng khánh thành|The mayor will cut the ribbon.|Thị trưởng sẽ cắt băng khánh thành.
+balloon|hot air balloon|khinh khí cầu|We took a ride in a hot air balloon.|Chúng tôi đi khinh khí cầu.
+kite|kite festival|lễ hội diều|There is a kite festival on the beach.|Có lễ hội diều trên bãi biển.
+bell|door bell|chuông cửa|I didn't hear the door bell.|Tôi không nghe thấy chuông cửa.

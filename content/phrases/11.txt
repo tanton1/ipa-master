@@ -52,3 +52,50 @@ wow|wow, look|ôi, nhìn kìa|Wow, look at the sky!|Ôi, nhìn bầu trời kìa
 oops|oops, sorry|ối, xin lỗi|Oops, sorry, I dropped your pen.|Ối, xin lỗi, tôi làm rơi bút của bạn.
 cheers|cheers to|nâng ly chúc|Cheers to our new home!|Nâng ly chúc mừng ngôi nhà mới!
 bye|bye for now|tạm biệt nhé|Bye for now, see you tomorrow.|Tạm biệt nhé, mai gặp lại.
+can|can you|bạn có thể ... không|Can you speak more slowly?|Bạn nói chậm hơn được không?
+will|will you|bạn sẽ ... chứ|Will you come to my party?|Bạn sẽ đến dự tiệc của tôi chứ?
+may|may be|có thể là|He may be at home now.|Có thể bây giờ anh ấy đang ở nhà.
+might|might not|có lẽ không|I might not come tomorrow.|Có lẽ mai tôi không đến.
+must|must go|phải đi|It's late. I must go now.|Muộn rồi. Tôi phải đi đây.
+shall|shall I|để tôi ... nhé|Shall I carry your bag?|Để tôi xách túi cho bạn nhé?
+ought|ought to know|đáng lẽ phải biết|You ought to know the answer.|Đáng lẽ bạn phải biết câu trả lời.
+as|as well|cũng vậy|I'd like a coffee as well.|Tôi cũng muốn một ly cà phê.
+out|go out|đi ra ngoài|We go out for dinner on Fridays.|Thứ Sáu chúng tôi ra ngoài ăn tối.
+up|hurry up|nhanh lên|Hurry up, we're late.|Nhanh lên, chúng ta trễ rồi.
+down|sit down|ngồi xuống|Sit down and have some tea.|Ngồi xuống uống chút trà đi.
+off|day off|ngày nghỉ|I need a day off this week.|Tuần này tôi cần một ngày nghỉ.
+well|as well as|cũng như|She sings as well as her mother.|Cô ấy hát hay như mẹ.
+next|next to|bên cạnh|The bank is next to the school.|Ngân hàng ở cạnh trường học.
+per|per day|mỗi ngày|I drink two liters of water per day.|Tôi uống hai lít nước mỗi ngày.
+despite|despite the fact|mặc dù thực tế là|He came despite the fact that he was sick.|Anh ấy vẫn đến mặc dù bị ốm.
+unlike|unlike me|không giống tôi|Unlike me, my brother loves math.|Không giống tôi, em trai tôi rất thích toán.
+throughout|throughout the day|suốt cả ngày|Drink water throughout the day.|Hãy uống nước suốt cả ngày.
+beneath|beneath the tree|dưới gốc cây|We sat beneath the tree.|Chúng tôi ngồi dưới gốc cây.
+underneath|underneath the table|bên dưới bàn|The dog is underneath the table.|Con chó ở dưới gầm bàn.
+wherever|wherever you are|dù bạn ở đâu|Call me wherever you are.|Dù bạn ở đâu cũng hãy gọi cho tôi.
+whatever|whatever happens|dù có chuyện gì|Whatever happens, stay calm.|Dù có chuyện gì cũng hãy bình tĩnh.
+whenever|whenever possible|bất cứ khi nào có thể|I walk to work whenever possible.|Bất cứ khi nào có thể tôi đều đi bộ đi làm.
+whoever|whoever wins|bất cứ ai thắng|Whoever wins will play in the final.|Ai thắng sẽ vào chơi trận chung kết.
+mine|it's mine|nó là của tôi|Don't touch that bag. It's mine.|Đừng đụng vào cái túi đó. Nó là của tôi.
+yours|is this yours|cái này của bạn à|Is this yours or his?|Cái này của bạn hay của anh ấy?
+hers|is hers|là của cô ấy|This umbrella is hers.|Cái ô này là của cô ấy.
+ours|is ours|là của chúng tôi|That table is ours.|Cái bàn đó là của chúng tôi.
+theirs|is theirs|là của họ|The big house is theirs.|Ngôi nhà lớn là của họ.
+yourself|help yourself|cứ tự nhiên|The coffee is over there. Help yourself.|Cà phê ở đằng kia. Cứ tự nhiên nhé.
+himself|talk to himself|tự nói một mình|He likes to talk to himself.|Anh ấy hay tự nói một mình.
+herself|hurt herself|tự làm mình đau|She fell and hurt herself.|Cô ấy ngã và bị đau.
+itself|in itself|tự bản thân nó|The plan in itself is good.|Bản thân kế hoạch thì tốt.
+ourselves|by ourselves|tự chúng tôi|We painted the house by ourselves.|Chúng tôi tự sơn nhà.
+themselves|by themselves|tự họ|The kids walked home by themselves.|Bọn trẻ tự đi bộ về nhà.
+everybody|everybody else|mọi người khác|Everybody else has gone home.|Mọi người khác đã về nhà rồi.
+somebody|somebody new|một người mới|We need somebody new on the team.|Chúng tôi cần một người mới trong đội.
+anybody|anybody else|còn ai khác|Does anybody else want coffee?|Còn ai muốn cà phê nữa không?
+nowhere|nowhere to go|không có chỗ nào để đi|I have nowhere to go tonight.|Tối nay tôi không có chỗ nào để đi.
+anywhere|go anywhere|đi bất cứ đâu|You can go anywhere you like.|Bạn có thể đi bất cứ đâu bạn thích.
+whom|with whom|với ai|With whom did you go?|Bạn đã đi với ai?
+hey|hey guys|này các bạn|Hey guys, look at this.|Này các bạn, xem cái này đi.
+oh|oh well|ôi thôi|Oh well, maybe next time.|Ôi thôi, có lẽ để lần sau.
+wow|wow, that's|chà, thật là|Wow, that's a big house.|Chà, ngôi nhà to thật.
+oops|oops, I|úi, tôi|Oops, I dropped my phone.|Úi, tôi làm rơi điện thoại rồi.
+cheers|cheers, everyone|cạn ly nào mọi người|Cheers, everyone! Happy new year!|Cạn ly nào mọi người! Chúc mừng năm mới!
+bye|say bye|chào tạm biệt|Say bye to grandma.|Chào tạm biệt bà đi con.

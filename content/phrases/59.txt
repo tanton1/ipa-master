@@ -49,3 +49,53 @@ wrestle|wrestle with|vật lộn với|I wrestle with grammar every day.|Ngày n
 handkerchief|white handkerchief|khăn tay trắng|He gave her a white handkerchief.|Anh ấy đưa cô một chiếc khăn tay trắng.
 campaign|election campaign|chiến dịch tranh cử|The election campaign starts next month.|Chiến dịch tranh cử bắt đầu tháng sau.
 resign|resign from|từ chức khỏi|The manager will resign from his job.|Người quản lý sẽ từ chức.
+knot|knot in|nút thắt trên|There is a knot in my shoelace.|Dây giày của tôi bị thắt nút.
+knit|knit a sweater|đan áo len|My grandma can knit a sweater in a week.|Bà tôi đan một cái áo len trong một tuần.
+kneel|kneel on|quỳ lên|Don't kneel on the wet floor.|Đừng quỳ trên sàn ướt.
+knight|brave knight|hiệp sĩ dũng cảm|The story is about a brave knight.|Câu chuyện kể về một hiệp sĩ dũng cảm.
+knuckle|knuckle down|bắt tay vào làm nghiêm túc|It's time to knuckle down and study.|Đến lúc nghiêm túc ngồi vào học rồi.
+wreck|train wreck|vụ tàu trật bánh|Nobody was hurt in the train wreck.|Không ai bị thương trong vụ tàu trật bánh.
+wrinkle|wrinkle free|không nhăn|This shirt is wrinkle free.|Cái áo này không nhăn.
+sword|wooden sword|kiếm gỗ|The boy plays with a wooden sword.|Cậu bé chơi với thanh kiếm gỗ.
+lamb|lamb chops|sườn cừu|We had lamb chops for dinner.|Bữa tối chúng tôi ăn sườn cừu.
+tomb|ancient tomb|ngôi mộ cổ|They found an ancient tomb in the hills.|Họ tìm thấy một ngôi mộ cổ trên đồi.
+bomb|time bomb|bom hẹn giờ|The old bridge is a time bomb.|Cây cầu cũ là một quả bom hẹn giờ.
+crumb|cake crumbs|vụn bánh ngọt|There are cake crumbs on the sofa.|Có vụn bánh trên ghế sofa.
+palm|palm of your hand|lòng bàn tay bạn|Hold the coin in the palm of your hand.|Giữ đồng xu trong lòng bàn tay.
+salmon|smoked salmon|cá hồi hun khói|I had smoked salmon for breakfast.|Bữa sáng tôi ăn cá hồi hun khói.
+almond|almond cake|bánh hạnh nhân|She made an almond cake.|Cô ấy làm một cái bánh hạnh nhân.
+yolk|yolk and white|lòng đỏ và lòng trắng|Separate the yolk and white of the egg.|Tách lòng đỏ và lòng trắng trứng.
+fasten|fasten the buttons|cài cúc|Fasten the buttons on your coat.|Cài cúc áo khoác vào.
+soften|soften the skin|làm mềm da|This cream helps soften the skin.|Kem này giúp làm mềm da.
+reign|reign of|triều đại của|The temple was built during the reign of King Ly Thanh Tong.|Ngôi đền được xây dưới triều vua Lý Thánh Tông.
+ghost|ghost town|thị trấn ma|The mine closed and it became a ghost town.|Mỏ đóng cửa và nơi đó thành thị trấn ma.
+vehicle|motor vehicle|xe cơ giới|You need a license to drive a motor vehicle.|Bạn cần bằng lái để điều khiển xe cơ giới.
+aisle|walk down the aisle|bước vào lễ đường|She will walk down the aisle in May.|Tháng Năm cô ấy sẽ bước vào lễ đường.
+cupboard|in the cupboard|trong tủ|There is some rice in the cupboard.|Trong tủ còn ít gạo.
+raspberry|raspberry ice cream|kem mâm xôi|I'd like raspberry ice cream, please.|Cho tôi kem mâm xôi.
+biscuit|chocolate biscuit|bánh quy sô-cô-la|Would you like a chocolate biscuit?|Bạn dùng một cái bánh quy sô-cô-la nhé?
+colonel|retired colonel|đại tá về hưu|Her grandfather is a retired colonel.|Ông cô ấy là đại tá về hưu.
+yacht|yacht club|câu lạc bộ du thuyền|They had dinner at the yacht club.|Họ ăn tối ở câu lạc bộ du thuyền.
+queue|jump the queue|chen hàng|Please don't jump the queue.|Xin đừng chen hàng.
+women|women and children|phụ nữ và trẻ em|Women and children got on the boat first.|Phụ nữ và trẻ em lên thuyền trước.
+chaos|in chaos|trong hỗn loạn|The airport was in chaos after the storm.|Sân bay hỗn loạn sau cơn bão.
+echo|echo chamber|buồng vang|Social media can be an echo chamber.|Mạng xã hội có thể là một buồng vang.
+leopard|leopard print|họa tiết da báo|She wore a leopard print scarf.|Cô ấy quàng khăn họa tiết da báo.
+genre|genre of|thể loại (gì)|What genre of movie do you like?|Bạn thích thể loại phim nào?
+gauge|pressure gauge|đồng hồ đo áp suất|Check the pressure gauge on the tire.|Kiểm tra đồng hồ đo áp suất của lốp xe.
+dough|bread dough|bột bánh mì|Let the bread dough rest for an hour.|Để bột bánh mì nghỉ một tiếng.
+thorough|thorough cleaning|dọn dẹp kỹ lưỡng|The house needs a thorough cleaning.|Ngôi nhà cần được dọn dẹp kỹ lưỡng.
+favorite|favorite color|màu yêu thích|Purple is her favorite color.|Màu tím là màu yêu thích của cô ấy.
+jewelry|jewelry store|tiệm trang sức|He bought the ring at a jewelry store.|Anh ấy mua chiếc nhẫn ở tiệm trang sức.
+subtle|subtle flavor|hương vị thoang thoảng|The tea has a subtle flavor of jasmine.|Trà có hương nhài thoang thoảng.
+heir|only heir|người thừa kế duy nhất|She is the only heir to the family business.|Cô ấy là người thừa kế duy nhất của cơ nghiệp gia đình.
+herb|herb garden|vườn rau thơm|We have a small herb garden.|Chúng tôi có một vườn rau thơm nhỏ.
+rhyme|rhyme with|vần với|"Cat" and "hat" rhyme with each other.|"Cat" và "hat" vần với nhau.
+buffet|buffet lunch|bữa trưa tự chọn|The hotel serves a buffet lunch.|Khách sạn phục vụ bữa trưa tự chọn.
+bouquet|wedding bouquet|hoa cưới|The bride carried a wedding bouquet.|Cô dâu cầm bó hoa cưới.
+debut|make a debut|ra mắt lần đầu|The young singer will make a debut next month.|Ca sĩ trẻ sẽ ra mắt vào tháng sau.
+asthma|have asthma|bị hen suyễn|I have asthma, so I avoid smoke.|Tôi bị hen suyễn nên tránh khói.
+wrestle|wrestle on the floor|vật nhau trên sàn|The boys wrestle on the floor for fun.|Mấy cậu bé vật nhau trên sàn cho vui.
+handkerchief|clean handkerchief|khăn tay sạch|He always carries a clean handkerchief.|Anh ấy lúc nào cũng mang theo khăn tay sạch.
+campaign|advertising campaign|chiến dịch quảng cáo|The company started a new advertising campaign.|Công ty bắt đầu một chiến dịch quảng cáo mới.
+resign|resign as|từ chức (vị trí)|He decided to resign as manager.|Anh ấy quyết định từ chức quản lý.

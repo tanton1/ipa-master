@@ -49,3 +49,53 @@ critical|critical thinking|tư duy phản biện|Schools should teach critical t
 flexible|flexible hours|giờ làm linh hoạt|I like a job with flexible hours.|Tôi thích công việc có giờ làm linh hoạt.
 complex|complex problem|vấn đề phức tạp|It's a complex problem.|Đó là một vấn đề phức tạp.
 extreme|extreme weather|thời tiết cực đoan|Extreme weather is more common now.|Thời tiết cực đoan giờ phổ biến hơn.
+accurate|accurate answer|câu trả lời chính xác|I need an accurate answer by tomorrow.|Tôi cần câu trả lời chính xác trước ngày mai.
+actual|actual cost|chi phí thực tế|The actual cost was much higher.|Chi phí thực tế cao hơn nhiều.
+additional|additional information|thông tin bổ sung|Call us for additional information.|Hãy gọi cho chúng tôi để biết thêm thông tin.
+appropriate|appropriate for|phù hợp với|This movie is not appropriate for children.|Bộ phim này không phù hợp với trẻ em.
+basic|basic English|tiếng Anh cơ bản|I can speak basic English.|Tôi nói được tiếng Anh cơ bản.
+brief|brief meeting|cuộc họp ngắn|We had a brief meeting this morning.|Sáng nay chúng tôi có một cuộc họp ngắn.
+capable|capable hands|người có năng lực đảm nhận|The project is in capable hands.|Dự án đang được người có năng lực đảm nhận.
+constant|constant rain|mưa liên miên|We had constant rain for a week.|Trời mưa liên miên suốt một tuần.
+current|current job|công việc hiện tại|I like my current job.|Tôi thích công việc hiện tại của mình.
+effective|effective method|phương pháp hiệu quả|Shadowing is an effective method for pronunciation.|Nhại theo là một phương pháp luyện phát âm hiệu quả.
+efficient|efficient worker|người làm việc hiệu quả|She is a fast and efficient worker.|Cô ấy là người làm việc nhanh và hiệu quả.
+essential|essential for|thiết yếu cho|Good sleep is essential for learning.|Ngủ ngon là điều thiết yếu cho việc học.
+general|general idea|ý chính|I understand the general idea.|Tôi hiểu ý chính.
+independent|independent life|cuộc sống tự lập|She wants an independent life.|Cô ấy muốn một cuộc sống tự lập.
+individual|each individual|mỗi cá nhân|We respect each individual in the class.|Chúng tôi tôn trọng mỗi cá nhân trong lớp.
+initial|initial cost|chi phí ban đầu|The initial cost is high, but it saves money later.|Chi phí ban đầu cao nhưng về sau tiết kiệm tiền.
+logical|logical reason|lý do hợp lý|There is a logical reason for the rule.|Quy định đó có lý do hợp lý.
+major|major city|thành phố lớn|Da Nang is a major city in central Vietnam.|Đà Nẵng là một thành phố lớn ở miền Trung Việt Nam.
+minor|minor problem|vấn đề nhỏ|It's only a minor problem.|Đó chỉ là một vấn đề nhỏ.
+obvious|obvious answer|câu trả lời hiển nhiên|The obvious answer is not always right.|Câu trả lời hiển nhiên không phải lúc nào cũng đúng.
+original|original price|giá gốc|The original price was twice as high.|Giá gốc cao gấp đôi.
+particular|nothing in particular|không có gì đặc biệt|I'm doing nothing in particular tonight.|Tối nay tôi không làm gì đặc biệt.
+physical|physical health|sức khỏe thể chất|Sleep is important for physical health.|Giấc ngủ quan trọng với sức khỏe thể chất.
+potential|potential problem|vấn đề tiềm ẩn|I see one potential problem.|Tôi thấy có một vấn đề tiềm ẩn.
+practical|practical skills|kỹ năng thực tế|The course teaches practical skills.|Khóa học dạy các kỹ năng thực tế.
+previous|previous experience|kinh nghiệm trước đây|No previous experience is needed.|Không cần kinh nghiệm trước đây.
+primary|primary reason|lý do chính|The primary reason is cost.|Lý do chính là chi phí.
+professional|professional advice|lời khuyên chuyên môn|You should get professional advice.|Bạn nên xin lời khuyên chuyên môn.
+proper|proper name|tên riêng|A proper name starts with a capital letter.|Tên riêng bắt đầu bằng chữ in hoa.
+reasonable|reasonable offer|lời đề nghị hợp lý|That sounds like a reasonable offer.|Nghe như một lời đề nghị hợp lý.
+relevant|relevant information|thông tin liên quan|Please send all the relevant information.|Xin gửi tất cả thông tin liên quan.
+reliable|reliable car|chiếc xe đáng tin cậy|I need a cheap and reliable car.|Tôi cần một chiếc xe rẻ và đáng tin cậy.
+responsible|responsible adult|người lớn có trách nhiệm|Kids must swim with a responsible adult.|Trẻ em phải bơi cùng một người lớn có trách nhiệm.
+significant|significant amount|một lượng đáng kể|We saved a significant amount of money.|Chúng tôi tiết kiệm được một khoản tiền đáng kể.
+similar|similar problem|vấn đề tương tự|I had a similar problem last year.|Năm ngoái tôi gặp một vấn đề tương tự.
+specific|specific reason|lý do cụ thể|Is there a specific reason you called?|Bạn gọi có lý do cụ thể nào không?
+standard|standard size|cỡ tiêu chuẩn|This bed is a standard size.|Cái giường này cỡ tiêu chuẩn.
+strict|strict rules|quy định nghiêm ngặt|The school has strict rules about phones.|Trường có quy định nghiêm ngặt về điện thoại.
+successful|successful career|sự nghiệp thành công|She has a successful career in law.|Cô ấy có sự nghiệp thành công trong ngành luật.
+suitable|suitable time|thời gian phù hợp|Let's find a suitable time to meet.|Hãy tìm thời gian phù hợp để gặp nhau.
+valuable|valuable experience|kinh nghiệm quý giá|The trip was a valuable experience.|Chuyến đi là một kinh nghiệm quý giá.
+legal|legal advice|tư vấn pháp lý|You should get legal advice first.|Bạn nên xin tư vấn pháp lý trước.
+medical|medical care|chăm sóc y tế|Everyone needs good medical care.|Ai cũng cần được chăm sóc y tế tốt.
+mental|mental illness|bệnh tâm thần|Mental illness is nothing to be ashamed of.|Bệnh tâm thần không có gì đáng xấu hổ.
+personal|personal life|đời sống riêng tư|I don't talk about my personal life at work.|Tôi không nói về đời sống riêng tư ở chỗ làm.
+technical|technical support|hỗ trợ kỹ thuật|Call technical support for help.|Hãy gọi hỗ trợ kỹ thuật để được giúp.
+critical|critical moment|thời điểm quan trọng|He scored at a critical moment.|Anh ấy ghi bàn vào thời điểm quan trọng.
+flexible|flexible schedule|lịch linh hoạt|I like having a flexible schedule.|Tôi thích có lịch làm việc linh hoạt.
+complex|complex system|hệ thống phức tạp|The brain is a complex system.|Bộ não là một hệ thống phức tạp.
+extreme|extreme heat|cái nóng cực độ|Stay inside during extreme heat.|Hãy ở trong nhà khi trời nóng cực độ.

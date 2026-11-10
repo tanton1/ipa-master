@@ -57,3 +57,45 @@ accident|by accident|vô tình|I deleted the file by accident.|Tôi vô tình x�
 crash|plane crash|tai nạn máy bay|Nobody died in the plane crash.|Không ai chết trong vụ tai nạn máy bay.
 transport|means of transport|phương tiện đi lại|The bicycle is a cheap means of transport.|Xe đạp là phương tiện đi lại rẻ.
 rail|by rail|bằng đường sắt|You can travel from Hanoi to Saigon by rail.|Bạn có thể đi từ Hà Nội vào Sài Gòn bằng đường sắt.
+journey|safe journey|thượng lộ bình an|Have a safe journey home.|Chúc bạn về nhà thượng lộ bình an.
+tourist|tourist information|thông tin du lịch|Ask at the tourist information desk.|Hãy hỏi ở quầy thông tin du lịch.
+passport|passport photo|ảnh hộ chiếu|I need a new passport photo.|Tôi cần một tấm ảnh hộ chiếu mới.
+visa|tourist visa|thị thực du lịch|I have a tourist visa for thirty days.|Tôi có thị thực du lịch ba mươi ngày.
+luggage|luggage tag|thẻ hành lý|Write your name on the luggage tag.|Ghi tên bạn lên thẻ hành lý.
+suitcase|pack a suitcase|xếp va li|It takes me an hour to pack a suitcase.|Tôi mất một tiếng để xếp va li.
+backpack|carry a backpack|đeo ba lô|Hikers carry a backpack with water and food.|Người đi bộ đường dài đeo ba lô có nước và đồ ăn.
+passenger|passenger train|tàu chở khách|The passenger train leaves at nine.|Tàu chở khách khởi hành lúc chín giờ.
+pilot|become a pilot|trở thành phi công|My son wants to become a pilot.|Con trai tôi muốn trở thành phi công.
+motorbike|motorbike taxi|xe ôm|I took a motorbike taxi to the station.|Tôi đi xe ôm ra ga.
+scooter|ride a scooter|đi xe tay ga|She can ride a scooter to work.|Cô ấy có thể đi xe tay ga đi làm.
+truck|truck driver|tài xế xe tải|My father is a truck driver.|Bố tôi là tài xế xe tải.
+subway|take the subway|đi tàu điện ngầm|We take the subway to the city center.|Chúng tôi đi tàu điện ngầm vào trung tâm thành phố.
+ferry|ferry ride|chuyến đi phà|The ferry ride takes twenty minutes.|Chuyến đi phà mất hai mươi phút.
+helicopter|helicopter tour|chuyến tham quan bằng trực thăng|We booked a helicopter tour of the bay.|Chúng tôi đặt chuyến tham quan vịnh bằng trực thăng.
+wheel|front wheel|bánh trước|The front wheel is loose.|Bánh trước bị lỏng.
+tire|change a tire|thay lốp xe|Do you know how to change a tire?|Bạn có biết thay lốp xe không?
+seatbelt|fasten your seatbelt|thắt dây an toàn|Fasten your seatbelt before we go.|Thắt dây an toàn trước khi chúng ta đi.
+fuel|run out of fuel|hết nhiên liệu|We might run out of fuel soon.|Có thể chúng ta sắp hết nhiên liệu.
+route|the best route|tuyến đường tốt nhất|What is the best route to the airport?|Tuyến đường nào ra sân bay tốt nhất?
+destination|final destination|điểm đến cuối cùng|Our final destination is Hue.|Điểm đến cuối cùng của chúng tôi là Huế.
+departure|departure gate|cổng khởi hành|Go to the departure gate now.|Hãy ra cổng khởi hành ngay.
+arrival|arrival time|giờ đến|What is your arrival time?|Giờ đến của bạn là mấy giờ?
+cancel|cancel a flight|hủy chuyến bay|They had to cancel a flight because of the storm.|Họ phải hủy một chuyến bay vì bão.
+reserve|reserve a room|đặt phòng trước|I'd like to reserve a room for two nights.|Tôi muốn đặt phòng hai đêm.
+reservation|have a reservation|có đặt chỗ trước|We have a reservation for seven o'clock.|Chúng tôi có đặt chỗ lúc bảy giờ.
+souvenir|buy a souvenir|mua quà lưu niệm|I want to buy a souvenir for my mom.|Tôi muốn mua quà lưu niệm cho mẹ.
+guide|tour guide|hướng dẫn viên du lịch|Our tour guide speaks three languages.|Hướng dẫn viên của chúng tôi nói ba thứ tiếng.
+abroad|live abroad|sống ở nước ngoài|My brother wants to live abroad.|Anh tôi muốn sống ở nước ngoài.
+sightseeing|sightseeing tour|chuyến tham quan|We took a sightseeing tour of the city.|Chúng tôi đi một chuyến tham quan thành phố.
+adventure|adventure story|truyện phiêu lưu|My son loves a good adventure story.|Con trai tôi mê truyện phiêu lưu hay.
+camp|camp site|khu cắm trại|We found a camp site near the lake.|Chúng tôi tìm được một khu cắm trại gần hồ.
+tent|sleep in a tent|ngủ trong lều|We sleep in a tent on camping trips.|Đi cắm trại chúng tôi ngủ trong lều.
+hike|long hike|chuyến đi bộ dài|We were tired after the long hike.|Sau chuyến đi bộ dài chúng tôi mệt.
+explore|explore the island|khám phá hòn đảo|We rented bikes to explore the island.|Chúng tôi thuê xe đạp để khám phá hòn đảo.
+view|point of view|quan điểm|I understand your point of view.|Tôi hiểu quan điểm của bạn.
+landscape|landscape painting|tranh phong cảnh|He bought a landscape painting in Hoi An.|Anh ấy mua một bức tranh phong cảnh ở Hội An.
+border|border gate|cửa khẩu|The border gate opens at six.|Cửa khẩu mở lúc sáu giờ.
+platform|on the platform|trên sân ga|Wait for me on the platform.|Đợi tôi trên sân ga nhé.
+crash|car crash|vụ tai nạn ô tô|Nobody was hurt in the car crash.|Không ai bị thương trong vụ tai nạn ô tô.
+transport|public transport|giao thông công cộng|I use public transport every day.|Ngày nào tôi cũng dùng giao thông công cộng.
+rail|rail station|ga đường sắt|The rail station is near the market.|Ga đường sắt ở gần chợ.

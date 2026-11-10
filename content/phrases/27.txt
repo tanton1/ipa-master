@@ -64,3 +64,38 @@ debt|in debt|mắc nợ|He is in debt after buying a car.|Anh ấy mắc nợ sa
 debt|pay off the debt|trả hết nợ|It took five years to pay off the debt.|Mất năm năm mới trả hết nợ.
 loan|bank loan|khoản vay ngân hàng|They took a bank loan to buy a house.|Họ vay ngân hàng để mua nhà.
 salary|high salary|lương cao|This job has a high salary.|Công việc này lương cao.
+skirt|long skirt|chân váy dài|She wore a long skirt to the office.|Cô ấy mặc chân váy dài đi làm.
+coat|put on your coat|mặc áo khoác vào|Put on your coat, it's cold outside.|Mặc áo khoác vào, ngoài trời lạnh.
+sweater|warm sweater|áo len ấm|Grandma made me a warm sweater.|Bà đan cho tôi một cái áo len ấm.
+jeans|blue jeans|quần jean xanh|He always wears blue jeans.|Anh ấy lúc nào cũng mặc quần jean xanh.
+pants|a pair of pants|một cái quần dài|I bought a pair of pants yesterday.|Hôm qua tôi mua một cái quần dài.
+shorts|wear shorts|mặc quần đùi|I wear shorts in the summer.|Mùa hè tôi mặc quần đùi.
+socks|clean socks|tất sạch|I can't find any clean socks.|Tôi không tìm thấy đôi tất sạch nào.
+boots|a pair of boots|một đôi bốt|I bought a pair of boots for winter.|Tôi mua một đôi bốt cho mùa đông.
+gloves|a pair of gloves|một đôi găng tay|I lost a pair of gloves on the bus.|Tôi làm mất một đôi găng tay trên xe buýt.
+scarf|wear a scarf|quàng khăn|Wear a scarf, it's windy.|Quàng khăn vào, trời gió đấy.
+belt|leather belt|thắt lưng da|He gave his father a leather belt.|Anh ấy tặng bố một cái thắt lưng da.
+uniform|wear a uniform|mặc đồng phục|Nurses wear a uniform at work.|Y tá mặc đồng phục khi làm việc.
+suit|suit and tie|com-lê và cà vạt|He wears a suit and tie to work.|Anh ấy mặc com-lê thắt cà vạt đi làm.
+button|press the button|nhấn nút|Press the button to call the nurse.|Nhấn nút để gọi y tá.
+zipper|pull the zipper|kéo khóa|Pull the zipper up, it's cold.|Kéo khóa lên đi, trời lạnh.
+necklace|pearl necklace|dây chuyền ngọc trai|She wore a pearl necklace.|Cô ấy đeo dây chuyền ngọc trai.
+earring|gold earrings|bông tai vàng|My mom gave me gold earrings.|Mẹ tặng tôi đôi bông tai vàng.
+bracelet|wear a bracelet|đeo vòng tay|Many babies wear a bracelet for luck.|Nhiều em bé đeo vòng tay để lấy may.
+glasses|wear glasses|đeo kính|I wear glasses to read.|Tôi đeo kính khi đọc sách.
+sunglasses|wear sunglasses|đeo kính râm|Wear sunglasses at the beach.|Ra biển nhớ đeo kính râm.
+cash|cash only|chỉ nhận tiền mặt|This shop is cash only.|Cửa hàng này chỉ nhận tiền mặt.
+coin|gold coin|đồng tiền vàng|He found an old gold coin.|Anh ấy tìm thấy một đồng tiền vàng cổ.
+credit|store credit|tín dụng mua hàng|They gave me store credit, not cash.|Họ trả tôi bằng tín dụng mua hàng chứ không phải tiền mặt.
+cashier|ask the cashier|hỏi thu ngân|Ask the cashier for a bag.|Hãy xin thu ngân một cái túi.
+mall|at the mall|ở trung tâm mua sắm|We met at the mall.|Chúng tôi gặp nhau ở trung tâm mua sắm.
+supermarket|supermarket bag|túi siêu thị|Bring your own supermarket bag.|Hãy mang theo túi đi siêu thị của mình.
+afford|afford to buy|đủ tiền mua|We can afford to buy a small car.|Chúng tôi đủ tiền mua một chiếc xe nhỏ.
+rent|for rent|cho thuê|There is a room for rent upstairs.|Trên lầu có phòng cho thuê.
+save|save time|tiết kiệm thời gian|Taking the train will save time.|Đi tàu sẽ tiết kiệm thời gian.
+purse|in my purse|trong ví của tôi|My keys are in my purse.|Chìa khóa ở trong ví của tôi.
+bargain|bargain price|giá hời|I got these shoes at a bargain price.|Tôi mua đôi giày này với giá hời.
+refund|get a refund|được hoàn tiền|Can I get a refund for this?|Tôi được hoàn tiền món này không?
+tax|pay tax|đóng thuế|Everyone has to pay tax.|Ai cũng phải đóng thuế.
+loan|student loan|khoản vay sinh viên|He is still paying his student loan.|Anh ấy vẫn đang trả khoản vay sinh viên.
+salary|monthly salary|lương tháng|My monthly salary is not very high.|Lương tháng của tôi không cao lắm.

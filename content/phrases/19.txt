@@ -49,3 +49,53 @@ simply|simply delicious|ngon tuyệt|The soup is simply delicious.|Món súp ngo
 immediately|start immediately|bắt đầu ngay|Can you start immediately?|Bạn có thể bắt đầu ngay không?
 everywhere|everywhere you go|bất cứ đâu bạn đến|You can find coffee shops everywhere you go.|Bạn đi đâu cũng thấy quán cà phê.
 somewhere|somewhere else|nơi khác|Let's go somewhere else.|Mình đi chỗ khác đi.
+already|already know|đã biết rồi|I already know the answer.|Tôi đã biết câu trả lời rồi.
+almost|almost every|gần như mọi|I run almost every day.|Tôi chạy bộ gần như mỗi ngày.
+anyway|anyway, let's|dù sao thì hãy|Anyway, let's get started.|Dù sao thì bắt đầu thôi.
+actually|actually, I|thật ra thì tôi|Actually, I prefer tea.|Thật ra thì tôi thích trà hơn.
+especially|especially when|đặc biệt là khi|I love the beach, especially when it's quiet.|Tôi thích biển, đặc biệt là khi vắng người.
+finally|finally finished|cuối cùng đã xong|I finally finished the report.|Cuối cùng tôi đã xong bản báo cáo.
+probably|will probably|có lẽ sẽ|It will probably rain tonight.|Tối nay có lẽ trời sẽ mưa.
+quickly|quickly as you can|nhanh hết mức bạn có thể|Come as quickly as you can.|Hãy đến nhanh hết mức có thể.
+slowly|walk slowly|đi chậm|Walk slowly on the wet floor.|Đi chậm trên sàn ướt nhé.
+suddenly|suddenly stopped|đột nhiên dừng lại|The bus suddenly stopped.|Xe buýt đột nhiên dừng lại.
+usually|usually get up|thường thức dậy|I usually get up at six.|Tôi thường dậy lúc sáu giờ.
+rarely|rarely go out|hiếm khi ra ngoài|We rarely go out at night.|Chúng tôi hiếm khi ra ngoài buổi tối.
+recently|just recently|mới gần đây|I moved here just recently.|Tôi mới chuyển đến đây gần đây.
+soon|as soon as|ngay khi|Call me as soon as you arrive.|Gọi cho tôi ngay khi bạn đến.
+still|still here|vẫn ở đây|Are you still here?|Bạn vẫn ở đây à?
+yet|yet again|lại một lần nữa|He was late yet again.|Anh ấy lại đến muộn lần nữa.
+just|just in time|vừa kịp lúc|We arrived just in time.|Chúng tôi đến vừa kịp lúc.
+only|not only|không chỉ|He not only sings but also dances.|Anh ấy không chỉ hát mà còn nhảy.
+even|even more|thậm chí còn hơn|Today is even more busy than yesterday.|Hôm nay còn bận hơn cả hôm qua.
+ever|ever since|kể từ đó|I have lived here ever since.|Tôi sống ở đây kể từ đó.
+once|once more|thêm một lần nữa|Let's try once more.|Thử thêm một lần nữa đi.
+twice|twice a week|hai lần một tuần|I go to the gym twice a week.|Tôi đi tập gym hai lần một tuần.
+together|get together|tụ họp|Let's get together this weekend.|Cuối tuần này tụ họp đi.
+away|go away|đi vắng; đi chỗ khác|We go away every summer.|Hè nào chúng tôi cũng đi xa.
+else|what else|còn gì nữa|What else did she say?|Cô ấy còn nói gì nữa?
+instead|instead of me|thay cho tôi|Can you go instead of me?|Bạn đi thay tôi được không?
+perhaps|perhaps not|có lẽ là không|Perhaps not today.|Có lẽ không phải hôm nay.
+quite|quite a lot|khá nhiều|I read quite a lot.|Tôi đọc khá nhiều.
+rather|rather than|thay vì|I walk rather than drive.|Tôi đi bộ thay vì lái xe.
+too|me too|tôi cũng vậy|I love this song. Me too.|Tôi thích bài này. Tôi cũng vậy.
+so|so much|rất nhiều|Thank you so much.|Cảm ơn bạn rất nhiều.
+than|better than|tốt hơn|This one is better than that one.|Cái này tốt hơn cái kia.
+although|although I|mặc dù tôi|Although I was tired, I kept working.|Mặc dù mệt, tôi vẫn tiếp tục làm việc.
+unless|unless it rains|trừ khi trời mưa|We'll eat outside unless it rains.|Chúng ta sẽ ăn ngoài trời, trừ khi trời mưa.
+until|until now|cho đến bây giờ|I didn't know until now.|Đến bây giờ tôi mới biết.
+while|while you wait|trong lúc bạn chờ|Have some tea while you wait.|Uống chút trà trong lúc chờ nhé.
+whether|whether to go|có nên đi hay không|I can't decide whether to go.|Tôi không quyết định được có nên đi hay không.
+however|however you like|theo cách bạn thích|You can cook it however you like.|Bạn nấu theo cách nào bạn thích cũng được.
+therefore|therefore I|vì vậy tôi|I was sick. Therefore I stayed home.|Tôi bị ốm. Vì vậy tôi ở nhà.
+besides|besides me|ngoài tôi ra|Who else is coming besides me?|Ngoài tôi ra còn ai đến nữa?
+otherwise|otherwise I|nếu không thì tôi|Call me. Otherwise I will worry.|Gọi cho tôi nhé. Nếu không thì tôi sẽ lo.
+nearly|nearly every|gần như mọi|I see her nearly every day.|Gần như ngày nào tôi cũng gặp cô ấy.
+exactly|exactly right|hoàn toàn đúng|Your answer is exactly right.|Câu trả lời của bạn hoàn toàn đúng.
+certainly|certainly can|chắc chắn có thể|You certainly can try.|Chắc chắn bạn có thể thử.
+clearly|see clearly|nhìn rõ|I can't see clearly without glasses.|Không có kính tôi không nhìn rõ.
+easily|get tired easily|dễ bị mệt|I get tired easily in summer.|Mùa hè tôi dễ bị mệt.
+simply|simply put|nói đơn giản|Simply put, we need more time.|Nói đơn giản là chúng ta cần thêm thời gian.
+immediately|leave immediately|đi ngay lập tức|We have to leave immediately.|Chúng ta phải đi ngay lập tức.
+everywhere|look everywhere|tìm khắp nơi|I had to look everywhere for my keys.|Tôi phải tìm chìa khóa khắp nơi.
+somewhere|somewhere near|đâu đó gần|He lives somewhere near the station.|Anh ấy sống đâu đó gần nhà ga.

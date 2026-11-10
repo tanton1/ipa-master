@@ -75,3 +75,27 @@ bride|bride and groom|cô dâu chú rể|The bride and groom look so happy.|Cô 
 grandchild|first grandchild|đứa cháu đầu tiên|My parents are waiting for their first grandchild.|Bố mẹ tôi đang chờ đứa cháu đầu tiên.
 youth|youth club|câu lạc bộ thanh niên|He joined a youth club.|Anh ấy tham gia câu lạc bộ thanh niên.
 youth|in my youth|thời trẻ|In my youth, I played football every day.|Thời trẻ, ngày nào tôi cũng đá bóng.
+teenager|teenager's room|phòng của thiếu niên|A teenager's room is often messy.|Phòng của thiếu niên thường bừa bộn.
+grandmother|grandmother's house|nhà bà|We spend summer at my grandmother's house.|Chúng tôi nghỉ hè ở nhà bà.
+grandfather|my grandfather|ông tôi|My grandfather tells great stories.|Ông tôi kể chuyện rất hay.
+aunt|my aunt|cô (dì) của tôi|I stayed with my aunt last summer.|Hè năm ngoái tôi ở với dì.
+uncle|uncle and aunt|chú và dì|My uncle and aunt have a farm.|Chú và dì tôi có một trang trại.
+cousin|my cousin|anh chị em họ của tôi|My cousin is the same age as me.|Anh họ tôi bằng tuổi tôi.
+nephew|nephew and niece|cháu trai và cháu gái|My nephew and niece visit on Sundays.|Cháu trai và cháu gái tôi đến chơi vào Chủ nhật.
+niece|little niece|cháu gái nhỏ|My little niece loves to draw.|Cháu gái nhỏ của tôi thích vẽ.
+boyfriend|her boyfriend|bạn trai cô ấy|Her boyfriend is from Canada.|Bạn trai cô ấy là người Canada.
+girlfriend|my girlfriend|bạn gái tôi|My girlfriend works at a hospital.|Bạn gái tôi làm ở bệnh viện.
+gentleman|perfect gentleman|quý ông đúng nghĩa|He was a perfect gentleman all evening.|Cả buổi tối anh ấy cư xử như một quý ông đúng nghĩa.
+marriage|marriage certificate|giấy đăng ký kết hôn|We need a copy of your marriage certificate.|Chúng tôi cần một bản sao giấy đăng ký kết hôn của anh chị.
+boss|new boss|sếp mới|Our new boss starts on Monday.|Sếp mới của chúng tôi bắt đầu làm từ thứ Hai.
+colleague|former colleague|đồng nghiệp cũ|I met a former colleague today.|Hôm nay tôi gặp một đồng nghiệp cũ.
+classmate|my classmate|bạn cùng lớp của tôi|My classmate helped me with math.|Bạn cùng lớp giúp tôi học toán.
+roommate|my roommate|bạn cùng phòng của tôi|My roommate cooks very well.|Bạn cùng phòng của tôi nấu ăn rất ngon.
+enemy|make an enemy|gây thù|Don't make an enemy of your neighbor.|Đừng gây thù với hàng xóm.
+queen|king and queen|vua và hoàng hậu|The king and queen live in the palace.|Vua và hoàng hậu sống trong cung điện.
+prince|young prince|hoàng tử trẻ|The young prince rode a white horse.|Hoàng tử trẻ cưỡi một con ngựa trắng.
+princess|princess dress|váy công chúa|She wants a princess dress for her birthday.|Cô bé muốn một chiếc váy công chúa cho sinh nhật.
+male|male nurse|y tá nam|A male nurse checked my arm.|Một y tá nam kiểm tra tay tôi.
+female|female friend|bạn nữ|He went with a female friend.|Anh ấy đi cùng một người bạn nữ.
+bride|the bride's family|nhà gái|The bride's family is from Hue.|Nhà gái ở Huế.
+grandchild|only grandchild|đứa cháu duy nhất|She is their only grandchild.|Cô bé là đứa cháu duy nhất của ông bà.

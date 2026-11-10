@@ -49,3 +49,53 @@ never|never again|không bao giờ nữa|That was terrible. Never again!|Tệ qu
 again|once again|một lần nữa|Thank you once again.|Một lần nữa xin cảm ơn.
 before|before long|chẳng bao lâu nữa|Before long, you will speak English well.|Chẳng bao lâu nữa bạn sẽ nói tiếng Anh giỏi.
 after|after school|sau giờ học|I play football after school.|Tôi đá bóng sau giờ học.
+one|one more|thêm một cái nữa|One more coffee, please.|Cho thêm một ly cà phê nữa.
+two|two weeks|hai tuần|I'll be away for two weeks.|Tôi sẽ đi vắng hai tuần.
+three|three hours|ba tiếng|The trip takes three hours.|Chuyến đi mất ba tiếng.
+four|four people|bốn người|A table for four people, please.|Cho một bàn bốn người.
+five|five days|năm ngày|I work five days a week.|Tôi làm việc năm ngày một tuần.
+six|six months|sáu tháng|She stayed for six months.|Cô ấy ở lại sáu tháng.
+seven|at seven|lúc bảy giờ|Dinner is at seven.|Bữa tối lúc bảy giờ.
+eight|eight o'clock|tám giờ|The class starts at eight o'clock.|Lớp học bắt đầu lúc tám giờ.
+nine|nine years old|chín tuổi|My son is nine years old.|Con trai tôi chín tuổi.
+ten|ten minutes|mười phút|I'll be there in ten minutes.|Mười phút nữa tôi tới.
+eleven|eleven o'clock|mười một giờ|I go to bed at eleven o'clock.|Tôi đi ngủ lúc mười một giờ.
+twelve|twelve hours|mười hai tiếng|He slept for twelve hours.|Anh ấy ngủ mười hai tiếng.
+twenty|twenty years|hai mươi năm|They have been married for twenty years.|Họ kết hôn được hai mươi năm rồi.
+thirty|thirty days|ba mươi ngày|June has thirty days.|Tháng Sáu có ba mươi ngày.
+hundred|a hundred percent|một trăm phần trăm|I'm a hundred percent sure.|Tôi chắc chắn một trăm phần trăm.
+thousand|a thousand times|cả nghìn lần|I told you a thousand times.|Tôi nói với bạn cả nghìn lần rồi.
+first|first time|lần đầu tiên|Is this your first time here?|Đây là lần đầu bạn đến đây à?
+second|wait a second|chờ một giây|Wait a second, I'm coming.|Chờ một chút, tôi tới ngay.
+third|third time|lần thứ ba|This is my third time in Hanoi.|Đây là lần thứ ba tôi đến Hà Nội.
+last|last year|năm ngoái|We moved here last year.|Chúng tôi chuyển đến đây năm ngoái.
+today|later today|lát nữa trong hôm nay|I'll call you later today.|Lát nữa trong hôm nay tôi gọi cho bạn.
+tomorrow|tomorrow morning|sáng mai|The meeting is tomorrow morning.|Cuộc họp vào sáng mai.
+yesterday|the day before yesterday|hôm kia|I saw him the day before yesterday.|Hôm kia tôi gặp anh ấy.
+now|for now|tạm thời|That's all for now.|Tạm thời vậy thôi.
+morning|every morning|mỗi sáng|I drink tea every morning.|Sáng nào tôi cũng uống trà.
+afternoon|good afternoon|chào buổi chiều|Good afternoon, everyone.|Chào buổi chiều mọi người.
+evening|in the evening|vào buổi tối|I study in the evening.|Tôi học vào buổi tối.
+night|all night|cả đêm|The baby cried all night.|Em bé khóc cả đêm.
+day|every day|mỗi ngày|She calls her mother every day.|Ngày nào cô ấy cũng gọi cho mẹ.
+week|next week|tuần sau|I'll be busy next week.|Tuần sau tôi sẽ bận.
+month|once a month|mỗi tháng một lần|We meet once a month.|Chúng tôi gặp nhau mỗi tháng một lần.
+year|years old|tuổi|She is twenty years old.|Cô ấy hai mươi tuổi.
+hour|rush hour|giờ cao điểm|The traffic is bad at rush hour.|Giờ cao điểm đường rất tắc.
+minute|just a minute|chờ một phút|Just a minute, I'm almost ready.|Chờ một phút, tôi sắp xong rồi.
+time|free time|thời gian rảnh|I read books in my free time.|Lúc rảnh tôi đọc sách.
+early|get up early|dậy sớm|I get up early on weekdays.|Ngày thường tôi dậy sớm.
+late|too late|quá muộn|It's too late to call her.|Giờ gọi cho cô ấy thì quá muộn.
+Monday|Monday morning|sáng thứ Hai|I hate Monday morning traffic.|Tôi ghét cảnh tắc đường sáng thứ Hai.
+Friday|next Friday|thứ Sáu tuần sau|The test is next Friday.|Bài kiểm tra vào thứ Sáu tuần sau.
+Sunday|Sunday morning|sáng Chủ nhật|We go to the market on Sunday morning.|Chúng tôi đi chợ vào sáng Chủ nhật.
+January|January first|ngày mùng một tháng Một|The new year starts on January first.|Năm mới bắt đầu vào mùng một tháng Một.
+summer|summer vacation|kỳ nghỉ hè|Summer vacation starts in June.|Kỳ nghỉ hè bắt đầu vào tháng Sáu.
+winter|winter coat|áo khoác mùa đông|I need a new winter coat.|Tôi cần một cái áo khoác mùa đông mới.
+always|always late|lúc nào cũng trễ|He is always late for class.|Anh ấy lúc nào cũng đi học trễ.
+often|quite often|khá thường xuyên|We eat out quite often.|Chúng tôi đi ăn ngoài khá thường xuyên.
+sometimes|sometimes we|thỉnh thoảng chúng tôi|Sometimes we walk to work.|Thỉnh thoảng chúng tôi đi bộ đi làm.
+never|never mind|không sao, đừng bận tâm|Never mind, I'll do it myself.|Không sao, tôi tự làm.
+again|try again|thử lại|Please try again later.|Vui lòng thử lại sau.
+before|the day before|ngày hôm trước|I called her the day before.|Tôi đã gọi cho cô ấy ngày hôm trước.
+after|after work|sau giờ làm|Let's meet after work.|Tan làm gặp nhau nhé.

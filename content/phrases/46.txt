@@ -49,3 +49,53 @@ delicate|delicate skin|làn da mỏng manh|Babies have delicate skin.|Em bé có
 fragile|fragile items|đồ dễ vỡ|Pack the fragile items carefully.|Đóng gói cẩn thận đồ dễ vỡ.
 bold|bold decision|quyết định táo bạo|Leaving her job was a bold decision.|Nghỉ việc là một quyết định táo bạo của cô ấy.
 mysterious|mysterious man|người đàn ông bí ẩn|A mysterious man knocked on the door.|Một người đàn ông bí ẩn gõ cửa.
+recent|recent news|tin gần đây|Have you heard the recent news?|Bạn nghe tin gần đây chưa?
+likely|likely to|có khả năng sẽ|It is likely to rain this afternoon.|Chiều nay có khả năng sẽ mưa.
+unlikely|unlikely to|khó có khả năng|He is unlikely to come today.|Hôm nay anh ấy khó có khả năng đến.
+dead|dead end|ngõ cụt|This street is a dead end.|Con phố này là ngõ cụt.
+alive|still alive|vẫn còn sống|Her grandmother is still alive.|Bà của cô ấy vẫn còn sống.
+aware|aware that|biết rằng|Are you aware that the shop is closed?|Bạn có biết là cửa hàng đóng cửa rồi không?
+unique|unique chance|cơ hội có một không hai|This is a unique chance to learn.|Đây là cơ hội có một không hai để học hỏi.
+religious|religious holiday|ngày lễ tôn giáo|Christmas is a religious holiday.|Giáng sinh là một ngày lễ tôn giáo.
+cultural|cultural event|sự kiện văn hóa|The city hosts a cultural event every spring.|Mùa xuân nào thành phố cũng tổ chức một sự kiện văn hóa.
+silent|keep silent|giữ im lặng|Please keep silent during the test.|Xin giữ im lặng trong giờ kiểm tra.
+slight|slight change|thay đổi nhỏ|There is a slight change in the plan.|Kế hoạch có một thay đổi nhỏ.
+severe|severe pain|cơn đau dữ dội|He felt a severe pain in his chest.|Ông ấy thấy đau dữ dội ở ngực.
+steady|slow and steady|chậm mà chắc|Slow and steady wins the race.|Chậm mà chắc thì sẽ thắng.
+stable|stable job|công việc ổn định|My parents want me to have a stable job.|Bố mẹ muốn tôi có một công việc ổn định.
+brilliant|brilliant student|học sinh xuất sắc|She was a brilliant student.|Cô ấy từng là một học sinh xuất sắc.
+awesome|awesome job|làm rất tuyệt|You did an awesome job today.|Hôm nay bạn làm rất tuyệt.
+boring|boring movie|bộ phim nhàm chán|It was a long and boring movie.|Đó là một bộ phim dài và nhàm chán.
+tiring|long and tiring|dài và mệt mỏi|It was a long and tiring trip.|Đó là một chuyến đi dài và mệt mỏi.
+exciting|exciting game|trận đấu hấp dẫn|It was a very exciting game.|Đó là một trận đấu rất hấp dẫn.
+relaxing|relaxing weekend|cuối tuần thư giãn|We had a relaxing weekend at home.|Chúng tôi có một cuối tuần thư giãn ở nhà.
+annoying|annoying habit|thói quen khó chịu|He has an annoying habit of being late.|Anh ấy có thói quen đi trễ rất khó chịu.
+confusing|confusing sign|biển báo khó hiểu|There is a confusing sign at the exit.|Có một biển báo khó hiểu ở lối ra.
+embarrassing|embarrassing mistake|lỗi đáng xấu hổ|I made an embarrassing mistake in class.|Tôi mắc một lỗi đáng xấu hổ trong lớp.
+frightening|frightening dream|giấc mơ đáng sợ|I had a frightening dream last night.|Đêm qua tôi có một giấc mơ đáng sợ.
+surprising|surprising news|tin bất ngờ|She told me some surprising news.|Cô ấy kể cho tôi một tin bất ngờ.
+shocking|shocking price|mức giá gây sốc|That is a shocking price for a coffee.|Giá đó cho một ly cà phê thật gây sốc.
+fascinating|fascinating place|nơi đầy lôi cuốn|Hoi An is a fascinating place.|Hội An là một nơi đầy lôi cuốn.
+disgusting|taste disgusting|có vị kinh khủng|This medicine does taste disgusting.|Thuốc này đúng là có vị kinh khủng.
+interested|not interested|không quan tâm|Sorry, I'm not interested.|Xin lỗi, tôi không quan tâm.
+annoyed|get annoyed|thấy bực mình|I get annoyed when people shout.|Tôi thấy bực mình khi người ta la hét.
+worried|look worried|trông lo lắng|You look worried. What's wrong?|Trông bạn lo lắng thế. Có chuyện gì vậy?
+terrified|absolutely terrified|sợ chết khiếp|I was absolutely terrified on the plane.|Trên máy bay tôi sợ chết khiếp.
+impressed|very impressed|rất ấn tượng|I was very impressed by her English.|Tôi rất ấn tượng với tiếng Anh của cô ấy.
+exhausted|feel exhausted|thấy kiệt sức|I feel exhausted after the night shift.|Sau ca đêm tôi thấy kiệt sức.
+impressive|impressive work|thành quả ấn tượng|That is impressive work for a beginner.|Với người mới bắt đầu thì đó là thành quả ấn tượng.
+attractive|attractive offer|lời đề nghị hấp dẫn|The company made an attractive offer.|Công ty đưa ra một lời đề nghị hấp dẫn.
+charming|charming smile|nụ cười duyên dáng|He has a charming smile.|Anh ấy có nụ cười duyên dáng.
+elegant|elegant style|phong cách thanh lịch|I like her simple and elegant style.|Tôi thích phong cách giản dị và thanh lịch của cô ấy.
+tasty|tasty snack|món ăn vặt ngon|Peanuts are a tasty snack.|Đậu phộng là món ăn vặt ngon.
+cozy|cozy cafe|quán cà phê ấm cúng|We found a cozy cafe near the lake.|Chúng tôi tìm thấy một quán cà phê ấm cúng gần hồ.
+chilly|a bit chilly|hơi se lạnh|It's a bit chilly tonight.|Tối nay trời hơi se lạnh.
+freezing|freezing outside|ngoài trời lạnh cóng|It's freezing outside, wear a hat.|Ngoài trời lạnh cóng, đội mũ vào.
+damp|damp weather|thời tiết ẩm ướt|My knees hurt in damp weather.|Thời tiết ẩm ướt làm đầu gối tôi đau.
+mature|mature student|sinh viên lớn tuổi|He went back to college as a mature student.|Ông ấy quay lại đại học với tư cách sinh viên lớn tuổi.
+gorgeous|gorgeous dress|chiếc váy lộng lẫy|You look great in that gorgeous dress.|Bạn mặc chiếc váy lộng lẫy đó trông rất đẹp.
+stylish|stylish hat|chiếc mũ sành điệu|She wore a stylish hat to the party.|Cô ấy đội một chiếc mũ sành điệu đi dự tiệc.
+delicate|delicate flower|bông hoa mỏng manh|The orchid is a delicate flower.|Hoa lan là loài hoa mỏng manh.
+fragile|fragile glass|thủy tinh dễ vỡ|Be careful, the box has fragile glass inside.|Cẩn thận, trong hộp có thủy tinh dễ vỡ.
+bold|bold colors|màu đậm, nổi bật|She likes to wear bold colors.|Cô ấy thích mặc màu nổi bật.
+mysterious|mysterious letter|lá thư bí ẩn|I got a mysterious letter this morning.|Sáng nay tôi nhận được một lá thư bí ẩn.

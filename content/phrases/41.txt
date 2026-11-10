@@ -49,3 +49,53 @@ reunion|family reunion|đoàn tụ gia đình|Tet is a time for family reunion.|
 housing|housing prices|giá nhà|Housing prices are high in big cities.|Giá nhà ở thành phố lớn rất cao.
 nursery|nursery school|trường mầm non|My daughter goes to nursery school.|Con gái tôi đi học mầm non.
 nutrition|good nutrition|dinh dưỡng tốt|Children need good nutrition.|Trẻ em cần dinh dưỡng tốt.
+routine|morning routine|thói quen buổi sáng|Coffee is part of my morning routine.|Cà phê là một phần thói quen buổi sáng của tôi.
+chore|do chores|làm việc vặt|The kids do chores on Saturday.|Thứ Bảy bọn trẻ làm việc vặt trong nhà.
+housework|help with the housework|giúp làm việc nhà|The kids help with the housework on weekends.|Cuối tuần bọn trẻ giúp làm việc nhà.
+vacuum|vacuum the floor|hút bụi sàn nhà|I vacuum the floor twice a week.|Tôi hút bụi sàn nhà hai lần một tuần.
+mop|mop and bucket|cây lau nhà và xô|The mop and bucket are in the bathroom.|Cây lau nhà và xô ở trong nhà tắm.
+garbage|garbage bag|túi rác|We need a new garbage bag.|Chúng ta cần một cái túi rác mới.
+appointment|have an appointment|có hẹn|I have an appointment at ten.|Tôi có hẹn lúc mười giờ.
+errand|on an errand|đi làm việc vặt|She is out on an errand.|Cô ấy ra ngoài làm việc vặt rồi.
+grocery|grocery shopping|đi chợ mua thực phẩm|I do the grocery shopping on Sunday.|Chủ nhật tôi đi chợ mua thực phẩm.
+diary|keep a diary|viết nhật ký|I keep a diary in English.|Tôi viết nhật ký bằng tiếng Anh.
+journal|daily journal|nhật ký hằng ngày|She writes in her daily journal at night.|Buổi tối cô ấy viết nhật ký hằng ngày.
+mail|check the mail|kiểm tra thư|Did you check the mail today?|Hôm nay bạn kiểm tra thư chưa?
+delivery|home delivery|giao hàng tận nhà|The shop offers home delivery.|Cửa hàng có giao hàng tận nhà.
+babysitter|find a babysitter|tìm người trông trẻ|We need to find a babysitter for Friday.|Chúng tôi cần tìm người trông trẻ cho thứ Sáu.
+household|household income|thu nhập hộ gia đình|The average household income is rising.|Thu nhập trung bình của hộ gia đình đang tăng.
+lifestyle|busy lifestyle|lối sống bận rộn|Fast food fits a busy lifestyle.|Đồ ăn nhanh hợp với lối sống bận rộn.
+leisure|leisure activities|hoạt động giải trí|The town has many leisure activities.|Thị trấn có nhiều hoạt động giải trí.
+celebration|New Year celebration|lễ mừng năm mới|We watched the New Year celebration on TV.|Chúng tôi xem lễ mừng năm mới trên tivi.
+Christmas|Christmas tree|cây thông Noel|We put up a Christmas tree in December.|Tháng Mười hai chúng tôi dựng cây thông Noel.
+ceremony|opening ceremony|lễ khai mạc|The opening ceremony starts at eight.|Lễ khai mạc bắt đầu lúc tám giờ.
+funeral|funeral home|nhà tang lễ|The family met at the funeral home.|Gia đình gặp nhau ở nhà tang lễ.
+mask|wear a mask|đeo khẩu trang|I wear a mask on my motorbike.|Tôi đeo khẩu trang khi đi xe máy.
+pension|live on a pension|sống bằng lương hưu|My grandparents live on a pension.|Ông bà tôi sống bằng lương hưu.
+savings|life savings|tiền tiết kiệm cả đời|They spent their life savings on the house.|Họ dồn tiền tiết kiệm cả đời vào ngôi nhà.
+landlord|call the landlord|gọi chủ nhà|Call the landlord about the broken tap.|Gọi chủ nhà báo vòi nước bị hỏng đi.
+tenant|previous tenant|người thuê trước|The previous tenant left a sofa.|Người thuê trước để lại một cái ghế sofa.
+toddler|toddler bed|giường cho trẻ nhỏ|We bought a toddler bed for our son.|Chúng tôi mua giường trẻ nhỏ cho con trai.
+pregnant|get pregnant|có thai|She hopes to get pregnant next year.|Cô ấy hy vọng năm sau có thai.
+divorce|divorce rate|tỷ lệ ly hôn|The divorce rate is going up.|Tỷ lệ ly hôn đang tăng.
+engaged|engaged couple|cặp đôi đã đính hôn|The engaged couple will marry in June.|Cặp đôi đã đính hôn sẽ cưới vào tháng Sáu.
+honeymoon|honeymoon trip|chuyến đi trăng mật|Their honeymoon trip was to Phu Quoc.|Chuyến trăng mật của họ là đi Phú Quốc.
+bedtime|bedtime story|truyện kể trước khi ngủ|Dad reads a bedtime story every night.|Tối nào bố cũng đọc truyện trước khi ngủ.
+hometown|back to my hometown|về quê tôi|I go back to my hometown for Tet.|Tết tôi về quê.
+homesick|get homesick|thấy nhớ nhà|I get homesick when I travel alone.|Đi du lịch một mình tôi hay nhớ nhà.
+brunch|have brunch|ăn bữa sáng muộn|Let's have brunch on Saturday.|Thứ Bảy đi ăn bữa sáng muộn đi.
+leftovers|heat up the leftovers|hâm lại đồ ăn thừa|I'll heat up the leftovers for lunch.|Tôi sẽ hâm lại đồ ăn thừa cho bữa trưa.
+takeaway|order a takeaway|gọi đồ ăn mang đi|Let's order a takeaway tonight.|Tối nay gọi đồ ăn mang về đi.
+dishwasher|load the dishwasher|xếp bát vào máy rửa|Can you load the dishwasher?|Bạn xếp bát vào máy rửa giúp được không?
+plumber|need a plumber|cần thợ sửa ống nước|We need a plumber for the kitchen sink.|Chúng tôi cần thợ sửa ống nước cho bồn rửa bếp.
+electrician|call an electrician|gọi thợ điện|Call an electrician to fix the lights.|Gọi thợ điện đến sửa đèn đi.
+cigarette|cigarette smoke|khói thuốc lá|Cigarette smoke is bad for children.|Khói thuốc lá có hại cho trẻ em.
+alcohol|alcohol free|không cồn|This beer is alcohol free.|Bia này không cồn.
+commute|long commute|quãng đường đi làm xa|I have a long commute every day.|Ngày nào tôi cũng phải đi làm xa.
+overtime|overtime pay|tiền làm thêm giờ|We get overtime pay on Sundays.|Chủ nhật chúng tôi được trả tiền làm thêm giờ.
+weekday|weekday morning|buổi sáng ngày thường|The road is busy every weekday morning.|Sáng ngày thường nào đường cũng đông.
+daytime|daytime job|việc làm ban ngày|He has a daytime job and studies at night.|Anh ấy làm việc ban ngày và học buổi tối.
+reunion|class reunion|họp lớp|I'm going to my class reunion.|Tôi sắp đi họp lớp.
+housing|public housing|nhà ở xã hội|They live in public housing.|Họ sống trong nhà ở xã hội.
+nursery|nursery rhyme|bài đồng dao|She sang a nursery rhyme to the baby.|Cô ấy hát một bài đồng dao cho em bé.
+nutrition|nutrition facts|thông tin dinh dưỡng|Read the nutrition facts on the box.|Hãy đọc thông tin dinh dưỡng trên hộp.

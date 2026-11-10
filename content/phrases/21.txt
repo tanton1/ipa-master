@@ -69,3 +69,33 @@ lifetime|in my lifetime|trong đời tôi|I have never seen snow in my lifetime.
 dawn|at dawn|lúc rạng sáng|Fishermen leave at dawn.|Ngư dân ra khơi lúc rạng sáng.
 alarm|alarm clock|đồng hồ báo thức|My alarm clock rings at six.|Đồng hồ báo thức của tôi reo lúc sáu giờ.
 alarm|fire alarm|chuông báo cháy|The fire alarm went off.|Chuông báo cháy đã reo.
+decade|for decades|trong nhiều thập kỷ|They have lived here for decades.|Họ đã sống ở đây nhiều thập kỷ.
+autumn|in autumn|vào mùa thu|The leaves turn yellow in autumn.|Lá chuyển vàng vào mùa thu.
+noon|before noon|trước buổi trưa|Please come before noon.|Xin hãy đến trước buổi trưa.
+midnight|after midnight|sau nửa đêm|I got home after midnight.|Tôi về đến nhà sau nửa đêm.
+sunrise|at sunrise|lúc bình minh|The farmers get up at sunrise.|Nông dân dậy lúc bình minh.
+sunset|at sunset|lúc hoàng hôn|We walked on the beach at sunset.|Chúng tôi đi dạo trên bãi biển lúc hoàng hôn.
+daily|daily routine|thói quen hằng ngày|A morning walk is part of her daily routine.|Đi bộ buổi sáng là một phần thói quen hằng ngày của bà ấy.
+weekly|weekly report|báo cáo hằng tuần|I send a weekly report to my boss.|Tôi gửi báo cáo hằng tuần cho sếp.
+Tuesday|Tuesday morning|sáng thứ Ba|I have a class on Tuesday morning.|Tôi có lớp vào sáng thứ Ba.
+Wednesday|Wednesday night|tối thứ Tư|We play football on Wednesday night.|Chúng tôi đá bóng vào tối thứ Tư.
+Thursday|Thursday afternoon|chiều thứ Năm|The meeting is on Thursday afternoon.|Cuộc họp vào chiều thứ Năm.
+Saturday|Saturday morning|sáng thứ Bảy|I clean the house on Saturday morning.|Tôi dọn nhà vào sáng thứ Bảy.
+February|February is|tháng Hai thì|February is the shortest month.|Tháng Hai là tháng ngắn nhất.
+March|in March|vào tháng Ba|We moved to the new office in March.|Chúng tôi chuyển sang văn phòng mới vào tháng Ba.
+April|April Fools' Day|ngày Cá tháng Tư|Don't believe him. It's April Fools' Day.|Đừng tin anh ấy. Hôm nay là ngày Cá tháng Tư.
+June|June first|ngày mùng một tháng Sáu|Children's Day is on June first.|Ngày Thiếu nhi là mùng một tháng Sáu.
+July|in July|vào tháng Bảy|It's very hot in July.|Tháng Bảy trời rất nóng.
+August|in August|vào tháng Tám|School starts in August.|Trường bắt đầu học vào tháng Tám.
+September|September second|ngày mùng hai tháng Chín|September second is a holiday in Vietnam.|Mùng hai tháng Chín là ngày lễ ở Việt Nam.
+October|in October|vào tháng Mười|The rice harvest begins in October.|Vụ gặt lúa bắt đầu vào tháng Mười.
+November|in November|vào tháng Mười một|It gets cold here in November.|Ở đây tháng Mười một trời trở lạnh.
+December|December twenty-fifth|ngày hai mươi lăm tháng Mười hai|Christmas is on December twenty-fifth.|Giáng sinh vào ngày hai mươi lăm tháng Mười hai.
+tonight|tonight's dinner|bữa tối nay|What's for tonight's dinner?|Bữa tối nay có món gì?
+ago|two years ago|hai năm trước|I moved here two years ago.|Tôi chuyển đến đây hai năm trước.
+later|sooner or later|sớm hay muộn|Sooner or later he will call.|Sớm hay muộn anh ấy cũng sẽ gọi.
+forever|last forever|kéo dài mãi mãi|Nothing can last forever.|Không gì kéo dài mãi mãi.
+meanwhile|meanwhile, I|trong lúc đó tôi|You cook. Meanwhile, I will set the table.|Bạn nấu đi. Trong lúc đó tôi dọn bàn.
+monthly|monthly rent|tiền thuê nhà hằng tháng|The monthly rent is five million dong.|Tiền thuê nhà hằng tháng là năm triệu đồng.
+annual|annual meeting|cuộc họp thường niên|Everyone must attend the annual meeting.|Mọi người đều phải dự cuộc họp thường niên.
+dawn|before dawn|trước rạng sáng|We left the house before dawn.|Chúng tôi rời nhà trước rạng sáng.

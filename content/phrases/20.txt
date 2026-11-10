@@ -99,3 +99,4 @@ balance|work-life balance|cân bằng công việc và cuộc sống|A good job 
 balance|lose your balance|mất thăng bằng|Be careful not to lose your balance.|Cẩn thận kẻo mất thăng bằng.
 structure|sentence structure|cấu trúc câu|English sentence structure is not difficult.|Cấu trúc câu tiếng Anh không khó.
 structure|social structure|cấu trúc xã hội|Social structure changes over time.|Cấu trúc xã hội thay đổi theo thời gian.
+

@@ -49,3 +49,53 @@ spell|spell your name|đánh vần tên|Can you spell your name, please?|Bạn �
 tie|tie your shoes|buộc dây giày|Tie your shoes before you run.|Buộc dây giày trước khi chạy.
 wrap|wrap a gift|gói quà|Can you wrap a gift for me?|Bạn gói quà giúp tôi được không?
 burn|burn calories|đốt calo|Running helps you burn calories.|Chạy bộ giúp bạn đốt calo.
+break|break the rules|phá luật|If you break the rules, you will leave the game.|Nếu phá luật, bạn sẽ bị loại khỏi trò chơi.
+catch|catch a cold|bị cảm lạnh|I catch a cold every winter.|Mùa đông nào tôi cũng bị cảm lạnh.
+cross|cross your fingers|cầu may|Cross your fingers for me.|Cầu may cho tôi nhé.
+climb|climb the stairs|leo cầu thang|I climb the stairs to the fifth floor.|Tôi leo cầu thang lên tầng năm.
+drop|drop by|ghé qua|Drop by my office tomorrow.|Mai ghé qua văn phòng tôi nhé.
+feed|feed the baby|cho em bé ăn|It's time to feed the baby.|Đến giờ cho em bé ăn rồi.
+fight|fight for|đấu tranh vì|They fight for their rights.|Họ đấu tranh vì quyền lợi của mình.
+hide|hide behind|trốn sau|The kids hide behind the door.|Bọn trẻ trốn sau cánh cửa.
+hit|hit the road|lên đường|It's late. Let's hit the road.|Muộn rồi. Lên đường thôi.
+hang|hang up|cúp máy|Don't hang up, please.|Xin đừng cúp máy.
+join|join the team|gia nhập đội|He wants to join the team.|Anh ấy muốn gia nhập đội.
+jump|jump up and down|nhảy lên nhảy xuống|The kids jump up and down with joy.|Bọn trẻ nhảy cẫng lên vì vui.
+kick|kick off|bắt đầu|The game will kick off at seven.|Trận đấu sẽ bắt đầu lúc bảy giờ.
+knock|knock first|gõ cửa trước|Please knock first before you enter.|Xin hãy gõ cửa trước khi vào.
+lift|lift weights|tập tạ|I lift weights three times a week.|Tôi tập tạ ba lần một tuần.
+mix|mix together|trộn với nhau|Mix together the eggs and sugar.|Trộn trứng với đường.
+pick|pick a number|chọn một số|Pick a number from one to ten.|Chọn một số từ một đến mười.
+push|push the door|đẩy cửa|Push the door to open it.|Đẩy cửa để mở.
+reach|reach out|liên hệ, tìm đến|Reach out to me if you need help.|Cần giúp thì cứ liên hệ tôi.
+ring|give me a ring|gọi điện cho tôi|Give me a ring when you get home.|Về đến nhà thì gọi điện cho tôi.
+shake|shake your head|lắc đầu|Don't shake your head at me.|Đừng lắc đầu với tôi.
+shout|shout for help|hét lên cầu cứu|I heard someone shout for help.|Tôi nghe ai đó hét lên cầu cứu.
+shut|shut down|tắt máy|Shut down the computer before you leave.|Tắt máy tính trước khi về.
+steal|steal money|ăn trộm tiền|It is wrong to steal money.|Ăn trộm tiền là sai.
+throw|throw a party|tổ chức tiệc|Let's throw a party for her.|Tổ chức tiệc cho cô ấy đi.
+touch|don't touch|đừng chạm|Don't touch the hot plate.|Đừng chạm vào cái đĩa nóng.
+wave|wave at|vẫy tay với|The children wave at the train.|Bọn trẻ vẫy tay với đoàn tàu.
+wish|wish you luck|chúc bạn may mắn|I wish you luck with the interview.|Chúc bạn may mắn trong buổi phỏng vấn.
+wonder|no wonder|chẳng trách|No wonder you're tired.|Chẳng trách bạn mệt.
+borrow|borrow a book|mượn sách|Can I borrow a book from you?|Tôi mượn bạn một cuốn sách được không?
+lend|lend me|cho tôi mượn|Can you lend me a pen?|Bạn cho tôi mượn cái bút được không?
+let|let's go|đi thôi|Let's go to the park.|Đi công viên thôi.
+lie|tell a lie|nói dối|Never tell a lie to your friends.|Đừng bao giờ nói dối bạn bè.
+promise|make a promise|hứa|Don't make a promise you can't keep.|Đừng hứa điều bạn không giữ được.
+prefer|prefer to|thích ... hơn|I prefer to walk.|Tôi thích đi bộ hơn.
+hurry|hurry up|nhanh lên|Hurry up or we'll miss the train.|Nhanh lên kẻo lỡ tàu.
+swim|go for a swim|đi bơi|Let's go for a swim.|Đi bơi đi.
+marry|get married|kết hôn|They will get married in May.|Họ sẽ kết hôn vào tháng Năm.
+fix|fix the problem|khắc phục sự cố|We need to fix the problem today.|Chúng ta cần khắc phục sự cố hôm nay.
+fold|fold the paper|gấp tờ giấy|Fold the paper and put it in your bag.|Gấp tờ giấy lại rồi cho vào túi.
+pour|pour a drink|rót đồ uống|Let me pour a drink for you.|Để tôi rót đồ uống cho bạn.
+pack|pack a bag|xếp đồ vào túi|I need to pack a bag for the trip.|Tôi cần xếp đồ cho chuyến đi.
+press|press the button|nhấn nút|Press the button to start.|Nhấn nút để bắt đầu.
+roll|roll down|hạ xuống, lăn xuống|Roll down the window, please.|Hạ cửa kính xuống giúp tôi.
+rush|in a rush|đang vội|Sorry, I'm in a rush.|Xin lỗi, tôi đang vội.
+solve|solve a puzzle|giải câu đố|Can you solve a puzzle like this?|Bạn giải được câu đố thế này không?
+spell|spell it|đánh vần nó|Can you spell it for me?|Bạn đánh vần giúp tôi được không?
+tie|tie a knot|thắt nút|Can you tie a knot?|Bạn biết thắt nút không?
+wrap|wrap up|kết thúc; gói lại|Let's wrap up the meeting.|Kết thúc cuộc họp thôi.
+burn|burn the rice|làm cháy cơm|Be careful not to burn the rice.|Cẩn thận kẻo cháy cơm.

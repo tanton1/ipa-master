@@ -51,3 +51,51 @@ mass|mass media|truyền thông đại chúng|Mass media has a big influence.|Tr
 volume|turn up the volume|vặn to âm lượng|Turn up the volume, please.|Vặn to lên giúp với.
 steam|let off steam|xả hơi|I go running to let off steam.|Tôi chạy bộ để xả hơi.
 resource|natural resources|tài nguyên thiên nhiên|Vietnam has many natural resources.|Việt Nam có nhiều tài nguyên thiên nhiên.
+experiment|science experiment|thí nghiệm khoa học|The kids did a science experiment.|Bọn trẻ làm một thí nghiệm khoa học.
+theory|test a theory|kiểm chứng một lý thuyết|Scientists test a theory many times.|Các nhà khoa học kiểm chứng một lý thuyết nhiều lần.
+discovery|make a discovery|có một phát hiện|The team hopes to make a discovery soon.|Nhóm hy vọng sớm có một phát hiện.
+discover|discover a new|khám phá một ... mới|I love to discover a new cafe.|Tôi thích khám phá một quán cà phê mới.
+invent|invent a game|nghĩ ra một trò chơi|The kids invent a game every day.|Ngày nào bọn trẻ cũng nghĩ ra một trò chơi.
+invention|new invention|phát minh mới|The phone was a new invention in 1876.|Điện thoại là một phát minh mới vào năm 1876.
+power|power plant|nhà máy điện|There is a power plant near the river.|Có một nhà máy điện gần sông.
+electricity|electricity bill|hóa đơn tiền điện|Our electricity bill is high in summer.|Mùa hè hóa đơn tiền điện nhà tôi cao.
+gas|natural gas|khí tự nhiên|We cook with natural gas.|Chúng tôi nấu ăn bằng khí tự nhiên.
+coal|burn coal|đốt than|Some factories still burn coal.|Một số nhà máy vẫn đốt than.
+solar|solar energy|năng lượng mặt trời|Our school uses solar energy.|Trường chúng tôi dùng năng lượng mặt trời.
+nuclear|nuclear energy|năng lượng hạt nhân|France uses a lot of nuclear energy.|Pháp sử dụng nhiều năng lượng hạt nhân.
+chemical|chemical formula|công thức hóa học|What is the chemical formula for water?|Công thức hóa học của nước là gì?
+metal|made of metal|làm bằng kim loại|The gate is made of metal.|Cánh cổng làm bằng kim loại.
+gold|gold medal|huy chương vàng|She won a gold medal in swimming.|Cô ấy giành huy chương vàng môn bơi.
+silver|silver ring|nhẫn bạc|He wears a silver ring.|Anh ấy đeo một chiếc nhẫn bạc.
+iron|iron gate|cổng sắt|The house has a big iron gate.|Ngôi nhà có một cánh cổng sắt lớn.
+steel|steel bridge|cầu thép|Long Bien is an old steel bridge.|Long Biên là một cây cầu thép cổ.
+plastic|plastic bottle|chai nhựa|Don't throw the plastic bottle away.|Đừng vứt chai nhựa đi.
+material|raw material|nguyên liệu thô|Cotton is the raw material for this cloth.|Bông là nguyên liệu thô của loại vải này.
+planet|on this planet|trên hành tinh này|We all live on this planet.|Tất cả chúng ta sống trên hành tinh này.
+universe|in the universe|trong vũ trụ|There are billions of stars in the universe.|Có hàng tỷ ngôi sao trong vũ trụ.
+gravity|center of gravity|trọng tâm|A low center of gravity keeps the car stable.|Trọng tâm thấp giúp xe ổn định.
+atom|inside an atom|bên trong nguyên tử|There is a lot of empty space inside an atom.|Bên trong nguyên tử có rất nhiều khoảng trống.
+cell|blood cell|tế bào máu|A red blood cell carries oxygen.|Tế bào hồng cầu vận chuyển ô-xy.
+gene|gene test|xét nghiệm gen|The doctor ordered a gene test.|Bác sĩ cho làm xét nghiệm gen.
+species|species of|loài (gì)|There are many species of birds here.|Ở đây có nhiều loài chim.
+environment|protect the environment|bảo vệ môi trường|Recycling helps protect the environment.|Tái chế giúp bảo vệ môi trường.
+pollution|water pollution|ô nhiễm nước|Water pollution kills fish.|Ô nhiễm nước làm cá chết.
+pollute|pollute the air|làm ô nhiễm không khí|Cars pollute the air in big cities.|Xe cộ làm ô nhiễm không khí ở các thành phố lớn.
+recycle|recycle plastic|tái chế nhựa|We recycle plastic at home.|Ở nhà chúng tôi tái chế nhựa.
+global|global problem|vấn đề toàn cầu|Plastic waste is a global problem.|Rác thải nhựa là một vấn đề toàn cầu.
+carbon|carbon footprint|dấu chân các-bon|Cycling reduces your carbon footprint.|Đạp xe giúp giảm dấu chân các-bon của bạn.
+oxygen|oxygen tank|bình ô-xy|The diver checked his oxygen tank.|Thợ lặn kiểm tra bình ô-xy của mình.
+laboratory|laboratory test|xét nghiệm trong phòng thí nghiệm|We are waiting for the laboratory test results.|Chúng tôi đang chờ kết quả xét nghiệm.
+evidence|clear evidence|bằng chứng rõ ràng|There is clear evidence that exercise helps.|Có bằng chứng rõ ràng là tập thể dục có ích.
+method|payment method|phương thức thanh toán|Choose a payment method.|Hãy chọn phương thức thanh toán.
+process|in the process of|đang trong quá trình|We are in the process of moving.|Chúng tôi đang trong quá trình chuyển nhà.
+sample|blood sample|mẫu máu|The nurse took a blood sample.|Y tá lấy mẫu máu.
+substance|sticky substance|chất dính|There is a sticky substance on the table.|Có một chất dính trên bàn.
+motion|in motion|đang chuyển động|Don't open the door while the bus is in motion.|Đừng mở cửa khi xe buýt đang chạy.
+liquid|liquid form|dạng lỏng|The medicine comes in liquid form.|Thuốc này có dạng lỏng.
+solid|solid wood|gỗ nguyên khối|The table is made of solid wood.|Cái bàn làm bằng gỗ nguyên khối.
+surface|flat surface|bề mặt phẳng|Put the phone on a flat surface.|Đặt điện thoại lên một bề mặt phẳng.
+mass|a mass of|một khối, một đám|A mass of people waited outside.|Một đám đông người chờ bên ngoài.
+volume|volume of|lượng, thể tích của|The volume of traffic is high today.|Hôm nay lượng xe cộ rất lớn.
+steam|steam rice|hấp cơm, đồ xôi|We steam rice for breakfast.|Chúng tôi đồ xôi cho bữa sáng.
+resource|human resources|nhân sự|She works in human resources.|Cô ấy làm ở phòng nhân sự.

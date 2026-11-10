@@ -49,3 +49,53 @@ rehearsal|dress rehearsal|buổi tổng duyệt|The dress rehearsal is on Friday
 applause|round of applause|tràng pháo tay|Let's give them a round of applause.|Hãy dành cho họ một tràng pháo tay.
 celebrity|famous celebrity|người nổi tiếng|A famous celebrity came to our school.|Một người nổi tiếng đến thăm trường tôi.
 idol|teen idol|thần tượng tuổi teen|He was a teen idol in the 2000s.|Anh ấy từng là thần tượng tuổi teen những năm 2000.
+exhibition|photo exhibition|triển lãm ảnh|We went to a photo exhibition.|Chúng tôi đi xem một triển lãm ảnh.
+sculpture|wooden sculpture|tượng gỗ|He made a wooden sculpture of a horse.|Anh ấy làm một bức tượng gỗ hình con ngựa.
+portrait|paint a portrait|vẽ chân dung|The artist will paint a portrait of my mother.|Họa sĩ sẽ vẽ chân dung mẹ tôi.
+photograph|take a photograph|chụp một bức ảnh|May I take a photograph of you?|Tôi chụp bạn một bức ảnh được không?
+architecture|modern architecture|kiến trúc hiện đại|The city is famous for its modern architecture.|Thành phố nổi tiếng với kiến trúc hiện đại.
+drama|TV drama|phim truyền hình|My mom watches a TV drama every night.|Tối nào mẹ tôi cũng xem phim truyền hình.
+opera|opera singer|ca sĩ ô-pê-ra|She trained as an opera singer.|Cô ấy được đào tạo làm ca sĩ ô-pê-ra.
+ballet|ballet class|lớp múa ba-lê|My daughter goes to ballet class.|Con gái tôi đi học múa ba-lê.
+script|read the script|đọc kịch bản|The actors read the script together.|Các diễn viên cùng đọc kịch bản.
+plot|plot twist|cú xoay chuyển cốt truyện|I didn't expect that plot twist.|Tôi không ngờ có cú xoay chuyển cốt truyện đó.
+villain|play the villain|đóng vai phản diện|He always gets to play the villain.|Anh ấy lúc nào cũng được đóng vai phản diện.
+comedy|comedy show|chương trình hài|We laughed a lot at the comedy show.|Chúng tôi cười rất nhiều ở chương trình hài.
+tragedy|family tragedy|bi kịch gia đình|The book is about a family tragedy.|Cuốn sách kể về một bi kịch gia đình.
+horror|horror movie|phim kinh dị|I can't watch a horror movie alone.|Tôi không thể xem phim kinh dị một mình.
+romance|romance novel|tiểu thuyết lãng mạn|She reads a romance novel every week.|Tuần nào cô ấy cũng đọc một cuốn tiểu thuyết lãng mạn.
+documentary|watch a documentary|xem phim tài liệu|We watch a documentary on Sunday night.|Tối Chủ nhật chúng tôi xem phim tài liệu.
+animation|animation studio|xưởng phim hoạt hình|He works at an animation studio.|Anh ấy làm ở một xưởng phim hoạt hình.
+episode|the last episode|tập cuối|I cried during the last episode.|Tôi đã khóc khi xem tập cuối.
+author|the author of|tác giả của|She is the author of three novels.|Bà ấy là tác giả của ba cuốn tiểu thuyết.
+poet|famous poet|nhà thơ nổi tiếng|Nguyen Du is a famous poet.|Nguyễn Du là một nhà thơ nổi tiếng.
+fiction|fiction book|sách hư cấu|I prefer a fiction book on holiday.|Đi nghỉ tôi thích đọc sách hư cấu hơn.
+legend|living legend|huyền thoại sống|That singer is a living legend.|Ca sĩ đó là một huyền thoại sống.
+myth|common myth|quan niệm sai lầm phổ biến|It is a common myth that carrots help you see in the dark.|Cà rốt giúp nhìn trong bóng tối là một quan niệm sai lầm phổ biến.
+folk|folk music|nhạc dân gian|My grandparents love folk music.|Ông bà tôi yêu nhạc dân gian.
+classical|classical guitar|ghi-ta cổ điển|He plays classical guitar.|Anh ấy chơi ghi-ta cổ điển.
+jazz|jazz band|ban nhạc jazz|A jazz band plays here every Friday.|Thứ Sáu nào cũng có một ban nhạc jazz chơi ở đây.
+pop|pop star|ngôi sao nhạc pop|She dreams of being a pop star.|Cô ấy mơ trở thành ngôi sao nhạc pop.
+rap|rap music|nhạc rap|My brother listens to rap music.|Em trai tôi nghe nhạc rap.
+lyrics|know the lyrics|thuộc lời bài hát|I don't know the lyrics to this song.|Tôi không thuộc lời bài hát này.
+melody|simple melody|giai điệu đơn giản|The song has a simple melody.|Bài hát có giai điệu đơn giản.
+rhythm|rhythm of|nhịp điệu của|Listen to the rhythm of the sentence.|Hãy lắng nghe nhịp điệu của câu.
+tune|catchy tune|giai điệu dễ nhớ|That song has a catchy tune.|Bài hát đó có giai điệu dễ nhớ.
+choir|sing in a choir|hát trong dàn hợp xướng|I sing in a choir at church.|Tôi hát trong dàn hợp xướng ở nhà thờ.
+orchestra|play in an orchestra|chơi trong dàn nhạc|She hopes to play in an orchestra.|Cô ấy hy vọng được chơi trong một dàn nhạc.
+flute|bamboo flute|sáo trúc|He plays the bamboo flute.|Anh ấy thổi sáo trúc.
+trumpet|trumpet player|người chơi kèn trumpet|The trumpet player stood up for his solo.|Người chơi kèn trumpet đứng lên chơi đoạn độc tấu.
+heritage|world heritage|di sản thế giới|Ha Long Bay is on the world heritage list.|Vịnh Hạ Long nằm trong danh sách di sản thế giới.
+costume|Halloween costume|trang phục Halloween|What is your Halloween costume this year?|Năm nay trang phục Halloween của bạn là gì?
+craft|arts and crafts|thủ công mỹ nghệ|The kids do arts and crafts on Fridays.|Thứ Sáu bọn trẻ làm thủ công mỹ nghệ.
+pottery|pottery village|làng gốm|Bat Trang is a famous pottery village.|Bát Tràng là một làng gốm nổi tiếng.
+masterpiece|masterpiece of|kiệt tác của|The bridge is a masterpiece of design.|Cây cầu là một kiệt tác thiết kế.
+artwork|children's artwork|tranh vẽ của trẻ em|The walls are covered with children's artwork.|Các bức tường phủ đầy tranh vẽ của trẻ em.
+sketch|pencil sketch|bức phác thảo bút chì|He drew a pencil sketch of the house.|Anh ấy vẽ một bức phác thảo ngôi nhà bằng bút chì.
+canvas|canvas bag|túi vải bạt|I carry a canvas bag to the market.|Tôi mang túi vải bạt đi chợ.
+chorus|join in the chorus|cùng hát điệp khúc|Everyone can join in the chorus.|Mọi người có thể cùng hát điệp khúc.
+audition|audition for|thử vai cho|She will audition for the school play.|Cô ấy sẽ thử vai cho vở kịch của trường.
+rehearsal|band rehearsal|buổi tập của ban nhạc|We have band rehearsal tonight.|Tối nay chúng tôi có buổi tập của ban nhạc.
+applause|loud applause|tràng pháo tay lớn|There was loud applause at the end.|Cuối buổi có một tràng pháo tay lớn.
+celebrity|celebrity chef|đầu bếp nổi tiếng|A celebrity chef opened a restaurant here.|Một đầu bếp nổi tiếng mở nhà hàng ở đây.
+idol|pop idol|thần tượng nhạc pop|He was a pop idol in the nineties.|Anh ấy là thần tượng nhạc pop những năm chín mươi.

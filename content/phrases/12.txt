@@ -49,3 +49,53 @@ nothing|nothing special|không có gì đặc biệt|I did nothing special this 
 nobody|nobody knows|không ai biết|Nobody knows the answer.|Không ai biết câu trả lời.
 myself|by myself|một mình tôi, tự tôi|I can do it by myself.|Tôi có thể tự làm.
 whose|whose turn|lượt của ai|Whose turn is it?|Đến lượt ai rồi?
+above|above all|trên hết|Above all, be honest.|Trên hết, hãy trung thực.
+below|see below|xem bên dưới|See below for more details.|Xem thêm chi tiết bên dưới.
+under|under control|trong tầm kiểm soát|The fire is now under control.|Đám cháy giờ đã được kiểm soát.
+over|all over|khắp nơi|There are toys all over the floor.|Đồ chơi vương vãi khắp sàn.
+between|in between|ở giữa|My house is in between the two shops.|Nhà tôi nằm giữa hai cửa hàng.
+among|among them|trong số họ|There is a doctor among them.|Trong số họ có một bác sĩ.
+behind|fall behind|bị tụt lại phía sau|Don't fall behind with your homework.|Đừng để bị chậm bài tập về nhà.
+beside|beside me|bên cạnh tôi|Come and sit beside me.|Lại ngồi cạnh tôi đi.
+inside|go inside|đi vào trong|It's cold. Let's go inside.|Trời lạnh. Vào trong đi.
+outside|play outside|chơi ngoài trời|The kids play outside after school.|Bọn trẻ chơi ngoài trời sau giờ học.
+across|walk across|đi bộ băng qua|We walk across the bridge every day.|Ngày nào chúng tôi cũng đi bộ qua cầu.
+along|get along|hòa thuận|I get along with my roommate.|Tôi hòa thuận với bạn cùng phòng.
+around|look around|nhìn quanh|Let's look around the market.|Đi xem quanh chợ đi.
+against|against the law|trái pháp luật|It's against the law to park here.|Đỗ xe ở đây là trái pháp luật.
+during|during the week|trong tuần|I'm busy during the week.|Trong tuần tôi bận.
+without|without a doubt|không còn nghi ngờ gì|She is, without a doubt, the best.|Cô ấy giỏi nhất, không còn nghi ngờ gì.
+within|within walking distance|trong khoảng đi bộ được|The school is within walking distance.|Trường ở khoảng cách đi bộ được.
+into|get into|vào, lên (xe)|Get into the car, please.|Mời lên xe.
+toward|walk toward|đi về phía|He began to walk toward the door.|Anh ấy bắt đầu đi về phía cửa.
+past|walk past|đi ngang qua|I walk past the bank every day.|Ngày nào tôi cũng đi ngang qua ngân hàng.
+since|ever since|kể từ đó|We met in 2020 and have been friends ever since.|Chúng tôi gặp nhau năm 2020 và là bạn kể từ đó.
+except|except for|ngoại trừ|Everyone came except for Tom.|Mọi người đều đến, trừ Tom.
+beyond|beyond the river|bên kia sông|The village lies beyond the river.|Ngôi làng nằm bên kia sông.
+each|each time|mỗi lần|Each time I call, he's busy.|Lần nào tôi gọi anh ấy cũng bận.
+every|every time|mọi lần|He smiles every time he sees me.|Lần nào gặp tôi anh ấy cũng cười.
+both|both sides|cả hai bên|Look at both sides of the road.|Hãy nhìn cả hai bên đường.
+either|either one|cái nào cũng được|You can take either one.|Bạn lấy cái nào cũng được.
+neither|me neither|tôi cũng không|I don't like it. Me neither.|Tôi không thích nó. Tôi cũng không.
+few|a few days|vài ngày|I'll be back in a few days.|Vài ngày nữa tôi sẽ quay lại.
+many|so many|quá nhiều|There are so many people here.|Ở đây có quá nhiều người.
+much|too much|quá nhiều|I ate too much.|Tôi ăn quá nhiều.
+more|one more time|thêm một lần nữa|Say it one more time, please.|Xin nói lại thêm một lần nữa.
+most|most people|hầu hết mọi người|Most people here speak two languages.|Hầu hết mọi người ở đây nói hai thứ tiếng.
+less|less than|ít hơn|It costs less than ten dollars.|Nó có giá dưới mười đô la.
+several|several people|vài người|Several people are waiting outside.|Vài người đang đợi bên ngoài.
+any|any time|bất cứ lúc nào|You can call me any time.|Bạn có thể gọi tôi bất cứ lúc nào.
+none|none of us|không ai trong chúng tôi|None of us knew the answer.|Không ai trong chúng tôi biết câu trả lời.
+another|another day|một ngày khác|Let's do it another day.|Để hôm khác làm đi.
+other|each other|lẫn nhau|We help each other.|Chúng tôi giúp đỡ lẫn nhau.
+such|such as|chẳng hạn như|I like fruit such as mangoes and bananas.|Tôi thích trái cây như xoài và chuối.
+own|on my own|tự mình|I live on my own.|Tôi sống một mình.
+everyone|everyone else|mọi người khác|Everyone else is ready.|Mọi người khác đã sẵn sàng.
+everything|everything else|mọi thứ khác|I'll do everything else.|Tôi sẽ làm mọi thứ còn lại.
+someone|someone else|người khác|Ask someone else, please.|Xin hãy hỏi người khác.
+something|something else|thứ khác|Do you want something else?|Bạn có muốn thứ khác không?
+anything|anything you want|bất cứ thứ gì bạn muốn|Order anything you want.|Gọi bất cứ món gì bạn muốn.
+nothing|nothing to do|không có gì để làm|There is nothing to do here.|Ở đây không có gì để làm.
+nobody|nobody else|không ai khác|Nobody else was in the room.|Không ai khác ở trong phòng.
+myself|enjoy myself|vui vẻ, tận hưởng|I always enjoy myself at the beach.|Ra biển tôi lúc nào cũng vui.
+whose|whose bag|túi của ai|Whose bag is this?|Túi này của ai?

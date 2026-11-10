@@ -49,3 +49,53 @@ sofa|sofa bed|ghế sofa giường|You can sleep on the sofa bed.|Bạn có th�
 pillow|soft pillow|gối mềm|I like a soft pillow.|Tôi thích gối mềm.
 blanket|warm blanket|chăn ấm|I need a warm blanket.|Tôi cần một cái chăn ấm.
 basket|shopping basket|giỏ mua hàng|Take a shopping basket.|Lấy một cái giỏ mua hàng.
+house|clean the house|dọn nhà|We clean the house on Saturday.|Chúng tôi dọn nhà vào thứ Bảy.
+home|go home|về nhà|It's late. Let's go home.|Muộn rồi. Về nhà thôi.
+room|dining room|phòng ăn|We eat in the dining room.|Chúng tôi ăn ở phòng ăn.
+door|front door|cửa trước|Someone is at the front door.|Có ai đó ở cửa trước.
+window|by the window|cạnh cửa sổ|I like to sit by the window.|Tôi thích ngồi cạnh cửa sổ.
+wall|brick wall|tường gạch|The house has a brick wall.|Ngôi nhà có tường gạch.
+floor|second floor|tầng hai|My room is on the second floor.|Phòng tôi ở tầng hai.
+table|set the table|dọn bàn ăn|Can you set the table?|Bạn dọn bàn ăn giúp được không?
+chair|comfortable chair|ghế êm|This is a very comfortable chair.|Cái ghế này rất êm.
+bed|go to bed|đi ngủ|It's time to go to bed.|Đến giờ đi ngủ rồi.
+kitchen|in the kitchen|trong bếp|Mom is cooking in the kitchen.|Mẹ đang nấu ăn trong bếp.
+bathroom|use the bathroom|dùng nhà vệ sinh|May I use the bathroom?|Tôi dùng nhà vệ sinh được không?
+light|turn off the light|tắt đèn|Please turn off the light.|Làm ơn tắt đèn.
+key|house key|chìa khóa nhà|I lost my house key.|Tôi làm mất chìa khóa nhà.
+book|read a book|đọc sách|I want to read a book tonight.|Tối nay tôi muốn đọc sách.
+pen|pen and paper|giấy bút|Do you have a pen and paper?|Bạn có giấy bút không?
+paper|a piece of paper|một tờ giấy|Give me a piece of paper.|Đưa tôi một tờ giấy.
+bag|plastic bag|túi ni lông|I don't need a plastic bag.|Tôi không cần túi ni lông.
+box|a box of|một hộp|I bought a box of chocolates.|Tôi mua một hộp sô-cô-la.
+clock|alarm clock|đồng hồ báo thức|I set my alarm clock for five.|Tôi đặt đồng hồ báo thức lúc năm giờ.
+picture|draw a picture|vẽ một bức tranh|The kids draw a picture of their house.|Bọn trẻ vẽ một bức tranh về ngôi nhà của mình.
+television|watch television|xem tivi|We watch television after dinner.|Chúng tôi xem tivi sau bữa tối.
+computer|computer screen|màn hình máy tính|Don't sit too close to the computer screen.|Đừng ngồi quá gần màn hình máy tính.
+phone|answer the phone|nghe điện thoại|Nobody will answer the phone after six.|Sau sáu giờ không ai nghe điện thoại đâu.
+water|drinking water|nước uống|Is this drinking water?|Đây có phải nước uống không?
+cup|paper cup|cốc giấy|I'd like tea in a paper cup.|Cho tôi trà trong cốc giấy.
+glass|a glass of|một ly|I drink a glass of milk every morning.|Sáng nào tôi cũng uống một ly sữa.
+plate|clean plate|đĩa sạch|Can I have a clean plate?|Cho tôi xin cái đĩa sạch.
+bottle|a bottle of|một chai|I'd like a bottle of water.|Cho tôi một chai nước.
+knife|sharp knife|dao sắc|You need a sharp knife to cut meat.|Bạn cần dao sắc để cắt thịt.
+spoon|wooden spoon|thìa gỗ|Stir the soup with a wooden spoon.|Khuấy canh bằng thìa gỗ.
+fork|fork and spoon|nĩa và thìa|We eat with a fork and spoon.|Chúng tôi ăn bằng nĩa và thìa.
+clothes|new clothes|quần áo mới|I bought new clothes for Tet.|Tôi mua quần áo mới đón Tết.
+shirt|wear a shirt|mặc áo sơ mi|I wear a shirt to work.|Tôi mặc áo sơ mi đi làm.
+shoes|take off your shoes|cởi giày|Please take off your shoes.|Xin hãy cởi giày ra.
+money|save money|tiết kiệm tiền|I'm trying to save money.|Tôi đang cố tiết kiệm tiền.
+card|credit card|thẻ tín dụng|I lost my credit card yesterday.|Hôm qua tôi làm mất thẻ tín dụng.
+gift|birthday gift|quà sinh nhật|This is a birthday gift for my mom.|Đây là quà sinh nhật cho mẹ tôi.
+toy|toy store|cửa hàng đồ chơi|The kids love the toy store.|Bọn trẻ mê cửa hàng đồ chơi.
+mirror|bathroom mirror|gương phòng tắm|The bathroom mirror is dirty.|Gương phòng tắm bị bẩn.
+towel|clean towel|khăn sạch|Here is a clean towel.|Khăn sạch đây.
+soap|bar of soap|bánh xà phòng|We need a new bar of soap.|Chúng ta cần một bánh xà phòng mới.
+garden|in the garden|ngoài vườn|Dad is working in the garden.|Bố đang làm ngoài vườn.
+roof|leaking roof|mái nhà bị dột|We need to fix the leaking roof.|Chúng tôi cần sửa mái nhà bị dột.
+stairs|take the stairs|đi cầu thang bộ|Let's take the stairs.|Đi cầu thang bộ đi.
+lamp|turn on the lamp|bật đèn|Turn on the lamp, please.|Bật đèn giúp tôi.
+sofa|on the sofa|trên ghế sofa|The cat sleeps on the sofa.|Con mèo ngủ trên ghế sofa.
+pillow|pillow case|vỏ gối|I need a clean pillow case.|Tôi cần một cái vỏ gối sạch.
+blanket|under the blanket|dưới chăn|The cat is under the blanket.|Con mèo ở dưới chăn.
+basket|laundry basket|giỏ đồ giặt|Put your dirty clothes in the laundry basket.|Bỏ quần áo bẩn vào giỏ đồ giặt.

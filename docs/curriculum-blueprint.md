@@ -8,7 +8,7 @@
 | --- | --- |
 | words | 3000 |
 | stages | 3 |
-| common_phrases | 3203 |
+| common_phrases | 6000 |
 | chapters | 60 |
 | units | 300 |
 | phonemes | 40 |

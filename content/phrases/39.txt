@@ -50,3 +50,52 @@ blog|travel blog|blog du lịch|I write a travel blog.|Tôi viết blog du lịc
 podcast|listen to a podcast|nghe podcast|I listen to a podcast on the bus.|Tôi nghe podcast trên xe buýt.
 subscribe|subscribe to|đăng ký theo dõi|Please subscribe to our channel.|Hãy đăng ký kênh của chúng tôi.
 nickname|cute nickname|biệt danh dễ thương|Her cute nickname is "Bong".|Biệt danh dễ thương của cô ấy là "Bông".
+conversation|phone conversation|cuộc nói chuyện điện thoại|We had a long phone conversation.|Chúng tôi nói chuyện điện thoại rất lâu.
+discussion|class discussion|buổi thảo luận trên lớp|Everyone joined the class discussion.|Mọi người đều tham gia buổi thảo luận trên lớp.
+speech|freedom of speech|tự do ngôn luận|We learned about freedom of speech at school.|Chúng tôi học về tự do ngôn luận ở trường.
+chat|chat group|nhóm trò chuyện|I sent the photo to our chat group.|Tôi gửi bức ảnh vào nhóm trò chuyện của chúng tôi.
+sound|the sound of|âm thanh của|The sound of the sea helps me sleep.|Tiếng sóng biển giúp tôi dễ ngủ.
+noise|background noise|tiếng ồn xung quanh|There is too much background noise.|Tiếng ồn xung quanh nhiều quá.
+newspaper|local newspaper|báo địa phương|The story was in the local newspaper.|Câu chuyện được đăng trên báo địa phương.
+radio|listen to the radio|nghe đài|My grandpa likes to listen to the radio.|Ông tôi thích nghe đài.
+channel|change the channel|chuyển kênh|Can you change the channel?|Bạn chuyển kênh được không?
+program|training program|chương trình đào tạo|I joined a training program at work.|Tôi tham gia một chương trình đào tạo ở chỗ làm.
+advertisement|TV advertisement|quảng cáo trên tivi|I saw a TV advertisement for that phone.|Tôi thấy quảng cáo trên tivi về chiếc điện thoại đó.
+poster|put up a poster|dán áp phích|We put up a poster for the school show.|Chúng tôi dán áp phích cho buổi diễn của trường.
+article|read an article|đọc một bài báo|I read an article about healthy food.|Tôi đọc một bài báo về đồ ăn lành mạnh.
+media|news media|báo chí truyền thông|The news media reported the story.|Báo chí truyền thông đã đưa tin về chuyện đó.
+network|phone network|mạng điện thoại|The phone network is down.|Mạng điện thoại đang bị mất.
+post|share a post|chia sẻ bài đăng|Please share a post about our event.|Hãy chia sẻ một bài đăng về sự kiện của chúng tôi.
+comment|no comment|miễn bình luận|I have no comment on that.|Tôi miễn bình luận về chuyện đó.
+opinion|give your opinion|nêu ý kiến của bạn|Please give your opinion.|Xin hãy nêu ý kiến của bạn.
+advice|ask for advice|xin lời khuyên|I often ask for advice from my mom.|Tôi hay xin lời khuyên từ mẹ.
+information|information desk|quầy thông tin|Ask at the information desk.|Hãy hỏi ở quầy thông tin.
+communication|lack of communication|thiếu trao đổi|The problem was a lack of communication.|Vấn đề là do thiếu trao đổi.
+greeting|friendly greeting|lời chào thân thiện|She gave me a friendly greeting.|Cô ấy chào tôi rất thân thiện.
+invitation|accept an invitation|nhận lời mời|I was happy to accept an invitation to dinner.|Tôi vui vẻ nhận lời mời ăn tối.
+apology|letter of apology|thư xin lỗi|The company sent a letter of apology.|Công ty đã gửi thư xin lỗi.
+explanation|simple explanation|lời giải thích đơn giản|There is a simple explanation for this.|Chuyện này có lời giải thích đơn giản.
+description|detailed description|mô tả chi tiết|Give the police a detailed description.|Hãy mô tả chi tiết cho cảnh sát.
+request|make a request|đưa ra yêu cầu|Can I make a request?|Tôi đưa ra một yêu cầu được không?
+argument|win an argument|thắng cuộc tranh cãi|You can't win an argument with her.|Bạn không thể cãi thắng cô ấy đâu.
+agreement|sign an agreement|ký thỏa thuận|Both sides will sign an agreement.|Hai bên sẽ ký thỏa thuận.
+secret|keep a secret|giữ bí mật|My sister can't keep a secret.|Chị tôi không giữ được bí mật.
+rumor|hear a rumor|nghe tin đồn|Did you hear a rumor about the boss?|Bạn có nghe tin đồn về sếp không?
+gossip|office gossip|chuyện phiếm công sở|I don't listen to office gossip.|Tôi không nghe chuyện phiếm công sở.
+signal|traffic signal|đèn tín hiệu giao thông|Stop at the traffic signal.|Dừng lại ở đèn tín hiệu giao thông.
+contact|contact lenses|kính áp tròng|I wear contact lenses.|Tôi đeo kính áp tròng.
+attention|get attention|thu hút sự chú ý|The baby cries to get attention.|Em bé khóc để được chú ý.
+announce|announce the news|thông báo tin|They will announce the news tomorrow.|Mai họ sẽ thông báo tin đó.
+inform|inform you|thông báo cho bạn|We will inform you by email.|Chúng tôi sẽ thông báo cho bạn qua email.
+express|express my feelings|bày tỏ cảm xúc của tôi|It's hard to express my feelings.|Thật khó để bày tỏ cảm xúc của tôi.
+communicate|communicate clearly|giao tiếp rõ ràng|A good leader can communicate clearly.|Một người lãnh đạo giỏi biết giao tiếp rõ ràng.
+whisper|whisper in my ear|thì thầm vào tai tôi|Come and whisper in my ear.|Lại đây thì thầm vào tai tôi.
+statement|bank statement|sao kê ngân hàng|I need a copy of my bank statement.|Tôi cần một bản sao kê ngân hàng.
+headline|news headline|tiêu đề tin tức|Did you see the news headline today?|Bạn thấy tiêu đề tin tức hôm nay chưa?
+broadcast|news broadcast|bản tin phát sóng|I watch the news broadcast at seven.|Tôi xem bản tin phát sóng lúc bảy giờ.
+audience|in the audience|trong hàng khán giả|My parents were in the audience.|Bố mẹ tôi ngồi trong hàng khán giả.
+reporter|TV reporter|phóng viên truyền hình|A TV reporter talked to the farmers.|Một phóng viên truyền hình đã nói chuyện với các nông dân.
+blog|write a blog|viết blog|I write a blog about food.|Tôi viết blog về ẩm thực.
+podcast|podcast episode|tập podcast|I listened to a new podcast episode.|Tôi đã nghe một tập podcast mới.
+subscribe|subscribe to my channel|đăng ký kênh của tôi|Please subscribe to my channel.|Hãy đăng ký kênh của tôi nhé.
+nickname|childhood nickname|biệt danh hồi nhỏ|My childhood nickname was Bean.|Biệt danh hồi nhỏ của tôi là Đậu.

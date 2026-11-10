@@ -49,3 +49,53 @@ wild|wild animals|động vật hoang dã|Many wild animals live in this forest.
 wonderful|wonderful time|khoảng thời gian tuyệt vời|We had a wonderful time in Hoi An.|Chúng tôi đã có khoảng thời gian tuyệt vời ở Hội An.
 clear|clear sky|bầu trời quang đãng|There is a clear sky tonight.|Tối nay trời quang đãng.
 useful|useful information|thông tin hữu ích|Thank you for the useful information.|Cảm ơn vì thông tin hữu ích.
+able|able to swim|biết bơi|She is able to swim very well.|Cô ấy bơi rất giỏi.
+alone|leave me alone|để tôi yên|Please leave me alone.|Làm ơn để tôi yên.
+awake|stay awake|thức, không ngủ|I can't stay awake in this class.|Tôi không thể tỉnh táo trong lớp này.
+asleep|fall asleep|ngủ thiếp đi|I fall asleep quickly at night.|Buổi tối tôi ngủ rất nhanh.
+safe|safe and sound|bình an vô sự|They got home safe and sound.|Họ về đến nhà bình an vô sự.
+dangerous|dangerous job|công việc nguy hiểm|Fishing at sea is a dangerous job.|Đánh cá ngoài biển là công việc nguy hiểm.
+careful|careful driver|người lái xe cẩn thận|My father is a careful driver.|Bố tôi là người lái xe cẩn thận.
+clever|clever student|học sinh thông minh|She is a clever student.|Cô ấy là một học sinh thông minh.
+crazy|drive me crazy|làm tôi phát điên|This noise will drive me crazy.|Tiếng ồn này làm tôi phát điên mất.
+deep|deep water|nước sâu|Don't swim in deep water.|Đừng bơi ở chỗ nước sâu.
+dry|dry clothes|quần áo khô|Put on some dry clothes.|Mặc quần áo khô vào đi.
+wet|get wet|bị ướt|Take an umbrella or you'll get wet.|Mang ô đi kẻo bị ướt.
+fat|low fat|ít béo|I buy low fat milk.|Tôi mua sữa ít béo.
+fine|I'm fine|tôi khỏe|I'm fine, thank you.|Tôi khỏe, cảm ơn bạn.
+quick|quick look|xem nhanh|Take a quick look at this.|Xem nhanh cái này đi.
+fresh|fresh fish|cá tươi|We bought fresh fish at the market.|Chúng tôi mua cá tươi ở chợ.
+glad|glad to see|vui khi gặp|I'm glad to see you again.|Tôi vui vì gặp lại bạn.
+great|great job|làm tốt lắm|Great job on your test!|Bài kiểm tra bạn làm tốt lắm!
+high|high price|giá cao|That is a high price for a shirt.|Giá đó là cao cho một cái áo.
+low|low battery|pin yếu|My phone has a low battery.|Điện thoại tôi sắp hết pin.
+huge|huge difference|khác biệt rất lớn|Sleep makes a huge difference.|Giấc ngủ tạo ra khác biệt rất lớn.
+tiny|tiny house|ngôi nhà nhỏ xíu|They live in a tiny house.|Họ sống trong một ngôi nhà nhỏ xíu.
+large|large family|gia đình đông người|He comes from a large family.|Anh ấy xuất thân từ một gia đình đông người.
+little|a little bit|một chút|I speak a little bit of English.|Tôi nói được một chút tiếng Anh.
+lucky|lucky day|ngày may mắn|Today is my lucky day.|Hôm nay là ngày may mắn của tôi.
+main|main reason|lý do chính|That is the main reason I came.|Đó là lý do chính tôi đến.
+modern|modern life|cuộc sống hiện đại|Modern life is very busy.|Cuộc sống hiện đại rất bận rộn.
+natural|natural light|ánh sáng tự nhiên|This room has a lot of natural light.|Phòng này có nhiều ánh sáng tự nhiên.
+normal|normal day|ngày bình thường|It was just a normal day at work.|Đó chỉ là một ngày bình thường ở chỗ làm.
+perfect|perfect score|điểm tuyệt đối|She got a perfect score.|Cô ấy đạt điểm tuyệt đối.
+popular|popular with|được ai ưa chuộng|This game is popular with kids.|Trò chơi này được trẻ em ưa chuộng.
+possible|as soon as possible|sớm nhất có thể|Call me as soon as possible.|Gọi cho tôi sớm nhất có thể.
+pretty|pretty girl|cô gái xinh xắn|Who is that pretty girl?|Cô gái xinh xắn kia là ai?
+proud|so proud|rất tự hào|Your parents must be so proud.|Bố mẹ bạn hẳn rất tự hào.
+ready|ready to go|sẵn sàng đi|Are you ready to go?|Bạn sẵn sàng đi chưa?
+real|real life|đời thực|It's harder in real life.|Ngoài đời thực thì khó hơn.
+round|round face|mặt tròn|The baby has a round face.|Em bé có khuôn mặt tròn.
+serious|are you serious|bạn nói thật chứ|Are you serious about moving?|Bạn nói thật chuyện chuyển nhà chứ?
+sharp|sharp pain|cơn đau nhói|I felt a sharp pain in my leg.|Tôi thấy đau nhói ở chân.
+simple|simple question|câu hỏi đơn giản|I have a simple question.|Tôi có một câu hỏi đơn giản.
+smooth|smooth road|con đường êm|The new highway is a smooth road.|Đường cao tốc mới chạy rất êm.
+soft|soft voice|giọng nhẹ nhàng|She has a soft voice.|Cô ấy có giọng nói nhẹ nhàng.
+special|special day|ngày đặc biệt|Today is a special day for us.|Hôm nay là ngày đặc biệt với chúng tôi.
+terrible|terrible mistake|sai lầm tồi tệ|I made a terrible mistake.|Tôi đã phạm một sai lầm tồi tệ.
+thick|thick coat|áo khoác dày|Wear a thick coat today.|Hôm nay mặc áo khoác dày vào.
+wide|wide open|mở toang|The door was wide open.|Cánh cửa mở toang.
+wild|wild flowers|hoa dại|The field is full of wild flowers.|Cánh đồng đầy hoa dại.
+wonderful|wonderful idea|ý tưởng tuyệt vời|That's a wonderful idea!|Đó là một ý tưởng tuyệt vời!
+clear|clear water|nước trong|The lake has clear water.|Hồ có nước trong.
+useful|useful tips|mẹo hữu ích|This book has many useful tips.|Cuốn sách này có nhiều mẹo hữu ích.

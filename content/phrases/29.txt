@@ -50,3 +50,52 @@ dusty|dusty road|con đường bụi bặm|We drove along a dusty road.|Chúng t
 neat|neat handwriting|chữ viết gọn gàng|She has neat handwriting.|Cô ấy viết chữ rất gọn gàng.
 messy|messy room|căn phòng bừa bộn|My son has a messy room.|Phòng con trai tôi bừa bộn.
 fancy|fancy restaurant|nhà hàng sang trọng|We had dinner at a fancy restaurant.|Chúng tôi ăn tối ở một nhà hàng sang trọng.
+red|red envelope|bao lì xì|Children get a red envelope at Tet.|Trẻ em được nhận bao lì xì vào dịp Tết.
+blue|blue sky|bầu trời xanh|I love a clear blue sky.|Tôi thích bầu trời xanh trong.
+green|green light|đèn xanh|Wait for the green light.|Hãy đợi đèn xanh.
+yellow|yellow flowers|hoa vàng|Yellow flowers bloom in the south at Tet.|Hoa vàng nở ở miền Nam vào dịp Tết.
+black|black and white|đen trắng|It's an old black and white movie.|Đó là một bộ phim đen trắng cũ.
+white|white shirt|áo sơ mi trắng|Students wear a white shirt to school.|Học sinh mặc áo sơ mi trắng đến trường.
+brown|brown eyes|mắt nâu|She has big brown eyes.|Cô ấy có đôi mắt nâu to.
+pink|pink roses|hoa hồng màu hồng|He bought her pink roses.|Anh ấy mua tặng cô ấy hoa hồng màu hồng.
+purple|light purple|màu tím nhạt|The walls are light purple.|Các bức tường màu tím nhạt.
+gray|gray sky|bầu trời xám|It's a cold day with a gray sky.|Hôm nay trời lạnh và bầu trời xám xịt.
+golden|golden sand|cát vàng|The beach has soft golden sand.|Bãi biển có cát vàng mịn.
+colorful|colorful clothes|quần áo sặc sỡ|The dancers wear colorful clothes.|Các vũ công mặc quần áo sặc sỡ.
+pale|look pale|trông nhợt nhạt|You look pale. Are you okay?|Trông bạn nhợt nhạt quá. Bạn ổn không?
+circle|draw a circle|vẽ một hình tròn|Draw a circle around the right answer.|Khoanh tròn câu trả lời đúng.
+triangle|shape of a triangle|hình tam giác|Cut the bread in the shape of a triangle.|Cắt bánh mì thành hình tam giác.
+rectangle|draw a rectangle|vẽ một hình chữ nhật|Draw a rectangle on the board.|Vẽ một hình chữ nhật lên bảng.
+line|straight line|đường thẳng|Draw a straight line with a ruler.|Dùng thước kẻ một đường thẳng.
+dot|red dot|chấm đỏ|There is a red dot on the map.|Có một chấm đỏ trên bản đồ.
+curve|learning curve|quá trình làm quen|The new job has a steep learning curve.|Công việc mới đòi hỏi phải học rất nhiều.
+narrow|narrow road|con đường hẹp|The bus can't pass on this narrow road.|Xe buýt không đi qua được con đường hẹp này.
+shallow|shallow end|đầu nông của hồ bơi|Kids should stay in the shallow end.|Trẻ em nên ở đầu nông của hồ bơi.
+tight|too tight|quá chật|These shoes are too tight.|Đôi giày này quá chật.
+loose|come loose|bị lỏng ra|A button has come loose.|Một cái cúc bị lỏng ra rồi.
+hollow|hollow inside|rỗng bên trong|The chocolate egg is hollow inside.|Quả trứng sô-cô-la rỗng bên trong.
+rough|rough skin|da thô ráp|My hands have rough skin in winter.|Mùa đông da tay tôi thô ráp.
+sticky|sticky hands|tay dính|Wash your sticky hands after eating candy.|Ăn kẹo xong rửa tay dính đi.
+shiny|shiny hair|tóc bóng mượt|She has long shiny hair.|Cô ấy có mái tóc dài bóng mượt.
+wooden|wooden table|bàn gỗ|We eat at an old wooden table.|Chúng tôi ăn ở một cái bàn gỗ cũ.
+cotton|cotton socks|tất cotton|Cotton socks are best for summer.|Tất cotton hợp nhất cho mùa hè.
+silk|silk scarf|khăn lụa|I bought my mom a silk scarf in Hoi An.|Tôi mua cho mẹ một cái khăn lụa ở Hội An.
+wool|wool hat|mũ len|Wear a wool hat when it's cold.|Trời lạnh thì đội mũ len vào.
+leather|leather jacket|áo khoác da|I bought a black leather jacket.|Tôi mua một cái áo khoác da màu đen.
+rubber|rubber boots|ủng cao su|Farmers wear rubber boots in the field.|Nông dân đi ủng cao su ngoài đồng.
+stripe|blue stripes|sọc xanh|He wore a shirt with blue stripes.|Anh ấy mặc áo có sọc xanh.
+plain|plain rice|cơm trắng|I'll just have plain rice and soup.|Tôi chỉ ăn cơm trắng với canh thôi.
+oval|oval table|bàn hình bầu dục|We sat around an oval table.|Chúng tôi ngồi quanh một cái bàn hình bầu dục.
+edge|the edge of the bed|mép giường|He sat on the edge of the bed.|Anh ấy ngồi ở mép giường.
+top|top floor|tầng trên cùng|We live on the top floor.|Chúng tôi sống ở tầng trên cùng.
+bottom|bottom line|điều cốt lõi|The bottom line is we need more time.|Điều cốt lõi là chúng ta cần thêm thời gian.
+middle|middle school|trường trung học cơ sở|My son is in middle school.|Con trai tôi học trung học cơ sở.
+front|front seat|ghế trước|Kids can't sit in the front seat.|Trẻ em không được ngồi ghế trước.
+diamond|diamond necklace|dây chuyền kim cương|She wore a diamond necklace.|Cô ấy đeo dây chuyền kim cương.
+cube|ice cube|viên đá|Put an ice cube in my drink, please.|Cho một viên đá vào ly của tôi.
+shade|shade of blue|sắc xanh|I like this shade of blue.|Tôi thích sắc xanh này.
+transparent|transparent glass|kính trong suốt|The door is made of transparent glass.|Cánh cửa làm bằng kính trong suốt.
+dusty|dusty shelf|kệ đầy bụi|I found the book on a dusty shelf.|Tôi tìm thấy cuốn sách trên một cái kệ đầy bụi.
+neat|neat and tidy|gọn gàng ngăn nắp|Her desk is always neat and tidy.|Bàn của cô ấy lúc nào cũng gọn gàng ngăn nắp.
+messy|messy hair|tóc rối|I woke up with messy hair.|Tôi ngủ dậy tóc rối bù.
+fancy|fancy dress|váy áo cầu kỳ|She wore a fancy dress to the wedding.|Cô ấy mặc một chiếc váy cầu kỳ đi đám cưới.

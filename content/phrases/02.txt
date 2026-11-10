@@ -49,3 +49,53 @@ bring|bring back|mang trả lại|Please bring back my book tomorrow.|Mai nhớ 
 call|call back|gọi lại|I'll call back later.|Tôi sẽ gọi lại sau.
 wait|wait for|chờ đợi|I'll wait for you at the gate.|Tôi sẽ đợi bạn ở cổng.
 live|live in|sống ở|I live in Ho Chi Minh City.|Tôi sống ở TP. Hồ Chí Minh.
+be|be careful|cẩn thận|Be careful with the hot soup.|Cẩn thận với bát canh nóng.
+have|have a look|xem thử|Can I have a look?|Tôi xem thử được không?
+do|do the dishes|rửa bát|I'll do the dishes tonight.|Tối nay tôi rửa bát.
+make|make a mistake|mắc lỗi|It's okay to make a mistake.|Mắc lỗi cũng không sao.
+think|think twice|nghĩ kỹ|Think twice before you buy it.|Nghĩ kỹ trước khi mua nhé.
+read|read a book|đọc sách|I read a book before bed.|Tôi đọc sách trước khi ngủ.
+go|go shopping|đi mua sắm|We go shopping on Sunday.|Chúng tôi đi mua sắm vào Chủ nhật.
+come|come back|quay lại|Please come back soon.|Sớm quay lại nhé.
+get|get home|về đến nhà|I get home at six.|Tôi về đến nhà lúc sáu giờ.
+give|give me a hand|giúp tôi một tay|Can you give me a hand?|Bạn giúp tôi một tay được không?
+take|take a break|nghỉ giải lao|Let's take a break.|Nghỉ giải lao thôi.
+see|see you later|hẹn gặp lại|I have to go. See you later!|Tôi phải đi rồi. Hẹn gặp lại!
+know|know how to|biết cách|Do you know how to swim?|Bạn có biết bơi không?
+want|want to go|muốn đi|I want to go home.|Tôi muốn về nhà.
+need|need to rest|cần nghỉ ngơi|You need to rest more.|Bạn cần nghỉ ngơi nhiều hơn.
+like|would like|muốn (lịch sự)|I would like a coffee, please.|Cho tôi một ly cà phê.
+love|fall in love|phải lòng, yêu|They fall in love at school.|Họ yêu nhau từ thời đi học.
+say|say sorry|nói xin lỗi|You should say sorry to her.|Bạn nên xin lỗi cô ấy.
+tell|tell the truth|nói thật|Please tell the truth.|Hãy nói thật đi.
+ask|ask for help|nhờ giúp đỡ|Don't be afraid to ask for help.|Đừng ngại nhờ giúp đỡ.
+speak|speak slowly|nói chậm|Could you speak slowly, please?|Bạn nói chậm lại được không?
+talk|talk about|nói về|Let's talk about your plan.|Hãy nói về kế hoạch của bạn.
+listen|listen carefully|nghe kỹ|Listen carefully to the question.|Hãy nghe kỹ câu hỏi.
+hear|hear a noise|nghe thấy tiếng động|Did you hear a noise?|Bạn có nghe thấy tiếng động không?
+look|look at|nhìn vào|Look at the picture.|Nhìn vào bức tranh đi.
+watch|watch a movie|xem phim|We often watch a movie on Friday.|Thứ Sáu chúng tôi hay xem phim.
+write|write an email|viết thư điện tử|I need to write an email.|Tôi cần viết một email.
+learn|learn how to|học cách|I want to learn how to cook.|Tôi muốn học nấu ăn.
+teach|teach children|dạy trẻ em|She loves to teach children.|Cô ấy thích dạy trẻ em.
+work|work hard|làm việc chăm chỉ|They work hard every day.|Họ làm việc chăm chỉ mỗi ngày.
+play|play the piano|chơi đàn piano|Can you play the piano?|Bạn chơi được piano không?
+run|run a business|điều hành việc kinh doanh|It is hard work to run a business.|Điều hành việc kinh doanh rất vất vả.
+walk|walk to school|đi bộ đến trường|I walk to school every day.|Tôi đi bộ đến trường mỗi ngày.
+sit|sit down|ngồi xuống|Sit down and relax.|Ngồi xuống nghỉ đi.
+stand|stand up|đứng lên|Please stand up.|Mời đứng lên.
+open|open the door|mở cửa|Can you open the door?|Bạn mở cửa giúp được không?
+close|close the door|đóng cửa|Please close the door.|Làm ơn đóng cửa lại.
+start|start work|bắt đầu làm việc|I start work at eight.|Tôi bắt đầu làm việc lúc tám giờ.
+stop|stop by|ghé qua|I'll stop by after work.|Tan làm tôi sẽ ghé qua.
+help|help me with|giúp tôi việc|Can you help me with this bag?|Bạn giúp tôi cái túi này được không?
+try|try again|thử lại|Don't give up. Try again.|Đừng bỏ cuộc. Thử lại đi.
+use|use your phone|dùng điện thoại của bạn|Can I use your phone?|Tôi dùng điện thoại của bạn được không?
+find|find a job|tìm việc|He wants to find a job.|Anh ấy muốn tìm việc.
+put|put away|cất đi|Put away your toys.|Cất đồ chơi đi.
+buy|buy a house|mua nhà|They want to buy a house.|Họ muốn mua nhà.
+pay|pay the bill|trả hóa đơn|I'll pay the bill.|Tôi sẽ trả hóa đơn.
+bring|bring a friend|dẫn bạn theo|You can bring a friend.|Bạn có thể dẫn bạn theo.
+call|call me|gọi cho tôi|Call me when you arrive.|Đến nơi thì gọi cho tôi.
+wait|wait a minute|chờ một chút|Wait a minute, please.|Xin chờ một chút.
+live|live with|sống cùng|I live with my parents.|Tôi sống cùng bố mẹ.

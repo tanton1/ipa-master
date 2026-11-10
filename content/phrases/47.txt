@@ -51,3 +51,51 @@ honesty|honesty is the best policy|thật thà là thượng sách|Remember, hon
 faith|have faith in|tin tưởng vào|I have faith in you.|Tôi tin tưởng bạn.
 depth|in depth|chuyên sâu|We studied the topic in depth.|Chúng tôi nghiên cứu chủ đề một cách chuyên sâu.
 relief|what a relief|nhẹ cả người|You're safe. What a relief!|Bạn an toàn rồi. Nhẹ cả người!
+activity|group activity|hoạt động nhóm|We did a group activity in class.|Chúng tôi làm một hoạt động nhóm trên lớp.
+beauty|natural beauty|vẻ đẹp tự nhiên|We must protect the natural beauty of the bay.|Chúng ta phải bảo vệ vẻ đẹp tự nhiên của vịnh.
+comfort|in comfort|một cách thoải mái|You can travel in comfort on this train.|Bạn có thể đi lại thoải mái trên chuyến tàu này.
+confidence|lose confidence|mất tự tin|Don't lose confidence after one mistake.|Đừng mất tự tin chỉ sau một lỗi.
+courage|take courage|cần lòng can đảm|It does take courage to speak up.|Lên tiếng thật sự cần lòng can đảm.
+danger|out of danger|qua cơn nguy hiểm|The patient is out of danger now.|Bệnh nhân đã qua cơn nguy hiểm.
+desire|desire to learn|khao khát học hỏi|She has a real desire to learn.|Cô ấy thật sự khao khát học hỏi.
+error|error message|thông báo lỗi|I got an error message on my screen.|Màn hình của tôi hiện thông báo lỗi.
+event|main event|sự kiện chính|The main event starts at eight.|Sự kiện chính bắt đầu lúc tám giờ.
+fame|rise to fame|trở nên nổi tiếng|Her rise to fame was very fast.|Cô ấy nổi tiếng rất nhanh.
+fault|not your fault|không phải lỗi của bạn|Don't cry. It's not your fault.|Đừng khóc. Không phải lỗi của bạn.
+favor|ask a favor|nhờ một việc|Can I ask a favor?|Tôi nhờ bạn một việc được không?
+fortune|cost a fortune|đắt cắt cổ|That bag must cost a fortune.|Cái túi đó hẳn đắt cắt cổ.
+happiness|bring happiness|mang lại hạnh phúc|Children bring happiness to a home.|Trẻ con mang lại hạnh phúc cho gia đình.
+honor|a great honor|một vinh dự lớn|It is a great honor to be here.|Được có mặt ở đây là một vinh dự lớn.
+humor|good humor|tính tình vui vẻ|He is always in good humor.|Anh ấy lúc nào cũng vui vẻ.
+identity|prove your identity|chứng minh danh tính|You need a passport to prove your identity.|Bạn cần hộ chiếu để chứng minh danh tính.
+imagination|vivid imagination|trí tưởng tượng phong phú|My daughter has a vivid imagination.|Con gái tôi có trí tưởng tượng phong phú.
+kindness|thank you for your kindness|cảm ơn lòng tốt của bạn|Thank you for your kindness to my family.|Cảm ơn lòng tốt của bạn với gia đình tôi.
+lack|lack of money|thiếu tiền|We stopped the project for lack of money.|Chúng tôi dừng dự án vì thiếu tiền.
+laughter|full of laughter|đầy tiếng cười|The house was full of laughter.|Ngôi nhà đầy tiếng cười.
+luck|bad luck|vận xui|I've had bad luck with phones.|Tôi gặp vận xui với điện thoại.
+manner|in a friendly manner|một cách thân thiện|She spoke in a friendly manner.|Cô ấy nói chuyện một cách thân thiện.
+meaning|meaning of life|ý nghĩa cuộc sống|We talked about the meaning of life.|Chúng tôi nói về ý nghĩa cuộc sống.
+mystery|mystery novel|tiểu thuyết trinh thám|I'm reading a mystery novel.|Tôi đang đọc một cuốn tiểu thuyết trinh thám.
+panic|don't panic|đừng hoảng|Don't panic, we have time.|Đừng hoảng, chúng ta còn thời gian.
+patience|have patience|có lòng kiên nhẫn|You must have patience with children.|Bạn phải kiên nhẫn với trẻ con.
+permission|without permission|không xin phép|Don't use my phone without permission.|Đừng dùng điện thoại của tôi khi chưa xin phép.
+praise|praise for|lời khen dành cho|The chef got a lot of praise for the soup.|Đầu bếp nhận được nhiều lời khen cho món súp.
+progress|in progress|đang diễn ra|The meeting is in progress.|Cuộc họp đang diễn ra.
+reward|as a reward|như một phần thưởng|I bought ice cream as a reward.|Tôi mua kem như một phần thưởng.
+sense|common sense|lẽ thường|Safe driving is just common sense.|Lái xe an toàn chỉ là lẽ thường.
+silence|break the silence|phá vỡ sự im lặng|Someone had to break the silence.|Phải có ai đó phá vỡ sự im lặng.
+spirit|team spirit|tinh thần đồng đội|The players have great team spirit.|Các cầu thủ có tinh thần đồng đội tuyệt vời.
+strength|strength training|tập sức mạnh|I do strength training twice a week.|Tôi tập sức mạnh hai lần một tuần.
+talent|talent show|cuộc thi tài năng|She sang at the school talent show.|Cô ấy hát ở cuộc thi tài năng của trường.
+threat|threat to|mối đe dọa đối với|Plastic is a threat to the ocean.|Nhựa là mối đe dọa đối với đại dương.
+trouble|have trouble|gặp khó khăn|I have trouble sleeping at night.|Buổi tối tôi khó ngủ.
+victory|victory over|chiến thắng trước|It was a big victory over the champions.|Đó là một chiến thắng lớn trước nhà vô địch.
+wealth|health and wealth|sức khỏe và tài lộc|I wish you health and wealth.|Chúc bạn sức khỏe và tài lộc.
+weakness|strengths and weaknesses|điểm mạnh và điểm yếu|Tell me about your strengths and weaknesses.|Hãy nói về điểm mạnh và điểm yếu của bạn.
+wisdom|words of wisdom|lời khuyên sáng suốt|Grandpa always has some words of wisdom.|Ông lúc nào cũng có lời khuyên sáng suốt.
+loyalty|loyalty card|thẻ khách hàng thân thiết|Do you have a loyalty card?|Bạn có thẻ khách hàng thân thiết không?
+respect|respect for|sự tôn trọng dành cho|I have great respect for nurses.|Tôi rất tôn trọng các y tá.
+honesty|in all honesty|thật lòng mà nói|In all honesty, I forgot.|Thật lòng mà nói, tôi đã quên.
+faith|lose faith|mất niềm tin|Don't lose faith in yourself.|Đừng mất niềm tin vào bản thân.
+depth|depth of|độ sâu của|Nobody knows the depth of this lake.|Không ai biết hồ này sâu bao nhiêu.
+relief|pain relief|giảm đau|This cream gives fast pain relief.|Kem này giúp giảm đau nhanh.

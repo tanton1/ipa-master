@@ -51,3 +51,51 @@ base|military base|căn cứ quân sự|There is a military base near the city.|
 editor|video editor|biên tập viên video|He works as a video editor.|Anh ấy làm biên tập viên video.
 output|daily output|sản lượng hằng ngày|The factory's daily output is high.|Sản lượng hằng ngày của nhà máy cao.
 input|your input|ý kiến đóng góp của bạn|Thank you for your input.|Cảm ơn ý kiến đóng góp của bạn.
+development|child development|sự phát triển của trẻ|Play is important for child development.|Vui chơi quan trọng với sự phát triển của trẻ.
+drug|drug test|xét nghiệm ma túy|Every driver must take a drug test.|Mọi tài xế đều phải xét nghiệm ma túy.
+model|fashion model|người mẫu thời trang|She works as a fashion model.|Cô ấy làm người mẫu thời trang.
+ground|ground floor|tầng trệt|Our apartment is on the ground floor.|Căn hộ của chúng tôi ở tầng trệt.
+site|camping site|khu cắm trại|We found a nice camping site.|Chúng tôi tìm được một khu cắm trại đẹp.
+figure|public figure|người của công chúng|A public figure has little privacy.|Người của công chúng có rất ít sự riêng tư.
+source|source of income|nguồn thu nhập|Farming is their main source of income.|Làm nông là nguồn thu nhập chính của họ.
+series|a series of|một loạt|There was a series of small earthquakes.|Đã có một loạt trận động đất nhỏ.
+range|a wide range of|đa dạng nhiều loại|The shop sells a wide range of tea.|Cửa hàng bán đa dạng nhiều loại trà.
+property|property prices|giá bất động sản|Property prices are rising fast.|Giá bất động sản đang tăng nhanh.
+section|children's section|khu thiếu nhi|The children's section is upstairs.|Khu thiếu nhi ở trên lầu.
+unit|unit price|đơn giá|What is the unit price?|Đơn giá là bao nhiêu?
+response|quick response|phản hồi nhanh|Thank you for your quick response.|Cảm ơn bạn đã phản hồi nhanh.
+performance|performance review|đánh giá hiệu quả công việc|I have a performance review next week.|Tuần sau tôi có buổi đánh giá hiệu quả công việc.
+basis|on a regular basis|một cách thường xuyên|We meet on a regular basis.|Chúng tôi gặp nhau thường xuyên.
+approach|different approach|cách tiếp cận khác|Let's try a different approach.|Hãy thử một cách tiếp cận khác.
+majority|majority vote|đa số phiếu|The plan passed by a majority vote.|Kế hoạch được thông qua nhờ đa số phiếu.
+analysis|market analysis|phân tích thị trường|She wrote a market analysis for her boss.|Cô ấy viết bản phân tích thị trường cho sếp.
+challenge|face a challenge|đối mặt với thử thách|Every new teacher will face a challenge.|Giáo viên mới nào cũng sẽ đối mặt với thử thách.
+management|management team|ban quản lý|The management team meets every Monday.|Ban quản lý họp vào mỗi thứ Hai.
+operation|have an operation|trải qua phẫu thuật|My father will have an operation next week.|Tuần sau bố tôi sẽ phẫu thuật.
+treatment|special treatment|sự đối xử đặc biệt|I don't want any special treatment.|Tôi không muốn được đối xử đặc biệt.
+variety|variety show|chương trình tạp kỹ|We watch a variety show on Saturday night.|Tối thứ Bảy chúng tôi xem chương trình tạp kỹ.
+authority|in authority|có thẩm quyền|I need to speak to someone in authority.|Tôi cần nói chuyện với người có thẩm quyền.
+bar|bar of soap|bánh xà phòng|There is a new bar of soap in the bathroom.|Có một bánh xà phòng mới trong nhà tắm.
+conference|conference room|phòng hội nghị|The conference room is on the tenth floor.|Phòng hội nghị ở tầng mười.
+debate|debate about|cuộc tranh luận về|There is a debate about school uniforms.|Đang có tranh luận về đồng phục học sinh.
+hole|dig a hole|đào một cái hố|We dig a hole to plant the tree.|Chúng tôi đào một cái hố để trồng cây.
+mission|on a mission|đang làm nhiệm vụ|She is on a mission to learn English.|Cô ấy quyết tâm học tiếng Anh.
+scene|the scene of|hiện trường của|Police arrived at the scene of the accident.|Cảnh sát đến hiện trường vụ tai nạn.
+shot|take a shot|sút bóng; thử một lần|He will take a shot from here.|Anh ấy sẽ sút từ vị trí này.
+spot|parking spot|chỗ đỗ xe|I can't find a parking spot.|Tôi không tìm được chỗ đỗ xe.
+target|target audience|khán giả mục tiêu|Teenagers are our target audience.|Thanh thiếu niên là khán giả mục tiêu của chúng tôi.
+access|have access to|được tiếp cận|All students have access to the library.|Mọi học sinh đều được dùng thư viện.
+reader|slow reader|người đọc chậm|I am a slow reader in English.|Tôi đọc tiếng Anh chậm.
+master|master the basics|nắm vững kiến thức cơ bản|First, master the basics.|Trước hết hãy nắm vững kiến thức cơ bản.
+origin|origin of|nguồn gốc của|Nobody knows the origin of this custom.|Không ai biết nguồn gốc của phong tục này.
+option|no option|không có lựa chọn|We had no option but to wait.|Chúng tôi không có lựa chọn nào ngoài chờ đợi.
+alternative|alternative route|tuyến đường thay thế|The road is closed, so take an alternative route.|Đường bị đóng nên hãy đi tuyến đường khác.
+proposal|business proposal|đề xuất kinh doanh|He sent a business proposal to the bank.|Anh ấy gửi một đề xuất kinh doanh cho ngân hàng.
+survey|do a survey|làm khảo sát|We will do a survey of our customers.|Chúng tôi sẽ làm khảo sát khách hàng.
+feedback|positive feedback|phản hồi tích cực|We got a lot of positive feedback.|Chúng tôi nhận được nhiều phản hồi tích cực.
+scale|large scale|quy mô lớn|They grow rice on a large scale.|Họ trồng lúa trên quy mô lớn.
+crop|crop failure|mất mùa|The dry weather caused crop failure.|Thời tiết khô hạn gây mất mùa.
+base|base of the mountain|chân núi|We camped at the base of the mountain.|Chúng tôi cắm trại ở chân núi.
+editor|newspaper editor|biên tập viên báo|She wrote a letter to the newspaper editor.|Cô ấy viết thư cho biên tập viên báo.
+output|increase output|tăng sản lượng|New machines will increase output.|Máy móc mới sẽ tăng sản lượng.
+input|input from|ý kiến đóng góp từ|We need input from the whole team.|Chúng tôi cần ý kiến đóng góp từ cả nhóm.

@@ -51,3 +51,51 @@ spelling|spelling mistake|lỗi chính tả|There is a spelling mistake in your 
 tutor|private tutor|gia sư|My parents hired a private tutor.|Bố mẹ tôi thuê gia sư.
 kindergarten|kindergarten teacher|giáo viên mầm non|She is a kindergarten teacher.|Cô ấy là giáo viên mầm non.
 pupil|top pupil|học sinh giỏi nhất|She is the top pupil in her class.|Cô bé là học sinh giỏi nhất lớp.
+subject|change the subject|đổi chủ đề|Let's change the subject.|Mình đổi chủ đề đi.
+grade|first grade|lớp một|My daughter is in first grade.|Con gái tôi học lớp một.
+score|test score|điểm bài kiểm tra|My test score was better this time.|Lần này điểm bài kiểm tra của tôi tốt hơn.
+knowledge|knowledge of|kiến thức về|He has a good knowledge of history.|Anh ấy có kiến thức tốt về lịch sử.
+education|good education|nền giáo dục tốt|Parents want a good education for their kids.|Cha mẹ muốn con mình có nền giáo dục tốt.
+college|go to college|học đại học|I want to go to college next year.|Năm sau tôi muốn học đại học.
+semester|first semester|học kỳ một|The first semester ends in January.|Học kỳ một kết thúc vào tháng Một.
+term|short term|ngắn hạn|It's only a short term job.|Đó chỉ là một công việc ngắn hạn.
+classroom|classroom rules|nội quy lớp học|The teacher explained the classroom rules.|Giáo viên giải thích nội quy lớp học.
+notebook|open your notebook|mở vở ra|Open your notebook and write the date.|Mở vở ra và ghi ngày tháng.
+textbook|open your textbook|mở sách giáo khoa|Open your textbook to page ten.|Mở sách giáo khoa trang mười.
+dictionary|online dictionary|từ điển trực tuyến|I check new words in an online dictionary.|Tôi tra từ mới bằng từ điển trực tuyến.
+ruler|use a ruler|dùng thước|Use a ruler to draw the line.|Dùng thước để kẻ đường thẳng.
+eraser|borrow an eraser|mượn cục tẩy|Can I borrow an eraser?|Tôi mượn cục tẩy được không?
+pencil|sharpen a pencil|gọt bút chì|I need to sharpen a pencil.|Tôi cần gọt bút chì.
+chalk|write with chalk|viết bằng phấn|Teachers used to write with chalk.|Ngày trước giáo viên viết bằng phấn.
+principal|the principal's office|phòng hiệu trưởng|He was sent to the principal's office.|Cậu ấy bị đưa lên phòng hiệu trưởng.
+lecture|lecture hall|giảng đường|The lecture hall holds two hundred students.|Giảng đường chứa được hai trăm sinh viên.
+research|research paper|bài nghiên cứu|I'm writing a research paper.|Tôi đang viết một bài nghiên cứu.
+essay|essay topic|đề bài luận|The essay topic is my hometown.|Đề bài luận là quê hương của tôi.
+presentation|prepare a presentation|chuẩn bị bài thuyết trình|I have to prepare a presentation for Monday.|Tôi phải chuẩn bị bài thuyết trình cho thứ Hai.
+assignment|finish the assignment|làm xong bài tập|Did you finish the assignment?|Bạn làm xong bài tập chưa?
+quiz|take a quiz|làm bài kiểm tra ngắn|We take a quiz every Friday.|Thứ Sáu nào chúng tôi cũng làm bài kiểm tra ngắn.
+mistake|common mistake|lỗi thường gặp|This is a common mistake for learners.|Đây là lỗi người học thường gặp.
+review|book review|bài điểm sách|I read a good book review today.|Hôm nay tôi đọc một bài điểm sách hay.
+memorize|memorize a poem|học thuộc một bài thơ|We had to memorize a poem.|Chúng tôi phải học thuộc một bài thơ.
+graduate|graduate next year|tốt nghiệp năm sau|I will graduate next year.|Năm sau tôi sẽ tốt nghiệp.
+pass|pass the salt|đưa giúp lọ muối|Could you pass the salt, please?|Bạn đưa giúp tôi lọ muối được không?
+succeed|succeed in|thành công trong|You will succeed in the end.|Cuối cùng bạn sẽ thành công.
+scholarship|win a scholarship|giành học bổng|She hopes to win a scholarship.|Cô ấy hy vọng giành được học bổng.
+certificate|birth certificate|giấy khai sinh|Bring a copy of your birth certificate.|Mang theo một bản sao giấy khai sinh.
+diploma|college diploma|bằng cao đẳng, đại học|He has a college diploma in design.|Anh ấy có bằng đại học ngành thiết kế.
+math|math problem|bài toán|Can you help me with this math problem?|Bạn giúp tôi bài toán này được không?
+physics|physics teacher|giáo viên vật lý|Our physics teacher is very young.|Giáo viên vật lý của chúng tôi rất trẻ.
+chemistry|chemistry class|giờ hóa học|We have chemistry class after lunch.|Sau bữa trưa chúng tôi có giờ hóa.
+biology|biology class|giờ sinh học|We studied plants in biology class.|Chúng tôi học về thực vật trong giờ sinh học.
+geography|geography teacher|giáo viên địa lý|The geography teacher showed us a map.|Giáo viên địa lý cho chúng tôi xem bản đồ.
+literature|English literature|văn học Anh|She studies English literature.|Cô ấy học văn học Anh.
+topic|main topic|chủ đề chính|The main topic today is food.|Chủ đề chính hôm nay là ẩm thực.
+chapter|first chapter|chương đầu|I only read the first chapter.|Tôi mới đọc chương đầu.
+paragraph|write a paragraph|viết một đoạn văn|Write a paragraph about your family.|Viết một đoạn văn về gia đình bạn.
+title|job title|chức danh|What is your job title?|Chức danh của bạn là gì?
+definition|clear definition|định nghĩa rõ ràng|The book gives a clear definition.|Cuốn sách đưa ra một định nghĩa rõ ràng.
+translation|translation app|ứng dụng dịch|I use a translation app on my phone.|Tôi dùng ứng dụng dịch trên điện thoại.
+spelling|check your spelling|kiểm tra chính tả|Check your spelling before you hand it in.|Kiểm tra chính tả trước khi nộp bài.
+tutor|math tutor|gia sư toán|We found a math tutor for our son.|Chúng tôi tìm được gia sư toán cho con trai.
+kindergarten|go to kindergarten|đi học mẫu giáo|My son will go to kindergarten next year.|Năm sau con trai tôi đi học mẫu giáo.
+pupil|primary school pupil|học sinh tiểu học|Every primary school pupil wears a uniform.|Học sinh tiểu học nào cũng mặc đồng phục.

@@ -52,3 +52,50 @@ charge|free of charge|miễn phí|The service is free of charge.|Dịch vụ mi�
 charge|in charge of|phụ trách|Who is in charge of this project?|Ai phụ trách dự án này?
 expense|living expenses|chi phí sinh hoạt|Living expenses are high in Hanoi.|Chi phí sinh hoạt ở Hà Nội cao.
 retail|retail store|cửa hàng bán lẻ|She works in a retail store.|Cô ấy làm ở một cửa hàng bán lẻ.
+economy|local economy|kinh tế địa phương|Tourism helps the local economy.|Du lịch giúp ích cho kinh tế địa phương.
+economic|economic problems|vấn đề kinh tế|The country faces economic problems.|Đất nước đang đối mặt với các vấn đề kinh tế.
+industry|food industry|ngành thực phẩm|She works in the food industry.|Cô ấy làm trong ngành thực phẩm.
+trade|trade war|chiến tranh thương mại|The trade war raised prices.|Chiến tranh thương mại đã đẩy giá lên.
+income|monthly income|thu nhập hằng tháng|Half of my monthly income goes to rent.|Một nửa thu nhập hằng tháng của tôi dùng để trả tiền nhà.
+finance|finance department|phòng tài chính|Send the bill to the finance department.|Gửi hóa đơn cho phòng tài chính.
+financial|financial support|hỗ trợ tài chính|Students can get financial support.|Sinh viên có thể nhận hỗ trợ tài chính.
+investment|investment in|khoản đầu tư vào|Education is an investment in your future.|Giáo dục là khoản đầu tư cho tương lai của bạn.
+invest|invest money|đầu tư tiền|Don't invest money you can't lose.|Đừng đầu tư số tiền bạn không thể mất.
+value|value for money|đáng đồng tiền|This hotel is great value for money.|Khách sạn này rất đáng đồng tiền.
+demand|in demand|được săn đón|Good cooks are always in demand.|Đầu bếp giỏi lúc nào cũng được săn đón.
+supply|water supply|nguồn cấp nước|The water supply was cut for a day.|Nguồn nước bị cắt một ngày.
+production|production line|dây chuyền sản xuất|He works on a production line.|Anh ấy làm ở dây chuyền sản xuất.
+produce|produce milk|sản xuất sữa|These cows produce milk every day.|Những con bò này cho sữa mỗi ngày.
+export|export market|thị trường xuất khẩu|Japan is a big export market for us.|Nhật Bản là thị trường xuất khẩu lớn của chúng tôi.
+import|cheap imports|hàng nhập khẩu giá rẻ|Local farmers compete with cheap imports.|Nông dân địa phương phải cạnh tranh với hàng nhập khẩu giá rẻ.
+growth|economic growth|tăng trưởng kinh tế|Economic growth was strong last year.|Năm ngoái kinh tế tăng trưởng mạnh.
+increase|increase in|sự tăng về|There was an increase in sales.|Doanh số đã tăng.
+decrease|sharp decrease|sự giảm mạnh|We saw a sharp decrease in visitors.|Chúng tôi thấy lượng khách giảm mạnh.
+reduce|reduce costs|giảm chi phí|We need to reduce costs.|Chúng ta cần giảm chi phí.
+crisis|in crisis|trong khủng hoảng|The company is in crisis.|Công ty đang trong khủng hoảng.
+risk|at risk|gặp rủi ro|Many jobs are at risk.|Nhiều việc làm đang gặp rủi ro.
+success|great success|thành công lớn|The party was a great success.|Bữa tiệc là một thành công lớn.
+failure|fear of failure|nỗi sợ thất bại|Fear of failure keeps people from trying.|Nỗi sợ thất bại khiến người ta không dám thử.
+deal|a good deal|một món hời|I got a good deal on this laptop.|Tôi mua được chiếc máy tính này với giá hời.
+consumer|consumer rights|quyền của người tiêu dùng|Know your consumer rights.|Hãy biết quyền của người tiêu dùng.
+marketing|marketing plan|kế hoạch tiếp thị|We need a new marketing plan.|Chúng ta cần một kế hoạch tiếp thị mới.
+strategy|sales strategy|chiến lược bán hàng|The team changed its sales strategy.|Nhóm đã thay đổi chiến lược bán hàng.
+payment|monthly payment|khoản trả hằng tháng|The monthly payment is two million dong.|Khoản trả hằng tháng là hai triệu đồng.
+purchase|proof of purchase|bằng chứng mua hàng|Keep the receipt as proof of purchase.|Giữ biên lai làm bằng chứng mua hàng.
+loss|at a loss|bối rối không biết làm gì|I'm at a loss for words.|Tôi không biết nói gì.
+fee|school fee|học phí|The school fee is due in September.|Học phí phải nộp vào tháng Chín.
+wage|daily wage|tiền công theo ngày|The workers get a daily wage.|Công nhân được trả tiền công theo ngày.
+employ|employ staff|tuyển nhân viên|The hotel will employ staff for the summer.|Khách sạn sẽ tuyển nhân viên cho mùa hè.
+unemployment|youth unemployment|thất nghiệp ở giới trẻ|Youth unemployment is a big problem.|Thất nghiệp ở giới trẻ là một vấn đề lớn.
+insurance|car insurance|bảo hiểm ô tô|I need to renew my car insurance.|Tôi cần gia hạn bảo hiểm ô tô.
+organization|charity organization|tổ chức từ thiện|She works for a charity organization.|Cô ấy làm cho một tổ chức từ thiện.
+corporation|global corporation|tập đoàn toàn cầu|He works for a global corporation.|Anh ấy làm cho một tập đoàn toàn cầu.
+agency|news agency|hãng thông tấn|She is a reporter for a news agency.|Cô ấy là phóng viên của một hãng thông tấn.
+firm|small firm|công ty nhỏ|I work for a small firm downtown.|Tôi làm cho một công ty nhỏ ở trung tâm.
+currency|local currency|nội tệ|You have to pay in the local currency.|Bạn phải trả bằng nội tệ.
+dollar|a dollar a day|một đô la mỗi ngày|He saves a dollar a day.|Mỗi ngày anh ấy tiết kiệm một đô la.
+cent|fifty cents|năm mươi xu|It only costs fifty cents.|Nó chỉ có giá năm mươi xu.
+rate|exchange rate|tỷ giá|The exchange rate changes every day.|Tỷ giá thay đổi mỗi ngày.
+benefit|benefit from|hưởng lợi từ|Children benefit from reading.|Trẻ em được lợi nhờ đọc sách.
+expense|travel expenses|chi phí đi lại|The company pays my travel expenses.|Công ty trả chi phí đi lại cho tôi.
+retail|retail price|giá bán lẻ|The retail price is too high.|Giá bán lẻ quá cao.

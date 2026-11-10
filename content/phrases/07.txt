@@ -49,3 +49,53 @@ noodles|fried noodles|mì xào|I'd like fried noodles with seafood.|Cho tôi mì
 dish|side dish|món ăn kèm|What side dish do you want?|Bạn muốn món ăn kèm gì?
 taste|taste good|ngon|Does it taste good?|Có ngon không?
 breathe|breathe in|hít vào|Breathe in slowly.|Hít vào thật chậm.
+eat|eat out|đi ăn ngoài|We eat out on Fridays.|Thứ Sáu chúng tôi đi ăn ngoài.
+drink|have a drink|uống một ly|Let's have a drink after work.|Tan làm đi uống một ly đi.
+cook|cook rice|nấu cơm|I cook rice every day.|Ngày nào tôi cũng nấu cơm.
+breakfast|have breakfast|ăn sáng|We have breakfast together on Sundays.|Chủ nhật chúng tôi ăn sáng cùng nhau.
+lunch|have lunch|ăn trưa|Let's have lunch together.|Ăn trưa cùng nhau đi.
+dinner|dinner party|tiệc tối|We are going to a dinner party.|Chúng tôi sắp đi dự tiệc tối.
+food|street food|đồ ăn đường phố|Hanoi has great street food.|Hà Nội có đồ ăn đường phố rất ngon.
+rice|a bowl of rice|một bát cơm|I'd like a bowl of rice.|Cho tôi một bát cơm.
+bread|bread and butter|bánh mì với bơ|I had bread and butter for breakfast.|Tôi ăn bánh mì với bơ vào bữa sáng.
+meat|eat meat|ăn thịt|We eat meat twice a week.|Chúng tôi ăn thịt hai lần một tuần.
+fish|fish sauce|nước mắm|Add a little fish sauce.|Thêm một chút nước mắm.
+chicken|fried chicken|gà rán|The kids love fried chicken.|Bọn trẻ thích gà rán.
+egg|fried egg|trứng rán|I want a fried egg with rice.|Tôi muốn một quả trứng rán ăn với cơm.
+fruit|a piece of fruit|một miếng trái cây|Have a piece of fruit after lunch.|Ăn một miếng trái cây sau bữa trưa đi.
+apple|apple pie|bánh táo|My grandma makes apple pie.|Bà tôi làm bánh táo.
+banana|a bunch of bananas|một nải chuối|I bought a bunch of bananas.|Tôi mua một nải chuối.
+orange|peel an orange|bóc một quả cam|I peel an orange for my daughter.|Tôi bóc một quả cam cho con gái.
+vegetable|fresh vegetables|rau tươi|We buy fresh vegetables at the market.|Chúng tôi mua rau tươi ở chợ.
+soup|hot soup|súp nóng|Hot soup is good on a cold day.|Ngày lạnh ăn súp nóng rất hợp.
+salt|salt and pepper|muối và tiêu|Pass the salt and pepper, please.|Đưa giúp tôi muối và tiêu.
+sugar|a spoon of sugar|một thìa đường|I take a spoon of sugar in my tea.|Tôi cho một thìa đường vào trà.
+milk|a glass of milk|một ly sữa|She drinks a glass of milk at night.|Buổi tối cô ấy uống một ly sữa.
+tea|a cup of tea|một tách trà|I start my day with a cup of tea.|Tôi bắt đầu ngày mới bằng một tách trà.
+coffee|black coffee|cà phê đen|One black coffee, please.|Cho một ly cà phê đen.
+juice|a glass of juice|một ly nước ép|Can I have a glass of juice?|Cho tôi một ly nước ép được không?
+hungry|so hungry|đói quá|I'm so hungry right now.|Bây giờ tôi đói quá.
+thirsty|feel thirsty|thấy khát|I always feel thirsty after running.|Chạy xong tôi lúc nào cũng thấy khát.
+sleep|sleep well|ngủ ngon|Did you sleep well?|Bạn ngủ có ngon không?
+wake|wake up early|dậy sớm|I wake up early every day.|Ngày nào tôi cũng dậy sớm.
+wash|wash the dishes|rửa bát|I wash the dishes after dinner.|Tôi rửa bát sau bữa tối.
+shower|hot shower|tắm nước nóng|I need a hot shower.|Tôi cần tắm nước nóng.
+exercise|morning exercise|thể dục buổi sáng|Morning exercise keeps me healthy.|Thể dục buổi sáng giúp tôi khỏe mạnh.
+healthy|stay healthy|giữ sức khỏe|Eat well and stay healthy.|Ăn uống tốt và giữ sức khỏe nhé.
+sick|get sick|bị ốm|I often get sick in winter.|Mùa đông tôi hay bị ốm.
+medicine|cough medicine|thuốc ho|I need some cough medicine.|Tôi cần ít thuốc ho.
+pain|back pain|đau lưng|Sitting all day gives me back pain.|Ngồi cả ngày làm tôi đau lưng.
+headache|have a headache|bị đau đầu|I have a headache today.|Hôm nay tôi bị đau đầu.
+fever|have a fever|bị sốt|I think I have a fever.|Tôi nghĩ mình bị sốt.
+tired|so tired|mệt quá|I'm so tired after work.|Tan làm tôi mệt quá.
+rest|get some rest|nghỉ ngơi một chút|Go home and get some rest.|Về nhà nghỉ ngơi một chút đi.
+health|health care|chăm sóc sức khỏe|Good health care is important.|Chăm sóc sức khỏe tốt rất quan trọng.
+clean|clean water|nước sạch|Everyone needs clean water.|Ai cũng cần nước sạch.
+dirty|dirty dishes|bát đĩa bẩn|The sink is full of dirty dishes.|Bồn rửa đầy bát đĩa bẩn.
+delicious|smell delicious|thơm ngon|The noodles smell delicious.|Món mì thơm ngon quá.
+sweet|too sweet|quá ngọt|This cake is too sweet for me.|Bánh này quá ngọt với tôi.
+cake|a piece of cake|một miếng bánh|Would you like a piece of cake?|Bạn dùng một miếng bánh nhé?
+noodles|instant noodles|mì ăn liền|I eat instant noodles when I'm busy.|Lúc bận tôi ăn mì ăn liền.
+dish|main dish|món chính|What is the main dish today?|Món chính hôm nay là gì?
+taste|taste like|có vị giống|These taste like apples.|Mấy cái này có vị giống táo.
+breathe|breathe deeply|thở sâu|Close your eyes and breathe deeply.|Nhắm mắt lại và thở sâu.

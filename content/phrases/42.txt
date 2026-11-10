@@ -49,3 +49,53 @@ rescue|rescue team|đội cứu hộ|The rescue team arrived quickly.|Đội c�
 sail|set sail|ra khơi|The ship will set sail at dawn.|Con tàu sẽ ra khơi lúc bình minh.
 suffer|suffer from|bị (bệnh, đau)|Many old people suffer from back pain.|Nhiều người già bị đau lưng.
 treat|treat yourself|tự thưởng cho mình|Treat yourself to a nice dinner.|Tự thưởng cho mình một bữa tối ngon.
+raise|raise children|nuôi dạy con|It's not easy to raise children.|Nuôi dạy con không dễ.
+lay|lay an egg|đẻ trứng|Our hens lay an egg each day.|Mỗi ngày gà mái nhà tôi đẻ một quả trứng.
+lead|lead a team|dẫn dắt một đội|She will lead a team of ten people.|Cô ấy sẽ dẫn dắt một đội mười người.
+kill|kill germs|diệt vi khuẩn|Soap helps kill germs.|Xà phòng giúp diệt vi khuẩn.
+shoot|shoot a photo|chụp một tấm ảnh|Let me shoot a photo of you two.|Để tôi chụp cho hai bạn một tấm ảnh.
+float|float in the air|lơ lửng trong không khí|Balloons float in the air.|Bóng bay lơ lửng trong không khí.
+flow|flow of traffic|dòng xe cộ|The flow of traffic is slow this morning.|Sáng nay dòng xe cộ di chuyển chậm.
+shine|shine a light|chiếu đèn|Shine a light under the bed.|Chiếu đèn xuống gầm giường xem.
+blow|blow your nose|xì mũi|Take a tissue and blow your nose.|Lấy khăn giấy xì mũi đi.
+drag|drag the chair|kéo lê cái ghế|Don't drag the chair on the floor.|Đừng kéo lê cái ghế trên sàn.
+bend|bend your knees|gập đầu gối|Bend your knees when you lift a box.|Hãy gập đầu gối khi nhấc hộp.
+hug|big hug|cái ôm thật chặt|Give your grandma a big hug.|Ôm bà một cái thật chặt đi.
+lean|lean against|dựa vào|Don't lean against the door.|Đừng dựa vào cửa.
+nod|nod off|ngủ gật|I often nod off on the bus.|Tôi hay ngủ gật trên xe buýt.
+pray|pray together|cùng cầu nguyện|The family will pray together tonight.|Tối nay cả nhà sẽ cùng cầu nguyện.
+rub|rub your hands|xoa tay|Rub your hands together to keep warm.|Xoa hai tay vào nhau cho ấm.
+scratch|scratch your head|gãi đầu|Don't scratch your head in the interview.|Đừng gãi đầu trong buổi phỏng vấn.
+slide|slide down|trượt xuống|The kids slide down the hill.|Bọn trẻ trượt xuống đồi.
+spill|spill water|làm đổ nước|Be careful not to spill water on the laptop.|Cẩn thận đừng làm đổ nước lên máy tính.
+spin|spin the wheel|quay bánh xe|Spin the wheel and win a prize.|Quay bánh xe để trúng thưởng.
+split|split up|chia tay|They decided to split up last year.|Năm ngoái họ quyết định chia tay.
+spread|spread butter|phết bơ|I spread butter on warm toast.|Tôi phết bơ lên bánh mì nướng còn ấm.
+squeeze|squeeze in|chen vào|Can I squeeze in next to you?|Tôi chen vào ngồi cạnh bạn được không?
+stretch|stretch before|giãn cơ trước khi|Always stretch before you run.|Luôn giãn cơ trước khi chạy.
+sweep|sweep the yard|quét sân|I sweep the yard every morning.|Sáng nào tôi cũng quét sân.
+swing|swing your arms|vung tay|Swing your arms when you walk.|Hãy vung tay khi đi bộ.
+tear|tear the paper|xé tờ giấy|Tear the paper along the line.|Xé tờ giấy theo đường kẻ.
+wipe|wipe your feet|chùi chân|Wipe your feet before you come in.|Chùi chân trước khi vào nhà.
+yell|yell for help|la lên cầu cứu|Yell for help if you are in danger.|Hãy la lên cầu cứu nếu gặp nguy hiểm.
+dig|dig up|đào lên|The dog likes to dig up my flowers.|Con chó thích đào hoa của tôi lên.
+dive|dive in|nhảy xuống nước|The water is deep, so you can dive in.|Nước sâu nên bạn nhảy xuống được.
+chase|chase after|đuổi theo|Dogs love to chase after balls.|Chó rất thích đuổi theo bóng.
+grab|grab a bite|ăn nhanh chút gì|Let's grab a bite before the movie.|Ăn nhanh chút gì trước khi xem phim đi.
+bury|bury a bone|chôn cục xương|I saw the dog bury a bone in the yard.|Tôi thấy con chó chôn một cục xương ngoài sân.
+cover|cover the pot|đậy nồi|Cover the pot and cook for ten minutes.|Đậy nồi lại và nấu mười phút.
+hunt|hunt for|săn tìm|We hunt for cheap flights online.|Chúng tôi săn vé máy bay rẻ trên mạng.
+sew|sew a button|đính cúc|Can you sew a button on my shirt?|Bạn đính giúp tôi cái cúc áo được không?
+shave|shave every day|cạo râu mỗi ngày|My father has to shave every day.|Bố tôi phải cạo râu mỗi ngày.
+stare|stare out the window|nhìn chằm chằm ra cửa sổ|Don't stare out the window in class.|Đừng nhìn chằm chằm ra cửa sổ trong giờ học.
+gather|gather information|thu thập thông tin|We need to gather information first.|Chúng ta cần thu thập thông tin trước.
+greet|greet each other|chào nhau|We greet each other with a smile.|Chúng tôi chào nhau bằng nụ cười.
+harm|do harm|gây hại|Too much sun can do harm to your skin.|Phơi nắng quá nhiều có thể gây hại cho da.
+injure|injure your back|làm đau lưng|Be careful not to injure your back.|Cẩn thận đừng làm đau lưng.
+paint|paint a picture|vẽ một bức tranh|The kids paint a picture of the sea.|Bọn trẻ vẽ một bức tranh về biển.
+pause|pause for a moment|dừng một lát|Let's pause for a moment and think.|Dừng một lát để suy nghĩ đã.
+quit|quit my job|nghỉ việc|I want to quit my job and travel.|Tôi muốn nghỉ việc để đi du lịch.
+rescue|rescue a dog|cứu một con chó|We decided to rescue a dog from the street.|Chúng tôi quyết định cứu một con chó ngoài đường.
+sail|sail across|đi thuyền băng qua|They plan to sail across the bay.|Họ định đi thuyền băng qua vịnh.
+suffer|suffer a lot|chịu đựng nhiều|Farmers suffer a lot in a dry year.|Năm hạn hán nông dân chịu khổ rất nhiều.
+treat|treat people|đối xử với mọi người|Treat people the way you want to be treated.|Hãy đối xử với mọi người như cách bạn muốn được đối xử.

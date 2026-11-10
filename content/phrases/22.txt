@@ -62,3 +62,40 @@ level|beginner level|trình độ sơ cấp|This course is at beginner level.|Kh
 maximum|maximum speed|tốc độ tối đa|The maximum speed here is sixty.|Tốc độ tối đa ở đây là sáu mươi.
 inch|every inch|từng ngóc ngách|We searched every inch of the house.|Chúng tôi lục từng ngóc ngách trong nhà.
 pound|a pound of|một pao|A pound of beef, please.|Cho tôi một pao thịt bò.
+zero|below zero|dưới không độ|It was ten degrees below zero.|Trời lạnh mười độ dưới không.
+thirteen|thirteen people|mười ba người|There are thirteen people in my class.|Lớp tôi có mười ba người.
+fourteen|at fourteen|lúc mười bốn tuổi|She started to work at fourteen.|Cô ấy bắt đầu đi làm lúc mười bốn tuổi.
+fifteen|fifteen years|mười lăm năm|We have been friends for fifteen years.|Chúng tôi là bạn mười lăm năm rồi.
+sixteen|sixteen years old|mười sáu tuổi|My daughter is sixteen years old.|Con gái tôi mười sáu tuổi.
+seventeen|page seventeen|trang mười bảy|Open your book to page seventeen.|Mở sách ra trang mười bảy.
+eighteen|eighteen months|mười tám tháng|The baby is eighteen months old.|Em bé được mười tám tháng tuổi.
+nineteen|nineteen years old|mười chín tuổi|He joined the army at nineteen years old.|Anh ấy nhập ngũ lúc mười chín tuổi.
+forty|forty hours|bốn mươi tiếng|I work forty hours a week.|Tôi làm việc bốn mươi tiếng một tuần.
+fifty|fifty thousand|năm mươi nghìn|A bowl of pho is about fifty thousand dong.|Một bát phở khoảng năm mươi nghìn đồng.
+sixty|sixty years old|sáu mươi tuổi|My father is sixty years old.|Bố tôi sáu mươi tuổi.
+seventy|seventy years|bảy mươi năm|The bridge is seventy years old.|Cây cầu đã bảy mươi năm tuổi.
+eighty|eighty percent|tám mươi phần trăm|About eighty percent of the class passed.|Khoảng tám mươi phần trăm lớp đã đỗ.
+ninety|ninety years old|chín mươi tuổi|My grandma is ninety years old.|Bà tôi chín mươi tuổi.
+billion|a billion people|một tỷ người|More than a billion people live in India.|Hơn một tỷ người sống ở Ấn Độ.
+quarter|a quarter of|một phần tư|A quarter of the students are absent.|Một phần tư số học sinh vắng mặt.
+dozen|half a dozen|nửa tá|I bought half a dozen oranges.|Tôi mua nửa tá cam.
+fourth|the fourth time|lần thứ tư|This is the fourth time I've called.|Đây là lần thứ tư tôi gọi.
+fifth|the fifth floor|tầng năm|Our office is on the fifth floor.|Văn phòng chúng tôi ở tầng năm.
+double|double the price|gấp đôi giá|It costs double the price in the city.|Ở thành phố giá gấp đôi.
+single|every single day|từng ngày một|I call my mom every single day.|Ngày nào tôi cũng gọi cho mẹ.
+total|total cost|tổng chi phí|What is the total cost of the trip?|Tổng chi phí của chuyến đi là bao nhiêu?
+percent|a hundred percent|một trăm phần trăm|I agree with you a hundred percent.|Tôi đồng ý với bạn một trăm phần trăm.
+count|count on|trông cậy vào|You can count on me.|Bạn có thể trông cậy vào tôi.
+plus|two plus two|hai cộng hai|Even a child knows two plus two.|Đến trẻ con cũng biết hai cộng hai.
+minus|ten minus three|mười trừ ba|What is ten minus three?|Mười trừ ba bằng mấy?
+height|the height of|chiều cao của|What is the height of this building?|Tòa nhà này cao bao nhiêu?
+length|the length of|chiều dài của|Measure the length of the table.|Hãy đo chiều dài cái bàn.
+width|width and height|chiều rộng và chiều cao|Tell me the width and height of the box.|Cho tôi biết chiều rộng và chiều cao của cái hộp.
+meter|a hundred meters|một trăm mét|The shop is a hundred meters from here.|Cửa hàng cách đây một trăm mét.
+kilometer|ten kilometers|mười ki-lô-mét|The beach is ten kilometers away.|Bãi biển cách đây mười ki-lô-mét.
+kilogram|two kilograms|hai ki-lô-gam|I want two kilograms of rice.|Tôi muốn hai ki-lô-gam gạo.
+liter|two liters|hai lít|Drink two liters of water a day.|Hãy uống hai lít nước mỗi ngày.
+mile|a mile from|cách một dặm|The school is a mile from my house.|Trường cách nhà tôi một dặm.
+maximum|maximum of|tối đa là|You can bring a maximum of two bags.|Bạn được mang tối đa hai túi.
+inch|inch by inch|từng chút một|The car moved inch by inch.|Chiếc xe nhích từng chút một.
+pound|ten pounds|mười pao|I lost ten pounds this year.|Năm nay tôi giảm được mười pao.

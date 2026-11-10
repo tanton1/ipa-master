@@ -49,3 +49,53 @@ rural|rural area|vùng nông thôn|Life in a rural area is quiet.|Cuộc sống 
 Singapore|fly to Singapore|bay sang Singapore|It takes two hours to fly to Singapore.|Bay sang Singapore mất hai tiếng.
 Laos|Vietnam and Laos|Việt Nam và Lào|Vietnam and Laos share a long border.|Việt Nam và Lào có chung đường biên giới dài.
 Cambodia|travel to Cambodia|du lịch Campuchia|You can travel to Cambodia by bus.|Bạn có thể đi xe buýt sang Campuchia.
+continent|the largest continent|châu lục lớn nhất|Asia is the largest continent.|Châu Á là châu lục lớn nhất.
+Asia|in Asia|ở châu Á|Vietnam is a country in Asia.|Việt Nam là một nước ở châu Á.
+Europe|in Europe|ở châu Âu|My cousin lives in Europe.|Anh họ tôi sống ở châu Âu.
+Africa|in Africa|ở châu Phi|My uncle worked as a doctor in Africa.|Chú tôi từng làm bác sĩ ở châu Phi.
+America|South America|Nam Mỹ|Brazil is in South America.|Brazil nằm ở Nam Mỹ.
+Vietnam|in Vietnam|ở Việt Nam|How long have you been in Vietnam?|Bạn ở Việt Nam bao lâu rồi?
+Vietnamese|Vietnamese food|món ăn Việt Nam|Do you like Vietnamese food?|Bạn có thích món ăn Việt Nam không?
+China|made in China|sản xuất tại Trung Quốc|This phone was made in China.|Chiếc điện thoại này sản xuất tại Trung Quốc.
+Chinese|Chinese food|món ăn Trung Quốc|Let's have Chinese food tonight.|Tối nay ăn món Trung Quốc đi.
+Japan|in Japan|ở Nhật Bản|My sister works in Japan.|Chị tôi làm việc ở Nhật Bản.
+Japanese|Japanese car|xe hơi Nhật|My dad drives a Japanese car.|Bố tôi lái xe hơi Nhật.
+Korea|in Korea|ở Hàn Quốc|It snows a lot in Korea.|Ở Hàn Quốc tuyết rơi nhiều.
+Korean|Korean food|món ăn Hàn Quốc|My friends love Korean food.|Bạn bè tôi mê món ăn Hàn Quốc.
+Thailand|in Thailand|ở Thái Lan|We spent a week in Thailand.|Chúng tôi ở Thái Lan một tuần.
+Thai|Thai massage|mát-xa kiểu Thái|I tried a Thai massage in Bangkok.|Tôi đã thử mát-xa kiểu Thái ở Bangkok.
+France|from France|đến từ Pháp|Our teacher is from France.|Giáo viên của chúng tôi đến từ Pháp.
+French|French fries|khoai tây chiên|I'll have a burger and French fries.|Cho tôi một bánh burger và khoai tây chiên.
+Germany|in Germany|ở Đức|He studied in Germany for two years.|Anh ấy học ở Đức hai năm.
+German|German car|xe hơi Đức|She bought a German car.|Cô ấy mua một chiếc xe hơi Đức.
+England|in England|ở Anh|It rains a lot in England.|Ở Anh mưa nhiều.
+British|British accent|giọng Anh|He speaks with a British accent.|Anh ấy nói giọng Anh.
+Canada|in Canada|ở Canada|Winters are very cold in Canada.|Mùa đông ở Canada rất lạnh.
+Australia|in Australia|ở Úc|My aunt lives in Australia.|Dì tôi sống ở Úc.
+India|from India|đến từ Ấn Độ|This tea is from India.|Trà này đến từ Ấn Độ.
+Russia|from Russia|đến từ Nga|My neighbor is from Russia.|Hàng xóm của tôi đến từ Nga.
+Italy|in Italy|ở Ý|We ate great pizza in Italy.|Chúng tôi ăn pizza rất ngon ở Ý.
+Spain|trip to Spain|chuyến đi Tây Ban Nha|They are planning a trip to Spain.|Họ đang lên kế hoạch đi Tây Ban Nha.
+Spanish|Spanish class|lớp tiếng Tây Ban Nha|I take a Spanish class on Mondays.|Thứ Hai tôi học lớp tiếng Tây Ban Nha.
+American|American movie|phim Mỹ|We watched an American movie.|Chúng tôi xem một bộ phim Mỹ.
+foreigner|as a foreigner|là người nước ngoài|As a foreigner, I find the traffic scary.|Là người nước ngoài, tôi thấy giao thông ở đây đáng sợ.
+region|in this region|ở vùng này|Coffee grows well in this region.|Cà phê trồng tốt ở vùng này.
+province|in the province|trong tỉnh|It is the biggest lake in the province.|Đó là hồ lớn nhất trong tỉnh.
+district|business district|khu thương mại|The bank is in the business district.|Ngân hàng nằm trong khu thương mại.
+coast|on the coast|ven biển|Da Nang is a city on the coast.|Đà Nẵng là một thành phố ven biển.
+shore|near the shore|gần bờ|The boat stayed near the shore.|Con thuyền ở gần bờ.
+bay|in the bay|trong vịnh|There are many small islands in the bay.|Trong vịnh có nhiều đảo nhỏ.
+western|western countries|các nước phương Tây|Many western countries celebrate Christmas.|Nhiều nước phương Tây đón Giáng sinh.
+eastern|eastern Europe|Đông Âu|She comes from eastern Europe.|Cô ấy đến từ Đông Âu.
+northern|northern lights|cực quang|I dream of seeing the northern lights.|Tôi mơ được ngắm cực quang.
+southern|southern food|món ăn miền Nam|Southern food is a little sweet.|Món ăn miền Nam hơi ngọt.
+overseas|work overseas|làm việc ở nước ngoài|Many nurses work overseas.|Nhiều y tá làm việc ở nước ngoài.
+nationality|what nationality|quốc tịch gì|What nationality is your teacher?|Giáo viên của bạn quốc tịch gì?
+native|native language|tiếng mẹ đẻ|Vietnamese is my native language.|Tiếng Việt là tiếng mẹ đẻ của tôi.
+tropical|tropical country|nước nhiệt đới|Vietnam is a tropical country.|Việt Nam là một nước nhiệt đới.
+countryside|countryside life|cuộc sống thôn quê|I miss the quiet countryside life.|Tôi nhớ cuộc sống thôn quê yên tĩnh.
+urban|urban life|cuộc sống đô thị|Urban life can be stressful.|Cuộc sống đô thị có thể căng thẳng.
+rural|rural school|trường nông thôn|She teaches at a rural school.|Cô ấy dạy ở một trường nông thôn.
+Singapore|in Singapore|ở Singapore|My brother works in Singapore.|Anh tôi làm việc ở Singapore.
+Laos|trip to Laos|chuyến đi Lào|We took a bus trip to Laos.|Chúng tôi đi xe buýt sang Lào.
+Cambodia|border with Cambodia|biên giới với Campuchia|Tay Ninh shares a border with Cambodia.|Tây Ninh có chung biên giới với Campuchia.

@@ -56,3 +56,46 @@ earthquake|strong earthquake|trận động đất mạnh|A strong earthquake hi
 root|root of the problem|gốc rễ vấn đề|We need to find the root of the problem.|Chúng ta cần tìm ra gốc rễ của vấn đề.
 waterfall|beautiful waterfall|thác nước đẹp|There is a beautiful waterfall near Da Lat.|Gần Đà Lạt có một thác nước rất đẹp.
 rose|red rose|hoa hồng đỏ|He gave her a red rose.|Anh ấy tặng cô một bông hồng đỏ.
+sun|the sun rises|mặt trời mọc|The sun rises early in summer.|Mùa hè mặt trời mọc sớm.
+moon|the moon is|mặt trăng thì|The moon is very far from the earth.|Mặt trăng ở rất xa trái đất.
+sky|in the sky|trên bầu trời|There are many stars in the sky.|Có nhiều sao trên bầu trời.
+cloud|white clouds|mây trắng|I see white clouds over the hills.|Tôi thấy mây trắng trên những ngọn đồi.
+snow|play in the snow|chơi trong tuyết|The kids play in the snow.|Bọn trẻ chơi trong tuyết.
+wind|cold wind|gió lạnh|A cold wind is blowing from the north.|Gió lạnh đang thổi từ phía bắc.
+storm|after the storm|sau cơn bão|The streets were flooded after the storm.|Đường phố ngập sau cơn bão.
+thunder|hear thunder|nghe tiếng sấm|Did you hear thunder just now?|Bạn vừa nghe thấy tiếng sấm không?
+lightning|a flash of lightning|một tia chớp|A flash of lightning lit up the room.|Một tia chớp làm sáng cả căn phòng.
+rainbow|see a rainbow|thấy cầu vồng|We might see a rainbow after the rain.|Sau cơn mưa có thể chúng ta sẽ thấy cầu vồng.
+fog|morning fog|sương mù buổi sáng|The morning fog covers the valley.|Sương mù buổi sáng phủ kín thung lũng.
+ice|ice cream|kem|Chocolate is my favorite ice cream.|Sô-cô-la là vị kem tôi thích nhất.
+climate|hot climate|khí hậu nóng|Vietnam has a hot climate.|Việt Nam có khí hậu nóng.
+forest|in the forest|trong rừng|Many animals live in the forest.|Nhiều loài động vật sống trong rừng.
+stream|cross the stream|băng qua suối|We had to cross the stream on foot.|Chúng tôi phải lội bộ qua suối.
+desert|in the desert|ở sa mạc|It rarely rains in the desert.|Ở sa mạc hiếm khi mưa.
+island|small island|hòn đảo nhỏ|They live on a small island.|Họ sống trên một hòn đảo nhỏ.
+lake|across the lake|bên kia hồ|We took a boat across the lake.|Chúng tôi đi thuyền sang bên kia hồ.
+hill|up the hill|lên đồi|It's a long walk up the hill.|Đi bộ lên đồi khá xa.
+valley|in the valley|trong thung lũng|There is a village in the valley.|Có một ngôi làng trong thung lũng.
+ocean|ocean view|hướng nhìn ra đại dương|Our room has an ocean view.|Phòng chúng tôi nhìn ra đại dương.
+sand|in the sand|trên cát|The children are playing in the sand.|Bọn trẻ đang chơi trên cát.
+rock|sit on a rock|ngồi trên tảng đá|We sit on a rock and watch the sea.|Chúng tôi ngồi trên tảng đá ngắm biển.
+stone|throw a stone|ném đá|Don't throw a stone at the dog.|Đừng ném đá vào con chó.
+soil|dry soil|đất khô|Nothing grows in dry soil.|Đất khô thì không gì mọc được.
+grass|cut the grass|cắt cỏ|My dad will cut the grass on Sunday.|Chủ nhật bố tôi sẽ cắt cỏ.
+plant|plant a tree|trồng cây|We plant a tree every spring.|Mùa xuân nào chúng tôi cũng trồng một cây.
+leaf|green leaf|lá xanh|A green leaf fell on my book.|Một chiếc lá xanh rơi xuống sách của tôi.
+branch|tree branch|cành cây|A tree branch fell on the car.|Một cành cây rơi xuống xe.
+wood|a piece of wood|một miếng gỗ|He made a toy from a piece of wood.|Anh ấy làm đồ chơi từ một miếng gỗ.
+smoke|cigarette smoke|khói thuốc lá|I can't stand cigarette smoke.|Tôi không chịu được khói thuốc lá.
+earth|the earth is|trái đất thì|The earth is getting warmer.|Trái đất đang nóng lên.
+nature|love nature|yêu thiên nhiên|My kids love nature and animals.|Các con tôi yêu thiên nhiên và động vật.
+sunny|sunny weather|thời tiết nắng đẹp|We had sunny weather all week.|Cả tuần trời nắng đẹp.
+cloudy|cloudy day|ngày nhiều mây|It's a cloudy day, but it's warm.|Hôm nay nhiều mây nhưng ấm.
+rainy|rainy season|mùa mưa|Roads often flood in the rainy season.|Mùa mưa đường hay bị ngập.
+windy|windy day|ngày nhiều gió|It's a windy day, so hold your hat.|Hôm nay gió to, giữ mũ nhé.
+seed|sunflower seeds|hạt hướng dương|We eat sunflower seeds at Tet.|Tết chúng tôi ăn hạt hướng dương.
+flood|flash flood|lũ quét|A flash flood hit the village.|Một trận lũ quét ập vào ngôi làng.
+earthquake|after the earthquake|sau trận động đất|Many houses fell after the earthquake.|Nhiều ngôi nhà sập sau trận động đất.
+root|tree roots|rễ cây|The tree roots broke the sidewalk.|Rễ cây làm vỡ vỉa hè.
+waterfall|near the waterfall|gần thác nước|We had a picnic near the waterfall.|Chúng tôi đi dã ngoại gần thác nước.
+rose|a bunch of roses|một bó hoa hồng|He gave her a bunch of roses.|Anh ấy tặng cô ấy một bó hoa hồng.

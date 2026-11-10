@@ -58,3 +58,44 @@ candle|light a candle|thắp nến|Light a candle on the cake.|Thắp nến trê
 vase|flower vase|bình hoa|Put the roses in a flower vase.|Cắm hoa hồng vào bình.
 handle|door handle|tay nắm cửa|The door handle is broken.|Tay nắm cửa bị hỏng.
 lock|lock the door|khóa cửa|Don't forget to lock the door.|Đừng quên khóa cửa.
+furniture|furniture store|cửa hàng nội thất|We bought the sofa at a furniture store.|Chúng tôi mua ghế sofa ở cửa hàng nội thất.
+apartment|rent an apartment|thuê căn hộ|I want to rent an apartment downtown.|Tôi muốn thuê một căn hộ ở trung tâm.
+ceiling|high ceiling|trần nhà cao|The living room has a high ceiling.|Phòng khách có trần cao.
+yard|front yard|sân trước|The kids play in the front yard.|Bọn trẻ chơi ở sân trước.
+fence|wooden fence|hàng rào gỗ|The dog jumped over the wooden fence.|Con chó nhảy qua hàng rào gỗ.
+balcony|balcony door|cửa ban công|Please close the balcony door.|Làm ơn đóng cửa ban công lại.
+garage|in the garage|trong ga-ra|There are two bikes in the garage.|Có hai chiếc xe đạp trong ga-ra.
+closet|in the closet|trong tủ quần áo|Your coat is in the closet.|Áo khoác của bạn ở trong tủ.
+drawer|open the drawer|mở ngăn kéo|Open the drawer and take a spoon.|Mở ngăn kéo lấy cái thìa đi.
+shelf|book shelf|kệ sách|Put it back on the book shelf.|Đặt nó lại lên kệ sách.
+carpet|clean the carpet|giặt thảm|We need to clean the carpet.|Chúng ta cần giặt thảm.
+curtain|open the curtains|mở rèm|Open the curtains and let the sun in.|Mở rèm cho nắng vào đi.
+heater|turn on the heater|bật máy sưởi|It's cold. Turn on the heater.|Trời lạnh. Bật máy sưởi đi.
+fridge|fridge door|cửa tủ lạnh|Don't leave the fridge door open.|Đừng để cửa tủ lạnh mở.
+oven|in the oven|trong lò nướng|The cake is still in the oven.|Bánh vẫn đang trong lò.
+stove|on the stove|trên bếp|Leave the pot on the stove for ten minutes.|Để nồi trên bếp mười phút.
+microwave|in the microwave|trong lò vi sóng|Heat it in the microwave for a minute.|Hâm nó trong lò vi sóng một phút.
+tap|turn off the tap|khóa vòi nước|Turn off the tap when you brush your teeth.|Khóa vòi nước khi đánh răng.
+brush|paint brush|cọ sơn|I need a bigger paint brush.|Tôi cần một cái cọ sơn to hơn.
+comb|comb and brush|lược và bàn chải|I keep a comb and brush in my bag.|Tôi để lược và bàn chải trong túi.
+toothbrush|new toothbrush|bàn chải đánh răng mới|I need a new toothbrush.|Tôi cần một cái bàn chải đánh răng mới.
+toothpaste|toothpaste tube|tuýp kem đánh răng|The toothpaste tube is almost empty.|Tuýp kem đánh răng sắp hết rồi.
+shampoo|baby shampoo|dầu gội trẻ em|We use baby shampoo for our son.|Chúng tôi dùng dầu gội trẻ em cho con trai.
+scissors|sharp scissors|kéo sắc|Be careful with sharp scissors.|Cẩn thận với kéo sắc.
+needle|thread a needle|xâu kim|My grandma can still thread a needle.|Bà tôi vẫn xâu kim được.
+thread|needle and thread|kim và chỉ|I need a needle and thread to fix this shirt.|Tôi cần kim và chỉ để sửa cái áo này.
+rope|jump rope|nhảy dây|The girls jump rope at recess.|Các bạn gái nhảy dây vào giờ ra chơi.
+hammer|use a hammer|dùng búa|Use a hammer to fix the chair.|Dùng búa để sửa cái ghế.
+ladder|hold the ladder|giữ thang|Can you hold the ladder for me?|Bạn giữ thang giúp tôi được không?
+bucket|bucket and mop|xô và cây lau nhà|Bring the bucket and mop here.|Mang xô và cây lau nhà lại đây.
+broom|sweep with a broom|quét bằng chổi|Sweep with a broom before you mop.|Quét bằng chổi trước khi lau nhà.
+umbrella|open an umbrella|mở ô|Don't open an umbrella inside the house.|Đừng mở ô trong nhà.
+wallet|lost my wallet|làm mất ví|I lost my wallet on the bus.|Tôi làm mất ví trên xe buýt.
+charger|laptop charger|sạc máy tính xách tay|I forgot my laptop charger at home.|Tôi để quên sạc máy tính ở nhà.
+plug|pull the plug|rút phích cắm|Pull the plug before you clean the fan.|Rút phích cắm trước khi lau quạt.
+switch|switch off|tắt đi|Switch off the lights when you leave.|Tắt đèn khi bạn ra ngoài.
+wire|wire fence|hàng rào dây thép|There is a wire fence around the farm.|Có hàng rào dây thép quanh trang trại.
+candle|blow out the candles|thổi nến|Help your sister blow out the candles.|Giúp em gái thổi nến đi.
+vase|a vase of flowers|một bình hoa|There is a vase of flowers on the table.|Có một bình hoa trên bàn.
+handle|handle with care|nhẹ tay, cẩn thận|Glass inside. Please handle with care.|Bên trong có thủy tinh. Xin nhẹ tay.
+lock|door lock|khóa cửa|The door lock is broken.|Khóa cửa bị hỏng.

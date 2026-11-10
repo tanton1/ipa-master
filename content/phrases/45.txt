@@ -49,3 +49,53 @@ direct|direct contact|tiếp xúc trực tiếp|Avoid direct contact with the su
 fake|fake news|tin giả|Don't share fake news.|Đừng chia sẻ tin giả.
 distant|distant relative|họ hàng xa|He is a distant relative of mine.|Anh ấy là họ hàng xa của tôi.
 lively|lively market|khu chợ nhộn nhịp|Ben Thanh is a lively market.|Bến Thành là một khu chợ nhộn nhịp.
+ancient|ancient history|lịch sử cổ đại|I love reading about ancient history.|Tôi thích đọc về lịch sử cổ đại.
+broken|broken glass|kính vỡ|Be careful of the broken glass.|Cẩn thận kính vỡ.
+central|central park|công viên trung tâm|We had lunch in the central park.|Chúng tôi ăn trưa ở công viên trung tâm.
+chief|chief of police|cảnh sát trưởng|The chief of police spoke on TV.|Cảnh sát trưởng phát biểu trên tivi.
+common|in common|điểm chung|We have a lot in common.|Chúng tôi có nhiều điểm chung.
+cool|cool weather|thời tiết mát mẻ|I love the cool weather in Da Lat.|Tôi thích thời tiết mát mẻ ở Đà Lạt.
+crowded|crowded street|con phố đông đúc|We walked down a crowded street.|Chúng tôi đi bộ trên một con phố đông đúc.
+curly|short curly|ngắn và xoăn|He has short curly hair.|Anh ấy có mái tóc ngắn xoăn.
+dull|dull day|ngày buồn tẻ|It was a dull day at the office.|Đó là một ngày buồn tẻ ở văn phòng.
+electric|electric fan|quạt điện|Turn on the electric fan.|Bật quạt điện lên đi.
+entire|the entire day|cả ngày|I spent the entire day cleaning.|Tôi dành cả ngày để dọn dẹp.
+extra|extra money|tiền dư|I teach at night to earn extra money.|Tôi dạy buổi tối để kiếm thêm tiền.
+familiar|familiar with|quen với|Are you familiar with this app?|Bạn có quen dùng ứng dụng này không?
+fluent|fluent in|thành thạo (ngôn ngữ)|She is fluent in three languages.|Cô ấy thành thạo ba thứ tiếng.
+former|former student|học sinh cũ|A former student came to visit me.|Một học sinh cũ đến thăm tôi.
+frozen|frozen fish|cá đông lạnh|We buy frozen fish at the supermarket.|Chúng tôi mua cá đông lạnh ở siêu thị.
+handsome|tall and handsome|cao ráo đẹp trai|Her brother is tall and handsome.|Anh trai cô ấy cao ráo đẹp trai.
+helpful|very helpful|rất nhiệt tình giúp đỡ|The staff were very helpful.|Nhân viên rất nhiệt tình giúp đỡ.
+ill|fall ill|ngã bệnh|Many people fall ill in winter.|Mùa đông nhiều người ngã bệnh.
+lost|lost and found|quầy đồ thất lạc|Check the lost and found at the station.|Hãy kiểm tra quầy đồ thất lạc ở nhà ga.
+magic|magic show|buổi diễn ảo thuật|The kids loved the magic show.|Bọn trẻ rất thích buổi diễn ảo thuật.
+mild|mild fever|sốt nhẹ|The baby has a mild fever.|Em bé bị sốt nhẹ.
+mixed|mixed salad|salad trộn|I'll have a mixed salad.|Cho tôi một đĩa salad trộn.
+nearby|nearby town|thị trấn gần đó|We stayed in a nearby town.|Chúng tôi ở lại một thị trấn gần đó.
+noisy|noisy neighbors|hàng xóm ồn ào|We have noisy neighbors upstairs.|Chúng tôi có hàng xóm ồn ào ở tầng trên.
+opposite|opposite side|phía đối diện|The bank is on the opposite side of the road.|Ngân hàng ở phía bên kia đường.
+peaceful|peaceful life|cuộc sống yên bình|They live a peaceful life in the country.|Họ sống cuộc sống yên bình ở quê.
+pure|pure gold|vàng nguyên chất|The ring is made of pure gold.|Chiếc nhẫn làm bằng vàng nguyên chất.
+rare|rare chance|cơ hội hiếm có|This is a rare chance to meet her.|Đây là cơ hội hiếm có để gặp cô ấy.
+regular|regular customer|khách quen|He is a regular customer at this cafe.|Anh ấy là khách quen của quán cà phê này.
+sleepy|feel sleepy|thấy buồn ngủ|I feel sleepy after lunch.|Ăn trưa xong tôi thấy buồn ngủ.
+slim|slim and tall|mảnh mai và cao|She is slim and tall like her mother.|Cô ấy mảnh mai và cao giống mẹ.
+spare|spare key|chìa khóa dự phòng|I keep a spare key at my sister's house.|Tôi để một chìa khóa dự phòng ở nhà chị gái.
+sudden|sudden change|thay đổi đột ngột|There was a sudden change in the weather.|Thời tiết thay đổi đột ngột.
+tidy|tidy room|căn phòng gọn gàng|She always keeps a tidy room.|Cô ấy luôn giữ phòng gọn gàng.
+urgent|urgent message|tin nhắn khẩn|I have an urgent message for you.|Tôi có một tin nhắn khẩn cho bạn.
+vast|vast area|vùng rộng lớn|The forest covers a vast area.|Khu rừng trải trên một vùng rộng lớn.
+weird|weird noise|tiếng động lạ|The car is making a weird noise.|Xe đang phát ra tiếng động lạ.
+worth|worth a try|đáng để thử|The new cafe is worth a try.|Quán cà phê mới đáng để thử.
+elderly|elderly parents|bố mẹ già|He visits his elderly parents every Sunday.|Chủ nhật nào anh ấy cũng về thăm bố mẹ già.
+enormous|enormous amount|lượng khổng lồ|We wasted an enormous amount of time.|Chúng tôi lãng phí một lượng thời gian khổng lồ.
+instant|instant coffee|cà phê hòa tan|I drink instant coffee at the office.|Ở văn phòng tôi uống cà phê hòa tan.
+harmful|harmful to|có hại cho|Smoking is harmful to your health.|Hút thuốc có hại cho sức khỏe.
+useless|completely useless|hoàn toàn vô dụng|This old map is completely useless.|Tấm bản đồ cũ này hoàn toàn vô dụng.
+careless|careless driver|tài xế cẩu thả|A careless driver hit my bike.|Một tài xế cẩu thả đã đâm vào xe đạp của tôi.
+homeless|homeless shelter|nhà tạm cho người vô gia cư|She helps at a homeless shelter.|Cô ấy làm tình nguyện ở nhà tạm cho người vô gia cư.
+direct|direct flight|chuyến bay thẳng|We took a direct flight to Seoul.|Chúng tôi đi chuyến bay thẳng đến Seoul.
+fake|fake money|tiền giả|The shop found some fake money.|Cửa hàng phát hiện một ít tiền giả.
+distant|distant future|tương lai xa|Maybe in the distant future.|Có lẽ là trong tương lai xa.
+lively|lively music|nhạc sôi động|The bar plays lively music.|Quán bar bật nhạc sôi động.

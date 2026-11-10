@@ -49,3 +49,53 @@ waste|waste time|lãng phí thời gian|Don't waste time on your phone.|Đừng 
 deliver|deliver a package|giao một gói hàng|The shipper will deliver a package this afternoon.|Chiều nay người giao hàng sẽ giao một gói hàng.
 collect|collect stamps|sưu tầm tem|My grandfather likes to collect stamps.|Ông tôi thích sưu tầm tem.
 celebrate|celebrate a birthday|tổ chức sinh nhật|We usually celebrate a birthday with a cake.|Chúng tôi thường tổ chức sinh nhật bằng một chiếc bánh.
+accept|accept an offer|nhận lời đề nghị|She decided to accept an offer from the bank.|Cô ấy quyết định nhận lời đề nghị từ ngân hàng.
+add|add up|cộng lại|Add up the numbers, please.|Cộng các con số lại giúp tôi.
+admit|admit that|thừa nhận rằng|I admit that I was wrong.|Tôi thừa nhận là mình đã sai.
+advise|advise you to|khuyên bạn nên|I advise you to book early.|Tôi khuyên bạn nên đặt sớm.
+apologize|apologize to|xin lỗi ai|You should apologize to her.|Bạn nên xin lỗi cô ấy.
+argue|argue about|tranh cãi về|They argue about money.|Họ tranh cãi về tiền bạc.
+arrange|arrange a time|sắp xếp thời gian|Let's arrange a time to meet.|Hãy sắp xếp thời gian gặp nhau.
+attend|attend a meeting|dự một cuộc họp|I have to attend a meeting at nine.|Tôi phải dự một cuộc họp lúc chín giờ.
+avoid|avoid sugar|tránh đường|I try to avoid sugar.|Tôi cố tránh ăn đường.
+check|check out|trả phòng; xem thử|We check out at noon.|Chúng tôi trả phòng lúc trưa.
+compare|compare with|so sánh với|Compare with last year's results.|Hãy so sánh với kết quả năm ngoái.
+complain|complain to|phàn nàn với|I will complain to the manager.|Tôi sẽ phàn nàn với quản lý.
+consider|consider it|cân nhắc điều đó|I will consider it carefully.|Tôi sẽ cân nhắc kỹ điều đó.
+continue|continue working|tiếp tục làm việc|We continue working after lunch.|Sau bữa trưa chúng tôi tiếp tục làm việc.
+describe|describe your day|kể về một ngày của bạn|Can you describe your day?|Bạn kể về một ngày của mình được không?
+discuss|discuss it|thảo luận chuyện đó|Let's discuss it tomorrow.|Mai thảo luận chuyện đó nhé.
+expect|expect to|dự kiến sẽ|I expect to finish by Friday.|Tôi dự kiến xong trước thứ Sáu.
+fail|fail to|không làm được|Don't fail to call me.|Đừng quên gọi cho tôi.
+forgive|forgive and forget|tha thứ và bỏ qua|It's better to forgive and forget.|Tha thứ và bỏ qua thì tốt hơn.
+guess|I guess so|chắc là vậy|Is he coming? I guess so.|Anh ấy có đến không? Chắc là có.
+imagine|can't imagine|không thể hình dung|I can't imagine life without music.|Tôi không thể hình dung cuộc sống thiếu âm nhạc.
+improve|improve your skills|nâng cao kỹ năng của bạn|Practice will improve your skills.|Luyện tập sẽ nâng cao kỹ năng của bạn.
+include|include breakfast|bao gồm bữa sáng|Does the price include breakfast?|Giá đã bao gồm bữa sáng chưa?
+introduce|introduce you to|giới thiệu bạn với|Let me introduce you to my wife.|Để tôi giới thiệu bạn với vợ tôi.
+invite|invite you to|mời bạn đến|I'd like to invite you to dinner.|Tôi muốn mời bạn ăn tối.
+mention|mention it|nhắc đến chuyện đó|Please don't mention it to her.|Xin đừng nhắc chuyện đó với cô ấy.
+notice|notice anything|để ý thấy gì|Did you notice anything strange?|Bạn có để ý thấy gì lạ không?
+order|order a pizza|gọi một cái pizza|Let's order a pizza tonight.|Tối nay gọi pizza đi.
+prepare|prepare for|chuẩn bị cho|I need to prepare for the test.|Tôi cần chuẩn bị cho bài kiểm tra.
+pretend|pretend to be|giả vờ là|The kids pretend to be doctors.|Bọn trẻ giả vờ làm bác sĩ.
+protect|protect your skin|bảo vệ da|Use sunscreen to protect your skin.|Dùng kem chống nắng để bảo vệ da.
+prove|prove that|chứng minh rằng|Can you prove that it's yours?|Bạn chứng minh được nó là của bạn không?
+realize|realize that|nhận ra rằng|I didn't realize that it was so late.|Tôi không nhận ra là đã muộn thế.
+recommend|recommend a book|giới thiệu một cuốn sách|Can you recommend a book for beginners?|Bạn giới thiệu một cuốn sách cho người mới học được không?
+refuse|refuse an offer|từ chối lời đề nghị|It's hard to refuse an offer like that.|Khó mà từ chối một lời đề nghị như thế.
+repeat|repeat that|nhắc lại điều đó|Could you repeat that, please?|Bạn nhắc lại được không?
+reply|reply to a message|trả lời tin nhắn|I forgot to reply to a message from my boss.|Tôi quên trả lời tin nhắn của sếp.
+report|weather report|bản tin thời tiết|Did you see the weather report?|Bạn xem bản tin thời tiết chưa?
+return|return a book|trả sách|I need to return a book to the library.|Tôi cần trả một cuốn sách cho thư viện.
+share|share with|chia sẻ với|I share with my sister.|Tôi chia sẻ với chị gái.
+suggest|suggest that|đề nghị rằng|I suggest that we leave early.|Tôi đề nghị chúng ta đi sớm.
+support|support my family|chu cấp cho gia đình tôi|I work to support my family.|Tôi đi làm để chu cấp cho gia đình.
+suppose|I suppose so|tôi cho là vậy|Will it rain? I suppose so.|Trời sẽ mưa chứ? Tôi cho là vậy.
+translate|translate into|dịch sang|Please translate into Vietnamese.|Xin hãy dịch sang tiếng Việt.
+trust|trust your friends|tin bạn bè của bạn|You can trust your friends.|Bạn có thể tin bạn bè của mình.
+warn|warn about|cảnh báo về|They warn about heavy rain.|Họ cảnh báo về mưa lớn.
+waste|waste money|lãng phí tiền|Don't waste money on that.|Đừng lãng phí tiền vào thứ đó.
+deliver|deliver food|giao đồ ăn|They deliver food until midnight.|Họ giao đồ ăn đến nửa đêm.
+collect|collect coins|sưu tầm tiền xu|My uncle likes to collect coins.|Chú tôi thích sưu tầm tiền xu.
+celebrate|celebrate Tet|đón Tết|We celebrate Tet with our family.|Chúng tôi đón Tết cùng gia đình.

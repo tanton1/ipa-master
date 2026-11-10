@@ -49,3 +49,53 @@ chip|computer chip|chip máy tính|This computer chip is very small.|Con chip m�
 pixel|pixel by pixel|từng điểm ảnh|The photo was edited pixel by pixel.|Bức ảnh được chỉnh sửa từng điểm ảnh.
 emoji|smiley emoji|biểu tượng mặt cười|She replied with a smiley emoji.|Cô ấy trả lời bằng biểu tượng mặt cười.
 selfie|take a selfie|chụp ảnh tự sướng|Let's take a selfie!|Chụp ảnh tự sướng nào!
+device|electronic device|thiết bị điện tử|Turn off every electronic device, please.|Xin hãy tắt mọi thiết bị điện tử.
+laptop|laptop screen|màn hình máy tính xách tay|My laptop screen is too dark.|Màn hình máy tính xách tay của tôi tối quá.
+tablet|tablet computer|máy tính bảng|The kids share one tablet computer.|Bọn trẻ dùng chung một máy tính bảng.
+smartphone|smartphone screen|màn hình điện thoại thông minh|I spend too long looking at my smartphone screen.|Tôi nhìn màn hình điện thoại quá lâu.
+printer|color printer|máy in màu|The office has a color printer.|Văn phòng có một máy in màu.
+speaker|native speaker|người bản ngữ|I practice with a native speaker.|Tôi luyện tập với một người bản ngữ.
+headphones|wear headphones|đeo tai nghe|I wear headphones on the bus.|Tôi đeo tai nghe khi đi xe buýt.
+microphone|speak into the microphone|nói vào micro|Please speak into the microphone.|Xin hãy nói vào micro.
+cable|cable TV|truyền hình cáp|We don't have cable TV at home.|Nhà tôi không có truyền hình cáp.
+wifi|free wifi|wifi miễn phí|This cafe has free wifi.|Quán cà phê này có wifi miễn phí.
+account|create an account|tạo tài khoản|You need to create an account first.|Bạn cần tạo tài khoản trước.
+profile|update your profile|cập nhật hồ sơ của bạn|Update your profile with a new photo.|Cập nhật hồ sơ của bạn bằng một tấm ảnh mới.
+username|choose a username|chọn tên đăng nhập|Choose a username that is easy to remember.|Chọn một tên đăng nhập dễ nhớ.
+file|open the file|mở tệp|I can't open the file you sent.|Tôi không mở được tệp bạn gửi.
+folder|in the folder|trong thư mục|The photos are in the folder called Tet.|Các bức ảnh nằm trong thư mục tên là Tet.
+image|upload an image|tải ảnh lên|Click here to upload an image.|Bấm vào đây để tải ảnh lên.
+link|send me the link|gửi tôi đường dẫn|Can you send me the link?|Bạn gửi tôi đường dẫn được không?
+icon|click the icon|bấm vào biểu tượng|Click the icon to open the app.|Bấm vào biểu tượng để mở ứng dụng.
+update|latest update|bản cập nhật mới nhất|Did you install the latest update?|Bạn cài bản cập nhật mới nhất chưa?
+upload|upload a video|tải video lên|It takes time to upload a video.|Tải một video lên mất khá lâu.
+install|install the update|cài bản cập nhật|Restart to install the update.|Khởi động lại để cài bản cập nhật.
+delete|delete the file|xóa tệp|Don't delete the file yet.|Khoan hãy xóa tệp.
+copy|make a copy|sao một bản|Please make a copy of this form.|Xin sao một bản của mẫu đơn này.
+paste|paste the link|dán đường dẫn|Paste the link in the chat.|Dán đường dẫn vào khung trò chuyện.
+print|print a ticket|in vé|You don't need to print a ticket.|Bạn không cần in vé.
+scroll|scroll up|cuộn lên|Scroll up to see the first message.|Cuộn lên để xem tin nhắn đầu tiên.
+connect|connect with|kết nối với|I use this app to connect with friends.|Tôi dùng ứng dụng này để kết nối với bạn bè.
+digital|digital clock|đồng hồ điện tử|There is a digital clock on the wall.|Có một cái đồng hồ điện tử trên tường.
+virtual|virtual tour|tham quan ảo|Take a virtual tour of the museum.|Hãy tham quan ảo bảo tàng.
+electronic|electronic music|nhạc điện tử|My brother loves electronic music.|Anh tôi mê nhạc điện tử.
+offline|work offline|làm việc ngoại tuyến|You can work offline on the plane.|Bạn có thể làm việc ngoại tuyến trên máy bay.
+wireless|wireless internet|mạng không dây|The hotel has wireless internet.|Khách sạn có mạng không dây.
+security|security camera|máy quay an ninh|We put a security camera in the shop.|Chúng tôi lắp máy quay an ninh trong cửa hàng.
+privacy|respect your privacy|tôn trọng sự riêng tư của bạn|We respect your privacy.|Chúng tôi tôn trọng sự riêng tư của bạn.
+hacker|stop a hacker|chặn tin tặc|A strong password can stop a hacker.|Mật khẩu mạnh có thể chặn tin tặc.
+code|enter the code|nhập mã|Enter the code we sent to your phone.|Nhập mã chúng tôi đã gửi vào điện thoại của bạn.
+system|sound system|dàn âm thanh|The cafe has a great sound system.|Quán cà phê có dàn âm thanh rất hay.
+server|mail server|máy chủ thư|The mail server is slow today.|Hôm nay máy chủ thư chạy chậm.
+application|application form|mẫu đơn đăng ký|Please fill in the application form.|Xin hãy điền vào mẫu đơn đăng ký.
+notification|turn off notifications|tắt thông báo|I turn off notifications at night.|Buổi tối tôi tắt thông báo.
+setting|change the setting|đổi cài đặt|Change the setting to save battery.|Đổi cài đặt để tiết kiệm pin.
+storage|storage space|dung lượng lưu trữ|My phone has no storage space left.|Điện thoại tôi hết dung lượng lưu trữ rồi.
+memory|memory card|thẻ nhớ|The camera needs a new memory card.|Máy ảnh cần một thẻ nhớ mới.
+version|new version|phiên bản mới|A new version of the app is out.|Ứng dụng đã có phiên bản mới.
+browser|open your browser|mở trình duyệt|Open your browser and type the address.|Mở trình duyệt và gõ địa chỉ vào.
+gadget|new gadget|món đồ công nghệ mới|He always buys the latest new gadget.|Anh ấy lúc nào cũng mua món đồ công nghệ mới nhất.
+chip|chocolate chip|vụn sô-cô-la|I love chocolate chip ice cream.|Tôi thích kem vụn sô-cô-la.
+pixel|pixel art|tranh điểm ảnh|The game uses simple pixel art.|Trò chơi dùng tranh điểm ảnh đơn giản.
+emoji|send an emoji|gửi biểu tượng cảm xúc|I just send an emoji when I'm busy.|Lúc bận tôi chỉ gửi một biểu tượng cảm xúc.
+selfie|selfie stick|gậy tự sướng|Tourists carry a selfie stick everywhere.|Khách du lịch mang gậy tự sướng đi khắp nơi.

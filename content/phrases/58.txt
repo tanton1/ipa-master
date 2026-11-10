@@ -50,3 +50,52 @@ philosophy|life philosophy|triết lý sống|What is your life philosophy?|Tri�
 immediate|immediate family|gia đình ruột thịt|Only immediate family came to the wedding.|Chỉ gia đình ruột thịt đến dự đám cưới.
 deliberate|deliberate mistake|lỗi cố ý|It was a deliberate mistake.|Đó là một lỗi cố ý.
 sophisticated|sophisticated system|hệ thống tinh vi|The bank uses a sophisticated system.|Ngân hàng dùng một hệ thống tinh vi.
+responsibility|sense of responsibility|tinh thần trách nhiệm|She has a strong sense of responsibility.|Cô ấy có tinh thần trách nhiệm cao.
+possibility|possibility that|khả năng là|There is a possibility that it will snow.|Có khả năng trời sẽ có tuyết.
+creativity|creativity and imagination|sự sáng tạo và trí tưởng tượng|Art classes build creativity and imagination.|Các lớp mỹ thuật nuôi dưỡng sự sáng tạo và trí tưởng tượng.
+curiosity|natural curiosity|sự tò mò tự nhiên|Children have a natural curiosity.|Trẻ em có sự tò mò tự nhiên.
+scientific|scientific method|phương pháp khoa học|Students learn the scientific method.|Học sinh học phương pháp khoa học.
+democratic|democratic election|bầu cử dân chủ|They held a democratic election.|Họ đã tổ chức một cuộc bầu cử dân chủ.
+dramatic|dramatic ending|cái kết kịch tính|The game had a dramatic ending.|Trận đấu có cái kết kịch tính.
+realistic|be realistic|hãy thực tế|Be realistic about your budget.|Hãy thực tế về ngân sách của bạn.
+romantic|romantic movie|phim lãng mạn|We watched a romantic movie.|Chúng tôi xem một bộ phim lãng mạn.
+automatic|automatic car|xe số tự động|I can only drive an automatic car.|Tôi chỉ lái được xe số tự động.
+academic|academic writing|viết học thuật|This course teaches academic writing.|Khóa học này dạy viết học thuật.
+artistic|artistic family|gia đình nghệ thuật|She comes from an artistic family.|Cô ấy xuất thân từ một gia đình nghệ thuật.
+historical|historical event|sự kiện lịch sử|The movie is based on a historical event.|Bộ phim dựa trên một sự kiện lịch sử.
+photographer|professional photographer|nhiếp ảnh gia chuyên nghiệp|My cousin is a professional photographer.|Anh họ tôi là nhiếp ảnh gia chuyên nghiệp.
+politician|local politician|chính trị gia địa phương|A local politician visited the market.|Một chính trị gia địa phương ghé thăm khu chợ.
+musician|jazz musician|nhạc công jazz|Her father is a jazz musician.|Bố cô ấy là nhạc công jazz.
+technician|computer technician|kỹ thuật viên máy tính|A computer technician fixed my laptop.|Một kỹ thuật viên máy tính đã sửa máy cho tôi.
+magician|magician's trick|trò của ảo thuật gia|Nobody could explain the magician's trick.|Không ai giải thích được trò của ảo thuật gia.
+librarian|ask the librarian|hỏi thủ thư|Ask the librarian where the book is.|Hãy hỏi thủ thư xem cuốn sách ở đâu.
+comedian|TV comedian|danh hài truyền hình|My dad's favorite TV comedian is on tonight.|Tối nay có danh hài truyền hình bố tôi thích.
+refugee|refugee family|gia đình tị nạn|A refugee family moved in next door.|Một gia đình tị nạn chuyển đến ở nhà bên.
+guarantee|one-year guarantee|bảo hành một năm|The fridge has a one-year guarantee.|Tủ lạnh được bảo hành một năm.
+technique|learn a technique|học một kỹ thuật|I want to learn a technique for remembering words.|Tôi muốn học một kỹ thuật ghi nhớ từ.
+antique|antique furniture|đồ nội thất cổ|Their house is full of antique furniture.|Nhà họ đầy đồ nội thất cổ.
+commercial|commercial center|trung tâm thương mại|The bank is in the commercial center.|Ngân hàng nằm trong trung tâm thương mại.
+industrial|industrial area|khu công nghiệp|The factory is in an industrial area.|Nhà máy nằm trong khu công nghiệp.
+suspicious|suspicious of|nghi ngờ về|I'm suspicious of free offers.|Tôi nghi ngờ những lời mời miễn phí.
+conduct|good conduct|hạnh kiểm tốt|He got a prize for good conduct.|Cậu ấy được thưởng vì hạnh kiểm tốt.
+conflict|conflict with|xung đột với|She is in conflict with her boss.|Cô ấy đang xung đột với sếp.
+contrast|contrast between|sự tương phản giữa|I like the contrast between the two colors.|Tôi thích sự tương phản giữa hai màu này.
+insult|take it as an insult|coi đó là lời xúc phạm|Don't take it as an insult.|Đừng coi đó là lời xúc phạm.
+rebel|rebel group|nhóm nổi dậy|A rebel group controls the area.|Một nhóm nổi dậy kiểm soát khu vực đó.
+suspect|arrest a suspect|bắt nghi phạm|Police were able to arrest a suspect last night.|Tối qua cảnh sát đã bắt được một nghi phạm.
+convert|convert to|chuyển sang|Many drivers convert to electric cars.|Nhiều tài xế chuyển sang xe điện.
+content|table of contents|mục lục|Look at the table of contents.|Hãy xem mục lục.
+estimate|cost estimate|bản ước tính chi phí|The builder gave us a cost estimate.|Thợ xây đưa cho chúng tôi bản ước tính chi phí.
+upgrade|software upgrade|bản nâng cấp phần mềm|The software upgrade takes ten minutes.|Bản nâng cấp phần mềm mất mười phút.
+economics|economics class|lớp kinh tế học|I have an economics class at nine.|Tôi có lớp kinh tế học lúc chín giờ.
+mathematics|mathematics teacher|giáo viên toán|My mother is a mathematics teacher.|Mẹ tôi là giáo viên toán.
+emphasis|special emphasis|sự nhấn mạnh đặc biệt|The course puts special emphasis on speaking.|Khóa học đặc biệt chú trọng kỹ năng nói.
+category|category of|hạng mục, loại|Which category of ticket do you want?|Bạn muốn loại vé nào?
+necessity|out of necessity|vì bắt buộc|I learned to cook out of necessity.|Tôi học nấu ăn vì bắt buộc.
+popularity|popularity of|sự phổ biến của|The popularity of online shopping is rising.|Mua sắm trực tuyến ngày càng phổ biến.
+electrical|electrical goods|đồ điện|The shop sells electrical goods.|Cửa hàng bán đồ điện.
+psychology|psychology student|sinh viên tâm lý học|My roommate is a psychology student.|Bạn cùng phòng của tôi là sinh viên tâm lý học.
+philosophy|philosophy of life|triết lý sống|My philosophy of life is simple.|Triết lý sống của tôi rất đơn giản.
+immediate|immediate action|hành động ngay lập tức|The problem needs immediate action.|Vấn đề cần được xử lý ngay lập tức.
+deliberate|deliberate choice|lựa chọn có chủ đích|Living here was a deliberate choice.|Sống ở đây là một lựa chọn có chủ đích.
+sophisticated|sophisticated technology|công nghệ tinh vi|The car uses sophisticated technology.|Chiếc xe dùng công nghệ tinh vi.

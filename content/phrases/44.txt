@@ -49,3 +49,53 @@ disagree|disagree with|không đồng ý với|I disagree with you.|Tôi không 
 fetch|fetch the ball|nhặt bóng về|My dog loves to fetch the ball.|Con chó của tôi thích chạy nhặt bóng.
 nap|take a nap|chợp mắt|I take a nap after lunch.|Tôi chợp mắt sau bữa trưa.
 arrest|under arrest|bị bắt giữ|You are under arrest!|Anh đã bị bắt!
+die|die out|tuyệt chủng, mất dần|Many old traditions die out over time.|Nhiều truyền thống xưa mất dần theo thời gian.
+receive|receive an email|nhận email|You will receive an email from us soon.|Bạn sẽ sớm nhận được email từ chúng tôi.
+enter|enter the room|bước vào phòng|Knock before you enter the room.|Gõ cửa trước khi bước vào phòng.
+seek|seek advice|tìm lời khuyên|You should seek advice from a lawyer.|Bạn nên tìm lời khuyên từ luật sư.
+prevent|prevent a fire|phòng cháy|Turn off the stove to prevent a fire.|Tắt bếp để phòng cháy.
+act|act fast|hành động nhanh|We must act fast to save him.|Chúng ta phải hành động nhanh để cứu anh ấy.
+beat|beat the traffic|tránh tắc đường|Leave early to beat the traffic.|Đi sớm để tránh tắc đường.
+operate|operate on|phẫu thuật cho|The doctors will operate on him tomorrow.|Mai các bác sĩ sẽ phẫu thuật cho ông ấy.
+release|release a movie|phát hành phim|They will release a movie next month.|Tháng sau họ sẽ phát hành một bộ phim.
+set|set the table|dọn bàn ăn|Please set the table for six.|Xin dọn bàn ăn cho sáu người.
+record|record a song|thu âm một bài hát|The band will record a song this week.|Tuần này ban nhạc sẽ thu âm một bài hát.
+list|shopping list|danh sách mua sắm|Milk is on the shopping list.|Sữa có trong danh sách mua sắm.
+belong|belong here|thuộc về nơi này|I feel like I belong here.|Tôi cảm thấy mình thuộc về nơi này.
+slip|slip on|trượt chân trên|Be careful not to slip on the ice.|Cẩn thận kẻo trượt chân trên băng.
+attach|attach a photo|đính kèm ảnh|Please attach a photo to your form.|Xin đính kèm ảnh vào mẫu đơn.
+clap|clap along|vỗ tay theo|The children clap along to the music.|Bọn trẻ vỗ tay theo nhạc.
+combine|combine the two|kết hợp cả hai|Let's combine the two ideas.|Hãy kết hợp cả hai ý tưởng.
+concern|concern about|mối lo về|There is concern about the price of rice.|Có mối lo về giá gạo.
+crack|crack an egg|đập một quả trứng|Crack an egg into the bowl.|Đập một quả trứng vào tô.
+damage|damage the car|làm hỏng xe|Hail can damage the car.|Mưa đá có thể làm hỏng xe.
+destroy|destroy the house|phá hủy ngôi nhà|The fire could destroy the house.|Đám cháy có thể phá hủy ngôi nhà.
+disappear|disappear from|biến mất khỏi|Small shops may disappear from this street.|Các cửa hàng nhỏ có thể biến mất khỏi con phố này.
+end|end up|rốt cuộc thì|We always end up at the same cafe.|Rốt cuộc lần nào chúng tôi cũng đến đúng quán cà phê đó.
+gain|gain weight|tăng cân|I gain weight in winter.|Mùa đông tôi tăng cân.
+guard|security guard|nhân viên bảo vệ|Ask the security guard at the gate.|Hãy hỏi nhân viên bảo vệ ở cổng.
+intend|intend to stay|định ở lại|How long do you intend to stay?|Bạn định ở lại bao lâu?
+land|land a job|kiếm được việc|She hopes to land a job in Hanoi.|Cô ấy hy vọng kiếm được việc ở Hà Nội.
+launch|launch a website|ra mắt trang web|We will launch a website in May.|Chúng tôi sẽ ra mắt một trang web vào tháng Năm.
+limit|speed limit|giới hạn tốc độ|The speed limit here is fifty.|Giới hạn tốc độ ở đây là năm mươi.
+load|load the car|chất đồ lên xe|Help me load the car.|Giúp tôi chất đồ lên xe.
+locate|locate the problem|tìm ra chỗ có vấn đề|The mechanic can't locate the problem.|Thợ máy không tìm ra chỗ có vấn đề.
+note|leave a note|để lại lời nhắn|I'll leave a note on the table.|Tôi sẽ để lại lời nhắn trên bàn.
+refer|refer you to|giới thiệu bạn đến|I will refer you to a specialist.|Tôi sẽ giới thiệu bạn đến bác sĩ chuyên khoa.
+repair|repair the roof|sửa mái nhà|We need to repair the roof before winter.|Chúng tôi cần sửa mái nhà trước mùa đông.
+scream|scream loudly|hét to|The fans scream loudly at every goal.|Người hâm mộ hét to mỗi khi có bàn thắng.
+separate|separate the eggs|tách trứng|Separate the eggs before you mix.|Tách trứng trước khi trộn.
+settle|settle the bill|thanh toán hóa đơn|Let me settle the bill.|Để tôi thanh toán hóa đơn.
+spoil|spoil the surprise|làm hỏng điều bất ngờ|Don't tell her and spoil the surprise.|Đừng nói với cô ấy kẻo hỏng điều bất ngờ.
+strike|strike a match|quẹt diêm|Strike a match and light the candle.|Quẹt diêm thắp nến đi.
+surround|surround the house|bao quanh ngôi nhà|Tall trees surround the house.|Những cây cao bao quanh ngôi nhà.
+wander|wander off|đi lạc mất|Don't let the kids wander off.|Đừng để bọn trẻ đi lạc mất.
+permit|permit me to|cho phép tôi|Permit me to explain.|Cho phép tôi giải thích.
+vary|vary a lot|thay đổi rất nhiều|Prices vary a lot from shop to shop.|Giá cả mỗi cửa hàng một khác.
+observe|observe closely|quan sát kỹ|Observe closely how she holds the pen.|Hãy quan sát kỹ cách cô ấy cầm bút.
+unite|unite people|gắn kết mọi người|Music can unite people.|Âm nhạc có thể gắn kết mọi người.
+bounce|bounce the ball|đập bóng nảy|Bounce the ball three times.|Đập bóng nảy ba lần.
+disagree|disagree about|bất đồng về|We often disagree about politics.|Chúng tôi hay bất đồng về chính trị.
+fetch|fetch some water|đi lấy ít nước|Can you fetch some water for me?|Bạn đi lấy giúp tôi ít nước được không?
+nap|afternoon nap|giấc ngủ trưa|Grandpa takes an afternoon nap every day.|Ngày nào ông cũng ngủ trưa.
+arrest|arrest a man|bắt một người đàn ông|The police had to arrest a man at the station.|Cảnh sát phải bắt một người đàn ông ở nhà ga.

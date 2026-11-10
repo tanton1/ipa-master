@@ -53,3 +53,49 @@ fountain|water fountain|vòi nước uống|Is there a water fountain here?|Ở 
 alley|narrow alley|con hẻm hẹp|My house is in a narrow alley.|Nhà tôi ở trong một con hẻm hẹp.
 crosswalk|use the crosswalk|qua đường ở vạch kẻ|Always use the crosswalk.|Luôn qua đường ở vạch dành cho người đi bộ.
 skyscraper|tall skyscraper|tòa nhà chọc trời|Landmark 81 is a tall skyscraper in Saigon.|Landmark 81 là một tòa nhà chọc trời ở Sài Gòn.
+area|in this area|ở khu vực này|Are there any hotels in this area?|Khu vực này có khách sạn nào không?
+neighborhood|in my neighborhood|ở khu phố tôi|There is a nice park in my neighborhood.|Khu phố tôi có một công viên đẹp.
+downtown|downtown area|khu trung tâm|Parking is hard in the downtown area.|Khu trung tâm rất khó đỗ xe.
+suburb|quiet suburb|vùng ngoại ô yên tĩnh|They moved to a quiet suburb.|Họ chuyển đến một vùng ngoại ô yên tĩnh.
+capital|the capital of|thủ đô của|Hanoi is the capital of Vietnam.|Hà Nội là thủ đô của Việt Nam.
+address|home address|địa chỉ nhà|Please write your home address here.|Xin viết địa chỉ nhà của bạn vào đây.
+museum|visit a museum|thăm bảo tàng|We plan to visit a museum tomorrow.|Mai chúng tôi định đi thăm bảo tàng.
+theater|at the theater|ở nhà hát|We saw a play at the theater.|Chúng tôi xem một vở kịch ở nhà hát.
+cinema|cinema ticket|vé xem phim|A cinema ticket costs more on weekends.|Cuối tuần vé xem phim đắt hơn.
+stadium|at the stadium|ở sân vận động|The concert is at the stadium.|Buổi hòa nhạc diễn ra ở sân vận động.
+zoo|at the zoo|ở sở thú|We saw lions at the zoo.|Chúng tôi thấy sư tử ở sở thú.
+gym|gym class|giờ thể dục|We have gym class on Tuesday.|Chúng tôi có giờ thể dục vào thứ Ba.
+prison|go to prison|đi tù|He had to go to prison for two years.|Ông ấy phải đi tù hai năm.
+factory|shoe factory|nhà máy giày|My mother works at a shoe factory.|Mẹ tôi làm ở nhà máy giày.
+farm|on a farm|ở trang trại|I grew up on a farm.|Tôi lớn lên ở trang trại.
+temple|visit a temple|viếng đền|We visit a temple at the new year.|Đầu năm chúng tôi đi viếng đền.
+pagoda|go to the pagoda|đi chùa|My mother likes to go to the pagoda.|Mẹ tôi thích đi chùa.
+palace|the old palace|cung điện cổ|Tourists visit the old palace in Hue.|Du khách tham quan cung điện cổ ở Huế.
+castle|old castle|lâu đài cổ|There is an old castle on the hill.|Có một lâu đài cổ trên đồi.
+tower|TV tower|tháp truyền hình|You can see the TV tower from here.|Từ đây bạn có thể thấy tháp truyền hình.
+square|square meters|mét vuông|The room is twenty square meters.|Căn phòng rộng hai mươi mét vuông.
+sidewalk|walk on the sidewalk|đi trên vỉa hè|Please walk on the sidewalk.|Xin hãy đi trên vỉa hè.
+parking|parking lot|bãi đỗ xe|Meet me in the parking lot.|Gặp tôi ở bãi đỗ xe nhé.
+lane|change lanes|chuyển làn|Look behind before you change lanes.|Hãy nhìn phía sau trước khi chuyển làn.
+highway|highway exit|lối ra đường cao tốc|Take the next highway exit.|Ra ở lối ra cao tốc tiếp theo.
+avenue|along the avenue|dọc đại lộ|There are big trees along the avenue.|Có những cây to dọc đại lộ.
+block|two blocks|hai dãy nhà|The bank is two blocks from here.|Ngân hàng cách đây hai dãy nhà.
+sign|stop sign|biển báo dừng|Slow down at the stop sign.|Giảm tốc ở biển báo dừng.
+entrance|entrance fee|phí vào cửa|The entrance fee is ten dollars.|Phí vào cửa là mười đô la.
+exit|exit door|cửa ra|The exit door is on the left.|Cửa ra ở bên trái.
+bookstore|at the bookstore|ở hiệu sách|I spent an hour at the bookstore.|Tôi ở hiệu sách cả tiếng đồng hồ.
+playground|on the playground|trên sân chơi|The kids are on the playground.|Bọn trẻ đang ở sân chơi.
+campus|campus tour|tham quan khuôn viên trường|We took a campus tour.|Chúng tôi đã tham quan khuôn viên trường.
+port|at the port|ở cảng|The ship arrived at the port this morning.|Sáng nay con tàu đã cập cảng.
+harbor|in the harbor|trong bến cảng|There are many boats in the harbor.|Có nhiều thuyền trong bến cảng.
+gallery|photo gallery|bộ sưu tập ảnh|Look at the photo gallery on my phone.|Xem bộ sưu tập ảnh trên điện thoại tôi này.
+embassy|at the embassy|ở đại sứ quán|I have a visa interview at the embassy.|Tôi có buổi phỏng vấn visa ở đại sứ quán.
+salon|nail salon|tiệm làm móng|My aunt owns a nail salon.|Dì tôi có một tiệm làm móng.
+laundry|laundry room|phòng giặt|The laundry room is downstairs.|Phòng giặt ở tầng dưới.
+studio|art studio|xưởng vẽ|She paints in her art studio.|Cô ấy vẽ trong xưởng vẽ của mình.
+warehouse|in the warehouse|trong nhà kho|The boxes are in the warehouse.|Các thùng hàng ở trong nhà kho.
+statue|statue of|tượng của|There is a statue of a king in the square.|Có một bức tượng nhà vua ở quảng trường.
+fountain|by the fountain|cạnh đài phun nước|Let's meet by the fountain.|Gặp nhau cạnh đài phun nước nhé.
+alley|down the alley|cuối con hẻm|My house is down the alley.|Nhà tôi ở cuối con hẻm.
+crosswalk|at the crosswalk|ở vạch qua đường|Cars must stop at the crosswalk.|Xe phải dừng ở vạch qua đường.
+skyscraper|glass skyscraper|tòa nhà chọc trời bằng kính|A new glass skyscraper is going up downtown.|Một tòa nhà chọc trời bằng kính đang mọc lên ở trung tâm.

@@ -39,6 +39,8 @@ const POS_OK = new Set(['n', 'v', 'adj', 'adv', 'pron', 'det', 'prep', 'conj', '
 const WORDS_PER_GROUP = 50;
 const UNITS_PER_GROUP = 5;
 const MAX_PHRASES = 3;
+/** Mỗi từ phải có ít nhất 2 cụm từ hay dùng */
+const MIN_PHRASES = 2;
 
 interface Raw {
   group: number; word: string; ipa: string; pos: string; meaning: string;
@@ -258,6 +260,11 @@ if (existsSync(PHRASES_DIR)) {
       phraseTotal++;
     }
   }
+}
+
+if (existsSync(PHRASES_DIR)) {
+  const few = entries.filter((e) => (e.phrases?.length ?? 0) < MIN_PHRASES);
+  if (few.length) errors.push(`${few.length} từ có dưới ${MIN_PHRASES} cụm: ${few.slice(0, 12).map((e) => e.word).join(', ')}${few.length > 12 ? '…' : ''}`);
 }
 
 // Dạng đọc theo ngữ cảnh (content/forms.txt) → src/data/forms.json

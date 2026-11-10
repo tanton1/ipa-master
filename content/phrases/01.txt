@@ -49,3 +49,53 @@ there|there is|có|There is a cat on the roof.|Có một con mèo trên mái nh�
 here|here you are|của bạn đây|Here you are, your coffee.|Cà phê của bạn đây.
 some|some more|thêm một chút|Would you like some more soup?|Bạn ăn thêm chút súp nhé?
 all|all day|cả ngày|It rained all day.|Trời mưa cả ngày.
+the|the other day|hôm nọ|I saw her the other day.|Hôm nọ tôi gặp cô ấy.
+a|a lot of|rất nhiều|We have a lot of time.|Chúng ta có rất nhiều thời gian.
+an|an old friend|một người bạn cũ|I met an old friend today.|Hôm nay tôi gặp một người bạn cũ.
+this|this way|lối này|Come this way, please.|Mời đi lối này.
+that|after that|sau đó|We ate, and after that we went home.|Chúng tôi ăn, sau đó về nhà.
+these|one of these|một trong những cái này|Take one of these.|Lấy một trong những cái này đi.
+those|those people|những người đó|Do you know those people?|Bạn có biết những người đó không?
+I|I'm sorry|tôi xin lỗi|I'm sorry I'm late.|Tôi xin lỗi vì đến muộn.
+you|thank you|cảm ơn bạn|Thank you for your help.|Cảm ơn bạn đã giúp đỡ.
+he|he's my|anh ấy là ... của tôi|He's my best friend.|Anh ấy là bạn thân nhất của tôi.
+she|she likes|cô ấy thích|She likes hot tea.|Cô ấy thích trà nóng.
+it|it's okay|không sao đâu|It's okay, I can wait.|Không sao đâu, tôi chờ được.
+we|we need to|chúng ta cần|We need to go now.|Chúng ta cần đi ngay.
+they|they're coming|họ đang đến|They're coming at six.|Họ sẽ đến lúc sáu giờ.
+me|let me|để tôi|Let me carry that for you.|Để tôi mang cái đó cho bạn.
+him|ask him|hỏi anh ấy|Ask him about the price.|Hỏi anh ấy về giá đi.
+her|call her|gọi cho cô ấy|I'll call her tonight.|Tối nay tôi sẽ gọi cho cô ấy.
+us|join us|tham gia cùng chúng tôi|Come and join us for dinner.|Đến ăn tối cùng chúng tôi nhé.
+them|one of them|một người trong số họ|One of them is a doctor.|Một người trong số họ là bác sĩ.
+my|my favorite|... yêu thích của tôi|Pho is my favorite food.|Phở là món yêu thích của tôi.
+your|on your own|tự mình|Can you do it on your own?|Bạn tự làm được không?
+his|his wife|vợ anh ấy|His wife is a teacher.|Vợ anh ấy là giáo viên.
+our|our team|đội của chúng tôi|Our team has five people.|Đội chúng tôi có năm người.
+their|their children|con của họ|Their children are at school.|Con của họ đang ở trường.
+who|who is|ai là|Who is your teacher?|Giáo viên của bạn là ai?
+what|what time|mấy giờ|What time does the class start?|Lớp học bắt đầu lúc mấy giờ?
+which|which way|đường nào|Which way is the station?|Nhà ga ở hướng nào?
+where|where is|... ở đâu|Where is my phone?|Điện thoại của tôi ở đâu?
+when|when I was young|khi tôi còn trẻ|I lived there when I was young.|Tôi sống ở đó khi còn trẻ.
+why|that's why|đó là lý do|I was sick. That's why I stayed home.|Tôi bị ốm. Đó là lý do tôi ở nhà.
+how|how much|bao nhiêu|How much do you need?|Bạn cần bao nhiêu?
+in|in front of|ở phía trước|Park in front of the house.|Đỗ xe trước nhà nhé.
+on|on the left|ở bên trái|My desk is on the left.|Bàn của tôi ở bên trái.
+at|at night|vào ban đêm|It's cold at night.|Ban đêm trời lạnh.
+to|next to|bên cạnh|Sit next to me.|Ngồi cạnh tôi đi.
+from|far from|xa|Is it far from here?|Chỗ đó có xa đây không?
+with|agree with|đồng ý với|Do you agree with me?|Bạn có đồng ý với tôi không?
+of|most of|phần lớn|Most of my friends live here.|Phần lớn bạn tôi sống ở đây.
+for|for a while|một lúc|Let's rest for a while.|Nghỉ một lúc đi.
+by|by the way|nhân tiện|By the way, where do you live?|Nhân tiện, bạn sống ở đâu?
+about|about an hour|khoảng một tiếng|It takes about an hour.|Mất khoảng một tiếng.
+and|more and more|ngày càng nhiều|More and more people work online.|Ngày càng nhiều người làm việc trực tuyến.
+but|nothing but|không gì ngoài|He eats nothing but rice.|Anh ấy không ăn gì ngoài cơm.
+or|sooner or later|sớm hay muộn|Sooner or later, you'll know.|Sớm hay muộn bạn cũng sẽ biết.
+not|not yet|chưa|I'm not ready. Not yet.|Tôi chưa sẵn sàng. Chưa đâu.
+if|even if|ngay cả khi|I'll go even if it rains.|Tôi vẫn đi ngay cả khi trời mưa.
+there|over there|ở đằng kia|My car is over there.|Xe tôi ở đằng kia.
+here|come here|lại đây|Come here and look at this.|Lại đây xem cái này.
+some|some of|một vài trong số|Some of the students are absent.|Một vài học sinh vắng mặt.
+all|all the time|suốt, lúc nào cũng|He's busy all the time.|Anh ấy lúc nào cũng bận.

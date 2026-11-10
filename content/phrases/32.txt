@@ -51,3 +51,51 @@ fur|fur coat|áo lông thú|She doesn't wear a fur coat.|Cô ấy không mặc �
 nest|empty nest|tổ ấm vắng con|My parents live in an empty nest now.|Giờ con cái đã đi hết, nhà bố mẹ tôi vắng vẻ.
 cage|bird cage|lồng chim|The bird cage hangs by the window.|Lồng chim treo cạnh cửa sổ.
 puppy|puppy love|tình yêu tuổi học trò|It was just puppy love.|Đó chỉ là tình yêu tuổi học trò.
+animal|wild animal|động vật hoang dã|Don't feed a wild animal.|Đừng cho động vật hoang dã ăn.
+pet|pet food|thức ăn cho thú cưng|We need to buy pet food.|Chúng ta cần mua thức ăn cho thú cưng.
+horse|horse race|cuộc đua ngựa|We watched a horse race.|Chúng tôi đã xem một cuộc đua ngựa.
+cow|cow's milk|sữa bò|The baby can't drink cow's milk yet.|Em bé chưa uống được sữa bò.
+pig|pig farm|trại lợn|My uncle has a pig farm.|Chú tôi có một trại lợn.
+goat|goat cheese|phô mai dê|I like goat cheese on salad.|Tôi thích phô mai dê ăn với salad.
+rabbit|rabbit hole|hang thỏ|The dog found a rabbit hole.|Con chó tìm thấy một cái hang thỏ.
+rat|rat trap|bẫy chuột|We set a rat trap in the kitchen.|Chúng tôi đặt bẫy chuột trong bếp.
+monkey|monkey see, monkey do|bắt chước làm theo|Kids copy adults. Monkey see, monkey do.|Trẻ con bắt chước người lớn. Thấy sao làm vậy.
+tiger|tiger cub|hổ con|The zoo has a new tiger cub.|Sở thú có một con hổ con mới.
+lion|lion king|vua sư tử|The kids love the lion king story.|Bọn trẻ thích câu chuyện vua sư tử.
+elephant|baby elephant|voi con|We saw a baby elephant at the zoo.|Chúng tôi thấy một con voi con ở sở thú.
+bear|polar bear|gấu Bắc Cực|A polar bear lives on the ice.|Gấu Bắc Cực sống trên băng.
+wolf|wolf pack|đàn sói|A wolf pack hunts together.|Đàn sói đi săn cùng nhau.
+fox|red fox|cáo đỏ|A red fox ran across the road.|Một con cáo đỏ chạy ngang qua đường.
+deer|deer meat|thịt nai|Some restaurants serve deer meat.|Một số nhà hàng có món thịt nai.
+snake|poisonous snake|rắn độc|Be careful, that is a poisonous snake.|Cẩn thận, đó là rắn độc.
+frog|frog pond|ao ếch|There is a frog pond behind the house.|Sau nhà có một cái ao ếch.
+turtle|turtle shell|mai rùa|The turtle shell is very hard.|Mai rùa rất cứng.
+insect|insect spray|thuốc xịt côn trùng|Bring insect spray for the trip.|Mang thuốc xịt côn trùng cho chuyến đi nhé.
+bee|bee sting|vết ong đốt|A bee sting can hurt a lot.|Vết ong đốt có thể rất đau.
+ant|ant hill|tổ kiến|Don't step on the ant hill.|Đừng giẫm lên tổ kiến.
+mosquito|mosquito bite|vết muỗi đốt|This mosquito bite is so itchy.|Vết muỗi đốt này ngứa quá.
+butterfly|butterfly garden|vườn bướm|We visited a butterfly garden.|Chúng tôi đã đi thăm một vườn bướm.
+spider|big spider|con nhện to|There is a big spider in the bathroom.|Có một con nhện to trong nhà tắm.
+buffalo|buffalo boy|chú bé chăn trâu|The painting shows a buffalo boy.|Bức tranh vẽ một chú bé chăn trâu.
+camel|camel hair|lông lạc đà|This coat is made of camel hair.|Cái áo khoác này làm từ lông lạc đà.
+zebra|zebra stripes|sọc ngựa vằn|No two zebra stripes are the same.|Không có hai con ngựa vằn nào có sọc giống nhau.
+giraffe|giraffe's neck|cổ hươu cao cổ|A giraffe's neck is very long.|Cổ hươu cao cổ rất dài.
+kangaroo|kangaroo jump|cú nhảy của chuột túi|Watch the kangaroo jump over the fence.|Xem con chuột túi nhảy qua hàng rào kìa.
+panda|panda bear|gấu trúc|The panda bear eats bamboo all day.|Gấu trúc ăn tre cả ngày.
+dolphin|dolphin show|buổi biểu diễn cá heo|The kids enjoyed the dolphin show.|Bọn trẻ thích buổi biểu diễn cá heo.
+whale|whale watching|ngắm cá voi|We went whale watching in the summer.|Mùa hè chúng tôi đi ngắm cá voi.
+shark|shark fin|vây cá mập|Many countries ban shark fin soup.|Nhiều nước cấm món súp vây cá mập.
+octopus|octopus salad|gỏi bạch tuộc|I ordered octopus salad.|Tôi gọi món gỏi bạch tuộc.
+eagle|bald eagle|đại bàng đầu trắng|The bald eagle is a symbol of America.|Đại bàng đầu trắng là biểu tượng của nước Mỹ.
+owl|wise old owl|con cú già thông thái|My grandfather is like a wise old owl.|Ông tôi giống như một con cú già thông thái.
+parrot|pet parrot|con vẹt nuôi|Their pet parrot can say hello.|Con vẹt nhà họ biết nói xin chào.
+penguin|baby penguin|chim cánh cụt con|The baby penguin stays close to its mother.|Chim cánh cụt con ở sát bên mẹ.
+goose|goose eggs|trứng ngỗng|Goose eggs are very big.|Trứng ngỗng rất to.
+dinosaur|dinosaur bones|xương khủng long|They found dinosaur bones in the desert.|Họ tìm thấy xương khủng long ở sa mạc.
+tail|long tail|đuôi dài|The monkey has a long tail.|Con khỉ có cái đuôi dài.
+wing|spread its wings|dang cánh|The bird spread its wings and flew away.|Con chim dang cánh bay đi.
+feather|white feather|lông vũ trắng|I found a white feather on the beach.|Tôi nhặt được một chiếc lông vũ trắng trên bãi biển.
+fur|soft fur|bộ lông mềm|The kitten has soft fur.|Mèo con có bộ lông mềm.
+nest|build a nest|làm tổ|Birds build a nest in our tree.|Chim làm tổ trên cây nhà tôi.
+cage|in a cage|trong lồng|I don't like to see birds in a cage.|Tôi không thích thấy chim bị nhốt trong lồng.
+puppy|new puppy|chó con mới|We got a new puppy last week.|Tuần trước nhà tôi có một chú chó con mới.

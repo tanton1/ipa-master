@@ -50,3 +50,52 @@ higher|higher price|giá cao hơn|Good quality means a higher price.|Chất lư�
 worst|the worst|tệ nhất|That was the worst day of my life.|Đó là ngày tệ nhất đời tôi.
 mess|in a mess|bừa bộn|The kitchen is in a mess.|Bếp bừa bộn quá.
 thigh|chicken thigh|đùi gà|I'll have a grilled chicken thigh.|Cho tôi một cái đùi gà nướng.
+mud|stuck in the mud|kẹt trong bùn|The truck got stuck in the mud.|Chiếc xe tải bị kẹt trong bùn.
+mad|mad at|giận ai|Are you still mad at me?|Bạn vẫn giận tôi à?
+leap|leap forward|bước tiến vọt|This phone is a big leap forward.|Chiếc điện thoại này là một bước tiến vọt.
+peak|peak hours|giờ cao điểm|Avoid the roads at peak hours.|Hãy tránh ra đường vào giờ cao điểm.
+bug|fix a bug|sửa lỗi phần mềm|The team worked all night to fix a bug.|Cả nhóm làm suốt đêm để sửa một lỗi phần mềm.
+dip|take a dip|ngâm mình bơi một lát|Let's take a dip in the pool.|Xuống hồ bơi ngâm mình một lát đi.
+seen|have you seen|bạn đã thấy chưa|Have you seen my glasses?|Bạn có thấy kính của tôi không?
+men|men and women|đàn ông và phụ nữ|Men and women work together here.|Ở đây đàn ông và phụ nữ làm việc cùng nhau.
+dad|mom and dad|bố mẹ|Mom and dad are coming for dinner.|Bố mẹ sẽ đến ăn tối.
+sip|sip of water|ngụm nước|Have a sip of water.|Uống một ngụm nước đi.
+jeep|jeep tour|chuyến đi xe jeep|We took a jeep tour of the sand dunes.|Chúng tôi đi xe jeep tham quan đồi cát.
+shell|egg shell|vỏ trứng|There is a bit of egg shell in my omelet.|Trong trứng tráng của tôi có một mẩu vỏ trứng.
+lime|a slice of lime|một lát chanh|Add a slice of lime to the water.|Thêm một lát chanh vào nước.
+lap|run a lap|chạy một vòng|We run a lap around the field.|Chúng tôi chạy một vòng quanh sân.
+peg|tent peg|cọc lều|Hammer the tent peg into the ground.|Đóng cọc lều xuống đất.
+glow|warm glow|ánh sáng ấm áp|The lamp gives a warm glow.|Cái đèn tỏa ánh sáng ấm áp.
+leak|water leak|rò rỉ nước|There is a water leak under the sink.|Có chỗ rò rỉ nước dưới bồn rửa.
+tin|tin roof|mái tôn|Rain is loud on a tin roof.|Mưa rơi trên mái tôn rất ồn.
+sin|confess a sin|xưng tội|He went to church to confess a sin.|Anh ấy đến nhà thờ để xưng tội.
+worse|get worse|trở nên tệ hơn|The traffic will get worse at five.|Năm giờ giao thông sẽ tệ hơn.
+breeze|cool breeze|làn gió mát|A cool breeze came from the river.|Một làn gió mát thổi từ sông vào.
+doze|doze for|chợp mắt khoảng|I doze for ten minutes after lunch.|Sau bữa trưa tôi chợp mắt mười phút.
+vet|call the vet|gọi bác sĩ thú y|The dog is sick, so call the vet.|Con chó bị ốm, gọi bác sĩ thú y đi.
+ban|ban plastic bags|cấm túi ni lông|Many cities ban plastic bags.|Nhiều thành phố cấm túi ni lông.
+fool|make a fool of|biến ai thành trò cười|Don't make a fool of yourself.|Đừng tự biến mình thành trò cười.
+cop|cop car|xe cảnh sát|A cop car is parked outside.|Có một chiếc xe cảnh sát đỗ bên ngoài.
+dock|boat dock|bến thuyền|We waited at the boat dock.|Chúng tôi chờ ở bến thuyền.
+hut|beach hut|chòi trên bãi biển|We rented a beach hut for the day.|Chúng tôi thuê một cái chòi trên bãi biển trong ngày.
+robe|silk robe|áo choàng lụa|She wore a silk robe.|Cô ấy mặc áo choàng lụa.
+cab|cab driver|tài xế taxi|The cab driver knew a shortcut.|Tài xế taxi biết một lối tắt.
+jet|private jet|máy bay riêng|The singer flew in on a private jet.|Ca sĩ bay đến bằng máy bay riêng.
+flesh|in the flesh|bằng xương bằng thịt|I saw the singer in the flesh.|Tôi đã thấy ca sĩ đó bằng xương bằng thịt.
+blush|make me blush|làm tôi đỏ mặt|Your kind words make me blush.|Lời khen của bạn làm tôi đỏ mặt.
+chick|little chick|gà con bé xíu|A little chick followed its mother.|Một chú gà con bé xíu đi theo mẹ.
+bare|bare hands|tay không|He caught the fish with his bare hands.|Anh ấy bắt cá bằng tay không.
+dear|oh dear|ôi trời|Oh dear, I forgot my wallet.|Ôi trời, tôi quên ví rồi.
+tale|folk tale|truyện dân gian|Grandma told us a folk tale.|Bà kể cho chúng tôi một truyện dân gian.
+brake|brake pedal|bàn đạp phanh|Press the brake pedal gently.|Đạp phanh nhẹ thôi.
+fare|taxi fare|tiền taxi|How much is the taxi fare to the airport?|Tiền taxi ra sân bay là bao nhiêu?
+aloud|think aloud|nói ra suy nghĩ|Sorry, I often think aloud.|Xin lỗi, tôi hay nói ra suy nghĩ của mình.
+heel|heel of my shoe|gót giày của tôi|The heel of my shoe is broken.|Gót giày của tôi bị gãy.
+sight|out of sight|khuất tầm mắt|Keep your wallet out of sight.|Hãy để ví ở chỗ khuất tầm mắt.
+better|feel better|thấy khỏe hơn|Do you feel better today?|Hôm nay bạn thấy khỏe hơn chưa?
+blew|blew out|đã thổi tắt|She blew out the candles on her cake.|Cô ấy thổi tắt nến trên bánh.
+worn|worn shoes|đôi giày mòn|He walked to school in worn shoes.|Cậu ấy đi bộ đến trường bằng đôi giày mòn.
+higher|higher than|cao hơn|Prices are higher than last year.|Giá cả cao hơn năm ngoái.
+worst|worst case|trường hợp xấu nhất|In the worst case, we take a taxi.|Trường hợp xấu nhất thì chúng ta đi taxi.
+mess|make a mess|bày bừa|The kids make a mess in the kitchen.|Bọn trẻ bày bừa trong bếp.
+thigh|thigh muscle|cơ đùi|I pulled a thigh muscle playing football.|Tôi bị căng cơ đùi khi đá bóng.

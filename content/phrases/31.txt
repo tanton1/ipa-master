@@ -54,3 +54,48 @@ raw|raw fish|cá sống|I don't eat raw fish.|Tôi không ăn cá sống.
 ripe|ripe mango|xoài chín|This ripe mango is so sweet.|Quả xoài chín này ngọt quá.
 crispy|crispy pork|thịt heo quay giòn|Rice with crispy pork is delicious.|Cơm với thịt heo quay giòn rất ngon.
 vegetarian|vegetarian food|đồ chay|We eat vegetarian food on the first day of the lunar month.|Chúng tôi ăn chay vào ngày mùng một âm lịch.
+menu|on the menu|trong thực đơn|What's good on the menu?|Thực đơn có món gì ngon?
+recipe|recipe for|công thức làm món|Do you have a recipe for pho?|Bạn có công thức nấu phở không?
+beer|a glass of beer|một ly bia|He drinks a glass of beer with dinner.|Anh ấy uống một ly bia trong bữa tối.
+wine|a bottle of wine|một chai rượu vang|We brought a bottle of wine.|Chúng tôi mang theo một chai rượu vang.
+soda|a can of soda|một lon nước ngọt|I'll have a can of soda.|Cho tôi một lon nước ngọt.
+bowl|soup bowl|bát canh|Pass me a soup bowl, please.|Đưa giúp tôi cái bát canh.
+pot|a pot of tea|một ấm trà|I'll make a pot of tea.|Tôi sẽ pha một ấm trà.
+pan|pots and pans|xoong nồi|The kitchen is full of pots and pans.|Bếp đầy xoong nồi.
+kettle|electric kettle|ấm siêu tốc|The room has an electric kettle.|Phòng có ấm siêu tốc.
+chopsticks|use chopsticks|dùng đũa|My daughter is learning to use chopsticks.|Con gái tôi đang tập dùng đũa.
+tray|a tray of food|một khay đồ ăn|The waiter carried a tray of food.|Người phục vụ bưng một khay đồ ăn.
+napkin|fold a napkin|gấp khăn ăn|She showed me how to fold a napkin.|Cô ấy chỉ tôi cách gấp khăn ăn.
+jar|a jar of honey|một hũ mật ong|I bought a jar of honey.|Tôi mua một hũ mật ong.
+bake|bake bread|nướng bánh mì|I bake bread on weekends.|Cuối tuần tôi nướng bánh mì.
+boil|boil an egg|luộc trứng|It takes ten minutes to boil an egg.|Luộc một quả trứng mất mười phút.
+fry|fry the fish|rán cá|Fry the fish until it is golden.|Rán cá cho đến khi vàng.
+grill|grill the meat|nướng thịt|We grill the meat in the yard.|Chúng tôi nướng thịt ngoài sân.
+roast|roast pork|thịt heo quay|I'd like roast pork with rice.|Cho tôi cơm thịt heo quay.
+slice|slice the bread|cắt lát bánh mì|Slice the bread thinly.|Cắt bánh mì thành lát mỏng.
+chop|chop the vegetables|thái rau|Can you chop the vegetables?|Bạn thái rau giúp được không?
+peel|peel the potatoes|gọt khoai tây|Please peel the potatoes.|Làm ơn gọt khoai tây.
+stir|stir the soup|khuấy canh|Stir the soup every few minutes.|Cứ vài phút khuấy canh một lần.
+heat|heat the oil|làm nóng dầu|Heat the oil in a pan.|Làm nóng dầu trong chảo.
+melt|melt the butter|làm chảy bơ|Melt the butter first.|Làm chảy bơ trước.
+freeze|freeze the meat|đông lạnh thịt|We freeze the meat for later.|Chúng tôi đông lạnh thịt để dùng sau.
+serve|serve breakfast|phục vụ bữa sáng|They serve breakfast until ten.|Họ phục vụ bữa sáng đến mười giờ.
+smell|smell of|mùi của|I love the smell of fresh bread.|Tôi thích mùi bánh mì mới ra lò.
+bite|take a bite|cắn một miếng|Take a bite of this cake.|Cắn thử một miếng bánh này đi.
+chew|chew your food|nhai thức ăn|Chew your food slowly.|Hãy nhai thức ăn chậm thôi.
+swallow|hard to swallow|khó nuốt|This meat is hard to swallow.|Miếng thịt này khó nuốt.
+waiter|call the waiter|gọi người phục vụ|Let's call the waiter and order.|Gọi người phục vụ rồi gọi món đi.
+chef|the chef's special|món đặc biệt của bếp trưởng|I'll try the chef's special.|Tôi sẽ thử món đặc biệt của bếp trưởng.
+tip|useful tip|mẹo hữu ích|Here is a useful tip for cooking rice.|Đây là một mẹo hữu ích khi nấu cơm.
+receipt|ask for a receipt|xin biên lai|Always ask for a receipt.|Luôn xin biên lai nhé.
+bakery|at the bakery|ở tiệm bánh|I buy bread at the bakery.|Tôi mua bánh mì ở tiệm bánh.
+picnic|picnic basket|giỏ dã ngoại|Put the fruit in the picnic basket.|Bỏ trái cây vào giỏ dã ngoại.
+flavor|full of flavor|đậm đà hương vị|This soup is full of flavor.|Món canh này đậm đà hương vị.
+sour|sour soup|canh chua|Sour soup with fish is my favorite.|Canh chua cá là món tôi thích nhất.
+bitter|bitter taste|vị đắng|This tea has a bitter taste.|Trà này có vị đắng.
+salty|salty food|đồ ăn mặn|Salty food makes me thirsty.|Đồ ăn mặn làm tôi khát.
+spicy|not too spicy|không quá cay|Not too spicy, please.|Xin đừng làm quá cay.
+raw|raw vegetables|rau sống|We eat pho with raw vegetables.|Chúng tôi ăn phở với rau sống.
+ripe|ripe bananas|chuối chín|Use ripe bananas for the cake.|Dùng chuối chín để làm bánh.
+crispy|crispy chicken|gà giòn|The kids love crispy chicken.|Bọn trẻ thích gà giòn.
+vegetarian|vegetarian restaurant|nhà hàng chay|There is a vegetarian restaurant near the pagoda.|Gần chùa có một nhà hàng chay.

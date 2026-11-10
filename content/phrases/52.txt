@@ -50,3 +50,52 @@ safety|road safety|an toàn giao thông|Teach children about road safety.|Dạy 
 violence|domestic violence|bạo lực gia đình|Domestic violence is a crime.|Bạo lực gia đình là tội ác.
 victim|accident victim|nạn nhân tai nạn|The accident victim is in hospital.|Nạn nhân vụ tai nạn đang nằm viện.
 escape|escape from|trốn khỏi|The bird tried to escape from the cage.|Con chim cố trốn khỏi lồng.
+society|in our society|trong xã hội chúng ta|Family is important in our society.|Gia đình rất quan trọng trong xã hội chúng ta.
+social|social media|mạng xã hội|I spend too much time on social media.|Tôi dành quá nhiều thời gian cho mạng xã hội.
+government|government office|cơ quan nhà nước|My mother works in a government office.|Mẹ tôi làm ở một cơ quan nhà nước.
+politics|interested in politics|quan tâm đến chính trị|I'm not very interested in politics.|Tôi không quan tâm lắm đến chính trị.
+political|political party|đảng chính trị|Each political party has a leader.|Mỗi đảng chính trị có một người lãnh đạo.
+president|the president of|chủ tịch (tổng thống) của|She is the president of the club.|Cô ấy là chủ tịch câu lạc bộ.
+minister|minister of education|bộ trưởng giáo dục|The minister of education visited our school.|Bộ trưởng giáo dục đến thăm trường chúng tôi.
+vote|right to vote|quyền bầu cử|Every adult has the right to vote.|Mọi người trưởng thành đều có quyền bầu cử.
+election|win the election|thắng cử|Who will win the election?|Ai sẽ thắng cử?
+rule|as a rule|theo thường lệ|As a rule, I don't eat after eight.|Theo thường lệ tôi không ăn sau tám giờ.
+freedom|freedom to choose|quyền tự do lựa chọn|Students have the freedom to choose their classes.|Sinh viên có quyền tự do chọn lớp học.
+peace|live in peace|sống trong hòa bình|Everyone wants to live in peace.|Ai cũng muốn sống trong hòa bình.
+war|after the war|sau chiến tranh|My grandfather came home after the war.|Ông tôi trở về nhà sau chiến tranh.
+army|in the army|trong quân đội|He spent two years in the army.|Anh ấy ở trong quân đội hai năm.
+military|military base|căn cứ quân sự|There is a military base near the town.|Gần thị trấn có một căn cứ quân sự.
+weapon|carry a weapon|mang vũ khí|It is illegal to carry a weapon here.|Mang vũ khí ở đây là phạm pháp.
+gun|water gun|súng nước|The kids play with a water gun.|Bọn trẻ chơi súng nước.
+attack|attack on|cuộc tấn công vào|The news reported an attack on the village.|Bản tin đưa về một cuộc tấn công vào ngôi làng.
+defend|defend the goal|bảo vệ khung thành|His job is to defend the goal.|Việc của anh ấy là bảo vệ khung thành.
+crime|commit a crime|phạm tội|He did not commit a crime.|Anh ấy không phạm tội.
+criminal|dangerous criminal|tội phạm nguy hiểm|The police caught a dangerous criminal.|Cảnh sát bắt được một tên tội phạm nguy hiểm.
+thief|catch a thief|bắt kẻ trộm|The dog helped catch a thief.|Con chó đã giúp bắt kẻ trộm.
+judge|the judge decided|thẩm phán quyết định|The judge decided to let him go.|Thẩm phán quyết định thả anh ấy.
+court|tennis court|sân quần vợt|The hotel has a tennis court.|Khách sạn có sân quần vợt.
+trial|trial period|thời gian thử việc|The trial period is two months.|Thời gian thử việc là hai tháng.
+guilty|found guilty|bị kết tội|He was found guilty of stealing.|Anh ta bị kết tội ăn trộm.
+innocent|innocent child|đứa trẻ ngây thơ|She is just an innocent child.|Cô bé chỉ là một đứa trẻ ngây thơ.
+punish|punish children|phạt trẻ em|Don't punish children for small mistakes.|Đừng phạt trẻ em vì những lỗi nhỏ.
+justice|justice system|hệ thống tư pháp|People want a fair justice system.|Người dân muốn có một hệ thống tư pháp công bằng.
+culture|pop culture|văn hóa đại chúng|He knows a lot about pop culture.|Anh ấy biết nhiều về văn hóa đại chúng.
+religion|practice a religion|theo một tôn giáo|Many people here practice a religion.|Nhiều người ở đây theo một tôn giáo.
+tradition|by tradition|theo truyền thống|By tradition, we eat sticky rice cake at Tet.|Theo truyền thống, chúng tôi ăn bánh chưng vào dịp Tết.
+custom|old custom|phong tục xưa|It is an old custom to visit teachers at Tet.|Đi thăm thầy cô dịp Tết là một phong tục xưa.
+population|the population of|dân số của|What is the population of Hanoi?|Dân số Hà Nội là bao nhiêu?
+community|community center|nhà văn hóa cộng đồng|The class meets at the community center.|Lớp học họp tại nhà văn hóa cộng đồng.
+charity|give to charity|quyên góp từ thiện|We give to charity every year.|Năm nào chúng tôi cũng quyên góp từ thiện.
+volunteer|volunteer at|làm tình nguyện tại|I volunteer at a hospital on weekends.|Cuối tuần tôi làm tình nguyện tại một bệnh viện.
+poverty|out of poverty|thoát nghèo|Education helps families get out of poverty.|Giáo dục giúp các gia đình thoát nghèo.
+equal|equal pay|trả lương bình đẳng|Women want equal pay for equal work.|Phụ nữ muốn được trả lương bình đẳng cho công việc như nhau.
+protest|protest march|cuộc tuần hành phản đối|Thousands joined the protest march.|Hàng nghìn người tham gia cuộc tuần hành phản đối.
+nation|across the nation|trên khắp cả nước|Schools across the nation are closed today.|Hôm nay trường học trên khắp cả nước đóng cửa.
+state|in a good state|trong tình trạng tốt|The old house is in a good state.|Ngôi nhà cũ vẫn trong tình trạng tốt.
+official|official language|ngôn ngữ chính thức|English is an official language in Singapore.|Tiếng Anh là một ngôn ngữ chính thức ở Singapore.
+policy|return policy|chính sách đổi trả|What is your return policy?|Chính sách đổi trả của cửa hàng thế nào?
+democracy|democracy means|dân chủ nghĩa là|Democracy means people can vote.|Dân chủ nghĩa là người dân được bỏ phiếu.
+safety|safety first|an toàn là trên hết|Wear a helmet. Safety first.|Đội mũ bảo hiểm vào. An toàn là trên hết.
+violence|stop the violence|chấm dứt bạo lực|People marched to stop the violence.|Mọi người tuần hành để chấm dứt bạo lực.
+victim|flood victim|nạn nhân lũ lụt|We sent clothes to every flood victim.|Chúng tôi gửi quần áo cho từng nạn nhân lũ lụt.
+escape|fire escape|lối thoát hiểm khi cháy|The fire escape is at the back.|Lối thoát hiểm khi cháy ở phía sau.

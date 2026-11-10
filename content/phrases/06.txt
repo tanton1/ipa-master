@@ -49,3 +49,53 @@ ride|give me a ride|cho tôi đi nhờ|Can you give me a ride home?|Bạn cho t�
 arrive|arrive at|đến nơi|We arrive at the hotel at noon.|Trưa chúng tôi đến khách sạn.
 corner|around the corner|ngay gần đây|The shop is just around the corner.|Cửa hàng ở ngay gần đây.
 world|all over the world|khắp thế giới|People all over the world love pho.|Người khắp thế giới yêu phở.
+city|city center|trung tâm thành phố|We live far from the city center.|Chúng tôi sống xa trung tâm thành phố.
+town|out of town|đi vắng khỏi thành phố|I'll be out of town this weekend.|Cuối tuần này tôi đi vắng.
+village|small village|ngôi làng nhỏ|He grew up in a small village.|Anh ấy lớn lên ở một ngôi làng nhỏ.
+country|foreign country|nước ngoài|She lives in a foreign country.|Cô ấy sống ở nước ngoài.
+street|across the street|bên kia đường|The shop is across the street.|Cửa hàng ở bên kia đường.
+road|main road|đường chính|Turn left at the main road.|Rẽ trái ở đường chính.
+bridge|under the bridge|dưới cầu|The boat goes under the bridge.|Con thuyền đi qua dưới cầu.
+river|across the river|qua sông|We took a boat across the river.|Chúng tôi đi thuyền qua sông.
+mountain|climb a mountain|leo núi|I want to climb a mountain this year.|Năm nay tôi muốn leo núi.
+sea|sea view|hướng nhìn ra biển|I'd like a room with a sea view.|Tôi muốn một phòng nhìn ra biển.
+beach|go to the beach|đi biển|Let's go to the beach this weekend.|Cuối tuần này đi biển đi.
+park|in the park|trong công viên|We walk in the park every evening.|Tối nào chúng tôi cũng đi bộ trong công viên.
+school|high school|trường trung học phổ thông|My brother is in high school.|Em trai tôi học trung học phổ thông.
+hospital|go to the hospital|đến bệnh viện|We need to go to the hospital.|Chúng ta cần đến bệnh viện.
+market|go to the market|đi chợ|I go to the market every morning.|Sáng nào tôi cũng đi chợ.
+shop|shop assistant|nhân viên bán hàng|The shop assistant found my size.|Nhân viên bán hàng tìm được cỡ của tôi.
+store|grocery store|cửa hàng tạp hóa|I'm going to the grocery store.|Tôi đang đi ra cửa hàng tạp hóa.
+bank|bank account|tài khoản ngân hàng|I need to open a bank account.|Tôi cần mở tài khoản ngân hàng.
+office|post office|bưu điện|The post office closes at five.|Bưu điện đóng cửa lúc năm giờ.
+hotel|book a hotel|đặt khách sạn|Did you book a hotel?|Bạn đã đặt khách sạn chưa?
+restaurant|at a restaurant|ở nhà hàng|We had dinner at a restaurant.|Chúng tôi ăn tối ở nhà hàng.
+church|old church|nhà thờ cổ|There is an old church in the square.|Có một nhà thờ cổ ở quảng trường.
+station|gas station|trạm xăng|Stop at the next gas station.|Dừng ở trạm xăng tiếp theo nhé.
+airport|go to the airport|ra sân bay|How do I go to the airport?|Tôi ra sân bay bằng cách nào?
+bus|take the bus|đi xe buýt|We can take the bus downtown.|Chúng ta có thể đi xe buýt vào trung tâm.
+train|catch the train|kịp chuyến tàu|We ran to catch the train.|Chúng tôi chạy cho kịp chuyến tàu.
+car|rent a car|thuê xe ô tô|We want to rent a car.|Chúng tôi muốn thuê xe ô tô.
+taxi|take a taxi|đi taxi|Let's take a taxi home.|Đi taxi về nhà thôi.
+bicycle|by bicycle|bằng xe đạp|She goes to school by bicycle.|Cô ấy đi học bằng xe đạp.
+plane|get on the plane|lên máy bay|It's time to get on the plane.|Đến giờ lên máy bay rồi.
+boat|fishing boat|thuyền đánh cá|A fishing boat is coming in.|Một chiếc thuyền đánh cá đang vào bờ.
+ticket|buy a ticket|mua vé|You can buy a ticket on the bus.|Bạn có thể mua vé trên xe buýt.
+map|look at the map|xem bản đồ|Let's look at the map.|Xem bản đồ đi.
+travel|travel abroad|đi du lịch nước ngoài|I want to travel abroad next year.|Năm sau tôi muốn đi du lịch nước ngoài.
+trip|business trip|chuyến công tác|He is on a business trip.|Anh ấy đang đi công tác.
+left|turn left|rẽ trái|Turn left at the bank.|Rẽ trái ở ngân hàng.
+right|turn right|rẽ phải|Turn right after the bridge.|Qua cầu thì rẽ phải.
+straight|straight ahead|thẳng phía trước|The hotel is straight ahead.|Khách sạn ở thẳng phía trước.
+north|in the north|ở miền Bắc|It is cold in the north.|Miền Bắc trời lạnh.
+south|south of|phía nam của|The beach is south of the city.|Bãi biển ở phía nam thành phố.
+east|in the east|ở phía đông|The airport is in the east of the city.|Sân bay nằm ở phía đông thành phố.
+west|in the west|ở phía tây|They live in the west of the country.|Họ sống ở miền tây đất nước.
+near|near the station|gần nhà ga|My house is near the station.|Nhà tôi gần nhà ga.
+far|far away|xa xôi|The stars are very far away.|Các ngôi sao ở rất xa.
+drive|drive carefully|lái xe cẩn thận|Please drive carefully.|Hãy lái xe cẩn thận.
+fly|fly home|bay về nhà|I fly home tomorrow.|Mai tôi bay về nhà.
+ride|ride a bike|đi xe đạp|I ride a bike to school.|Tôi đi xe đạp đến trường.
+arrive|arrive on time|đến đúng giờ|The train will arrive on time.|Tàu sẽ đến đúng giờ.
+corner|on the corner|ở góc đường|There is a cafe on the corner.|Có một quán cà phê ở góc đường.
+world|around the world|vòng quanh thế giới|She wants to travel around the world.|Cô ấy muốn đi du lịch vòng quanh thế giới.

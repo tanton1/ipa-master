@@ -49,3 +49,53 @@ beg|beg for money|xin tiền|It's sad to see children beg for money.|Thật bu�
 bet|I bet|tôi cá là|I bet you can't do it.|Tôi cá là bạn không làm được.
 blame|blame yourself|tự trách mình|Don't blame yourself.|Đừng tự trách mình.
 admire|admire the view|ngắm cảnh|We stopped to admire the view.|Chúng tôi dừng lại ngắm cảnh.
+appreciate|appreciate it|rất cảm kích|Thanks for the ride. I really appreciate it.|Cảm ơn đã chở tôi. Tôi rất cảm kích.
+attempt|attempt to|cố gắng làm|Don't attempt to fix it yourself.|Đừng cố tự sửa nó.
+behave|behave well|cư xử ngoan|The children behave well at school.|Bọn trẻ cư xử ngoan ở trường.
+bother|bother me|làm phiền tôi|The noise doesn't bother me.|Tiếng ồn không làm phiền tôi.
+cheat|cheat at cards|chơi bài gian lận|He likes to cheat at cards.|Anh ấy hay chơi bài gian lận.
+cheer|cheer for|cổ vũ cho|We cheer for our school team.|Chúng tôi cổ vũ cho đội của trường.
+deny|deny that|phủ nhận rằng|He can't deny that he was there.|Anh ấy không thể phủ nhận là mình đã ở đó.
+deserve|deserve it|xứng đáng với điều đó|You won the prize, and you deserve it.|Bạn đoạt giải và bạn xứng đáng với điều đó.
+doubt|doubt it|ngờ là không|Will he come? I doubt it.|Anh ấy sẽ đến chứ? Tôi ngờ là không.
+entertain|entertain the kids|làm bọn trẻ vui|A clown came to entertain the kids.|Một chú hề đến làm bọn trẻ vui.
+fit|fit in|hòa nhập|It takes time to fit in at a new school.|Cần thời gian để hòa nhập ở trường mới.
+force|force the door|phá cửa|Don't force the door, it will break.|Đừng cố đẩy cửa, nó sẽ gãy đấy.
+frighten|frighten me|làm tôi sợ|Loud noises frighten me.|Tiếng động lớn làm tôi sợ.
+hesitate|hesitate to ask|ngại hỏi|Never hesitate to ask a question.|Đừng bao giờ ngại đặt câu hỏi.
+insist|insist on|nhất quyết đòi|They insist on paying for dinner.|Họ nhất quyết đòi trả tiền bữa tối.
+interrupt|interrupt me|ngắt lời tôi|Please don't interrupt me.|Xin đừng ngắt lời tôi.
+mind|do you mind|bạn có phiền không|Do you mind if I open the window?|Tôi mở cửa sổ bạn có phiền không?
+obey|obey the law|tuân thủ pháp luật|Everyone must obey the law.|Mọi người phải tuân thủ pháp luật.
+owe|owe money|nợ tiền|I owe money to the bank.|Tôi nợ tiền ngân hàng.
+persuade|persuade me|thuyết phục tôi|You can't persuade me to go.|Bạn không thuyết phục tôi đi được đâu.
+pronounce|pronounce your name|phát âm tên bạn|How do you pronounce your name?|Tên bạn phát âm thế nào?
+react|react to|phản ứng với|How did she react to the news?|Cô ấy phản ứng thế nào với tin đó?
+regret|regret it|hối tiếc điều đó|Buy the ticket now or you'll regret it.|Mua vé ngay đi kẻo bạn sẽ hối tiếc.
+relax|relax at home|thư giãn ở nhà|I just want to relax at home tonight.|Tối nay tôi chỉ muốn thư giãn ở nhà.
+remind|remind you of|làm bạn nhớ đến|Does this song remind you of school?|Bài hát này có làm bạn nhớ thời đi học không?
+rob|rob a store|cướp cửa hàng|Two men tried to rob a store last night.|Tối qua hai người đàn ông định cướp một cửa hàng.
+satisfy|satisfy customers|làm hài lòng khách hàng|We work hard to satisfy customers.|Chúng tôi nỗ lực để làm hài lòng khách hàng.
+scare|scare me|làm tôi sợ|Don't scare me like that.|Đừng dọa tôi như thế.
+shock|in shock|bị sốc|She was in shock after the accident.|Cô ấy bị sốc sau vụ tai nạn.
+sigh|sigh deeply|thở dài thườn thượt|I heard him sigh deeply.|Tôi nghe anh ấy thở dài thườn thượt.
+stick|stick together|gắn bó với nhau|Good friends stick together.|Bạn tốt luôn gắn bó với nhau.
+struggle|struggle to|chật vật để|Many families struggle to pay rent.|Nhiều gia đình chật vật trả tiền thuê nhà.
+surprise|what a surprise|thật bất ngờ|You're here! What a surprise!|Bạn ở đây à! Thật bất ngờ!
+threaten|threaten us|đe dọa chúng tôi|He didn't threaten us at all.|Ông ấy không hề đe dọa chúng tôi.
+trick|magic trick|trò ảo thuật|Let me show you a magic trick.|Để tôi cho bạn xem một trò ảo thuật.
+weigh|weigh the bag|cân cái túi|Please weigh the bag for me.|Cân giúp tôi cái túi này.
+whistle|whistle a song|huýt sáo một bài hát|He likes to whistle a song at work.|Anh ấy thích huýt sáo một bài hát khi làm việc.
+yawn|yawn in class|ngáp trong lớp|Try not to yawn in class.|Cố đừng ngáp trong lớp.
+confuse|confuse me|làm tôi rối|These two words always confuse me.|Hai từ này lúc nào cũng làm tôi rối.
+convince|convince you|thuyết phục bạn|How can I convince you?|Làm sao tôi thuyết phục được bạn?
+disappoint|disappoint you|làm bạn thất vọng|I don't want to disappoint you.|Tôi không muốn làm bạn thất vọng.
+divide|divide by|chia cho|To get the price per person, divide by four.|Để ra giá mỗi người, hãy chia cho bốn.
+multiply|multiply the numbers|nhân các số|Multiply the numbers and tell me the answer.|Nhân các số lại rồi cho tôi biết đáp án.
+calculate|calculate the total|tính tổng|Can you calculate the total for me?|Bạn tính tổng giúp tôi được không?
+mark|mark the date|đánh dấu ngày|Mark the date on your calendar.|Đánh dấu ngày đó vào lịch của bạn.
+decorate|decorate the tree|trang trí cây|The kids decorate the tree every year.|Năm nào bọn trẻ cũng trang trí cây.
+beg|beg you|xin bạn|I beg you, please stay.|Tôi xin bạn, hãy ở lại.
+bet|make a bet|đánh cược|Let's make a bet on the game.|Cược trận này đi.
+blame|blame me|đổ lỗi cho tôi|Don't blame me for the rain.|Đừng đổ lỗi cho tôi vì trời mưa.
+admire|admire her|ngưỡng mộ cô ấy|I really admire her courage.|Tôi thật sự ngưỡng mộ lòng dũng cảm của cô ấy.
